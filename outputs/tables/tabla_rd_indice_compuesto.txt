@@ -1,0 +1,166 @@
+=== MODELO DEL INDICE (propension a is_r1) ===
+
+Call:
+glm(formula = is_r1 ~ RSDoc + DEGTOT + GRFTEnr + GRPTEnr + HCTTOT, 
+    family = binomial, data = doc2015)
+
+Coefficients:
+              Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -3.259e+00  3.857e-01  -8.449  < 2e-16 ***
+RSDoc        1.725e-02  2.530e-03   6.819 9.17e-12 ***
+DEGTOT       3.117e-04  2.965e-04   1.051    0.293    
+GRFTEnr     -1.022e-04  1.260e-04  -0.811    0.417    
+GRPTEnr     -7.247e-04  1.265e-04  -5.729 1.01e-08 ***
+HCTTOT      -4.704e-06  6.523e-05  -0.072    0.943    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 430.09  on 333  degrees of freedom
+Residual deviance: 199.06  on 328  degrees of freedom
+AIC: 211.06
+
+Number of Fisher Scoring iterations: 6
+
+
+Precision de clasificacion: 89.2%
+
+=== TEST DE MANIPULACION ===
+
+Manipulation testing using local polynomial density estimation.
+
+Number of obs =       334
+Model =               unrestricted
+Kernel =              triangular
+BW method =           estimated
+VCE method =          jackknife
+
+c = 0                 Left of c           Right of c          
+Number of obs         235                 99                  
+Eff. Number of obs    26                  23                  
+Order est. (p)        2                   2                   
+Order bias (q)        3                   3                   
+BW est. (h)           1.148               1.148               
+
+Method                T                   P > |T|             
+Robust                1.0376              0.2994              
+
+
+P-values of binomial tests (H0: p=0.5).
+
+Window Length / 2          <c     >=c    P>|T|
+0.964                      22      20    0.8776
+0.985                      23      20    0.7608
+1.005                      23      21    0.8804
+1.025                      23      21    0.8804
+1.046                      23      21    0.8804
+1.066                      24      21    0.7660
+1.087                      24      21    0.7660
+1.107                      26      22    0.6655
+1.127                      26      22    0.6655
+1.148                      26      23    0.7754
+NULL
+
+=== PRIMERA ETAPA ===
+Call: rdrobust
+
+Sharp RD estimates using local polynomial regression.
+
+Number of Obs.                  296
+BW type                       mserd
+Kernel                   Triangular
+VCE method                       NN
+
+                               Left        Right
+Number of Obs.                  202           94
+Eff. Number of Obs.              45           26
+Order est. (p)                    1            1
+Order bias (q)                    2            2
+BW est. (h)                   1.548        1.548
+BW bias (b)                   2.431        2.431
+rho (h/b)                     0.636        0.636
+Unique Obs.                     202           94
+
+=====================================================================
+                   Point    Robust Inference
+                Estimate         z     P>|z|      [ 95% C.I. ]       
+---------------------------------------------------------------------
+     RD Effect    -0.112    -0.441     0.659    [-0.738 , 0.466]     
+=====================================================================
+
+=== RD DIFUSA: ADOPCION ===
+Call: rdrobust
+
+Fuzzy RD estimates using local polynomial regression.
+
+Number of Obs.                  296
+BW type                       mserd
+Kernel                   Triangular
+VCE method                       NN
+
+                               Left        Right
+Number of Obs.                  202           94
+Eff. Number of Obs.              24           21
+Order est. (p)                    1            1
+Order bias (q)                    2            2
+BW est. (h)                   1.128        1.128
+BW bias (b)                   1.815        1.815
+rho (h/b)                     0.621        0.621
+Unique Obs.                     202           94
+
+First-stage estimates.
+
+=====================================================================
+                   Point    Robust Inference
+                Estimate         z     P>|z|      [ 95% C.I. ]       
+=====================================================================
+     Rd Effect    -0.152    -0.481     0.630    [-0.896 , 0.543]     
+=====================================================================
+
+Treatment effect estimates.
+
+=====================================================================
+                   Point    Robust Inference
+                Estimate         z     P>|z|      [ 95% C.I. ]       
+---------------------------------------------------------------------
+     RD Effect     0.640     0.384     0.701    [-2.382 , 3.544]     
+=====================================================================
+
+=== RD DIFUSA: ABANDONO ===
+Call: rdrobust
+
+Fuzzy RD estimates using local polynomial regression.
+
+Number of Obs.                  296
+BW type                       mserd
+Kernel                   Triangular
+VCE method                       NN
+
+                               Left        Right
+Number of Obs.                  202           94
+Eff. Number of Obs.              56           29
+Order est. (p)                    1            1
+Order bias (q)                    2            2
+BW est. (h)                   1.784        1.784
+BW bias (b)                   3.174        3.174
+rho (h/b)                     0.562        0.562
+Unique Obs.                     202           94
+
+First-stage estimates.
+
+=====================================================================
+                   Point    Robust Inference
+                Estimate         z     P>|z|      [ 95% C.I. ]       
+=====================================================================
+     Rd Effect    -0.127    -0.688     0.491    [-0.723 , 0.347]     
+=====================================================================
+
+Treatment effect estimates.
+
+=====================================================================
+                   Point    Robust Inference
+                Estimate         z     P>|z|      [ 95% C.I. ]       
+---------------------------------------------------------------------
+     RD Effect    -0.027    -0.096     0.923    [-0.575 , 0.521]     
+=====================================================================

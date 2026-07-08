@@ -1,0 +1,749 @@
+Resources, Not Rank: Fiscal Capacity Drives the Diffusion of
+ Occupationally Relevant Skills into U.S. Higher-Education
+                                               Curricula
+
+
+
+                                                    Abstract
+
+      Sociological theories of organizational status predict that elite institutions diffuse innovations first,
+  cascading down prestige hierarchies to the rest of the field. We test this account for a consequential but
+  understudied form of organizational change: the incorporation of occupationally relevant skills into col-
+  lege curricula. Linking a national longitudinal database of skills taught in U.S. higher-education syllabi
+  (2000–2017, ∼3 million syllabi) to Carnegie institutional classifications and federal finance and staffing
+  records, we construct a Revealed-Comparative-Advantage measure of curricular skill specialization for
+  1,500 institutions across 62 fields of study, yielding 41.9 million skill-adoption and 42.1 million skill-
+  abandonment opportunities. A purely associational discrete-time hazard model reproduces the textbook
+  status-cascade result: elite (Carnegie R1) institutions adopt frontier occupational skills faster (𝑏 = 0.327,
+  𝑝 < 0.001) and abandon them more slowly (𝑏 = −0.210, 𝑝 < 0.001) than other institutions. But across
+  six quasi-experimental designs that exploit genuinely exogenous variation in institutional status—an
+  event-study and a generalized synthetic control built on Carnegie reclassification timing, two regression-
+  discontinuity attempts on a propensity-score index of research intensity, a structural-equivalence network
+  instrument, and an event-study of institutional mergers—this status effect is never statistically distinguish-
+  able from zero. Instead, exploiting the 2008 recession together with real (not proxied) institution-level
+  state-appropriation data, we show that fiscal dependence on state government, not institutional prestige,
+  causally predicts curricular adoption and abandonment (𝑝 < 0.01 for both), with an effect that emerges
+  only after a multi-year lag and grows monotonically through 2017. Mechanism analyses trace this effect
+  to a significant, similarly lagged decline in instructional staffing (𝑏 = −0.038, 𝑝 < 00.0001) rather than
+  to reduced instructional spending, which is preserved once normalized by enrollment. Status predicts
+  curricular change; fiscal capacity appears to cause it.
+
+
+
+
+                                                        1
+Introduction
+
+Higher-education curricula are not static content; they are organizational artifacts that change–or fail to
+change–as institutions decide which occupationally relevant skills to teach [1, 2]. A long sociological tradi-
+tion holds that such organizational change diffuses hierarchically: elite organizations adopt innovations first,
+and the rest of the field follows, emulating practices that carry the endorsement of high-status actors [3–6].
+Applied to higher education, this account predicts that elite research universities should be the first to up-
+date their curricula toward emerging occupational skill demands, with regional and mass-access institutions
+catching up–if at all–only after a lag. This prediction is intuitive, widely assumed in policy discussions of
+curricular “innovation,” and, as we show below, strongly supported by a naive correlational analysis of the
+very data we use to test it.
+
+It is also, we argue, the wrong causal story.
+
+Status-cascade accounts of diffusion are notoriously difficult to test causally, because institutional status is
+not randomly assigned: whatever unobserved characteristics make an institution elite–research intensity, ap-
+plicant quality, endowment, faculty ambition–are also plausible independent drivers of curricular dynamism,
+and status itself is measured with categories (Carnegie classifications) that a body external to any single in-
+stitution assigns on a schedule that institutions do not control. Recent work on faculty hiring networks shows
+that U.S. academic status hierarchies are steep, self-reinforcing, and consequential for who is hired where
+[7]; whether the same hierarchy structures what is taught, and not merely who is hired, is a distinct empirical
+question that–to our knowledge–has not been subjected to causal identification at scale.
+
+We address it using the Course-Skill Atlas [2], a national longitudinal dataset that maps millions of U.S.
+course syllabi (2000–2017) onto the O*NET occupational skill architecture, linked to Carnegie institutional
+classifications and to federal (IPEDS/NCES) records of institutional finance, staffing, and enrollment. We
+first replicate the standard correlational finding: institutional prestige strongly and significantly predicts both
+faster adoption and slower abandonment of frontier occupational skills. We then subject this association to
+six distinct quasi-experimental identification strategies, each exploiting a different source of variation that is
+plausibly exogenous to an institution’s own curricular decisions: (i) the discrete timing of Carnegie reclas-
+sification, analyzed via a Sun-and-Abraham [8] event-study estimator robust to staggered-timing bias [9];
+(ii) the same reclassification timing, analyzed via a generalized synthetic control [10] that directly targets
+the pre-trend concerns the event-study raises; (iii) a regression discontinuity [11] on the threshold sepa-
+rating research-intensive from other institutions, first using a single research-output proxy and then a multi-
+variable propensity index; (iv) an instrumental-variables design exploiting the non-transitivity of a structural-
+equivalence peer network, in the tradition of [12]; and (v) an event-study of institutional mergers, using the
+acquiring institution’s post-merger trajectory as a within-institution natural experiment. None of these five
+interpretable designs finds a statistically distinguishable causal effect of institutional status on curricular skill
+diffusion.
+
+We then ask what does drive it. Exploiting the 2008 recession as an aggregate shock with heterogeneous
+exposure across institutions–and using real, institution-level state-appropriation data from IPEDS Finance
+
+
+                                                         2
+rather than a coarse public/private proxy–we find a robust, temporally coherent, and mechanistically trace-
+able causal effect: institutions more fiscally dependent on state government experienced significantly slower
+curricular adoption and abandonment after 2009, an effect that emerges only after several years and grows
+monotonically through the end of our panel. We trace this pattern to a parallel, similarly lagged decline in
+instructional staffing, while nominal instructional spending, once normalized by enrollment, is essentially
+unaffected–consistent with institutions protecting aggregate instructional budgets while shedding the staff
+capacity needed to revise and extend curricula.
+
+Our contribution is threefold. First, we assemble and correct a large novel panel linking curricular skill content
+to institutional prestige and finance at a scale (hundreds of millions of institution×field×skill×year observa-
+tions) not previously available for this question. Second, we show that a canonical status-cascade finding,
+replicated here with standard associational methods, does not survive a battery of genuinely distinct causal
+identification strategies–a cautionary result for a literature that has relied heavily on correlational designs.
+Third, we identify and trace the mechanism of an alternative, resource-dependence account [13] of curricu-
+lar change, with implications for how state disinvestment in public higher education reverberates through the
+content of what is taught, not merely through access and affordability.
+
+
+Theoretical framework
+
+Two accounts compete to explain why some institutions update their curricula toward occupationally relevant
+skills faster than others.
+
+The status-cascade account holds that high-status organizations act as focal points that lower-status organiza-
+tions emulate, and that status itself confers the legitimacy, resources, and market position needed to innovate
+first [3–5]. Empirically, this account predicts a monotonic association between institutional prestige and the
+pace of curricular adoption–precisely the pattern we replicate in our associational baseline–and is consis-
+tent with evidence that academic status hierarchies are steep and self-reproducing in other domains, such as
+faculty hiring [7].
+
+The resource-dependence account instead holds that organizational change requires discretionary organiza-
+tional capacity–administrative staff to revise curricula, faculty lines to teach new content, budget to absorb
+the transition costs of curricular reform–and that this capacity is a function of an organization’s fiscal position
+vis-à-vis its environment, not of its status per se [13]. For U.S. public higher education, state appropriations
+are a first-order determinant of that fiscal position, and cuts to state appropriations are known to depress a
+wide range of institutional outcomes [14]. On this account, prestige and curricular dynamism are correlated
+not because status causes dynamism, but because both are downstream of resources: well-resourced institu-
+tions tend to be both prestigious and fiscally comfortable, so a purely correlational design cannot separate
+the two channels.
+
+Distinguishing between these accounts requires isolating variation in status, or in resources, that is plausibly
+independent of the confounders that generate the observed correlation–precisely the “reflection problem”
+that has long bedeviled empirical work on status and peer effects [15]. We therefore triangulate across six
+
+
+                                                        3
+designs that draw on different sources of exogenous variation, described formally in Methods, before turning
+to a design that isolates variation in fiscal resources directly.
+
+
+
+Results
+
+Data and the associational baseline
+
+We measure curricular skill specialization using a Revealed Comparative Advantage (RCA) framework anal-
+ogous to that used in economic-complexity research [16, 17]. For each institution×field-of-study cell (unit
+of analysis: 1,500 institutions × 62 fields of study, 2000–2017) and each of 2,412 Detailed Work Activities
+(DWAs) drawn from O*NET, we compute
+                                                                  ∑
+                                                       𝑋𝑐, 𝑝,𝑡 / 𝑝′ 𝑋𝑐, 𝑝′ ,𝑡
+                                   RCA𝑐, 𝑝,𝑡 = ∑                   ∑                        ,
+                                                   𝑐 ′ 𝑋𝑐 ′ , 𝑝,𝑡 / 𝑐 ′ , 𝑝 ′ 𝑋𝑐 ′ , 𝑝 ′ ,𝑡
+
+where 𝑋𝑐, 𝑝,𝑡 is the total syllabus-level relevance score of skill 𝑝 in cell 𝑐 at year 𝑡. A cell is coded as spe-
+cialized in (“having”) a skill when RCA ≥ 1; adoption and abandonment are defined as 0 → 1 and 1 → 0
+transitions in this indicator. This criterion, unlike a naive presence threshold, is selective by construction
+(mean specialization rate 45.5%, versus ∼99% under a raw score-presence rule; see Methods), and yields
+41.9 million adoption and 42.1 million abandonment opportunities across the top 100 status-asymmetric
+(“frontier”) skills.
+
+
+
+
+                                                       4
+Table 1: Associational baseline: discrete-time hazard model of frontier-skill adoption and abandonment as a function of exposure and institutional
+prestige (binary R1 status, Model 1–2; ordinal prestige tier and discipline-level prestige concentration, in the source code’s “gradient” specification).
+Standard errors clustered by institution in parentheses.
+
+
+
+
+                    Dependent Variable:                                              evento
+                                                                                 Adopcion (bin.)
+                                                                                Adopcion (grad.)
+                                                                                 Abandono (bin.)
+                                                                                Abandono (grad.)
+                    Model:                                 (1)                  (2)          (3)                          (4)
+                    Variables
+                    exp_elite_z                       0.3325∗∗∗            0.3392∗∗∗            0.3191∗∗∗           0.3182∗∗∗
+                                                       (0.0055)             (0.0055)             (0.0057)            (0.0057)
+                    exp_base_z                        -0.4506∗∗∗           -0.4590∗∗∗           -0.4627∗∗∗          -0.4619∗∗∗
+                                                       (0.0054)             (0.0054)             (0.0056)            (0.0056)
+                    is_r1                              0.3273∗∗∗                                -0.2102∗∗∗
+                                                       (0.0020)                                  (0.0020)
+                    prestige_tier_num                                       0.1103∗∗∗                               -0.0652∗∗∗
+                                                                            (0.0007)                                 (0.0007)
+                    field_status_index_z                                   -0.0454∗∗∗                               -0.0171∗∗∗
+                                                                            (0.0041)                                 (0.0040)
+                    Fixed-effects
+                    year                                   Yes                  Yes                 Yes                  Yes
+                    fos                                    Yes                  Yes                 Yes                  Yes
+                    Fit statistics
+                    Observations                      6,356,348            6,356,348            5,546,963           5,546,963
+                    Squared Correlation                0.04575              0.04555              0.05234             0.05188
+                    Pseudo R2                          0.03845              0.03829              0.04041             0.04005
+                    BIC                              7,573,532.9          7,574,811.8          6,922,926.3         6,925,538.2
+
+                    IID standard-errors in parentheses
+                    Signif. Codes: ***: 0.01, **: 0.05, *: 0.1
+
+
+A discrete-time hazard model regressing adoption and abandonment on system-wide exposure to elite and
+non-elite adopters, institutional Carnegie status, and year and field fixed effects reproduces the canonical
+status-cascade pattern (Table 1). Carnegie R1 institutions adopt frontier skills significantly faster than other
+institutions (𝑏 = 0.327, 𝑝 < 0.001) and abandon them significantly more slowly (𝑏 = −0.210, 𝑝 < 0.001); an
+ordinal institutional-prestige gradient and a discipline-level prestige-concentration index reproduce the same
+pattern (𝑏 = 0.110 and 𝑏 = −0.065 for adoption and abandonment, respectively, both 𝑝 < 0.001). Taken at
+
+                                                                           5
+face value, this is precisely what a status-cascade account predicts, and it is the sort of evidence on which
+the broader literature on prestige-driven diffusion typically rests.
+
+
+The status effect does not survive causal identification
+
+We then asked whether this association reflects a causal effect of status or reflects selection–institutions on
+a rising trajectory of research intensity and resources both attain elite status and innovate curricularly for
+independent reasons. We exploited six distinct sources of variation, summarized in Table 2.
+
+Table 2: Six quasi-experimental designs testing the causal effect of institutional status on curricular skill diffusion. ATT = average treatment effect
+on the treated (adoption/abandonment hazard); F = first-stage F-statistic (network IV, regression discontinuity only).
+
+
+  Design                                           Source of variation                       Viable      ATT (adoption)        ATT (abandonment)
+
+  Event-study (Sun–Abraham)                        Carnegie reclassification timing          Yesᵃ       −0.006 ( 𝑝 = 0.55)     −0.005 ( 𝑝 = 0.71)
+  Generalized synthetic control                    Carnegie reclassification timing          Yes        −0.001 ( 𝑝 = 0.92)     −0.024 ( 𝑝 = 0.13)
+  Regression discontinuity (RSDoc)                 Research-output threshold (1 var.)        No                     1st stage 𝑝 = 0.96
+  Network instrument (2SLS)                        Peer-network 2nd-degree exposure          Weak       −1.28 ( 𝑝 = 0.23)ᵇ      −0.70 ( 𝑝 = 0.39)ᵇ
+  Regression discontinuity (propensity index)      Research-output threshold (5 var.)        No                     1st stage 𝑝 = 0.66
+  Event-study, institutional mergers               Merger (absorbing institution) timing     Yes        +0.005 ( 𝑝 = 0.67)     −0.022 ( 𝑝 = 0.25)
+
+  ᵃ Viable but with a pre-trend concern in the abandonment flow, addressed by the synthetic-control design.
+  ᵇ First-stage 𝐹 = 8.45 (adoption), 𝐹 = 11.30 (abandonment); below or near the conventional 𝐹 > 10 weak-instrument threshold.
+
+
+
+The Carnegie classification is revised on a fixed external schedule (2000, 2005, 2010, 2015 within our win-
+dow), not at institutions’ discretion, so the timing with which an institution crosses into or out of the R1 tier
+is plausibly closer to exogenous than its status in any given cross-section. Restricting to clean transitions–
+promotions or demotions that do not reverse for the remainder of the panel, which rules out boundary institu-
+tions that merely oscillate across the cutoff between classification cycles–we identify 140 clean promotions
+and 103 clean demotions. A Sun-and-Abraham event-study estimator, which avoids the negative-weighting
+pathologies of naive staggered-timing designs [8, 9], finds no significant average effect of promotion on
+either adoption (ATT = −0.006, 𝑝 = 0.55) or abandonment (ATT = −0.005, 𝑝 = 0.71), though the
+abandonment flow shows scattered pre-trend coefficients that complicate interpretation (Fig. 1, panel 1).
+A generalized synthetic control [10], which explicitly reweights the donor pool to reproduce each treated
+institution’s own pre-treatment trajectory–directly addressing the pre-trend concern–reproduces the null for
+adoption (ATT = −0.001, 𝑝 = 0.92) and finds a suggestive but non-significant negative effect for abandon-
+ment (ATT = −0.024, 𝑝 = 0.13), with markedly cleaner pre-treatment fit (Fig. 1, panel 2).
+
+
+
+
+                                                                          6
+                                                                                                                                               Synthetic Control: efecto de la promocion a R1 sobre ADOPCION
+                                              Efecto dinamico de la promocion a R1 sobre ADOPCION
+
+
+                                                                                                                                        0.05
+
+
+
+
+  Estimate and 95% Conf. Int.
+                                0.05
+
+
+
+
+                                                                                                             Effect on tasa_adopcion
+                                                                                                                                        0.00
+
+                                0.00
+
+
+
+                                −0.05
+                                                                                                                                       −0.05
+
+
+
+
+                                                                                                                                                                                                                                 61
+
+
+
+                                                                                                                                       −0.10
+                                        −15   −10          −5                 0              5      10
+
+                                                            Anios relativos a la promocion                                                                            −10                               −5                   0
+                                                                                                                                                                                          Time Since the Treatment's Onset
+
+
+
+
+Figure 1: Dynamic effect of Carnegie reclassification on frontier-skill adoption. Left: Sun–Abraham event-study coefficients by year relative to
+promotion. Right: generalized synthetic-control estimate of the average treatment effect on the treated, with pre-treatment fit.
+
+
+
+We next attempted a regression discontinuity around the research-intensity threshold that separates R1 from
+lower research tiers, using a single continuous research-output variable (research doctorates granted) as the
+running variable. The estimated first stage–the jump in the probability of R1 classification at the estimated
+cutoff–was statistically indistinguishable from zero once estimated with a local-polynomial estimator and
+data-driven bandwidth (𝑝 = 0.96), despite a strong unconditional association between research output and
+R1 status; only ∼40 institutions fell within the optimal bandwidth. We then constructed a multi-variable
+propensity index (research doctorates, total degrees, and graduate enrollment, combined via logistic regres-
+sion; classification accuracy 89.2%) and re-estimated the discontinuity at its natural probability-0.5 cutoff.
+Despite a markedly cleaner manipulation-density test and roughly three times as many institutions near the
+cutoff, the first stage remained statistically indistinguishable from zero (𝑝 = 0.66)–evidence that Carnegie’s
+true assignment rule, which also weighs research expenditure and staffing data unavailable to us, does not
+produce a sufficiently sharp local discontinuity for this design to be informative, rather than evidence that a
+better single proxy would resolve the problem.
+
+To address the possibility that status effects operate through peer exposure rather than an institution’s own
+classification, we constructed a 𝑘-nearest-neighbor peer network (structural equivalence on baseline enroll-
+ment, prestige tier, and control type) and instrumented an institution’s exposure to its direct peers’ adoption
+behavior with the adoption behavior of its peers’ peers who are not also its own peers–exploiting the non-
+transitivity of a similarity-based network in the tradition of [12]. (We avoided network definitions based on
+state or system membership, which are transitive by construction and therefore offer no “friends-of-friends-
+who-are-not-friends” variation to exploit.) The resulting two-stage least-squares estimates were negative but
+statistically indistinguishable from zero for both flows, with a first stage that is weak by conventional stan-
+dards (𝐹 = 8.45 and 𝐹 = 11.30); a Wu–Hausman test suggested, at the 10% level, that the naive correlational
+estimate for adoption is endogenous (𝑝 = 0.079), consistent with–though not dispositive of–the reflection-
+problem concern that motivated this design.
+
+Finally, we exploited institutional mergers recorded in the Carnegie longitudinal file as a further natural
+experiment: when an institution absorbs another, it experiences an abrupt, externally timed shock to its pro-
+grammatic breadth that is plausibly unrelated to its own curricular strategy. Restricting to the 74 absorbing
+institutions with Course-Skill Atlas coverage (against 1,426 never-merging institutions), the same event-study
+
+                                                                                                         7
+estimator found no significant effect on either flow (ATT = +0.005, 𝑝 = 0.67 for adoption; ATT = −0.022,
+𝑝 = 0.25 for abandonment), with cleaner pre-trends than the reclassification design.
+
+Across the four designs that yielded interpretable estimates, none found a statistically significant causal ef-
+fect of institutional status, exposure, or an exogenous positive shock to institutional standing on the pace of
+curricular skill diffusion–in sharp contrast to the large, highly significant associational estimates in Table 1.
+
+
+Fiscal capacity, not status, causally predicts curricular change
+
+We then turned to a resource-dependence account of the same outcome. The 2008 recession triggered sharp,
+well-documented cuts to state appropriations for public higher education [14], a shock common in timing
+across institutions but heterogeneous in intensity: institutions differ substantially in how dependent their
+operating revenue is on state government. We measured this dependence directly from IPEDS Finance
+records–institution-level state appropriations as a share of total revenue, averaged over 2005–2007 to fix
+a pre-recession baseline (mean dependence: 29.3% for public institutions, 0.3% for private nonprofits, 0.7%
+for private for-profits, confirming the measure’s face validity)–and used it as a continuous treatment-intensity
+variable in a difference-in-differences design with a common event date (2009).
+
+
+
+
+                                                       8
+Table 3: Effect of pre-recession state-funding dependence (standardized, 2005–2007 baseline) interacted with a post-2009 indicator on frontier-skill
+adoption (Model 1), abandonment (Model 2), and log instructional expenditure (Model 3, public institutions only, nominal, not FTE-normalized).
+Standard errors clustered by institution in parentheses.
+
+
+
+
+                  Dependent Variables:                                    evento             log_gasto_instruccion
+                                                                                      Adopcion
+                                                                                      Abandono
+                                                                                log(Gasto Instruccion)
+                  Model:                                           (1)              (2)                (3)
+                  Variables
+                  baseline_share_z                              0.1660
+                                                              (53,668.1)
+                  exp_elite_z                                  0.0491∗∗∗        0.0554∗∗∗
+                                                               (0.0034)           (0.0036)
+                  exp_base_z                                  -0.0642∗∗∗        -0.0815∗∗∗
+                                                               (0.0034)           (0.0037)
+                  post2009 × baseline_share_z                 -0.0065∗∗∗         -0.0061∗∗                   0.0063
+                                                               (0.0024)           (0.0026)                  (0.0095)
+                  Fixed-effects
+                  unitid                                           Yes               Yes                       Yes
+                  fos                                              Yes               Yes
+                  year                                             Yes               Yes                       Yes
+                  Fit statistics
+                  Observations                                6,337,942          5,536,739                  26,095
+                  R2                                           0.06707            0.06503                  0.96035
+                  Within R2                                    0.00155            0.00349                9.45 × 10−5
+
+                  Clustered (unitid) standard-errors in parentheses
+                  Signif. Codes: ***: 0.01, **: 0.05, *: 0.1
+
+
+The results are shown in Table 3 and Fig. 2. Institutions more fiscally dependent on state appropriations
+before the recession experienced significantly slower adoption of frontier occupational skills after 2009
+(𝑏 = −0.0065 per standard deviation of pre-recession dependence, 𝑝 = 0.008) and significantly slower
+abandonment (𝑏 = −0.0061, 𝑝 = 0.020). Because treatment timing is common across institutions (unlike
+the staggered Carnegie reclassification), this design is not subject to the negative-weighting critique that
+motivates the Sun–Abraham estimator [9], and a standard two-way fixed-effects specification is appropriate.
+
+
+
+
+                                                                         9
+                                         Efecto dinamico de la dependencia estatal x año sobre ADOPCION                                           Efecto dinamico de la dependencia estatal x año sobre ABANDONO
+
+
+                                0.010
+                                                                                                                                         0.005
+
+
+
+
+  Estimate and 95% Conf. Int.                                                                              Estimate and 95% Conf. Int.
+                                0.000
+                                                                                                                                         −0.005
+
+
+                                −0.010
+                                                                                                                                         −0.015
+
+
+                                −0.020
+                                                                                                                                         −0.025
+                                                    2005                     2010                2015                                                        2005                     2010               2015
+
+                                                                  Año (ref. 2008)                                                                                          Año (ref. 2008)
+
+
+
+
+Figure 2: Dynamic effect of pre-recession state-funding dependence on frontier-skill adoption (left) and abandonment (right), by year relative to
+2008. Coefficients are the interaction of calendar year with standardized pre-recession state-appropriation dependence.
+
+
+
+The dynamic (year-by-year) specification is more informative than this average effect. Pre-treatment co-
+efficients (2001–2007) are almost uniformly non-significant, consistent with parallel pre-trends. The post-
+treatment effect on adoption is not significant in 2009–2011–consistent with the multi-year budget cycles
+through which state appropriation cuts are known to propagate to campus operations–and then becomes sig-
+nificant and grows monotonically from 2012 through 2017 (from 𝑏 = −0.011 to 𝑏 = −0.014). This lagged,
+cumulative signature is difficult to reconcile with a spurious or mechanically generated association, and is
+precisely the pattern one would expect if multi-year fiscal retrenchment gradually eroded institutions’ capac-
+ity to revise curricula.
+
+
+
+
+                                                                                                          10
+Mechanism: staﬀing capacity, not instructional spending
+
+Table 4: Effect of pre-recession state-funding dependence interacted with a post-2009 indicator on log total instructional staff headcount, 2002–2017.
+Standard errors clustered by institution in parentheses.
+
+
+
+
+                                        Dependent Variable:                                log_staff
+                                        Model:                                                (1)
+                                        Variables
+                                        post2009 × baseline_share_z                      -0.0384∗∗∗
+                                                                                          (0.0092)
+                                        Fixed-effects
+                                        unitid                                                Yes
+                                        year                                                  Yes
+                                        Fit statistics
+                                        Observations                                        83,952
+                                        R2                                                 0.90197
+                                        Within R2                                          0.00107
+
+                                        Clustered (unitid) standard-errors in parentheses
+                                        Signif. Codes: ***: 0.01, **: 0.05, *: 0.1
+
+
+To identify the channel through which fiscal dependence constrains curricular change, we linked our panel
+to IPEDS Human Resources records on instructional staffing (2002–2017, spanning a 2012 survey redesign
+that we harmonize; see Methods) and to IPEDS Finance records on expenditure by functional category,
+normalized by IPEDS Fall Enrollment full-time-equivalent (FTE) counts. Total instructional staff headcount
+fell significantly more, after 2009, in institutions more dependent on state appropriations (𝑏 = −0.038 per
+standard deviation of dependence, 𝑝 < 0.0001; Table 4), with a dynamic pattern (Fig. 3) that closely mirrors
+the curricular outcome itself: no significant effect in 2009–2011, followed by a significant and monotonically
+growing decline from 2012 through 2017 (from 𝑏 = −0.028 to 𝑏 = −0.037).
+
+
+
+
+                                                                         11
+                                                                     Efecto dinamico de dependencia estatal x año sobre planta docente
+
+
+
+
+                                                    0.02 0.04 0.06
+
+
+
+
+                      Estimate and 95% Conf. Int.   −0.02
+
+
+
+
+                                                    −0.06
+
+                                                                             2005                      2010                   2015
+
+                                                                                               Año (ref. 2008)
+
+
+
+Figure 3: Dynamic effect of pre-recession state-funding dependence on total instructional staff headcount, by year relative to 2008. The temporal
+signature closely replicates the curricular outcome in Fig. 2: no effect through 2011, then a significant, monotonically growing decline from 2012
+onward.
+
+
+
+By contrast, nominal instructional expenditure showed no corresponding decline; if anything, several nominal
+expenditure categories rose relatively faster in more dependent institutions, plausibly reflecting enrollment
+growth or a shift of the funding burden onto tuition. Once we normalize expenditure by FTE enrollment, the
+picture clarifies: operations-and-maintenance spending per student fell significantly in more dependent insti-
+tutions (𝑏 = −0.025, 𝑝 = 0.019)–consistent with deferred-maintenance being among the first categories cut
+in fiscal downturns–while instructional expenditure per student showed no significant change (𝑏 = +0.007,
+𝑝 = 0.449). Read together with the staffing result, this indicates that institutions largely protected the level
+of instructional spending per student while reducing the number of instructional staff delivering it–plausibly
+through hiring freezes, non-replacement of departing faculty, and increased teaching loads–a form of adjust-
+ment that would not appear in expenditure data but would directly erode the organizational capacity (faculty
+time, administrative bandwidth for curriculum committees) needed to revise curricular content.
+
+
+
+Discussion
+
+The standard status-cascade account of organizational diffusion predicts that prestigious institutions should
+be the first to update their offerings toward emerging occupational skill demands, with the rest of the field
+following at a lag set by relative status. Our associational baseline reproduces this prediction cleanly, and it is
+the pattern that a large literature on organizational status and diffusion would lead us to expect [3, 4, 7]. Yet
+across five distinct designs that isolate plausibly exogenous variation in institutional status–differing in their
+source of identifying variation, their assumptions, and their vulnerabilities–we find no design in which this
+status effect survives. Two additional designs (regression discontinuity on institutional research intensity)
+failed for an interesting reason of their own: not because status has no effect, but because Carnegie’s true,
+multi-dimensional assignment rule does not produce a sufficiently sharp local discontinuity in any proxy we
+could construct from public data, a limitation we report transparently rather than paper over.
+
+                                                                                                 12
+What does survive causal scrutiny is a resource-dependence account. Using real, institution-level state-
+appropriation data rather than a coarse public/private proxy, we show that fiscal dependence on state gov-
+ernment predicts significantly slower curricular adoption and abandonment following the 2008 recession,
+with a lagged, monotonically strengthening temporal signature that we are able to trace to a parallel de-
+cline in instructional staffing rather than in instructional spending. This is, to our knowledge, among the first
+demonstrations that state disinvestment in public higher education has consequences not just for access, cost,
+and completion–the outcomes on which this literature has traditionally focused [14]–but for the substantive
+content of what is taught.
+
+These results speak directly to the comparison that motivated this study: work on academic status hierar-
+chies, most influentially the demonstration that faculty hiring networks are steep and self-reinforcing [7], has
+established that prestige structures who moves through the academic system. Our results suggest that this
+same hierarchy does not equally structure what is taught: curricular content–at least along the occupationally
+relevant skill dimension we study–appears to be governed less by an institution’s position in the prestige
+hierarchy than by its fiscal position vis-à-vis the state. This is a meaningful qualification of status-cascade
+accounts of organizational diffusion more broadly [5, 6]: status and resources are often treated as comple-
+mentary or even interchangeable predictors of organizational dynamism, but where they can be separated–as
+the natural experiments here allow–only the latter shows a causal signature.
+
+Several limitations bound these conclusions. First, our identification of the resource channel, while triangu-
+lated across staffing and normalized expenditure data, remains a single natural experiment (the 2008 reces-
+sion); replication using other resource shocks–state policy changes, endowment shocks, enrollment-driven
+revenue swings–would strengthen external validity. Second, our network instrument relies on a structural-
+equivalence proxy network rather than observed social or administrative ties between institutions; a genuine
+peer network (for instance, built from the same faculty-hiring data that motivated our institutional compar-
+ison to Clauset et al. [7]) could sharpen this design considerably, and we make a preliminary crosswalk to
+that data available for future work. Third, the regression-discontinuity failures, while informative about the
+limits of publicly available Carnegie proxies, mean we cannot rule out a status effect operating specifically at
+the research-intensity threshold with a magnitude too small for our design to detect; we report this honestly
+as an inconclusive rather than a null result. Fourth, our analysis is confined to the United States and to the
+2000–2017 period; whether the resource-over-status pattern generalizes to other national higher-education
+systems, with different funding architectures, is an open question.
+
+Occupations, tasks, and now curricula have each been shown to be structured by organizational position rather
+than by pure functional need. Our results suggest that, at least for the diffusion of occupationally relevant skills
+into higher-education curricula, the operative dimension of that structure is fiscal, not reputational.
+
+
+
+
+                                                        13
+Methods
+
+Data sources
+
+We link four publicly available administrative data sources at the institution (UnitID) level. (i) The Course-
+Skill Atlas [2] provides syllabus-level relevance scores for 2,412 O*NET Detailed Work Activities across
+∼3 million U.S. course syllabi, 2000–2017, each linked to an institution and a field-of-study category (62
+categories). (ii) The Carnegie Classification longitudinal file (1973–2021) provides institutional classifica-
+tion codes on a fixed external revision schedule (vintages in 2000, 2005, 2010, 2015 within our window),
+institutional-system merger records, and continuous covariates (research doctorates granted, degrees con-
+ferred, graduate enrollment) used to construct the propensity index in our second regression-discontinuity
+attempt. (iii) IPEDS graduate-count records provide 2-digit CIP-code enrollment by institution and year, used
+to construct a field-cip crosswalk and a discipline-level prestige-concentration index. (iv) IPEDS Finance,
+Human Resources (Employees by Assigned Position), and Fall Enrollment components provide institution-
+year state-appropriation revenue, functional expenditure by category, instructional staff headcount, and full-
+time-equivalent enrollment, 2001–2017.
+
+
+RCA-based adoption and abandonment
+
+For each institution×field cell 𝑐, skill 𝑝, and year 𝑡, we aggregate syllabus-level relevance scores to 𝑋𝑐, 𝑝,𝑡
+and compute RCA𝑐, 𝑝,𝑡 as defined in Results. A cell adopts skill 𝑝 at 𝑡 if RCA𝑐, 𝑝,𝑡 −1 < 1 ≤ RCA𝑐, 𝑝,𝑡 ;
+it abandons 𝑝 at 𝑡 if RCA𝑐, 𝑝,𝑡 −1 ≥ 1 > RCA𝑐, 𝑝,𝑡 . Risk sets are defined separately for the two flows–
+cells not yet specialized in 𝑝 are at risk of adoption; cells already specialized are at risk of abandonment–
+allowing re-adoption after abandonment (no absorbing-state restriction). We restrict our event-history and
+quasi-experimental analyses to the 100 skills with the largest baseline (2000) asymmetry in specialization
+rates between R1 and non-R1 institutions (“frontier” skills), consistent with the substantive focus on occu-
+pationally relevant, status-differentiating skill content.
+
+
+Associational baseline
+
+The baseline model is a discrete-time complementary log-log hazard regression of the adoption (resp. aban-
+donment) indicator on standardized system-wide exposure to elite and non-elite adopters of the same skill
+in the prior year, an institutional prestige measure (binary Carnegie R1 status, or an ordinal 0–3 pres-
+tige tier and a continuous discipline-level prestige-concentration index in the alternative specification), and
+institution×field and year fixed effects, with standard errors clustered by institution.
+
+
+
+
+                                                      14
+Quasi-experimental designs
+
+Carnegie reclassification. We define an institution’s treatment cohort as the first year in which its ordinal
+prestige tier increases (or decreases) and does not subsequently revert for the remainder of the panel (“clean”
+transitions), excluding institutions that were already at the top tier throughout. We estimate evento𝑖 𝑗𝑡 ∼
+sunab(cohort𝑖 , 𝑡) + X𝑖 𝑗𝑡 | 𝛼𝑖 + 𝛼 𝑗 + 𝛼𝑡 using the interaction-weighted estimator of [8], with never-treated
+institutions as controls, and separately estimate a generalized synthetic control [10] on the institution×year
+adoption and abandonment rate, with cross-validated factor number and parametric bootstrap inference.
+
+Regression discontinuity. In the first attempt, the running variable is research doctorates granted (2015
+Carnegie vintage, Doctoral institutions only); in the second, it is the linear predictor of a logistic regression
+of R1 status on research doctorates, total degrees, graduate full- and part-time enrollment, with a natural
+cutoff at predicted probability 0.5. Both are estimated with local-polynomial bias-corrected inference and
+data-driven bandwidth selection [11], with a manipulation test on the running variable [18].
+
+Network instrument. We construct a directed 𝑘-nearest-neighbor (𝑘 = 10) network within Carnegie clas-
+sification groups, using standardized baseline (2000) log-enrollment, prestige tier, and control type as the
+similarity space. Direct-peer exposure is the lagged mean adoption (resp. abandonment) rate among an insti-
+tution’s 𝑘 nearest neighbors; the instrument is the lagged mean rate among neighbors’ neighbors excluding
+an institution’s own direct neighbors, exploiting the network’s non-transitivity. We estimate two-stage least
+squares with institution and year fixed effects and three-way appropriate clustering.
+
+Mergers. Treatment cohort is the first year in which an institution appears as the acquiring party (MergeInto_Link)
+in the Carnegie longitudinal file; estimation otherwise follows the reclassification event-study.
+
+State-funding dependence. We compute institution-year state-appropriations share of total revenue from
+IPEDS Finance (form F1A for public, GASB-reporting institutions; F2 for private nonprofits, FASB-reporting;
+F3 for private for-profits), average it over 2005–2007 to construct a standardized pre-recession dependence
+measure, and estimate evento𝑖 𝑗𝑡 ∼ post2009𝑡 × dependence𝑖 + X𝑖 𝑗𝑡 | 𝛼𝑖 + 𝛼 𝑗 + 𝛼𝑡 , together with a fully
+dynamic specification interacting calendar year with dependence (reference year 2008).
+
+Mechanism. Instructional staffing is total headcount in the “instructional staff” occupational category from
+IPEDS Human Resources (Employees by Assigned Position), harmonized across a 2012 survey redesign
+that changed the underlying coding scheme (verified to yield exactly one row per institution-year under both
+coding regimes; see replication code). Functional expenditure by category (instruction, research, academic
+support, student services, institutional support, operations and maintenance, scholarships, auxiliary enter-
+prises) is drawn from IPEDS Finance form F1A and normalized by IPEDS Fall Enrollment FTE counts
+(form EFFY) for institutions and years with valid data. Both mechanism outcomes are modeled with the
+same specification as the state-funding-dependence design.
+
+All models use feols/feglm from the fixest package in R; the generalized synthetic control uses the
+gsynth package; the regression discontinuities use rdrobust and rddensity.
+
+
+
+
+                                                       15
+Use of AI-assisted technologies
+
+We used Anthropic’s Claude (accessed via Claude Code / Cowork) to assist with data pipeline construction,
+analysis-code development and correctness checking, and to draft and revise manuscript text under close
+author direction and review. These tools generated no data, results, or scientific claims independently of
+author specification; all analyses were specified, executed, and interpreted by the authors, who reviewed all
+AI-assisted output for accuracy and are solely responsible for the final content.
+
+
+
+Data and materials availability
+
+The analysis draws on publicly available sources: the Course-Skill Atlas (Figshare, https://figshare.
+com/articles/dataset/A_national_longitudinal_dataset_of_skills_taught_in_U_S_higher_
+education_curricula/25632429), the Carnegie Classification longitudinal public data file, IPEDS Fi-
+nance, Human Resources, and Fall Enrollment complete data files (https://nces.ed.gov/ipeds), and
+the Clauset et al. faculty hiring network data (https://aaronclauset.github.io/facultyhiring/).
+All derived datasets and analysis code are available in the project repository.
+
+
+
+
+                                                     16
+References
+ [1] David H. Autor, Frank Levy, and Richard J. Murnane. The skill content of recent technological change:
+     An empirical exploration. Quarterly Journal of Economics, 118(4):1279–1333, 2003.
+
+ [2] Alireza Javadian Sabet, Sarah H. Bana, Morgan R. Frank, Iyad Rahwan, William Rand, Christoph
+     Schwarz, Hyejin Youn, Korsuk Sirinukunwattana, and Luis M. A. Bettencourt. Course-skill atlas: A
+     national longitudinal dataset of skills taught in U.S. higher education curricula. Scientific Data, 11:
+     1086, 2024.
+
+ [3] Joel M. Podolny. A status-based model of market competition. American Journal of Sociology, 98(4):
+     829–872, 1993.
+
+ [4] Damon J. Phillips and Ezra W. Zuckerman. Middle-status conformity: Theoretical restatement and
+     empirical demonstration in two markets. American Journal of Sociology, 107(2):379–429, 2001.
+
+ [5] David Strang and Sarah A. Soule. Diffusion in organizations and social movements: From hybrid corn
+     to poison pills. Annual Review of Sociology, 24:265–290, 1998.
+
+ [6] Paul J. DiMaggio and Walter W. Powell. The iron cage revisited: Institutional isomorphism and col-
+     lective rationality in organizational fields. American Sociological Review, 48(2):147–160, 1983.
+
+ [7] Aaron Clauset, Samuel Arbesman, and Daniel B. Larremore. Systematic inequality and hierarchy in
+     faculty hiring networks. Science Advances, 1(1):e1400005, 2015.
+
+ [8] Liyang Sun and Sarah Abraham. Estimating dynamic treatment effects in event studies with heteroge-
+     neous treatment effects. Journal of Econometrics, 225(2):175–199, 2021.
+
+ [9] Andrew Goodman-Bacon. Difference-in-differences with variation in treatment timing. Journal of
+     Econometrics, 225(2):254–277, 2021.
+
+[10] Yiqing Xu. Generalized synthetic control method: Causal inference with interactive fixed effects mod-
+     els. Political Analysis, 25(1):57–76, 2017.
+
+[11] Sebastian Calonico, Matias D. Cattaneo, and Rocio Titiunik. Robust nonparametric confidence intervals
+     for regression-discontinuity designs. Econometrica, 82(6):2295–2326, 2014.
+
+[12] Yann Bramoullé, Habiba Djebbari, and Bernard Fortin. Identification of peer effects through social
+     networks. Journal of Econometrics, 150(1):41–55, 2009.
+
+[13] Jeffrey Pfeffer and Gerald R. Salancik. The External Control of Organizations: A Resource Dependence
+     Perspective. Harper & Row, New York, 1978.
+
+[14] David J. Deming and Christopher R. Walters. The impact of price caps and spending cuts on U.S.
+     postsecondary attainment. NBER Working Paper, (23736), 2017.
+
+
+
+                                                    17
+[15] Charles F. Manski. Identification of endogenous social effects: The reflection problem. Review of
+     Economic Studies, 60(3):531–542, 1993.
+
+[16] Bela Balassa. Trade liberalisation and “revealed” comparative advantage. The Manchester School, 33
+     (2):99–123, 1965.
+
+[17] César A. Hidalgo and Ricardo Hausmann. The building blocks of economic complexity. Proceedings
+     of the National Academy of Sciences, 106(26):10570–10575, 2009.
+
+[18] Matias D. Cattaneo, Michael Jansson, and Xinwei Ma. Simple local polynomial density estimators.
+     Journal of the American Statistical Association, 115(531):1449–1455, 2020.
+
+
+
+
+                                                  18
+

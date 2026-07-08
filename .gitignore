@@ -1,0 +1,42 @@
+# --- Data (heavy, kept local only) ---
+data/
+!data/.gitkeep
+
+# --- R ---
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+renv/library/
+renv/staging/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- LaTeX ---
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+*.vrb
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# --- Local scratch ---
+*.tmp

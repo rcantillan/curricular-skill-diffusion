@@ -1,0 +1,138 @@
+=== TEST DE MANIPULACION (densidad en el corte) ===
+
+Manipulation testing using local polynomial density estimation.
+
+Number of obs =       334
+Model =               unrestricted
+Kernel =              triangular
+BW method =           estimated
+VCE method =          jackknife
+
+c = 180               Left of c           Right of c          
+Number of obs         223                 111                 
+Eff. Number of obs    60                  26                  
+Order est. (p)        2                   2                   
+Order bias (q)        3                   3                   
+BW est. (h)           76                  76                  
+
+Method                T                   P > |T|             
+Robust                -1.3123             0.1894              
+
+
+P-values of binomial tests (H0: p=0.5).
+
+Window Length / 2          <c     >=c    P>|T|
+58.000                     34      21    0.1048
+60.000                     38      21    0.0363
+62.000                     40      22    0.0300
+64.000                     42      23    0.0248
+66.000                     46      23    0.0076
+68.000                     48      23    0.0041
+70.000                     52      24    0.0018
+72.000                     53      24    0.0013
+74.000                     57      24    0.0003
+76.000                     60      26    0.0003
+NULL
+
+=== PRIMERA ETAPA: P(is_r1=1) ===
+Call: rdrobust
+
+Sharp RD estimates using local polynomial regression.
+
+Number of Obs.                  296
+BW type                       mserd
+Kernel                   Triangular
+VCE method                       NN
+
+                               Left        Right
+Number of Obs.                  192          104
+Eff. Number of Obs.              25           18
+Order est. (p)                    1            1
+Order bias (q)                    2            2
+BW est. (h)                  54.116       54.116
+BW bias (b)                  83.100       83.100
+rho (h/b)                     0.651        0.651
+Unique Obs.                     102           92
+
+=====================================================================
+                   Point    Robust Inference
+                Estimate         z     P>|z|      [ 95% C.I. ]       
+---------------------------------------------------------------------
+     RD Effect     0.007    -0.048     0.961    [-0.674 , 0.642]     
+=====================================================================
+
+=== RD DIFUSA: ADOPCION ===
+Call: rdrobust
+
+Fuzzy RD estimates using local polynomial regression.
+
+Number of Obs.                  296
+BW type                       mserd
+Kernel                   Triangular
+VCE method                       NN
+
+                               Left        Right
+Number of Obs.                  192          104
+Eff. Number of Obs.              23           16
+Order est. (p)                    1            1
+Order bias (q)                    2            2
+BW est. (h)                  49.224       49.224
+BW bias (b)                  76.091       76.091
+rho (h/b)                     0.647        0.647
+Unique Obs.                     102           92
+
+First-stage estimates.
+
+=====================================================================
+                   Point    Robust Inference
+                Estimate         z     P>|z|      [ 95% C.I. ]       
+=====================================================================
+     Rd Effect     0.035     0.080     0.936    [-0.665 , 0.722]     
+=====================================================================
+
+Treatment effect estimates.
+
+=====================================================================
+                   Point    Robust Inference
+                Estimate         z     P>|z|      [ 95% C.I. ]       
+---------------------------------------------------------------------
+     RD Effect     3.992     0.138     0.890   [-74.615 , 85.933]    
+=====================================================================
+
+=== RD DIFUSA: ABANDONO ===
+Call: rdrobust
+
+Fuzzy RD estimates using local polynomial regression.
+
+Number of Obs.                  296
+BW type                       mserd
+Kernel                   Triangular
+VCE method                       NN
+
+                               Left        Right
+Number of Obs.                  192          104
+Eff. Number of Obs.              24           17
+Order est. (p)                    1            1
+Order bias (q)                    2            2
+BW est. (h)                  50.433       50.433
+BW bias (b)                  75.340       75.340
+rho (h/b)                     0.669        0.669
+Unique Obs.                     102           92
+
+First-stage estimates.
+
+=====================================================================
+                   Point    Robust Inference
+                Estimate         z     P>|z|      [ 95% C.I. ]       
+=====================================================================
+     Rd Effect     0.025     0.063     0.950    [-0.670 , 0.715]     
+=====================================================================
+
+Treatment effect estimates.
+
+=====================================================================
+                   Point    Robust Inference
+                Estimate         z     P>|z|      [ 95% C.I. ]       
+---------------------------------------------------------------------
+     RD Effect    -2.051    -0.067     0.946   [-56.447 , 52.690]    
+=====================================================================

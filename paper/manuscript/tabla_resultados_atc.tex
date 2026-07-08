@@ -1,0 +1,40 @@
+
+\begingroup
+\centering
+\begin{tabular}{lcccc}
+   \tabularnewline \midrule \midrule
+   Dependent Variable: & \multicolumn{4}{c}{evento}\\
+    & \multicolumn{4}{c}{Adopcion (bin.)} \\ 
+    & \multicolumn{4}{c}{Adopcion (grad.)} \\ 
+    & \multicolumn{4}{c}{Abandono (bin.)} \\ 
+    & \multicolumn{4}{c}{Abandono (grad.)} \\ 
+   Model:                     & (1)             & (2)             & (3)             & (4)\\  
+   \midrule
+   \emph{Variables}\\
+   exp\_elite\_z              & 0.2348$^{***}$  & 0.2390$^{***}$  & 0.0754$^{***}$  & 0.0734$^{***}$\\   
+                              & (0.0056)        & (0.0056)        & (0.0060)        & (0.0060)\\   
+   exp\_base\_z               & -0.3964$^{***}$ & -0.4033$^{***}$ & -0.2556$^{***}$ & -0.2534$^{***}$\\   
+                              & (0.0053)        & (0.0053)        & (0.0056)        & (0.0056)\\   
+   is\_r1                     & 0.3310$^{***}$  &                 & -0.1925$^{***}$ &   \\   
+                              & (0.0020)        &                 & (0.0020)        &   \\   
+   prestige\_tier\_num        &                 & 0.1144$^{***}$  &                 & -0.0613$^{***}$\\   
+                              &                 & (0.0007)        &                 & (0.0007)\\   
+   field\_status\_index\_z    &                 & -0.0420$^{***}$ &                 & -0.0115$^{***}$\\   
+                              &                 & (0.0042)        &                 & (0.0041)\\   
+   \midrule
+   \emph{Fixed-effects}\\
+   year                       & Yes             & Yes             & Yes             & Yes\\  
+   fos                        & Yes             & Yes             & Yes             & Yes\\  
+   \midrule
+   \emph{Fit statistics}\\
+   Observations               & 6,405,909       & 6,405,909       & 5,487,589       & 5,487,589\\  
+   Squared Correlation        & 0.04698         & 0.04702         & 0.07908         & 0.07876\\  
+   Pseudo R$^2$               & 0.03893         & 0.03894         & 0.06256         & 0.06232\\  
+   BIC                        & 7,602,798.8     & 7,602,778.3     & 6,710,225.0     & 6,711,957.2\\  
+   \midrule \midrule
+   \multicolumn{5}{l}{\emph{IID standard-errors in parentheses}}\\
+   \multicolumn{5}{l}{\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\
+\end{tabular}
+\par\endgroup
+
+

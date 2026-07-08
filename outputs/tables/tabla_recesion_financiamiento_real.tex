@@ -1,0 +1,37 @@
+
+\begingroup
+\centering
+\begin{tabular}{lccc}
+   \tabularnewline \midrule \midrule
+   Dependent Variables: & \multicolumn{2}{c}{evento} & log\_gasto\_instruccion\\
+    & \multicolumn{3}{c}{Adopcion} \\ 
+    & \multicolumn{3}{c}{Abandono} \\ 
+    & \multicolumn{3}{c}{log(Gasto Instruccion)} \\ 
+   Model:                                  & (1)             & (2)             & (3)\\  
+   \midrule
+   \emph{Variables}\\
+   baseline\_share\_z                      & 0.1559          &                 &   \\   
+                                           & (43,804.3)      &                 &   \\   
+   exp\_elite\_z                           & 0.0350$^{***}$  & 0.0042          &   \\   
+                                           & (0.0048)        & (0.0047)        &   \\   
+   exp\_base\_z                            & -0.0582$^{***}$ & -0.0386$^{***}$ &   \\   
+                                           & (0.0045)        & (0.0045)        &   \\   
+   post2009 $\times$ baseline\_share\_z    & -0.0069$^{***}$ & -0.0063$^{**}$  & 0.0063\\   
+                                           & (0.0024)        & (0.0025)        & (0.0095)\\   
+   \midrule
+   \emph{Fixed-effects}\\
+   unitid                                  & Yes             & Yes             & Yes\\  
+   fos                                     & Yes             & Yes             & \\  
+   year                                    & Yes             & Yes             & Yes\\  
+   \midrule
+   \emph{Fit statistics}\\
+   Observations                            & 6,387,416       & 5,477,450       & 26,095\\  
+   R$^2$                                   & 0.06653         & 0.09100         & 0.96035\\  
+   Within R$^2$                            & 0.00283         & 0.00448         & $9.45\times 10^{-5}$\\   
+   \midrule \midrule
+   \multicolumn{4}{l}{\emph{Clustered (unitid) standard-errors in parentheses}}\\
+   \multicolumn{4}{l}{\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\
+\end{tabular}
+\par\endgroup
+
+

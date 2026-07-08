@@ -1,0 +1,36 @@
+
+\begingroup
+\centering
+\begin{tabular}{lcccc}
+   \tabularnewline \midrule \midrule
+   Dependent Variable: & \multicolumn{4}{c}{evento}\\
+    & \multicolumn{4}{c}{Adopcion (todo el panel)} \\ 
+    & \multicolumn{4}{c}{Abandono (todo el panel)} \\ 
+    & \multicolumn{4}{c}{Adopcion (sin 2008-2011)} \\ 
+    & \multicolumn{4}{c}{Abandono (sin 2008-2011)} \\ 
+   Model:                    & (1)             & (2)             & (3)             & (4)\\  
+   \midrule
+   \emph{Variables}\\
+   cambio\_approp\_lag\_z    & 0.0010          & -0.0046$^{**}$  & -0.0012         & -0.0033\\   
+                             & (0.0021)        & (0.0021)        & (0.0026)        & (0.0024)\\   
+   exp\_elite\_z             & 0.0172$^{***}$  & -0.0045         & 0.0165$^{**}$   & $3.52\times 10^{-5}$\\    
+                             & (0.0065)        & (0.0064)        & (0.0066)        & (0.0062)\\   
+   exp\_base\_z              & -0.0431$^{***}$ & -0.0325$^{***}$ & -0.0427$^{***}$ & -0.0354$^{***}$\\   
+                             & (0.0061)        & (0.0060)        & (0.0062)        & (0.0059)\\   
+   \midrule
+   \emph{Fixed-effects}\\
+   unitid                    & Yes             & Yes             & Yes             & Yes\\  
+   fos                       & Yes             & Yes             & Yes             & Yes\\  
+   year                      & Yes             & Yes             & Yes             & Yes\\  
+   \midrule
+   \emph{Fit statistics}\\
+   Observations              & 3,772,945       & 3,169,866       & 2,848,886       & 2,394,867\\  
+   R$^2$                     & 0.06650         & 0.09467         & 0.06827         & 0.09574\\  
+   Within R$^2$              & 0.00293         & 0.00488         & 0.00316         & 0.00486\\  
+   \midrule \midrule
+   \multicolumn{5}{l}{\emph{Clustered (unitid) standard-errors in parentheses}}\\
+   \multicolumn{5}{l}{\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\
+\end{tabular}
+\par\endgroup
+
+
