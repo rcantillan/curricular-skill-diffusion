@@ -1,0 +1,1401 @@
+unitid,fos,baseline_years,baseline_syllabi,institution_name,node_id,community
+100663,Physics,4,146,University of Alabama at Birmingham,0,1
+100706,Computer Science,2,28,University of Alabama in Huntsville,1,2
+100751,Anthropology,2,46,"University of Alabama, Tuscaloosa",2,4
+100751,Biology,3,235,"University of Alabama, Tuscaloosa",3,6
+100751,Business,4,220,"University of Alabama, Tuscaloosa",4,5
+100751,Chemistry,2,105,"University of Alabama, Tuscaloosa",5,2
+100751,Computer Science,5,88,"University of Alabama, Tuscaloosa",6,6
+100751,Dance,2,44,"University of Alabama, Tuscaloosa",7,-1
+100751,Earth Sciences,2,73,"University of Alabama, Tuscaloosa",8,5
+100751,Education,4,233,"University of Alabama, Tuscaloosa",9,4
+100751,Engineering,4,57,"University of Alabama, Tuscaloosa",10,1
+100751,English Literature,5,277,"University of Alabama, Tuscaloosa",11,2
+100751,Film and Photography,2,70,"University of Alabama, Tuscaloosa",12,6
+100751,Fine Arts,2,162,"University of Alabama, Tuscaloosa",13,4
+100751,French,2,39,"University of Alabama, Tuscaloosa",14,1
+100751,Geography,2,54,"University of Alabama, Tuscaloosa",15,5
+100751,History,2,195,"University of Alabama, Tuscaloosa",16,3
+100751,Journalism,2,53,"University of Alabama, Tuscaloosa",17,5
+100751,Marketing,2,35,"University of Alabama, Tuscaloosa",18,2
+100751,Mathematics,2,229,"University of Alabama, Tuscaloosa",19,5
+100751,Media / Communications,3,234,"University of Alabama, Tuscaloosa",20,0
+100751,Medicine,2,76,"University of Alabama, Tuscaloosa",21,3
+100751,Music,2,185,"University of Alabama, Tuscaloosa",22,4
+100751,Nutrition,2,80,"University of Alabama, Tuscaloosa",23,-1
+100751,Philosophy,2,21,"University of Alabama, Tuscaloosa",24,4
+100751,Physics,2,57,"University of Alabama, Tuscaloosa",25,1
+100751,Political Science,2,105,"University of Alabama, Tuscaloosa",26,6
+100751,Psychology,2,316,"University of Alabama, Tuscaloosa",27,6
+100751,Public Safety,2,32,"University of Alabama, Tuscaloosa",28,-1
+100751,Religion,2,35,"University of Alabama, Tuscaloosa",29,4
+100751,Social Work,2,154,"University of Alabama, Tuscaloosa",30,2
+100751,Sociology,2,33,"University of Alabama, Tuscaloosa",31,4
+100751,Spanish,2,55,"University of Alabama, Tuscaloosa",32,3
+100751,Theatre Arts,2,73,"University of Alabama, Tuscaloosa",33,5
+100751,Women's Studies,2,19,"University of Alabama, Tuscaloosa",34,4
+100858,Business,3,34,Auburn University,35,7
+101435,Political Science,3,29,Huntingdon College,36,3
+101693,Music,2,19,University of Mobile,37,4
+102368,Business,4,96,Troy University,38,4
+102368,English Literature,2,31,Troy University,39,6
+102368,History,3,59,Troy University,40,4
+102368,Psychology,2,30,Troy University,41,4
+102614,Biology,4,108,University of Alaska Fairbanks,42,1
+102614,Chemistry,2,19,University of Alaska Fairbanks,43,4
+102614,Physics,2,23,University of Alaska Fairbanks,44,5
+102614,Psychology,2,24,University of Alaska Fairbanks,45,6
+104151,Biology,2,32,Arizona State University,46,3
+104151,Business,4,47,Arizona State University,47,3
+104151,Computer Science,6,86,Arizona State University,48,3
+104151,Education,3,48,Arizona State University,49,5
+104151,Engineering,2,174,Arizona State University,50,3
+104151,English Literature,6,179,Arizona State University,51,4
+104151,Geography,2,24,Arizona State University,52,5
+104151,Mathematics,6,187,Arizona State University,53,2
+104151,Media / Communications,3,88,Arizona State University,54,1
+104151,Political Science,3,31,Arizona State University,55,3
+104151,Psychology,2,21,Arizona State University,56,3
+104151,Sociology,2,18,Arizona State University,57,6
+104179,Biology,6,160,University of Arizona,58,4
+104179,Business,3,35,University of Arizona,59,7
+104179,Computer Science,6,142,University of Arizona,60,2
+104179,Engineering,2,37,University of Arizona,61,5
+104179,English Literature,6,137,University of Arizona,62,1
+104179,History,2,23,University of Arizona,63,3
+104179,Mathematics,6,95,University of Arizona,64,7
+104179,Political Science,2,18,University of Arizona,65,2
+104179,Psychology,4,74,University of Arizona,66,7
+105330,Biology,4,88,Northern Arizona University,67,6
+105330,Business,3,53,Northern Arizona University,68,6
+105330,Education,4,87,Northern Arizona University,69,5
+105330,English Literature,3,43,Northern Arizona University,70,6
+105330,History,2,23,Northern Arizona University,71,6
+105330,Nursing,2,24,Northern Arizona University,72,1
+106245,English Literature,2,32,University of Arkansas at Little Rock,73,5
+106263,Nursing,2,48,University of Arkansas for Medical Sciences,74,1
+106397,Computer Science,3,31,University of Arkansas at Fayetteville,75,4
+106397,History,2,23,University of Arkansas at Fayetteville,76,7
+108232,Computer Science,3,34,Academy of Art University,77,4
+108232,Film and Photography,4,91,Academy of Art University,78,4
+108232,Fine Arts,4,64,Academy of Art University,79,5
+110404,Physics,2,27,California Institute of Technology,80,4
+110422,Computer Science,6,161,California Polytechnic State University,81,4
+110422,English Literature,3,29,California Polytechnic State University,82,2
+110422,Mathematics,5,76,California Polytechnic State University,83,7
+110486,English Literature,2,39,"California State University, Bakersfield",84,3
+110486,Psychology,3,31,"California State University, Bakersfield",85,1
+110510,Philosophy,3,45,"California State University, San Bernardino",86,0
+110529,Business,5,82,"California State Polytechnic University, Pomona",87,2
+110529,Computer Science,6,79,"California State Polytechnic University, Pomona",88,3
+110529,Engineering,3,53,"California State Polytechnic University, Pomona",89,5
+110538,Computer Science,3,31,"California State University, Chico",90,5
+110538,Spanish,2,26,"California State University, Chico",91,7
+110547,Sociology,4,121,"California State University, Dominguez Hills",92,2
+110565,Anthropology,3,49,"California State University, Fullerton",93,6
+110565,Business,2,36,"California State University, Fullerton",94,5
+110565,History,3,28,"California State University, Fullerton",95,1
+110574,Computer Science,5,56,"California State University, East Bay",96,7
+110583,Business,2,23,"California State University, Long Beach",97,5
+110583,History,3,37,"California State University, Long Beach",98,4
+110608,Business,5,81,"California State University, Northridge",99,3
+110608,English Literature,4,65,"California State University, Northridge",100,5
+110608,History,3,29,"California State University, Northridge",101,4
+110617,Anthropology,2,23,"California State University, Sacramento",102,6
+110617,Business,5,67,"California State University, Sacramento",103,5
+110617,Computer Science,4,68,"California State University, Sacramento",104,4
+110617,Education,2,27,"California State University, Sacramento",105,0
+110617,English Literature,2,42,"California State University, Sacramento",106,1
+110617,History,2,24,"California State University, Sacramento",107,3
+110617,Philosophy,4,65,"California State University, Sacramento",108,6
+110617,Political Science,2,22,"California State University, Sacramento",109,4
+110635,Accounting,4,52,"University of California, Berkeley",110,7
+110635,Anthropology,2,27,"University of California, Berkeley",111,4
+110635,Biology,4,69,"University of California, Berkeley",112,2
+110635,Business,6,215,"University of California, Berkeley",113,2
+110635,Computer Science,6,168,"University of California, Berkeley",114,5
+110635,Economics,6,155,"University of California, Berkeley",115,5
+110635,Engineering,6,134,"University of California, Berkeley",116,2
+110635,English Literature,5,62,"University of California, Berkeley",117,7
+110635,Film and Photography,2,19,"University of California, Berkeley",118,3
+110635,History,5,187,"University of California, Berkeley",119,2
+110635,Marketing,3,40,"University of California, Berkeley",120,1
+110635,Mathematics,6,128,"University of California, Berkeley",121,2
+110635,Philosophy,5,58,"University of California, Berkeley",122,2
+110635,Political Science,6,84,"University of California, Berkeley",123,7
+110635,Sociology,2,22,"University of California, Berkeley",124,1
+110644,Computer Science,3,34,"University of California, Davis",125,3
+110644,Economics,4,51,"University of California, Davis",126,7
+110644,Mathematics,6,85,"University of California, Davis",127,3
+110644,Physics,5,71,"University of California, Davis",128,3
+110653,Anthropology,2,23,"University of California, Irvine",129,3
+110653,Biology,6,297,"University of California, Irvine",130,2
+110653,Chemistry,3,60,"University of California, Irvine",131,2
+110653,Computer Science,6,358,"University of California, Irvine",132,2
+110653,Earth Sciences,2,22,"University of California, Irvine",133,3
+110653,Economics,4,65,"University of California, Irvine",134,2
+110653,Engineering,6,222,"University of California, Irvine",135,5
+110653,English Literature,5,126,"University of California, Irvine",136,2
+110653,Film and Photography,2,34,"University of California, Irvine",137,3
+110653,Fine Arts,3,68,"University of California, Irvine",138,3
+110653,History,4,67,"University of California, Irvine",139,2
+110653,Mathematics,6,234,"University of California, Irvine",140,2
+110653,Music,3,38,"University of California, Irvine",141,7
+110653,Philosophy,3,40,"University of California, Irvine",142,2
+110653,Physics,5,78,"University of California, Irvine",143,2
+110653,Political Science,3,61,"University of California, Irvine",144,3
+110653,Psychology,6,100,"University of California, Irvine",145,2
+110653,Sociology,4,65,"University of California, Irvine",146,3
+110662,Biology,4,42,University of California Los Angeles,147,2
+110662,Chemistry,2,26,University of California Los Angeles,148,3
+110662,Computer Science,4,100,University of California Los Angeles,149,7
+110662,History,2,36,University of California Los Angeles,150,2
+110662,Mathematics,5,87,University of California Los Angeles,151,7
+110662,Music,2,26,University of California Los Angeles,152,7
+110662,Psychology,5,159,University of California Los Angeles,153,7
+110680,Biology,4,57,"University of California, San Diego",154,2
+110680,Computer Science,6,355,"University of California, San Diego",155,2
+110680,Economics,6,474,"University of California, San Diego",156,7
+110680,History,5,91,"University of California, San Diego",157,2
+110680,Mathematics,6,169,"University of California, San Diego",158,2
+110680,Philosophy,4,55,"University of California, San Diego",159,7
+110680,Physics,4,39,"University of California, San Diego",160,2
+110680,Political Science,6,108,"University of California, San Diego",161,2
+110680,Psychology,3,36,"University of California, San Diego",162,2
+110705,Chemistry,2,20,"University of California, Santa Barbara",163,2
+110705,Computer Science,6,107,"University of California, Santa Barbara",164,3
+110705,Economics,2,21,"University of California, Santa Barbara",165,7
+110705,Engineering,2,31,"University of California, Santa Barbara",166,7
+110705,English Literature,6,156,"University of California, Santa Barbara",167,7
+110705,History,5,100,"University of California, Santa Barbara",168,2
+110705,Mathematics,3,34,"University of California, Santa Barbara",169,2
+110714,Biology,5,62,"University of California, Santa Cruz",170,2
+110714,Computer Science,6,274,"University of California, Santa Cruz",171,3
+110714,Economics,4,67,"University of California, Santa Cruz",172,2
+110714,Engineering,6,114,"University of California, Santa Cruz",173,3
+110714,English Literature,3,42,"University of California, Santa Cruz",174,3
+110714,Mathematics,5,71,"University of California, Santa Cruz",175,7
+110714,Political Science,2,18,"University of California, Santa Cruz",176,2
+115083,Business,2,39,Golden Gate University,177,6
+115409,Computer Science,6,144,Harvey Mudd College,178,2
+115755,Computer Science,2,28,Humboldt State University,179,2
+115755,English Literature,2,22,Humboldt State University,180,4
+117627,Fitness and Leisure,2,40,La Sierra University,181,2
+117627,Mathematics,2,28,La Sierra University,182,6
+117946,Computer Science,3,58,Loyola Marymount University,183,7
+119173,Business,2,19,Mount St. Mary's College,184,6
+119605,English Literature,3,92,National University,185,4
+119605,Psychology,2,24,National University,186,0
+120865,English Literature,2,20,Pacific Union College,187,2
+121150,Business,3,38,Pepperdine University,188,1
+121309,Mathematics,5,95,Point Loma Nazarene University,189,6
+121345,Chemistry,2,20,Pomona College,190,3
+121345,Philosophy,2,23,Pomona College,191,2
+122409,Biology,4,48,San Diego State University,192,1
+122409,Computer Science,2,20,San Diego State University,193,3
+122409,English Literature,2,21,San Diego State University,194,3
+122409,History,2,30,San Diego State University,195,2
+122409,Mathematics,2,19,San Diego State University,196,7
+122409,Psychology,2,29,San Diego State University,197,2
+122597,Business,3,35,San Francisco State University,198,5
+122597,Computer Science,4,45,San Francisco State University,199,6
+122597,History,4,69,San Francisco State University,200,1
+122597,Mathematics,5,73,San Francisco State University,201,5
+122612,Business,3,44,University of San Francisco,202,4
+122612,Computer Science,2,21,University of San Francisco,203,1
+122755,Business,5,142,San Jose State University,204,6
+122755,Computer Science,2,21,San Jose State University,205,5
+122755,Criminal Justice,2,67,San Jose State University,206,3
+122755,Education,2,21,San Jose State University,207,5
+122755,Engineering,3,36,San Jose State University,208,1
+122755,English Literature,4,52,San Jose State University,209,5
+122755,Media / Communications,2,23,San Jose State University,210,3
+123572,Psychology,2,24,Sonoma State University,211,3
+123961,Biology,2,22,University of Southern California,212,7
+123961,Business,6,129,University of Southern California,213,5
+123961,Computer Science,6,152,University of Southern California,214,5
+123961,Engineering,6,86,University of Southern California,215,7
+123961,Mathematics,3,31,University of Southern California,216,7
+125727,Biology,6,112,Westmont College,217,1
+125727,Chemistry,5,57,Westmont College,218,3
+125727,Computer Science,3,32,Westmont College,219,5
+125727,English Literature,6,153,Westmont College,220,6
+125727,Fine Arts,5,76,Westmont College,221,6
+125727,Fitness and Leisure,6,221,Westmont College,222,3
+125727,History,5,113,Westmont College,223,6
+125727,Mathematics,6,90,Westmont College,224,6
+125727,Media / Communications,3,47,Westmont College,225,6
+125727,Music,5,113,Westmont College,226,4
+125727,Philosophy,3,35,Westmont College,227,6
+125727,Political Science,5,57,Westmont College,228,6
+125727,Psychology,6,121,Westmont College,229,1
+125727,Religion,3,40,Westmont College,230,4
+125727,Sociology,6,92,Westmont College,231,6
+125727,Spanish,3,34,Westmont College,232,2
+125727,Theatre Arts,2,26,Westmont College,233,1
+126562,Computer Science,4,50,University of Colorado Denver,234,6
+126562,Mathematics,5,161,University of Colorado Denver,235,4
+126614,Biology,5,63,University of Colorado Boulder,236,7
+126614,Business,4,55,University of Colorado Boulder,237,7
+126614,Computer Science,6,144,University of Colorado Boulder,238,4
+126614,Economics,6,929,University of Colorado Boulder,239,1
+126614,Engineering,3,37,University of Colorado Boulder,240,4
+126614,English Literature,5,98,University of Colorado Boulder,241,1
+126614,Mathematics,6,112,University of Colorado Boulder,242,3
+126614,Media / Communications,6,174,University of Colorado Boulder,243,2
+126614,Philosophy,2,33,University of Colorado Boulder,244,2
+126614,Physics,3,42,University of Colorado Boulder,245,6
+126614,Political Science,6,136,University of Colorado Boulder,246,7
+126614,Psychology,6,156,University of Colorado Boulder,247,5
+126614,Sociology,2,23,University of Colorado Boulder,248,2
+126818,Computer Science,6,98,Colorado State University,249,5
+126818,Economics,4,46,Colorado State University,250,6
+126818,Engineering,2,19,Colorado State University,251,3
+126818,English Literature,2,23,Colorado State University,252,1
+126818,Mathematics,3,40,Colorado State University,253,3
+126818,Psychology,3,72,Colorado State University,254,7
+127060,English Literature,2,58,University of Denver,255,3
+128744,Business,3,41,University of Bridgeport,256,4
+129020,Engineering,2,27,University of Connecticut,257,4
+130794,Computer Science,4,46,Yale University,258,3
+130794,Mathematics,4,44,Yale University,259,1
+130943,Biology,2,23,University of Delaware,260,4
+130943,Business,2,21,University of Delaware,261,0
+130943,Chemistry,2,18,University of Delaware,262,3
+130943,Computer Science,5,83,University of Delaware,263,4
+130943,English Literature,2,21,University of Delaware,264,2
+130943,Mathematics,2,27,University of Delaware,265,1
+131159,Mathematics,4,191,American University,266,1
+131159,Political Science,5,67,American University,267,3
+131469,History,2,19,George Washington University,268,6
+131469,Political Science,3,34,George Washington University,269,3
+131496,English Literature,2,28,Georgetown University,270,2
+131496,History,2,21,Georgetown University,271,2
+131496,Political Science,5,111,Georgetown University,272,7
+131520,Biology,3,41,Howard University,273,4
+131520,Chemistry,2,55,Howard University,274,6
+131520,Film and Photography,2,29,Howard University,275,4
+131520,Fitness and Leisure,2,74,Howard University,276,2
+131520,Journalism,2,24,Howard University,277,6
+131520,Mathematics,2,26,Howard University,278,4
+131520,Media / Communications,3,44,Howard University,279,6
+131520,Music,2,102,Howard University,280,4
+131520,Physics,2,40,Howard University,281,6
+132903,Business,3,44,University of Central Florida,282,5
+132903,Computer Science,6,125,University of Central Florida,283,1
+132903,Education,3,48,University of Central Florida,284,4
+132903,Engineering,3,38,University of Central Florida,285,6
+132903,English Literature,4,79,University of Central Florida,286,4
+132903,History,2,22,University of Central Florida,287,3
+132903,Philosophy,3,36,University of Central Florida,288,6
+133669,Computer Science,3,44,Florida Atlantic University,289,7
+133669,History,3,43,Florida Atlantic University,290,7
+133669,Mathematics,5,56,Florida Atlantic University,291,2
+133881,Accounting,4,40,Florida Institute of Technology,292,3
+133881,Business,6,452,Florida Institute of Technology,293,5
+133881,Computer Science,6,257,Florida Institute of Technology,294,5
+133881,Mathematics,5,70,Florida Institute of Technology,295,7
+133951,Biology,3,40,Florida International University,296,7
+133951,Business,6,119,Florida International University,297,6
+133951,Computer Science,5,60,Florida International University,298,3
+133951,Economics,3,48,Florida International University,299,3
+133951,Education,3,116,Florida International University,300,0
+133951,Engineering,3,36,Florida International University,301,6
+133951,English Literature,3,76,Florida International University,302,3
+133951,Fitness and Leisure,2,19,Florida International University,303,1
+133951,History,2,26,Florida International University,304,3
+133951,Mathematics,3,33,Florida International University,305,3
+133951,Political Science,4,74,Florida International University,306,5
+133951,Religion,2,41,Florida International University,307,5
+134097,Biology,5,84,Florida State University,308,0
+134097,Computer Science,6,222,Florida State University,309,5
+134097,Health Technician,2,21,Florida State University,310,-1
+134097,History,2,31,Florida State University,311,0
+134097,Mathematics,6,149,Florida State University,312,6
+134097,Medicine,5,65,Florida State University,313,0
+134097,Physics,5,63,Florida State University,314,3
+134097,Political Science,4,51,Florida State University,315,1
+134130,Agriculture,4,56,University of Florida,316,6
+134130,Anthropology,4,52,University of Florida,317,1
+134130,Biology,6,184,University of Florida,318,6
+134130,Business,4,114,University of Florida,319,7
+134130,Computer Science,6,157,University of Florida,320,5
+134130,Education,3,31,University of Florida,321,1
+134130,Engineering,6,103,University of Florida,322,4
+134130,English Literature,6,353,University of Florida,323,4
+134130,Fitness and Leisure,4,166,University of Florida,324,2
+134130,History,5,117,University of Florida,325,3
+134130,Media / Communications,5,78,University of Florida,326,3
+134130,Medicine,2,24,University of Florida,327,7
+134130,Physics,5,65,University of Florida,328,4
+134130,Political Science,4,94,University of Florida,329,7
+134130,Psychology,6,96,University of Florida,330,4
+134130,Sociology,3,40,University of Florida,331,6
+136215,Business,4,65,Nova Southeastern University,332,0
+136215,Computer Science,3,43,Nova Southeastern University,333,1
+136950,Business,2,23,Rollins College,334,5
+137351,Accounting,4,112,University of South Florida,335,0
+137351,Anthropology,2,39,University of South Florida,336,1
+137351,Biology,4,62,University of South Florida,337,1
+137351,Business,6,373,University of South Florida,338,6
+137351,Computer Science,4,48,University of South Florida,339,6
+137351,Economics,3,34,University of South Florida,340,6
+137351,Education,6,96,University of South Florida,341,1
+137351,English Literature,5,181,University of South Florida,342,4
+137351,Fine Arts,2,23,University of South Florida,343,6
+137351,Geography,4,39,University of South Florida,344,4
+137351,History,4,80,University of South Florida,345,4
+137351,Journalism,3,48,University of South Florida,346,7
+137351,Marketing,4,78,University of South Florida,347,6
+137351,Mathematics,4,93,University of South Florida,348,6
+137351,Media / Communications,3,63,University of South Florida,349,6
+137351,Medicine,5,174,University of South Florida,350,4
+137351,Political Science,2,33,University of South Florida,351,6
+137351,Psychology,6,111,University of South Florida,352,7
+137351,Social Work,5,74,University of South Florida,353,7
+137351,Sociology,2,24,University of South Florida,354,6
+137351,Spanish,2,24,University of South Florida,355,6
+138600,Mathematics,6,120,Agnes Scott College,356,0
+139366,Computer Science,2,137,Columbus State University,357,6
+139658,Chemistry,2,30,Emory University,358,1
+139658,English Literature,2,45,Emory University,359,5
+139658,History,2,27,Emory University,360,2
+139658,Mathematics,2,42,Emory University,361,0
+139755,Business,2,19,Georgia Institute of Technology,362,5
+139755,Computer Science,6,289,Georgia Institute of Technology,363,4
+139755,Engineering,5,75,Georgia Institute of Technology,364,2
+139755,Mathematics,6,151,Georgia Institute of Technology,365,2
+139931,English Literature,5,130,Georgia Southern University,366,3
+139931,Spanish,2,22,Georgia Southern University,367,6
+139940,Business,4,95,Georgia State University,368,5
+139940,Computer Science,5,80,Georgia State University,369,3
+139940,English Literature,3,74,Georgia State University,370,0
+139940,Philosophy,3,32,Georgia State University,371,7
+139959,Anthropology,2,18,University of Georgia,372,2
+139959,Biology,6,109,University of Georgia,373,1
+139959,Business,6,93,University of Georgia,374,5
+139959,Computer Science,6,85,University of Georgia,375,0
+139959,Economics,5,63,University of Georgia,376,1
+139959,Education,6,199,University of Georgia,377,4
+139959,English Literature,5,82,University of Georgia,378,3
+139959,Fitness and Leisure,4,81,University of Georgia,379,4
+139959,History,5,93,University of Georgia,380,3
+139959,Mathematics,6,112,University of Georgia,381,7
+139959,Media / Communications,4,81,University of Georgia,382,4
+139959,Medicine,2,19,University of Georgia,383,4
+139959,Music,2,22,University of Georgia,384,5
+139959,Political Science,6,131,University of Georgia,385,7
+139959,Psychology,6,148,University of Georgia,386,6
+139959,Sociology,2,26,University of Georgia,387,1
+139959,Spanish,2,59,University of Georgia,388,4
+139959,Theatre Arts,4,59,University of Georgia,389,2
+141264,Education,2,30,Valdosta State University,390,6
+141264,Psychology,2,18,Valdosta State University,391,0
+141334,English Literature,6,239,University of West Georgia,392,6
+141334,History,4,104,University of West Georgia,393,1
+141334,Media / Communications,2,31,University of West Georgia,394,5
+141334,Political Science,3,43,University of West Georgia,395,7
+141486,Accounting,2,20,Chaminade University of Honolulu,396,2
+141486,Biology,6,191,Chaminade University of Honolulu,397,6
+141486,Business,5,91,Chaminade University of Honolulu,398,6
+141486,Computer Science,2,26,Chaminade University of Honolulu,399,0
+141486,Criminal Justice,4,96,Chaminade University of Honolulu,400,6
+141486,Education,6,401,Chaminade University of Honolulu,401,6
+141486,English Literature,5,218,Chaminade University of Honolulu,402,4
+141486,Film and Photography,2,25,Chaminade University of Honolulu,403,1
+141486,History,4,105,Chaminade University of Honolulu,404,6
+141486,Media / Communications,4,75,Chaminade University of Honolulu,405,5
+141486,Music,2,22,Chaminade University of Honolulu,406,3
+141486,Philosophy,4,64,Chaminade University of Honolulu,407,6
+141486,Psychology,5,221,Chaminade University of Honolulu,408,6
+141486,Religion,5,94,Chaminade University of Honolulu,409,6
+141486,Sociology,4,70,Chaminade University of Honolulu,410,6
+142115,Business,3,35,Boise State University,411,6
+142285,Biology,2,31,University of Idaho,412,7
+142285,Business,2,22,University of Idaho,413,6
+142285,Computer Science,4,44,University of Idaho,414,7
+142285,English Literature,4,54,University of Idaho,415,4
+142285,Mathematics,2,22,University of Idaho,416,6
+142285,Psychology,2,23,University of Idaho,417,3
+142522,Fitness and Leisure,2,30,Brigham Young University Idaho,418,3
+143358,Political Science,2,20,Bradley University,419,7
+144050,Computer Science,6,200,University of Chicago,420,3
+144050,Economics,3,29,University of Chicago,421,2
+144050,History,2,22,University of Chicago,422,1
+144050,Mathematics,5,56,University of Chicago,423,3
+144740,Business,4,45,DePaul University,424,3
+144740,Computer Science,6,120,DePaul University,425,6
+144892,Business,2,22,Eastern Illinois University,426,3
+144892,Education,5,59,Eastern Illinois University,427,0
+144892,English Literature,6,835,Eastern Illinois University,428,0
+144892,History,2,26,Eastern Illinois University,429,7
+145600,Accounting,5,69,University of Illinois at Chicago,430,2
+145600,Business,4,48,University of Illinois at Chicago,431,7
+145600,Chemistry,2,29,University of Illinois at Chicago,432,2
+145600,Computer Science,4,55,University of Illinois at Chicago,433,2
+145600,Mathematics,6,101,University of Illinois at Chicago,434,2
+145600,Political Science,5,68,University of Illinois at Chicago,435,2
+145600,Psychology,2,22,University of Illinois at Chicago,436,5
+145637,Biology,4,56,University of Illinois at Urbana Champaign,437,2
+145637,Business,6,126,University of Illinois at Urbana Champaign,438,7
+145637,Computer Science,6,166,University of Illinois at Urbana Champaign,439,4
+145637,Education,4,78,University of Illinois at Urbana Champaign,440,7
+145637,Engineering,3,33,University of Illinois at Urbana Champaign,441,7
+145637,English Literature,4,103,University of Illinois at Urbana Champaign,442,7
+145637,Mathematics,6,208,University of Illinois at Urbana Champaign,443,2
+145725,Business,2,29,Illinois Institute of Technology,444,4
+145725,Computer Science,4,65,Illinois Institute of Technology,445,5
+145725,Mathematics,4,41,Illinois Institute of Technology,446,7
+145813,Economics,2,24,Illinois State University,447,1
+145813,Education,4,70,Illinois State University,448,1
+145813,English Literature,2,49,Illinois State University,449,1
+145813,Media / Communications,2,24,Illinois State University,450,1
+145813,Political Science,2,18,Illinois State University,451,3
+145813,Psychology,5,110,Illinois State University,452,1
+146719,Business,2,19,Loyola University Chicago,453,2
+147341,Classics,6,81,Monmouth College,454,2
+147679,Business,3,37,North Park University,455,4
+147703,Business,3,37,Northern Illinois University,456,2
+147703,Education,2,28,Northern Illinois University,457,6
+147703,English Literature,2,24,Northern Illinois University,458,6
+147703,History,2,25,Northern Illinois University,459,3
+147703,Political Science,4,52,Northern Illinois University,460,4
+147767,Business,5,94,Northwestern University,461,2
+147767,Computer Science,5,71,Northwestern University,462,1
+147767,Economics,2,27,Northwestern University,463,7
+148627,English Literature,2,21,Saint Xavier University,464,2
+149222,Biology,2,28,Southern Illinois University Carbondale,465,3
+149222,History,2,24,Southern Illinois University Carbondale,466,6
+149222,Media / Communications,2,25,Southern Illinois University Carbondale,467,7
+149231,English Literature,4,60,Southern Illinois University Edwardsville,468,1
+150136,English Literature,3,31,Ball State University,469,3
+150400,Computer Science,2,23,DePauw University,470,3
+150400,Sociology,2,20,DePauw University,471,4
+150756,History,2,18,Hanover College,472,7
+151102,Business,3,39,Indiana University – Purdue University Fort Wayne,473,7
+151102,Computer Science,2,37,Indiana University – Purdue University Fort Wayne,474,3
+151102,Education,2,20,Indiana University – Purdue University Fort Wayne,475,4
+151102,Media / Communications,2,25,Indiana University – Purdue University Fort Wayne,476,7
+151102,Psychology,2,21,Indiana University – Purdue University Fort Wayne,477,5
+151111,Computer Science,5,79,Indiana University – Purdue University Indianapolis,478,1
+151111,History,5,174,Indiana University – Purdue University Indianapolis,479,6
+151351,Biology,4,52,Indiana University Bloomington,480,5
+151351,Business,5,68,Indiana University Bloomington,481,7
+151351,Chemistry,2,25,Indiana University Bloomington,482,4
+151351,Computer Science,6,124,Indiana University Bloomington,483,1
+151351,Education,6,147,Indiana University Bloomington,484,3
+151351,English Literature,4,54,Indiana University Bloomington,485,7
+151351,History,3,38,Indiana University Bloomington,486,2
+151351,Physics,2,25,Indiana University Bloomington,487,4
+151351,Psychology,4,41,Indiana University Bloomington,488,0
+152080,Business,2,20,University of Notre Dame,489,7
+152080,Engineering,2,18,University of Notre Dame,490,7
+152080,English Literature,2,19,University of Notre Dame,491,1
+152080,Philosophy,3,34,University of Notre Dame,492,2
+152080,Theology,3,28,University of Notre Dame,493,7
+152318,Computer Science,6,108,Rose–Hulman Institute of Technology,494,5
+153269,Business,2,19,Drake University,495,3
+153384,Computer Science,6,845,Grinnell College,496,2
+153384,English Literature,5,70,Grinnell College,497,2
+153384,History,4,45,Grinnell College,498,2
+153384,Mathematics,2,36,Grinnell College,499,2
+153603,Agriculture,2,32,Iowa State University,500,4
+153603,Biology,5,91,Iowa State University,501,6
+153603,Business,5,130,Iowa State University,502,5
+153603,Computer Science,6,129,Iowa State University,503,4
+153603,Economics,4,95,Iowa State University,504,5
+153603,Engineering,5,50,Iowa State University,505,3
+153603,English Literature,5,96,Iowa State University,506,4
+153603,Fitness and Leisure,2,25,Iowa State University,507,1
+153603,History,2,19,Iowa State University,508,3
+153603,Marketing,2,24,Iowa State University,509,2
+153603,Mathematics,6,148,Iowa State University,510,3
+153603,Media / Communications,3,31,Iowa State University,511,5
+153603,Physics,3,31,Iowa State University,512,6
+153603,Political Science,4,68,Iowa State University,513,0
+153603,Psychology,4,68,Iowa State University,514,1
+153603,Sociology,5,71,Iowa State University,515,2
+153658,Biology,5,73,University of Iowa,516,5
+153658,Computer Science,6,106,University of Iowa,517,5
+153658,Education,5,374,University of Iowa,518,3
+153658,English Literature,6,136,University of Iowa,519,3
+153658,History,2,25,University of Iowa,520,4
+153658,Mathematics,5,135,University of Iowa,521,6
+153658,Media / Communications,2,20,University of Iowa,522,7
+153658,Political Science,5,56,University of Iowa,523,4
+153658,Psychology,2,32,University of Iowa,524,4
+154095,Computer Science,6,149,University of Northern Iowa,525,6
+154095,Education,2,43,University of Northern Iowa,526,3
+154095,Psychology,3,35,University of Northern Iowa,527,7
+155317,English Literature,2,22,University of Kansas,528,4
+155317,Mathematics,3,39,University of Kansas,529,3
+155317,Philosophy,3,48,University of Kansas,530,2
+155399,Computer Science,6,81,Kansas State University,531,6
+155399,Economics,2,19,Kansas State University,532,4
+155399,English Literature,4,63,Kansas State University,533,4
+155399,History,3,33,Kansas State University,534,1
+155399,Mathematics,6,146,Kansas State University,535,1
+155681,French,2,30,Pittsburg State University,536,3
+155681,Spanish,3,67,Pittsburg State University,537,4
+156295,English Literature,2,24,Berea College,538,5
+156620,Education,5,51,Eastern Kentucky University,539,4
+156620,English Literature,2,33,Eastern Kentucky University,540,6
+156620,History,2,57,Eastern Kentucky University,541,6
+156620,Media / Communications,2,38,Eastern Kentucky University,542,6
+157085,Biology,3,49,University of Kentucky,543,6
+157085,Business,3,51,University of Kentucky,544,6
+157085,Chemistry,3,33,University of Kentucky,545,7
+157085,Computer Science,5,67,University of Kentucky,546,7
+157085,Economics,2,35,University of Kentucky,547,0
+157085,Education,2,29,University of Kentucky,548,1
+157085,Engineering,2,24,University of Kentucky,549,5
+157085,English Literature,3,33,University of Kentucky,550,7
+157085,Mathematics,5,59,University of Kentucky,551,4
+157085,Physics,2,18,University of Kentucky,552,6
+157085,Political Science,4,46,University of Kentucky,553,3
+157289,English Literature,4,80,University of Louisville,554,3
+157289,Political Science,5,73,University of Louisville,555,1
+157401,Education,3,40,Murray State University,556,6
+157401,English Literature,2,18,Murray State University,557,6
+157447,Chemistry,3,59,Northern Kentucky University,558,1
+157447,English Literature,5,84,Northern Kentucky University,559,4
+157951,Biology,4,59,Western Kentucky University,560,7
+157951,Business,2,23,Western Kentucky University,561,5
+157951,Education,5,96,Western Kentucky University,562,6
+157951,English Literature,2,32,Western Kentucky University,563,6
+157951,Psychology,2,37,Western Kentucky University,564,5
+159391,Biology,2,18,Louisiana State University,565,6
+159391,Mathematics,5,88,Louisiana State University,566,2
+159647,English Literature,2,23,Louisiana Tech University,567,4
+159656,Accounting,3,71,Loyola University New Orleans,568,4
+159656,Biology,4,159,Loyola University New Orleans,569,6
+159656,Business,4,258,Loyola University New Orleans,570,1
+159656,Chemistry,5,120,Loyola University New Orleans,571,2
+159656,Classics,3,37,Loyola University New Orleans,572,6
+159656,Computer Science,3,40,Loyola University New Orleans,573,3
+159656,Criminal Justice,4,96,Loyola University New Orleans,574,7
+159656,Dance,2,24,Loyola University New Orleans,575,-1
+159656,Economics,4,57,Loyola University New Orleans,576,3
+159656,Education,4,70,Loyola University New Orleans,577,3
+159656,English Literature,5,265,Loyola University New Orleans,578,3
+159656,Film and Photography,4,77,Loyola University New Orleans,579,5
+159656,Fine Arts,4,120,Loyola University New Orleans,580,4
+159656,French,2,29,Loyola University New Orleans,581,2
+159656,History,4,143,Loyola University New Orleans,582,7
+159656,Journalism,3,31,Loyola University New Orleans,583,3
+159656,Marketing,4,66,Loyola University New Orleans,584,4
+159656,Mathematics,4,180,Loyola University New Orleans,585,6
+159656,Media / Communications,4,151,Loyola University New Orleans,586,2
+159656,Music,5,195,Loyola University New Orleans,587,6
+159656,Nursing,4,91,Loyola University New Orleans,588,1
+159656,Philosophy,4,158,Loyola University New Orleans,589,5
+159656,Physics,4,67,Loyola University New Orleans,590,7
+159656,Political Science,4,106,Loyola University New Orleans,591,5
+159656,Psychology,4,208,Loyola University New Orleans,592,6
+159656,Religion,4,114,Loyola University New Orleans,593,5
+159656,Sociology,4,71,Loyola University New Orleans,594,4
+159656,Spanish,4,84,Loyola University New Orleans,595,5
+159656,Theatre Arts,4,96,Loyola University New Orleans,596,4
+159966,Chemistry,2,49,Nicholls State University,597,1
+160038,Psychology,2,21,Northwestern State University,598,4
+160612,Education,4,79,Southeastern Louisiana University,599,4
+160755,Business,2,29,Tulane University,600,6
+161004,Computer Science,2,23,Bowdoin College,601,5
+162654,Computer Science,5,117,Goucher College,602,2
+162928,Business,3,53,Johns Hopkins University,603,7
+162928,Computer Science,6,113,Johns Hopkins University,604,2
+162928,Engineering,4,44,Johns Hopkins University,605,2
+162928,Mathematics,5,70,Johns Hopkins University,606,7
+162928,Physics,2,21,Johns Hopkins University,607,3
+163204,Business,2,41,University of Maryland University College,608,4
+163204,Computer Science,2,36,University of Maryland University College,609,4
+163204,English Literature,2,28,University of Maryland University College,610,4
+163204,History,2,41,University of Maryland University College,611,6
+163268,Computer Science,6,339,"University of Maryland, Baltimore County",612,5
+163268,English Literature,2,18,"University of Maryland, Baltimore County",613,7
+163268,Film and Photography,2,21,"University of Maryland, Baltimore County",614,2
+163268,Mathematics,4,67,"University of Maryland, Baltimore County",615,5
+163286,Biology,5,77,"University of Maryland, College Park",616,7
+163286,Business,5,81,"University of Maryland, College Park",617,7
+163286,Chemistry,2,21,"University of Maryland, College Park",618,2
+163286,Computer Science,6,680,"University of Maryland, College Park",619,2
+163286,Earth Sciences,2,20,"University of Maryland, College Park",620,5
+163286,Economics,5,84,"University of Maryland, College Park",621,7
+163286,Education,2,20,"University of Maryland, College Park",622,7
+163286,Engineering,4,79,"University of Maryland, College Park",623,2
+163286,English Literature,6,130,"University of Maryland, College Park",624,5
+163286,Fine Arts,2,24,"University of Maryland, College Park",625,3
+163286,History,3,53,"University of Maryland, College Park",626,7
+163286,Mathematics,6,162,"University of Maryland, College Park",627,7
+163286,Physics,6,151,"University of Maryland, College Park",628,7
+163286,Political Science,5,84,"University of Maryland, College Park",629,2
+164076,Psychology,2,22,Towson University,630,1
+164155,Computer Science,2,19,United States Naval Academy,631,1
+164924,Business,5,62,Boston College,632,7
+164924,Economics,3,64,Boston College,633,2
+164988,Business,2,30,Boston University,634,2
+164988,Computer Science,6,104,Boston University,635,5
+164988,Mathematics,2,24,Boston University,636,5
+166027,Computer Science,5,67,Harvard University,637,5
+166027,Mathematics,6,91,Harvard University,638,4
+166027,Political Science,4,75,Harvard University,639,4
+166513,Computer Science,6,114,University of Massachusetts Lowell,640,2
+166629,Business,6,104,University of Massachusetts Amherst,641,2
+166629,Computer Science,6,113,University of Massachusetts Amherst,642,7
+166629,Economics,3,35,University of Massachusetts Amherst,643,2
+166629,Engineering,2,26,University of Massachusetts Amherst,644,4
+166629,English Literature,2,30,University of Massachusetts Amherst,645,0
+166629,History,2,25,University of Massachusetts Amherst,646,1
+166629,Mathematics,5,64,University of Massachusetts Amherst,647,7
+166629,Philosophy,4,60,University of Massachusetts Amherst,648,2
+166683,Anthropology,3,45,Massachusetts Institute of Technology,649,3
+166683,Architecture,6,144,Massachusetts Institute of Technology,650,-1
+166683,Biology,6,226,Massachusetts Institute of Technology,651,2
+166683,Business,6,272,Massachusetts Institute of Technology,652,5
+166683,Chemistry,3,38,Massachusetts Institute of Technology,653,2
+166683,Chinese,2,20,Massachusetts Institute of Technology,654,-1
+166683,Computer Science,6,312,Massachusetts Institute of Technology,655,4
+166683,Economics,6,113,Massachusetts Institute of Technology,656,2
+166683,Engineering,6,310,Massachusetts Institute of Technology,657,2
+166683,English Literature,6,298,Massachusetts Institute of Technology,658,2
+166683,Film and Photography,3,43,Massachusetts Institute of Technology,659,2
+166683,History,5,162,Massachusetts Institute of Technology,660,2
+166683,Mathematics,6,201,Massachusetts Institute of Technology,661,5
+166683,Music,3,34,Massachusetts Institute of Technology,662,5
+166683,Philosophy,5,85,Massachusetts Institute of Technology,663,2
+166683,Physics,6,218,Massachusetts Institute of Technology,664,4
+166683,Political Science,6,212,Massachusetts Institute of Technology,665,2
+166683,Psychology,2,24,Massachusetts Institute of Technology,666,2
+167358,Business,2,21,Northeastern University,667,4
+167358,Computer Science,4,61,Northeastern University,668,2
+167358,Mathematics,6,91,Northeastern University,669,2
+168148,Biology,2,57,Tufts University,670,3
+168148,Computer Science,4,60,Tufts University,671,5
+168148,Political Science,3,42,Tufts University,672,4
+168281,Mathematics,6,78,Wheaton College,673,2
+168421,Computer Science,6,126,Worcester Polytechnic Institute,674,4
+169080,Mathematics,6,118,Calvin College,675,0
+169798,English Literature,4,50,Eastern Michigan University,676,2
+170082,Computer Science,2,20,Grand Valley State University,677,3
+170532,Philosophy,3,32,Kalamazoo College,678,1
+170976,Anthropology,4,96,University of Michigan–Ann Arbor,679,3
+170976,Biology,6,248,University of Michigan–Ann Arbor,680,7
+170976,Business,5,71,University of Michigan–Ann Arbor,681,2
+170976,Chemistry,4,55,University of Michigan–Ann Arbor,682,7
+170976,Classics,4,58,University of Michigan–Ann Arbor,683,2
+170976,Computer Science,6,217,University of Michigan–Ann Arbor,684,7
+170976,Economics,5,79,University of Michigan–Ann Arbor,685,7
+170976,Education,3,54,University of Michigan–Ann Arbor,686,3
+170976,Engineering,5,56,University of Michigan–Ann Arbor,687,2
+170976,English Literature,6,140,University of Michigan–Ann Arbor,688,3
+170976,Film and Photography,4,190,University of Michigan–Ann Arbor,689,3
+170976,Fine Arts,4,273,University of Michigan–Ann Arbor,690,3
+170976,French,4,270,University of Michigan–Ann Arbor,691,3
+170976,German,4,257,University of Michigan–Ann Arbor,692,7
+170976,History,4,106,University of Michigan–Ann Arbor,693,3
+170976,Mathematics,6,278,University of Michigan–Ann Arbor,694,7
+170976,Music,2,26,University of Michigan–Ann Arbor,695,3
+170976,Philosophy,5,90,University of Michigan–Ann Arbor,696,7
+170976,Physics,3,67,University of Michigan–Ann Arbor,697,7
+170976,Political Science,6,111,University of Michigan–Ann Arbor,698,2
+170976,Psychology,6,368,University of Michigan–Ann Arbor,699,3
+170976,Sociology,6,273,University of Michigan–Ann Arbor,700,3
+170976,Spanish,4,254,University of Michigan–Ann Arbor,701,3
+170976,Theatre Arts,2,28,University of Michigan–Ann Arbor,702,3
+170976,Women's Studies,2,20,University of Michigan–Ann Arbor,703,7
+171100,Biology,6,101,Michigan State University,704,3
+171100,Business,4,66,Michigan State University,705,2
+171100,Computer Science,3,34,Michigan State University,706,1
+171100,Engineering,6,81,Michigan State University,707,7
+171100,English Literature,5,88,Michigan State University,708,4
+171100,History,4,65,Michigan State University,709,6
+171100,Mathematics,2,27,Michigan State University,710,1
+171100,Nursing,6,283,Michigan State University,711,6
+171100,Philosophy,2,49,Michigan State University,712,6
+171100,Physics,5,97,Michigan State University,713,2
+171100,Political Science,3,46,Michigan State University,714,7
+171100,Psychology,6,375,Michigan State University,715,7
+171128,Engineering,3,32,Michigan Technological University,716,5
+171571,Chemistry,2,86,Oakland University,717,6
+172644,Computer Science,3,104,Wayne State University,718,5
+172644,Engineering,4,81,Wayne State University,719,1
+172644,English Literature,3,31,Wayne State University,720,2
+172699,Business,2,30,Western Michigan University,721,2
+172699,Education,4,47,Western Michigan University,722,2
+172699,Engineering,2,25,Western Michigan University,723,4
+172699,English Literature,3,56,Western Michigan University,724,3
+172699,Political Science,4,53,Western Michigan University,725,7
+173258,Political Science,6,137,Carleton College,726,1
+173902,History,2,22,Macalester College,727,2
+173920,English Literature,5,64,"Minnesota State University, Mankato",728,4
+173920,Political Science,2,60,"Minnesota State University, Mankato",729,6
+174233,Computer Science,6,112,"University of Minnesota, Duluth",730,1
+174233,Education,5,71,"University of Minnesota, Duluth",731,3
+174233,English Literature,2,20,"University of Minnesota, Duluth",732,4
+174358,Mathematics,2,25,Minnesota State University Moorhead,733,5
+175078,History,2,31,Southwest Minnesota State University,734,6
+175616,Sociology,2,36,Delta State University,735,2
+176017,Computer Science,2,19,University of Mississippi,736,3
+176017,Physics,4,46,University of Mississippi,737,3
+176035,English Literature,4,39,Mississippi University for Women,738,1
+176080,Computer Science,4,47,Mississippi State University,739,1
+176372,Biology,2,22,University of Southern Mississippi,740,2
+177065,Computer Science,2,24,Columbia College,741,1
+177065,Fine Arts,2,21,Columbia College,742,7
+177065,Social Work,2,43,Columbia College,743,5
+178396,English Literature,2,24,University of Missouri,744,0
+178402,Business,4,43,University of Missouri–Kansas City,745,4
+178721,Accounting,2,38,Park University,746,0
+178721,Business,3,80,Park University,747,0
+178721,Education,2,35,Park University,748,1
+178721,History,2,34,Park University,749,0
+178721,Psychology,2,25,Park University,750,0
+179043,Business,2,20,Rockhurst University,751,1
+179557,Business,2,22,Southeast Missouri State University,752,3
+179557,Political Science,6,89,Southeast Missouri State University,753,0
+179867,Computer Science,2,23,Washington University in St. Louis,754,2
+179867,Economics,2,19,Washington University in St. Louis,755,7
+179867,Mathematics,6,139,Washington University in St. Louis,756,3
+179867,Political Science,3,45,Washington University in St. Louis,757,7
+179894,Business,5,213,Webster University,758,0
+179894,Computer Science,4,80,Webster University,759,0
+179894,Education,5,96,Webster University,760,7
+179894,Marketing,2,32,Webster University,761,3
+179894,Psychology,4,64,Webster University,762,0
+180461,Engineering,2,36,Montana State University,763,3
+180489,Anthropology,2,19,University of Montana,764,6
+180489,Biology,3,48,University of Montana,765,5
+180489,Business,2,40,University of Montana,766,5
+181002,English Literature,2,25,Creighton University,767,1
+181020,Psychology,2,23,Doane College,768,6
+181464,Computer Science,3,38,University of Nebraska–Lincoln,769,1
+181464,Mathematics,3,31,University of Nebraska–Lincoln,770,2
+182281,History,2,28,"University of Nevada, Las Vegas",771,7
+182281,Political Science,3,99,"University of Nevada, Las Vegas",772,6
+182290,Business,2,37,University of Nevada Reno,773,7
+182290,Computer Science,3,41,University of Nevada Reno,774,4
+182290,Philosophy,2,35,University of Nevada Reno,775,5
+182306,Business,2,69,Great Basin College,776,6
+182306,Education,2,131,Great Basin College,777,0
+182306,Political Science,2,23,Great Basin College,778,6
+182458,Business,2,37,Sierra Nevada College,779,1
+182458,Computer Science,3,46,Sierra Nevada College,780,1
+182458,English Literature,2,31,Sierra Nevada College,781,5
+182458,Fine Arts,3,49,Sierra Nevada College,782,1
+182458,Music,2,23,Sierra Nevada College,783,1
+182458,Psychology,2,25,Sierra Nevada College,784,5
+182670,Mathematics,6,105,Dartmouth College,785,3
+183211,Computer Science,2,29,Rivier University,786,0
+183211,Mathematics,2,22,Rivier University,787,6
+184348,English Literature,2,20,Drew University,788,1
+184782,Engineering,2,21,Rowan University,789,4
+185590,English Literature,2,18,Montclair State University,790,3
+185828,Business,3,41,New Jersey Institute of Technology,791,5
+185828,Computer Science,6,155,New Jersey Institute of Technology,792,4
+185828,Mathematics,6,750,New Jersey Institute of Technology,793,3
+186131,Economics,3,30,Princeton University,794,4
+186131,Political Science,4,51,Princeton University,795,2
+186380,Biology,5,63,Rutgers University,796,7
+186380,Business,6,116,Rutgers University,797,2
+186380,Computer Science,6,103,Rutgers University,798,7
+186380,Economics,4,76,Rutgers University,799,7
+186380,Engineering,3,40,Rutgers University,800,1
+186380,English Literature,5,78,Rutgers University,801,2
+186380,Geography,2,20,Rutgers University,802,7
+186380,History,5,114,Rutgers University,803,2
+186380,Mathematics,6,135,Rutgers University,804,2
+186380,Physics,3,34,Rutgers University,805,3
+186380,Political Science,4,40,Rutgers University,806,2
+186380,Psychology,6,108,Rutgers University,807,7
+186380,Religion,2,24,Rutgers University,808,2
+186380,Sociology,6,93,Rutgers University,809,7
+186584,English Literature,2,23,Seton Hall University,810,7
+186867,Computer Science,2,24,Stevens Institute of Technology,811,2
+186876,English Literature,2,20,Richard Stockton College of New Jersey,812,1
+187134,English Literature,5,55,College of New Jersey,813,1
+187967,Mathematics,2,43,New Mexico Institute of Mining and Technology,814,2
+187985,Business,4,57,University of New Mexico,815,1
+187985,Computer Science,4,65,University of New Mexico,816,7
+187985,Education,3,30,University of New Mexico,817,7
+187985,English Literature,3,36,University of New Mexico,818,1
+187985,Mathematics,5,52,University of New Mexico,819,4
+187985,Physics,2,21,University of New Mexico,820,4
+188030,Accounting,2,44,New Mexico State University,821,2
+188030,Business,3,97,New Mexico State University,822,3
+188030,Computer Science,6,112,New Mexico State University,823,5
+188429,Computer Science,4,52,Adelphi University,824,2
+190044,Business,2,21,Clarkson University,825,1
+190044,Computer Science,6,194,Clarkson University,826,6
+190044,Engineering,3,38,Clarkson University,827,1
+190044,Mathematics,6,243,Clarkson University,828,6
+190150,Biology,6,132,Columbia University,829,2
+190150,Computer Science,6,162,Columbia University,830,2
+190150,Economics,3,31,Columbia University,831,2
+190150,Engineering,2,24,Columbia University,832,2
+190150,English Literature,2,19,Columbia University,833,7
+190150,History,2,33,Columbia University,834,2
+190150,Mathematics,4,59,Columbia University,835,2
+190150,Political Science,6,87,Columbia University,836,2
+190150,Psychology,4,41,Columbia University,837,7
+190415,Biology,3,31,Cornell University,838,5
+190415,Computer Science,6,157,Cornell University,839,2
+190415,Engineering,3,39,Cornell University,840,5
+190415,English Literature,4,53,Cornell University,841,2
+190415,Mathematics,3,36,Cornell University,842,5
+190415,Political Science,2,20,Cornell University,843,2
+190594,Physics,2,94,Hunter College,844,7
+191630,Computer Science,6,88,Hobart and William Smith Colleges,845,5
+191630,Mathematics,3,39,Hobart and William Smith Colleges,846,4
+193654,Business,3,35,New School,847,6
+193900,Accounting,3,31,New York University,848,2
+193900,Biology,2,24,New York University,849,7
+193900,Business,6,258,New York University,850,2
+193900,Computer Science,6,202,New York University,851,2
+193900,Economics,6,91,New York University,852,1
+193900,History,4,71,New York University,853,2
+193900,Marketing,2,24,New York University,854,1
+193900,Political Science,6,93,New York University,855,2
+194824,Computer Science,6,202,Rensselaer Polytechnic Institute,856,7
+194824,Mathematics,2,18,Rensselaer Polytechnic Institute,857,2
+195003,Computer Science,5,132,Rochester Institute of Technology,858,4
+195030,Political Science,2,19,University of Rochester,859,7
+196060,Computer Science,5,73,"University at Albany, State University of New York",860,0
+196060,English Literature,3,32,"University at Albany, State University of New York",861,7
+196088,Computer Science,5,86,"University at Buffalo, State University of New York",862,6
+196088,English Literature,6,122,"University at Buffalo, State University of New York",863,1
+196097,Computer Science,5,67,Stony Brook University,864,2
+196097,Mathematics,6,180,Stony Brook University,865,2
+196097,Physics,6,95,Stony Brook University,866,7
+196158,English Literature,5,144,SUNY Fredonia,867,5
+196167,English Literature,4,42,SUNY Geneseo,868,3
+196246,History,2,21,SUNY Plattsburgh,869,5
+196413,Business,2,24,Syracuse University,870,4
+196413,Computer Science,4,52,Syracuse University,871,4
+196413,English Literature,5,88,Syracuse University,872,4
+196413,Physics,2,20,Syracuse University,873,6
+196413,Political Science,4,77,Syracuse University,874,3
+196866,Mathematics,5,237,Union College,875,3
+197869,Education,2,108,Appalachian State University,876,6
+197869,Mathematics,4,62,Appalachian State University,877,4
+197869,Medicine,2,21,Appalachian State University,878,3
+197869,Psychology,2,42,Appalachian State University,879,0
+198385,Biology,2,21,Davidson College,880,4
+198419,Computer Science,5,80,Duke University,881,3
+198419,Economics,2,34,Duke University,882,1
+198419,Mathematics,5,74,Duke University,883,7
+198419,Political Science,5,74,Duke University,884,4
+198464,Business,3,47,East Carolina University,885,3
+198464,Computer Science,4,45,East Carolina University,886,6
+198464,English Literature,5,74,East Carolina University,887,1
+198598,Fitness and Leisure,2,18,Greensboro College,888,7
+199120,Biology,3,34,University of North Carolina at Chapel Hill,889,7
+199120,Business,3,29,University of North Carolina at Chapel Hill,890,3
+199120,Computer Science,6,139,University of North Carolina at Chapel Hill,891,0
+199120,Economics,3,42,University of North Carolina at Chapel Hill,892,7
+199120,English Literature,4,76,University of North Carolina at Chapel Hill,893,2
+199120,History,2,27,University of North Carolina at Chapel Hill,894,4
+199120,Mathematics,4,43,University of North Carolina at Chapel Hill,895,1
+199120,Media / Communications,3,58,University of North Carolina at Chapel Hill,896,7
+199120,Political Science,3,41,University of North Carolina at Chapel Hill,897,4
+199120,Sociology,3,33,University of North Carolina at Chapel Hill,898,2
+199139,Business,3,44,University of North Carolina at Charlotte,899,6
+199139,History,3,49,University of North Carolina at Charlotte,900,3
+199148,Business,2,23,University of North Carolina at Greensboro,901,1
+199148,English Literature,5,528,University of North Carolina at Greensboro,902,3
+199148,Fine Arts,2,40,University of North Carolina at Greensboro,903,7
+199148,History,4,250,University of North Carolina at Greensboro,904,5
+199193,Agriculture,2,18,North Carolina State University,905,5
+199193,Biology,4,49,North Carolina State University,906,6
+199193,Business,3,48,North Carolina State University,907,7
+199193,Computer Science,6,87,North Carolina State University,908,3
+199193,Engineering,6,82,North Carolina State University,909,6
+199193,English Literature,3,31,North Carolina State University,910,3
+199193,French,3,29,North Carolina State University,911,4
+199193,Mathematics,6,139,North Carolina State University,912,3
+199193,Spanish,2,33,North Carolina State University,913,2
+199209,Criminal Justice,2,21,North Carolina Wesleyan College,914,5
+199218,Education,3,40,University of North Carolina Wilmington,915,7
+199218,Fitness and Leisure,2,21,University of North Carolina Wilmington,916,6
+199218,Mathematics,2,19,University of North Carolina Wilmington,917,1
+199218,Psychology,2,20,University of North Carolina Wilmington,918,3
+199306,Sociology,2,29,Pfeiffer University,919,3
+199847,Computer Science,2,22,Wake Forest University,920,7
+199847,Mathematics,2,26,Wake Forest University,921,3
+200332,Computer Science,2,20,North Dakota State University,922,4
+200332,English Literature,2,21,North Dakota State University,923,1
+200800,Accounting,2,24,University of Akron,924,1
+200800,Biology,5,80,University of Akron,925,1
+200800,Business,6,179,University of Akron,926,1
+200800,Chemistry,6,82,University of Akron,927,6
+200800,Computer Science,5,83,University of Akron,928,6
+200800,Earth Sciences,4,44,University of Akron,929,1
+200800,Economics,4,55,University of Akron,930,0
+200800,Education,3,33,University of Akron,931,1
+200800,English Literature,6,266,University of Akron,932,1
+200800,History,5,74,University of Akron,933,1
+200800,Mathematics,6,208,University of Akron,934,6
+200800,Media / Communications,5,67,University of Akron,935,6
+200800,Medicine,2,24,University of Akron,936,1
+200800,Political Science,3,34,University of Akron,937,1
+200800,Psychology,5,67,University of Akron,938,1
+200800,Social Work,4,62,University of Akron,939,3
+200800,Sociology,3,31,University of Akron,940,1
+201645,Political Science,3,38,Case Western Reserve University,941,4
+201885,Computer Science,2,24,University of Cincinnati,942,7
+202134,Geography,2,20,Cleveland State University,943,4
+202134,History,2,18,Cleveland State University,944,4
+202134,Sociology,2,19,Cleveland State University,945,4
+203517,Business,6,227,Kent State University,946,1
+203517,Computer Science,6,158,Kent State University,947,6
+203535,Biology,4,39,Kenyon College,948,1
+204024,English Literature,2,22,Miami University,949,5
+204501,English Literature,2,20,Oberlin College,950,4
+204501,History,5,131,Oberlin College,951,7
+204501,Political Science,4,56,Oberlin College,952,1
+204796,Biology,3,32,Ohio State University,953,1
+204796,Business,6,128,Ohio State University,954,6
+204796,Computer Science,4,39,Ohio State University,955,6
+204796,Economics,4,41,Ohio State University,956,4
+204796,Engineering,5,115,Ohio State University,957,3
+204796,English Literature,5,85,Ohio State University,958,1
+204796,Film and Photography,2,20,Ohio State University,959,5
+204796,Fine Arts,2,20,Ohio State University,960,4
+204796,Geography,3,60,Ohio State University,961,3
+204796,History,4,116,Ohio State University,962,6
+204796,Physics,2,18,Ohio State University,963,6
+204796,Political Science,6,162,Ohio State University,964,1
+204857,Biology,5,65,Ohio University,965,3
+204857,Business,4,54,Ohio University,966,7
+204857,English Literature,2,19,Ohio University,967,5
+204857,History,2,21,Ohio University,968,7
+206084,Business,2,20,University of Toledo,969,7
+206084,Law,2,21,University of Toledo,970,-1
+206604,Computer Science,3,51,Wright State University,971,4
+206604,English Literature,4,92,Wright State University,972,2
+206695,English Literature,2,25,Youngstown State University,973,7
+206941,Media / Communications,5,80,University of Central Oklahoma,974,6
+207263,Business,3,45,Northeastern State University,975,4
+207388,Biology,2,30,Oklahoma State University-Main Campus,976,4
+207388,Business,2,25,Oklahoma State University-Main Campus,977,7
+207388,Computer Science,4,45,Oklahoma State University-Main Campus,978,3
+207388,Engineering,3,44,Oklahoma State University-Main Campus,979,6
+207388,Mathematics,2,24,Oklahoma State University-Main Campus,980,4
+207388,Psychology,2,30,Oklahoma State University-Main Campus,981,1
+207500,Computer Science,2,21,University of Oklahoma,982,5
+207500,Mathematics,4,38,University of Oklahoma,983,2
+207500,Political Science,2,26,University of Oklahoma,984,6
+207582,Accounting,6,85,Oral Roberts University,985,0
+207582,Biology,6,325,Oral Roberts University,986,1
+207582,Business,6,414,Oral Roberts University,987,6
+207582,Chemistry,6,240,Oral Roberts University,988,6
+207582,Classics,5,47,Oral Roberts University,989,0
+207582,Computer Science,6,94,Oral Roberts University,990,6
+207582,Education,6,841,Oral Roberts University,991,0
+207582,Engineering,6,232,Oral Roberts University,992,6
+207582,English Literature,6,226,Oral Roberts University,993,0
+207582,Film and Photography,2,21,Oral Roberts University,994,4
+207582,Fine Arts,6,157,Oral Roberts University,995,4
+207582,Fitness and Leisure,6,305,Oral Roberts University,996,4
+207582,French,6,148,Oral Roberts University,997,1
+207582,German,6,89,Oral Roberts University,998,0
+207582,History,4,79,Oral Roberts University,999,6
+207582,Journalism,4,49,Oral Roberts University,1000,4
+207582,Mathematics,6,224,Oral Roberts University,1001,6
+207582,Media / Communications,6,468,Oral Roberts University,1002,4
+207582,Music,6,1055,Oral Roberts University,1003,4
+207582,Nursing,5,61,Oral Roberts University,1004,0
+207582,Physics,6,88,Oral Roberts University,1005,1
+207582,Political Science,5,111,Oral Roberts University,1006,6
+207582,Psychology,6,180,Oral Roberts University,1007,6
+207582,Social Work,5,71,Oral Roberts University,1008,4
+207582,Spanish,6,104,Oral Roberts University,1009,1
+207582,Theatre Arts,6,89,Oral Roberts University,1010,4
+207582,Theology,6,1423,Oral Roberts University,1011,6
+208646,English Literature,2,25,Eastern Oregon University,1012,1
+209056,Psychology,6,127,Lewis & Clark College,1013,0
+209542,Biology,2,21,Oregon State University,1014,6
+209542,Business,4,70,Oregon State University,1015,5
+209542,Chemistry,2,19,Oregon State University,1016,2
+209542,Computer Science,5,68,Oregon State University,1017,6
+209542,Engineering,5,66,Oregon State University,1018,5
+209551,Biology,2,31,University of Oregon,1019,0
+209551,Economics,3,47,University of Oregon,1020,5
+209551,Education,3,29,University of Oregon,1021,4
+209551,English Literature,3,47,University of Oregon,1022,2
+209551,History,5,112,University of Oregon,1023,2
+209551,Mathematics,5,68,University of Oregon,1024,3
+209551,Political Science,3,44,University of Oregon,1025,2
+209551,Psychology,6,339,University of Oregon,1026,7
+209807,Business,3,36,Portland State University,1027,4
+209807,Computer Science,6,120,Portland State University,1028,1
+210429,Mathematics,3,30,Western Oregon University,1029,0
+211158,History,3,40,Bloomsburg University,1030,5
+211440,Business,2,22,Carnegie Mellon University,1031,2
+211440,Computer Science,6,172,Carnegie Mellon University,1032,2
+212009,English Literature,3,35,Dickinson College,1033,7
+212054,Computer Science,5,122,Drexel University,1034,7
+212054,Engineering,2,26,Drexel University,1035,4
+213251,Computer Science,2,24,Juniata College,1036,6
+213543,Computer Science,6,83,Lehigh University,1037,5
+213668,Chemistry,5,72,Lycoming College,1038,4
+214041,Mathematics,5,99,Millersville University,1039,4
+214157,Biology,2,36,Moravian College,1040,4
+214157,Business,3,52,Moravian College,1041,6
+214157,Chemistry,3,38,Moravian College,1042,1
+214157,Computer Science,2,23,Moravian College,1043,4
+214157,Economics,3,45,Moravian College,1044,6
+214157,Education,2,67,Moravian College,1045,4
+214157,English Literature,3,82,Moravian College,1046,3
+214157,Film and Photography,3,31,Moravian College,1047,1
+214157,Fine Arts,3,69,Moravian College,1048,4
+214157,French,2,23,Moravian College,1049,2
+214157,German,2,24,Moravian College,1050,4
+214157,History,3,54,Moravian College,1051,4
+214157,Mathematics,3,84,Moravian College,1052,6
+214157,Music,3,176,Moravian College,1053,6
+214157,Nursing,2,32,Moravian College,1054,7
+214157,Philosophy,3,34,Moravian College,1055,6
+214157,Political Science,2,25,Moravian College,1056,1
+214157,Psychology,3,72,Moravian College,1057,1
+214157,Sociology,3,58,Moravian College,1058,1
+214157,Spanish,3,62,Moravian College,1059,5
+214777,Biology,5,90,Pennsylvania State University,1060,6
+214777,Business,6,158,Pennsylvania State University,1061,3
+214777,Chemistry,5,85,Pennsylvania State University,1062,0
+214777,Computer Science,6,203,Pennsylvania State University,1063,0
+214777,Earth Sciences,2,18,Pennsylvania State University,1064,5
+214777,Economics,3,41,Pennsylvania State University,1065,1
+214777,Education,5,77,Pennsylvania State University,1066,7
+214777,Engineering,6,132,Pennsylvania State University,1067,4
+214777,English Literature,6,252,Pennsylvania State University,1068,4
+214777,Film and Photography,2,26,Pennsylvania State University,1069,3
+214777,Fine Arts,4,70,Pennsylvania State University,1070,3
+214777,Fitness and Leisure,2,41,Pennsylvania State University,1071,2
+214777,Geography,2,19,Pennsylvania State University,1072,1
+214777,History,4,70,Pennsylvania State University,1073,5
+214777,Mathematics,6,361,Pennsylvania State University,1074,1
+214777,Media / Communications,4,56,Pennsylvania State University,1075,5
+214777,Physics,5,65,Pennsylvania State University,1076,4
+214777,Political Science,4,55,Pennsylvania State University,1077,1
+214777,Psychology,6,141,Pennsylvania State University,1078,7
+214777,Sociology,2,19,Pennsylvania State University,1079,6
+214777,Spanish,3,36,Pennsylvania State University,1080,2
+215062,Biology,2,24,University of Pennsylvania,1081,2
+215062,Business,5,92,University of Pennsylvania,1082,5
+215062,Computer Science,4,55,University of Pennsylvania,1083,5
+215062,Economics,4,41,University of Pennsylvania,1084,1
+215062,English Literature,5,107,University of Pennsylvania,1085,2
+215062,History,2,26,University of Pennsylvania,1086,4
+215062,Marketing,3,37,University of Pennsylvania,1087,1
+215062,Mathematics,3,41,University of Pennsylvania,1088,7
+215293,Computer Science,6,157,University of Pittsburgh,1089,6
+215293,English Literature,3,34,University of Pittsburgh,1090,2
+215293,Law,3,27,University of Pittsburgh,1091,-1
+215293,Mathematics,3,35,University of Pittsburgh,1092,5
+215770,Mathematics,2,27,Saint Joseph's University,1093,7
+215770,Political Science,4,58,Saint Joseph's University,1094,3
+215947,English Literature,4,76,Seton Hill University,1095,2
+216287,Mathematics,2,20,Swarthmore College,1096,3
+216339,Business,2,27,Temple University,1097,3
+216339,Computer Science,4,49,Temple University,1098,6
+216339,History,2,19,Temple University,1099,6
+216339,Mathematics,4,1269,Temple University,1100,5
+216597,Computer Science,6,121,Villanova University,1101,2
+216597,English Literature,3,33,Villanova University,1102,2
+216597,History,3,42,Villanova University,1103,4
+216597,Mathematics,2,22,Villanova University,1104,7
+216852,Chemistry,2,24,Widener University,1105,1
+216931,Biology,3,114,Wilkes University,1106,4
+216931,Chemistry,4,441,Wilkes University,1107,3
+216931,Education,5,499,Wilkes University,1108,3
+216931,Engineering,2,182,Wilkes University,1109,5
+216931,English Literature,3,1420,Wilkes University,1110,3
+216931,Mathematics,6,168,Wilkes University,1111,4
+216931,Physics,4,389,Wilkes University,1112,2
+217156,Computer Science,6,98,Brown University,1113,2
+217484,Computer Science,4,55,University of Rhode Island,1114,4
+217484,Mathematics,6,194,University of Rhode Island,1115,4
+217819,Biology,2,18,College of Charleston,1116,2
+217819,English Literature,4,59,College of Charleston,1117,7
+217819,History,4,69,College of Charleston,1118,5
+217819,Media / Communications,3,43,College of Charleston,1119,3
+217819,Psychology,3,39,College of Charleston,1120,7
+217882,Computer Science,3,42,Clemson University,1121,7
+217882,Engineering,3,33,Clemson University,1122,0
+217998,Theology,3,49,Erskine College,1123,4
+218663,Business,5,53,University of South Carolina,1124,1
+218663,Computer Science,5,83,University of South Carolina,1125,3
+218663,Mathematics,5,77,University of South Carolina,1126,2
+218663,Political Science,3,37,University of South Carolina,1127,6
+218663,Religion,2,21,University of South Carolina,1128,3
+218964,English Literature,3,37,Winthrop University,1129,0
+218964,History,3,60,Winthrop University,1130,2
+220075,Mathematics,2,25,East Tennessee State University,1131,2
+220631,Nursing,2,21,Lincoln Memorial University,1132,3
+220862,Accounting,2,47,University of Memphis,1133,3
+220862,Business,4,234,University of Memphis,1134,7
+220862,Computer Science,2,33,University of Memphis,1135,6
+220862,Economics,2,48,University of Memphis,1136,5
+220862,Education,2,53,University of Memphis,1137,6
+220862,History,3,32,University of Memphis,1138,7
+220862,Marketing,2,53,University of Memphis,1139,3
+220978,Business,3,32,Middle Tennessee State University,1140,3
+220978,English Literature,2,27,Middle Tennessee State University,1141,7
+221351,Accounting,2,24,Rhodes College,1142,5
+221351,Biology,3,36,Rhodes College,1143,6
+221351,Business,2,20,Rhodes College,1144,3
+221351,Economics,4,60,Rhodes College,1145,1
+221351,English Literature,4,93,Rhodes College,1146,3
+221351,Fine Arts,3,43,Rhodes College,1147,2
+221351,History,3,83,Rhodes College,1148,3
+221351,Mathematics,2,35,Rhodes College,1149,1
+221351,Philosophy,3,37,Rhodes College,1150,1
+221351,Psychology,4,133,Rhodes College,1151,1
+221759,Computer Science,2,23,University of Tennessee at Knoxville,1152,4
+221759,Mathematics,5,65,University of Tennessee at Knoxville,1153,7
+221759,Physics,4,48,University of Tennessee at Knoxville,1154,7
+221999,Computer Science,2,24,Vanderbilt University,1155,5
+221999,Physics,2,23,Vanderbilt University,1156,5
+222178,Theology,2,22,Abilene Christian University,1157,1
+222831,Agriculture,2,18,Angelo State University,1158,2
+222831,English Literature,3,37,Angelo State University,1159,6
+224147,Business,2,18,Texas A&M University–Corpus Christi,1160,1
+224554,Business,4,47,Texas A&M University–Commerce,1161,1
+224554,English Literature,3,33,Texas A&M University–Commerce,1162,6
+225414,Accounting,2,141,University of Houston–Clear Lake,1163,5
+225414,English Literature,5,184,University of Houston–Clear Lake,1164,2
+225511,Business,4,60,University of Houston,1165,7
+225511,Computer Science,4,83,University of Houston,1166,5
+225511,English Literature,6,89,University of Houston,1167,4
+225511,History,2,34,University of Houston,1168,7
+225511,Mathematics,4,47,University of Houston,1169,7
+225511,Music,3,46,University of Houston,1170,7
+225511,Political Science,2,27,University of Houston,1171,7
+226091,Political Science,2,25,Lamar University,1172,7
+227216,Accounting,2,31,University of North Texas,1173,3
+227216,Business,4,49,University of North Texas,1174,4
+227216,Computer Science,6,207,University of North Texas,1175,3
+227216,English Literature,3,53,University of North Texas,1176,4
+227216,Mathematics,2,19,University of North Texas,1177,3
+227216,Music,3,36,University of North Texas,1178,0
+227216,Political Science,3,48,University of North Texas,1179,1
+227368,English Literature,2,22,University of Texas Rio Grande Valley,1180,6
+227757,Computer Science,5,57,Rice University,1181,3
+227757,Mathematics,4,43,Rice University,1182,1
+227757,Psychology,3,30,Rice University,1183,1
+227845,Business,2,24,St. Edward's University,1184,1
+227881,Education,2,37,Sam Houston State University,1185,4
+227881,History,2,38,Sam Houston State University,1186,0
+228246,Computer Science,2,23,Southern Methodist University,1187,7
+228246,Physics,2,31,Southern Methodist University,1188,3
+228431,Education,2,25,Stephen F. Austin State University,1189,1
+228431,English Literature,2,28,Stephen F. Austin State University,1190,6
+228431,Psychology,2,28,Stephen F. Austin State University,1191,3
+228653,Health Technician,2,29,The University of Texas Medical Branch,1192,-1
+228723,Agriculture,4,56,Texas A&M University,1193,1
+228723,Anthropology,4,45,Texas A&M University,1194,2
+228723,Biology,4,56,Texas A&M University,1195,1
+228723,Business,4,54,Texas A&M University,1196,7
+228723,Computer Science,6,115,Texas A&M University,1197,4
+228723,Economics,2,29,Texas A&M University,1198,1
+228723,Engineering,6,142,Texas A&M University,1199,4
+228723,English Literature,3,48,Texas A&M University,1200,0
+228723,Fitness and Leisure,2,30,Texas A&M University,1201,4
+228723,Mathematics,6,89,Texas A&M University,1202,7
+228723,Philosophy,3,52,Texas A&M University,1203,7
+228769,Biology,3,42,University of Texas at Arlington,1204,0
+228769,Business,5,55,University of Texas at Arlington,1205,0
+228769,Computer Science,4,43,University of Texas at Arlington,1206,0
+228769,Engineering,3,35,University of Texas at Arlington,1207,3
+228769,English Literature,6,93,University of Texas at Arlington,1208,5
+228769,History,2,24,University of Texas at Arlington,1209,0
+228769,Psychology,3,45,University of Texas at Arlington,1210,5
+228778,Biology,5,79,University of Texas at Austin,1211,2
+228778,Business,6,178,University of Texas at Austin,1212,7
+228778,Chemistry,4,49,University of Texas at Austin,1213,4
+228778,Computer Science,6,277,University of Texas at Austin,1214,3
+228778,Economics,2,20,University of Texas at Austin,1215,5
+228778,Engineering,6,150,University of Texas at Austin,1216,2
+228778,English Literature,6,253,University of Texas at Austin,1217,2
+228778,Film and Photography,3,33,University of Texas at Austin,1218,7
+228778,Fine Arts,2,38,University of Texas at Austin,1219,4
+228778,History,4,54,University of Texas at Austin,1220,2
+228778,Mathematics,6,88,University of Texas at Austin,1221,2
+228778,Media / Communications,2,19,University of Texas at Austin,1222,5
+228778,Music,2,18,University of Texas at Austin,1223,3
+228778,Philosophy,2,20,University of Texas at Austin,1224,2
+228778,Physics,2,23,University of Texas at Austin,1225,5
+228778,Political Science,2,25,University of Texas at Austin,1226,2
+228778,Psychology,6,101,University of Texas at Austin,1227,3
+228778,Social Work,6,241,University of Texas at Austin,1228,1
+228787,Accounting,4,384,University of Texas at Dallas,1229,0
+228787,Biology,3,246,University of Texas at Dallas,1230,0
+228787,Business,6,902,University of Texas at Dallas,1231,0
+228787,Chemistry,3,91,University of Texas at Dallas,1232,0
+228787,Computer Science,6,691,University of Texas at Dallas,1233,0
+228787,Earth Sciences,3,82,University of Texas at Dallas,1234,0
+228787,Economics,3,125,University of Texas at Dallas,1235,0
+228787,Engineering,6,373,University of Texas at Dallas,1236,3
+228787,Film and Photography,3,90,University of Texas at Dallas,1237,0
+228787,Fine Arts,4,78,University of Texas at Dallas,1238,0
+228787,Geography,2,28,University of Texas at Dallas,1239,0
+228787,History,3,96,University of Texas at Dallas,1240,0
+228787,Marketing,4,153,University of Texas at Dallas,1241,0
+228787,Mathematics,6,476,University of Texas at Dallas,1242,0
+228787,Medicine,3,97,University of Texas at Dallas,1243,0
+228787,Music,3,41,University of Texas at Dallas,1244,3
+228787,Physics,3,73,University of Texas at Dallas,1245,0
+228787,Political Science,3,138,University of Texas at Dallas,1246,0
+228787,Psychology,3,222,University of Texas at Dallas,1247,0
+228787,Sociology,3,47,University of Texas at Dallas,1248,3
+228796,Accounting,2,27,University of Texas at El Paso,1249,4
+228796,Business,2,56,University of Texas at El Paso,1250,4
+228796,Computer Science,4,77,University of Texas at El Paso,1251,6
+228796,Engineering,2,19,University of Texas at El Paso,1252,4
+228796,Mathematics,4,66,University of Texas at El Paso,1253,6
+228796,Spanish,2,54,University of Texas at El Paso,1254,4
+228802,Engineering,2,83,University of Texas at Tyler,1255,1
+229027,Business,2,23,University of Texas at San Antonio,1256,4
+229027,Computer Science,6,142,University of Texas at San Antonio,1257,7
+229027,English Literature,2,42,University of Texas at San Antonio,1258,6
+229115,Agriculture,4,69,Texas Tech University,1259,5
+229115,Business,6,96,Texas Tech University,1260,3
+229115,Computer Science,3,33,Texas Tech University,1261,6
+229115,History,3,33,Texas Tech University,1262,1
+229115,Mathematics,2,20,Texas Tech University,1263,7
+229115,Music,2,25,Texas Tech University,1264,1
+229267,Computer Science,4,51,Trinity University,1265,7
+230038,Computer Science,5,86,Brigham Young University,1266,6
+230038,Education,5,154,Brigham Young University,1267,0
+230038,History,4,93,Brigham Young University,1268,1
+230038,Mathematics,6,68,Brigham Young University,1269,6
+230038,Medicine,2,21,Brigham Young University,1270,0
+230038,Political Science,5,99,Brigham Young University,1271,4
+230038,Psychology,3,47,Brigham Young University,1272,0
+230603,Media / Communications,2,26,Southern Utah University,1273,4
+230728,Business,2,24,Utah State University,1274,5
+230728,History,3,65,Utah State University,1275,4
+230728,Psychology,3,56,Utah State University,1276,4
+230764,Business,3,43,University of Utah,1277,1
+230764,Computer Science,6,97,University of Utah,1278,4
+230764,Education,3,36,University of Utah,1279,2
+230764,Engineering,5,68,University of Utah,1280,1
+230764,History,3,105,University of Utah,1281,2
+230764,Mathematics,6,139,University of Utah,1282,2
+230764,Media / Communications,4,76,University of Utah,1283,1
+230764,Physics,2,19,University of Utah,1284,7
+230764,Political Science,3,63,University of Utah,1285,7
+230764,Psychology,2,31,University of Utah,1286,2
+230782,English Literature,2,21,Weber State University,1287,5
+230959,English Literature,4,56,Middlebury College,1288,2
+231174,Biology,2,22,University of Vermont,1289,2
+231174,Business,3,33,University of Vermont,1290,4
+231174,Computer Science,2,21,University of Vermont,1291,7
+231174,English Literature,3,47,University of Vermont,1292,2
+231174,Media / Communications,2,22,University of Vermont,1293,7
+231174,Psychology,3,85,University of Vermont,1294,7
+232186,Biology,5,112,George Mason University,1295,6
+232186,Business,6,198,George Mason University,1296,7
+232186,Computer Science,6,471,George Mason University,1297,3
+232186,Economics,2,24,George Mason University,1298,4
+232186,Education,6,222,George Mason University,1299,4
+232186,Engineering,6,101,George Mason University,1300,3
+232186,English Literature,6,209,George Mason University,1301,4
+232186,Fine Arts,2,23,George Mason University,1302,4
+232186,History,5,145,George Mason University,1303,4
+232186,Mathematics,6,132,George Mason University,1304,5
+232186,Political Science,3,33,George Mason University,1305,5
+232186,Psychology,6,468,George Mason University,1306,7
+232423,Biology,2,21,James Madison University,1307,7
+232423,Computer Science,5,71,James Madison University,1308,1
+232423,Political Science,2,24,James Madison University,1309,4
+232557,Theology,2,22,Liberty University,1310,2
+232982,Computer Science,6,163,Old Dominion University,1311,3
+232982,Education,2,71,Old Dominion University,1312,6
+232982,Physics,3,39,Old Dominion University,1313,7
+233277,English Literature,2,36,Radford University,1314,1
+233374,English Literature,2,27,University of Richmond,1315,3
+233426,Computer Science,5,58,Roanoke College,1316,5
+233921,Biology,3,32,Virginia Tech,1317,2
+233921,Business,3,31,Virginia Tech,1318,3
+233921,Computer Science,6,187,Virginia Tech,1319,1
+233921,English Literature,4,72,Virginia Tech,1320,4
+233921,History,2,39,Virginia Tech,1321,1
+233921,Mathematics,3,36,Virginia Tech,1322,5
+233921,Political Science,3,34,Virginia Tech,1323,7
+234030,English Literature,2,33,Virginia Commonwealth University,1324,5
+234076,Business,3,48,University of Virginia,1325,2
+234076,Computer Science,6,127,University of Virginia,1326,3
+234076,Education,3,28,University of Virginia,1327,7
+234076,English Literature,3,34,University of Virginia,1328,1
+234076,History,3,51,University of Virginia,1329,2
+234827,Computer Science,3,34,Central Washington University,1330,6
+234827,History,2,25,Central Washington University,1331,1
+236230,Computer Science,2,20,Pacific Lutheran University,1332,3
+236328,English Literature,5,64,University of Puget Sound,1333,2
+236328,Mathematics,2,21,University of Puget Sound,1334,4
+236595,Business,2,21,Seattle University,1335,7
+236939,Business,2,31,Washington State University,1336,5
+236939,Computer Science,5,74,Washington State University,1337,6
+236939,Education,3,37,Washington State University,1338,3
+236939,Engineering,2,19,Washington State University,1339,1
+236939,English Literature,6,101,Washington State University,1340,4
+236939,Political Science,3,41,Washington State University,1341,0
+236939,Psychology,5,107,Washington State University,1342,4
+236948,Anthropology,4,62,University of Washington,1343,3
+236948,Biology,6,192,University of Washington,1344,5
+236948,Business,6,172,University of Washington,1345,2
+236948,Chemistry,6,108,University of Washington,1346,4
+236948,Computer Science,6,513,University of Washington,1347,2
+236948,Earth Sciences,3,33,University of Washington,1348,3
+236948,Economics,5,83,University of Washington,1349,7
+236948,Education,4,66,University of Washington,1350,3
+236948,Engineering,6,131,University of Washington,1351,7
+236948,English Literature,6,316,University of Washington,1352,3
+236948,Film and Photography,5,74,University of Washington,1353,2
+236948,Fine Arts,4,87,University of Washington,1354,7
+236948,Geography,3,31,University of Washington,1355,3
+236948,History,5,309,University of Washington,1356,7
+236948,Mathematics,6,218,University of Washington,1357,5
+236948,Media / Communications,6,87,University of Washington,1358,7
+236948,Medicine,4,51,University of Washington,1359,2
+236948,Philosophy,6,119,University of Washington,1360,3
+236948,Physics,5,67,University of Washington,1361,7
+236948,Political Science,6,195,University of Washington,1362,3
+236948,Psychology,6,73,University of Washington,1363,7
+236948,Religion,2,18,University of Washington,1364,3
+236948,Sociology,6,79,University of Washington,1365,7
+236948,Women's Studies,2,22,University of Washington,1366,1
+237011,Computer Science,4,56,Western Washington University,1367,5
+237057,Mathematics,2,18,Whitman College,1368,2
+237525,Business,2,23,Marshall University,1369,4
+238032,English Literature,6,404,West Virginia University,1370,2
+238032,Mathematics,3,33,West Virginia University,1371,6
+239105,Philosophy,2,21,Marquette University,1372,1
+239105,Political Science,3,41,Marquette University,1373,3
+240107,English Literature,2,27,Viterbo University,1374,1
+240268,Political Science,2,31,University of Wisconsin–Eau Claire,1375,6
+240365,Biology,2,137,University of Wisconsin–Oshkosh,1376,1
+240374,Sociology,2,25,University of Wisconsin–Parkside,1377,7
+240444,Biology,6,122,University of Wisconsin–Madison,1378,5
+240444,Business,6,118,University of Wisconsin–Madison,1379,5
+240444,Chemistry,3,41,University of Wisconsin–Madison,1380,5
+240444,Computer Science,4,58,University of Wisconsin–Madison,1381,2
+240444,Economics,6,113,University of Wisconsin–Madison,1382,2
+240444,English Literature,6,71,University of Wisconsin–Madison,1383,7
+240444,History,5,222,University of Wisconsin–Madison,1384,2
+240444,Mathematics,6,115,University of Wisconsin–Madison,1385,2
+240444,Political Science,6,98,University of Wisconsin–Madison,1386,5
+240444,Sociology,5,69,University of Wisconsin–Madison,1387,1
+240453,Economics,2,26,University of Wisconsin–Milwaukee,1388,3
+240453,English Literature,2,42,University of Wisconsin–Milwaukee,1389,7
+240453,Mathematics,2,19,University of Wisconsin–Milwaukee,1390,7
+240727,Political Science,3,37,University of Wyoming,1391,3
+243744,Biology,3,37,Stanford University,1392,2
+243744,Computer Science,6,209,Stanford University,1393,2
+243744,Economics,2,18,Stanford University,1394,2
+243744,English Literature,3,51,Stanford University,1395,3
+243744,Fine Arts,2,21,Stanford University,1396,2
+243744,Mathematics,3,48,Stanford University,1397,5
+243744,Philosophy,2,19,Stanford University,1398,7
+243744,Political Science,2,22,Stanford University,1399,2

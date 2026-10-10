@@ -1,0 +1,5 @@
+skill_id,skill,baseline_mean,baseline_sd
+95,Investigate accidents to determine causes.,0.2535373884477436,0.047710126851182096
+158,Monitor patients to detect health problems.,0.21609791628367678,0.05869549192281515
+1263,Follow safety procedures for vehicle operation.,0.20088226262989323,0.04352484330032443
+1841,Manage budgets for personal services operations.,0.23295537785351716,0.06520982884821698

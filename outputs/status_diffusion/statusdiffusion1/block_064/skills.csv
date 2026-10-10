@@ -1,0 +1,23 @@
+skill_id,skill,baseline_mean,baseline_sd
+92,Research new technologies.,0.2938811754613477,0.05053480696650313
+122,Monitor video displays of medical equipment to ensure proper functioning.,0.2399045262517252,0.05482460174462072
+221,Conduct diagnostic tests to determine patient health.,0.2522291077232913,0.0699159880096337
+435,Review documents or materials for compliance with policies or regulations.,0.2948864077025553,0.057612866369278065
+565,"Estimate labor or resource requirements for forestry, fishing, or agricultural operations.",0.24919120368049125,0.0502563316217545
+631,Develop specifications for computer network operation.,0.3096103263598204,0.06738200402970711
+655,Design industrial equipment.,0.2671553094523896,0.05905185390369513
+674,Design energy-efficient vehicles or vehicle components.,0.22874874741406803,0.04662149666682163
+702,Develop emergency procedures.,0.24609078726443212,0.05798119319235295
+741,Attend events to develop professional knowledge.,0.3063907942947915,0.06433793948042012
+809,Plan trapping or hunting activities.,0.1998857746894493,0.04119404231551296
+820,Mix substances to create chemical solutions.,0.18573783521084952,0.04568889622754998
+1270,Pilot aircraft.,0.1533032776232583,0.0363861611285067
+1320,Maintain construction tools or equipment.,0.18846374990169212,0.053618985863359885
+1353,Maintain watercraft engines or machinery.,0.1978025014858993,0.04706978830914225
+1492,Confer with family members to discuss client treatment plans or progress.,0.18114326825945537,0.06300320320448623
+1528,Confer with coworkers to resolve equipment problems.,0.2190664445685129,0.05186633102280331
+1581,Discuss designs or plans with clients.,0.2899208244080965,0.05955155284110504
+1626,Provide basic health care services.,0.22362505811695402,0.06446016108466233
+1932,Advise patients on healthcare system processes.,0.25973489822793655,0.05765689320673648
+1944,Advise others on the development or use of new technologies.,0.30703494965560674,0.05815101333135902
+1954,Advise others on human resources topics.,0.29967029762840136,0.06110125458968125

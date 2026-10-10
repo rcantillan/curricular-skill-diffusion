@@ -1,0 +1,6 @@
+sensitivity,rows,institutions,wald_p,dropped
+all,2616,150,0.000244462681216769,""
+remove_reference_bridges,2609,150,0.000301135598385501,community::7
+omit_node_882,2613,150,2.20421165084337e-05,""
+omit_node_848,2613,150,0.00306942108290843,""
+omit_node_1111,2615,150,1.13031497840814e-05,""

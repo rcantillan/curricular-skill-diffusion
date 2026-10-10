@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+38,Gather information about work conditions or locations.,0.2423642444790976,0.051805852805048444
+97,"Investigate transportation incidents, violations, or complaints.",0.22188352242402015,0.04940881424846641
+265,Inspect medical or dental assistive devices.,0.19117458607033874,0.05104003498568963
+358,"Assess patient work, living, or social environments.",0.26635415571134746,0.07011795855128865
+477,Analyze design or requirements information for mechanical equipment or systems.,0.312468314289981,0.059541882538124834
+573,Estimate construction project labor requirements.,0.19328249701376896,0.044603822428543605
+641,Develop tools to diagnose or assess needs.,0.3434138413711007,0.06740874558234378
+771,Develop business or financial information systems.,0.24624728646433267,0.06486334168804134
+840,Decontaminate equipment or sites to remove hazardous or toxic substances.,0.22298515480126158,0.04966426411223299
+921,Transport clients to appointments.,0.18384292361546065,0.0539586114361171
+938,"Irrigate lawns, trees, or plants.",0.124287490703384,0.039286371212703716
+1038,"Cut carpet, vinyl or other flexible materials.",0.09983082157687449,0.03664915822694957
+1128,Thread wire or cable through ducts or conduits.,0.1344175797768082,0.030778217676469027
+1169,Mark reference points on construction materials.,0.22051862418613122,0.04286278149313243
+1178,Package objects for shipping.,0.18161353027355792,0.036460986250264886
+1205,Control pumps or pumping equipment.,0.156732588848789,0.043293556092135595
+1336,Maintain test equipment.,0.2353202415779694,0.053917066962704714
+1347,Replace vehicle glass.,0.08388603442390527,0.025367087432674955
+1349,Repair non-engine automotive or vehicle components.,0.1396171081115075,0.04298449854675483
+1408,Maintain records of customer accounts.,0.18363990187043755,0.053438407822640796
+1468,Prepare operational reports.,0.3205738762841732,0.06446553939821754
+1491,Communicate detailed medical information to patients or family members.,0.2801268086557729,0.06387167278669033
+1496,Communicate with the public on environmental issues.,0.2509228659912073,0.06229860938238945
+1561,Signal others to coordinate vehicle movement.,0.2029094559130725,0.04218623816373155
+1631,Administer medical substances for imaging or other procedures.,0.2103578982314202,0.0569506941751443
+1728,Respond to customer problems or complaints.,0.272741556470637,0.0636839538839338
+1884,Direct maintenance or repair activities.,0.19702997350763132,0.04772741722691704
+1894,Direct material handling or moving activities.,0.2272144338800592,0.04754038073348432
+1903,Plan employee work schedules.,0.22026509827355686,0.05199792875831351
+1946,Recommend changes to improve computer or information systems.,0.2877272196134695,0.05624158090421868
+1983,Counsel family members of clients or patients.,0.18657898387276048,0.06354803223441415
+1998,Perform administrative or clerical tasks.,0.2037027814479097,0.057614765854039095

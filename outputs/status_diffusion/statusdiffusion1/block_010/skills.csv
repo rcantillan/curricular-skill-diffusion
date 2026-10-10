@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+37,Gather organizational performance information.,0.3005289058500331,0.06971553409276673
+80,Conduct historical research.,0.3053964936313862,0.06014316676358014
+143,Monitor the handling of hazardous materials or medical wastes.,0.26819455092319083,0.05822825214961982
+146,Monitor financial activities.,0.19340559441605842,0.054542571914665425
+312,Test air quality at work sites.,0.19301721214693074,0.0500481910915667
+424,Reconcile records of sales or other financial transactions.,0.1890063082923024,0.056927269068412924
+476,Analyze project data to determine specifications or requirements.,0.3405971084470813,0.06710658310769711
+574,Implement organizational process or policy changes.,0.2771249793370945,0.07353995318216337
+675,Design alternative energy systems.,0.21769943256685498,0.04426146099409023
+691,Prepare maps.,0.2647886680245511,0.04331171883791082
+859,Remove debris or damaged materials.,0.20381062584157297,0.044039316914675164
+918,Accompany patients or clients on outings to provide assistance.,0.2594015613739214,0.06742788084836643
+966,Assist chefs or caterers with food or drink preparation.,0.18463892972412038,0.046881527949100145
+1104,Slaughter animals.,0.1579081038126242,0.043574628598788426
+1271,Drive trucks or other vehicles to or at work sites.,0.1401436679441272,0.04456122004080862
+1309,Maintain equipment or systems to ensure proper functioning.,0.2545658699555409,0.060019969078692566
+1364,Prepare documentation of legal proceedings.,0.22742427461065085,0.052435088154537006
+1374,Prepare scientific or technical reports or presentations.,0.3606228628256467,0.05652211834827661
+1400,Maintain inventory records.,0.20110388988221561,0.052404807970470854
+1409,Transcribe spoken or written information.,0.26703434914830815,0.05400840545445261
+1415,Record service or repair activities.,0.22090847800829497,0.052075224483301825
+1445,Prepare healthcare training materials.,0.3427975787392172,0.06564397490824118
+1460,Prepare regulatory or compliance documentation.,0.25368112546267524,0.06177446446963309
+1487,Interpret cultural or religious information for others.,0.2932225274012942,0.058573309985360755
+1665,Arrange services or reservations for patrons.,0.19208147444724538,0.05155629945635604
+1704,Negotiate sales or lease agreements for products or services.,0.20911113861760136,0.06305007683744758
+1721,Perform for recordings.,0.1735932696343727,0.05531422926083039
+1731,Communicate with customers to resolve complaints or ensure satisfaction.,0.29363220517352373,0.06659278911395476
+1979,Intervene in crisis situations to assist clients.,0.3063018103880222,0.06592133492379945
+1985,Counsel clients or patients regarding personal issues.,0.22072357043032542,0.06447394387856394
+2014,Issue permits or other legal documents.,0.13686756563380006,0.04229554578475882
+2033,Administer standardized physical or psychological tests.,0.25074014873258105,0.07313222176869745

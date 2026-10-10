@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+13,Review work orders or schedules to determine operations or procedures.,0.3004632335462834,0.059776740282347536
+29,Search information sources to find specific data.,0.23794602751443236,0.04381058848418251
+30,Gather financial records.,0.17909430983377503,0.053063568776620045
+183,Monitor external affairs or events affecting business operations.,0.27196463359356343,0.06668895590446466
+303,Compare physical characteristics of materials or products to specifications or standards.,0.2837651144016253,0.052826135794621865
+307,Inspect cargo to identify potential hazards.,0.20163041626327163,0.04374775470713891
+417,Sort materials or products.,0.17448894033460557,0.0438218281909852
+671,Apply knowledge or research findings to address environmental problems.,0.3150111096924351,0.06199229056028888
+761,Develop organizational policies or programs.,0.30501836361280693,0.07939844157967983
+787,Schedule dining reservations.,0.1774525586259118,0.032471204148401
+907,Maintain public order or security.,0.23419900324800955,0.06102562165913358
+971,Cut meat products.,0.14031686154313183,0.0358611590270095
+994,Maneuver workpieces in equipment during production.,0.17800087447760435,0.04893885988518534
+999,Shape glass or similar materials.,0.09900541228481409,0.04158384152467783
+1079,Install home appliances.,0.18245726091738562,0.039416209435220805
+1147,Stock medical or patient care supplies.,0.16790067291473107,0.05541636107148686
+1201,Prepare compounds or solutions for products or testing.,0.28386935930590457,0.05750394947364013
+1203,Operate pumping systems or equipment.,0.19884330477720638,0.04758746052141393
+1210,"Break up rock, asphalt, or concrete.",0.13803885628201726,0.03968029303321567
+1348,Repair tires.,0.0994813316941837,0.030857214300777164
+1388,Prepare reports summarizing patient diagnostic or care activities.,0.29873518357979345,0.061825991795244825
+1417,Maintain repair or maintenance records.,0.17199573183344402,0.05180137829624536
+1471,"Write articles, books or other original materials in area of expertise.",0.2773708824021241,0.053805440814247325
+1513,Communicate with coworkers to coordinate installations or repairs.,0.2365455644708024,0.059833123513854725
+1542,Collaborate with other teaching professionals to develop educational programs.,0.33679347918767333,0.07188446490122354
+1584,Communicate health and wellness information to the public.,0.25527132300099564,0.07279562333454027
+1669,Position patients for treatment or examination.,0.2578367474635027,0.05827130429380494
+1720,Audition for roles.,0.2001400065499332,0.048975672259122444
+1759,Instruct staff in work policies or procedures.,0.3213009072362308,0.06964225775038453
+1777,Teach others to use computer equipment or hardware.,0.29867008198772405,0.06487602537861589
+1827,Direct scientific activities.,0.31693338961363754,0.056769524162188834
+2013,Conduct gaming transactions.,0.20584245549352975,0.0455999545027778

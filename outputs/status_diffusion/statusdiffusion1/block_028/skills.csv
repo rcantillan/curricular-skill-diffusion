@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+18,Review details of technical drawings or specifications.,0.3016364298599866,0.05196923107365392
+51,Monitor environmental impacts of production or development activities.,0.2301518779247848,0.052606472670959685
+83,Conduct research to increase knowledge about medical issues.,0.303163026476444,0.06809585687957123
+89,Research advanced engineering designs or applications.,0.28591027772080185,0.05960488202738288
+340,Estimate time or monetary resources needed to complete projects.,0.24164387874933677,0.05350419655204203
+464,Analyze market or customer related data.,0.28045181643563394,0.06813868202524907
+758,Update professional knowledge.,0.29061702096549424,0.05293611685585891
+797,Schedule appointments.,0.1918310819616788,0.052482166706822424
+839,"Clean equipment, parts, or tools to repair or maintain them in good working order.",0.2275652037929658,0.05140027762790968
+992,Mount attachments or tools onto production equipment.,0.20228539235535864,0.055122439304109025
+1062,Make patient-assistive devices or device models.,0.2654230949238564,0.055910791878226125
+1071,Remove parts or components from equipment.,0.18065958801161247,0.043295672207874766
+1072,Dismantle heavy equipment or machinery.,0.19265472318679455,0.04348780760034214
+1143,Assemble tires.,0.13008652716068342,0.03496429829990372
+1194,Prepare hoses or water supplies to fight fires.,0.20192701153301307,0.03809586062301979
+1235,Operate equipment to print images or bind printed images together.,0.21685974308311262,0.04987098863221365
+1275,Program equipment to perform production tasks.,0.2471358236990715,0.06682424967214728
+1308,Maintain production or processing equipment.,0.21904180622727246,0.061940792774939135
+1343,"Replace worn, damaged, or defective mechanical parts.",0.1771194319776042,0.045111798440595124
+1476,Discuss goods or services information with customers or patrons.,0.2972589598923357,0.06183090183888774
+1517,Communicate with others to coordinate material handling or movement.,0.30355658269691377,0.056009233261008935
+1533,Collaborate with healthcare professionals to plan or provide treatment.,0.26117102216207766,0.06718547693647095
+1558,Collaborate with others to determine design specifications or details.,0.3397372755182483,0.06233343835832957
+1763,Train food preparation or food service personnel.,0.21982770858801118,0.05649013970888059
+1810,Supervise student research or internship work.,0.270360117182814,0.05783480540895067
+1830,Manage scientific or technical project resources.,0.2769961957055407,0.059416878094696736
+1837,Manage human resources activities.,0.2583109227556409,0.06593548654741917
+1842,Direct financial operations.,0.21281786871632355,0.06537023292713737
+1853,Direct construction activities.,0.2230778336070011,0.04964581046622875
+1867,Direct equipment maintenance or repair activities.,0.2301021240413074,0.05903203705430673
+2007,"Pay charges, fees, or taxes.",0.166288608467153,0.044673346205068576
+2069,Monitor resources.,0.2398941139620114,0.041788109682956806

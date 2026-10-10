@@ -1,0 +1,641 @@
+year,skill_id,skill
+2008,16,Read work orders or descriptions of problems to determine repairs or modifications needed.
+2008,24,Examine records or other types of data to investigate criminal activities.
+2008,45,Conduct surveys in organizations.
+2008,65,Obtain personal or financial information about customers or applicants.
+2008,95,Investigate accidents to determine causes.
+2008,98,Investigate industrial or transportation accidents.
+2008,175,Monitor alarm systems.
+2008,177,Locate fires or fire danger areas.
+2008,178,Monitor surroundings to detect potential hazards.
+2008,195,Monitor operations to ensure compliance with safety or security policies or regulations.
+2008,210,Identify opportunities for green initiatives.
+2008,216,Identify sustainable business practices.
+2008,309,Examine condition of property or products.
+2008,313,Test facilities for environmental hazards.
+2008,436,Review license or permit applications.
+2008,473,Analyze design requirements for computer or electronics systems.
+2008,516,Apply mathematical models of financial or business conditions.
+2008,518,Analyze financial records to improve budgeting or planning.
+2008,772,"Develop policies or procedures for archives, museums or libraries."
+2008,812,Plan production or operational procedures or sequences.
+2008,816,Mix substances or compounds needed for work activities.
+2008,851,Dispose of biomedical waste in accordance with standards.
+2008,863,Place materials into molds.
+2008,872,Dig holes or trenches.
+2008,874,Pour materials into or on designated areas.
+2008,918,Accompany patients or clients on outings to provide assistance.
+2008,1121,Treat greenery or surfaces with protective substances.
+2008,1131,Connect supply lines to production equipment or tools.
+2008,1170,Lay out work according to specifications.
+2008,1235,Operate equipment to print images or bind printed images together.
+2008,1240,Operate biomass or biofuel production equipment.
+2008,1250,Operate communications equipment or systems.
+2008,1253,Operate forestry equipment.
+2008,1292,Update website content.
+2008,1313,Lubricate equipment to allow proper functioning.
+2008,1319,Perform manual service or maintenance tasks.
+2008,1340,Repair parts or assemblies.
+2008,1357,Maintain medical equipment or instruments.
+2008,1437,Record vital statistics or other health information.
+2008,1441,Organize informational materials.
+2008,1484,Communicate organizational information to customers or other stakeholders.
+2008,1528,Confer with coworkers to resolve equipment problems.
+2008,1550,Report maintenance or equipment problems to appropriate personnel.
+2008,1579,Confer with customers or users to assess problems.
+2008,1615,Refer individuals to educational or work programs.
+2008,1641,"Fit eyeglasses, contact lenses, or other vision aids."
+2008,1648,Feed patients.
+2008,1702,Arbitrate disputes between parties to resolve legal conflicts.
+2008,1705,Arrange collective bargaining agreements.
+2008,1708,Negotiate purchases or contracts.
+2008,1800,Supervise clerical or administrative personnel.
+2008,1808,Supervise sales or support personnel.
+2008,1810,Supervise student research or internship work.
+2008,1818,Coordinate forestry or agricultural activities.
+2008,1821,Supervise inmate activities.
+2008,1825,Coordinate design activities.
+2008,1873,Direct green energy production operations.
+2008,1878,Coordinate timing of food production activities.
+2008,1918,Direct law enforcement activities.
+2008,1931,Advise patients on effects of health conditions or treatments.
+2008,1933,Recommend types of assistive devices.
+2008,1980,Counsel clients or patients with substance abuse issues.
+2008,2020,"Send information, materials or documentation."
+2008,2042,Allocate physical resources within organizations.
+2009,16,Read work orders or descriptions of problems to determine repairs or modifications needed.
+2009,24,Examine records or other types of data to investigate criminal activities.
+2009,45,Conduct surveys in organizations.
+2009,65,Obtain personal or financial information about customers or applicants.
+2009,95,Investigate accidents to determine causes.
+2009,98,Investigate industrial or transportation accidents.
+2009,175,Monitor alarm systems.
+2009,177,Locate fires or fire danger areas.
+2009,178,Monitor surroundings to detect potential hazards.
+2009,195,Monitor operations to ensure compliance with safety or security policies or regulations.
+2009,210,Identify opportunities for green initiatives.
+2009,216,Identify sustainable business practices.
+2009,309,Examine condition of property or products.
+2009,313,Test facilities for environmental hazards.
+2009,436,Review license or permit applications.
+2009,473,Analyze design requirements for computer or electronics systems.
+2009,516,Apply mathematical models of financial or business conditions.
+2009,518,Analyze financial records to improve budgeting or planning.
+2009,772,"Develop policies or procedures for archives, museums or libraries."
+2009,812,Plan production or operational procedures or sequences.
+2009,816,Mix substances or compounds needed for work activities.
+2009,851,Dispose of biomedical waste in accordance with standards.
+2009,863,Place materials into molds.
+2009,872,Dig holes or trenches.
+2009,874,Pour materials into or on designated areas.
+2009,918,Accompany patients or clients on outings to provide assistance.
+2009,1121,Treat greenery or surfaces with protective substances.
+2009,1131,Connect supply lines to production equipment or tools.
+2009,1170,Lay out work according to specifications.
+2009,1235,Operate equipment to print images or bind printed images together.
+2009,1240,Operate biomass or biofuel production equipment.
+2009,1250,Operate communications equipment or systems.
+2009,1253,Operate forestry equipment.
+2009,1292,Update website content.
+2009,1313,Lubricate equipment to allow proper functioning.
+2009,1319,Perform manual service or maintenance tasks.
+2009,1340,Repair parts or assemblies.
+2009,1357,Maintain medical equipment or instruments.
+2009,1437,Record vital statistics or other health information.
+2009,1441,Organize informational materials.
+2009,1484,Communicate organizational information to customers or other stakeholders.
+2009,1528,Confer with coworkers to resolve equipment problems.
+2009,1550,Report maintenance or equipment problems to appropriate personnel.
+2009,1579,Confer with customers or users to assess problems.
+2009,1615,Refer individuals to educational or work programs.
+2009,1641,"Fit eyeglasses, contact lenses, or other vision aids."
+2009,1648,Feed patients.
+2009,1702,Arbitrate disputes between parties to resolve legal conflicts.
+2009,1705,Arrange collective bargaining agreements.
+2009,1708,Negotiate purchases or contracts.
+2009,1800,Supervise clerical or administrative personnel.
+2009,1808,Supervise sales or support personnel.
+2009,1810,Supervise student research or internship work.
+2009,1818,Coordinate forestry or agricultural activities.
+2009,1821,Supervise inmate activities.
+2009,1825,Coordinate design activities.
+2009,1873,Direct green energy production operations.
+2009,1878,Coordinate timing of food production activities.
+2009,1918,Direct law enforcement activities.
+2009,1931,Advise patients on effects of health conditions or treatments.
+2009,1933,Recommend types of assistive devices.
+2009,1980,Counsel clients or patients with substance abuse issues.
+2009,2020,"Send information, materials or documentation."
+2009,2042,Allocate physical resources within organizations.
+2010,16,Read work orders or descriptions of problems to determine repairs or modifications needed.
+2010,24,Examine records or other types of data to investigate criminal activities.
+2010,45,Conduct surveys in organizations.
+2010,65,Obtain personal or financial information about customers or applicants.
+2010,95,Investigate accidents to determine causes.
+2010,98,Investigate industrial or transportation accidents.
+2010,175,Monitor alarm systems.
+2010,177,Locate fires or fire danger areas.
+2010,178,Monitor surroundings to detect potential hazards.
+2010,195,Monitor operations to ensure compliance with safety or security policies or regulations.
+2010,210,Identify opportunities for green initiatives.
+2010,216,Identify sustainable business practices.
+2010,309,Examine condition of property or products.
+2010,313,Test facilities for environmental hazards.
+2010,436,Review license or permit applications.
+2010,473,Analyze design requirements for computer or electronics systems.
+2010,516,Apply mathematical models of financial or business conditions.
+2010,518,Analyze financial records to improve budgeting or planning.
+2010,772,"Develop policies or procedures for archives, museums or libraries."
+2010,812,Plan production or operational procedures or sequences.
+2010,816,Mix substances or compounds needed for work activities.
+2010,851,Dispose of biomedical waste in accordance with standards.
+2010,863,Place materials into molds.
+2010,872,Dig holes or trenches.
+2010,874,Pour materials into or on designated areas.
+2010,918,Accompany patients or clients on outings to provide assistance.
+2010,1121,Treat greenery or surfaces with protective substances.
+2010,1131,Connect supply lines to production equipment or tools.
+2010,1170,Lay out work according to specifications.
+2010,1235,Operate equipment to print images or bind printed images together.
+2010,1240,Operate biomass or biofuel production equipment.
+2010,1250,Operate communications equipment or systems.
+2010,1253,Operate forestry equipment.
+2010,1292,Update website content.
+2010,1313,Lubricate equipment to allow proper functioning.
+2010,1319,Perform manual service or maintenance tasks.
+2010,1340,Repair parts or assemblies.
+2010,1357,Maintain medical equipment or instruments.
+2010,1437,Record vital statistics or other health information.
+2010,1441,Organize informational materials.
+2010,1484,Communicate organizational information to customers or other stakeholders.
+2010,1528,Confer with coworkers to resolve equipment problems.
+2010,1550,Report maintenance or equipment problems to appropriate personnel.
+2010,1579,Confer with customers or users to assess problems.
+2010,1615,Refer individuals to educational or work programs.
+2010,1641,"Fit eyeglasses, contact lenses, or other vision aids."
+2010,1648,Feed patients.
+2010,1702,Arbitrate disputes between parties to resolve legal conflicts.
+2010,1705,Arrange collective bargaining agreements.
+2010,1708,Negotiate purchases or contracts.
+2010,1800,Supervise clerical or administrative personnel.
+2010,1808,Supervise sales or support personnel.
+2010,1810,Supervise student research or internship work.
+2010,1818,Coordinate forestry or agricultural activities.
+2010,1821,Supervise inmate activities.
+2010,1825,Coordinate design activities.
+2010,1873,Direct green energy production operations.
+2010,1878,Coordinate timing of food production activities.
+2010,1918,Direct law enforcement activities.
+2010,1931,Advise patients on effects of health conditions or treatments.
+2010,1933,Recommend types of assistive devices.
+2010,1980,Counsel clients or patients with substance abuse issues.
+2010,2020,"Send information, materials or documentation."
+2010,2042,Allocate physical resources within organizations.
+2011,16,Read work orders or descriptions of problems to determine repairs or modifications needed.
+2011,24,Examine records or other types of data to investigate criminal activities.
+2011,45,Conduct surveys in organizations.
+2011,65,Obtain personal or financial information about customers or applicants.
+2011,95,Investigate accidents to determine causes.
+2011,98,Investigate industrial or transportation accidents.
+2011,175,Monitor alarm systems.
+2011,177,Locate fires or fire danger areas.
+2011,178,Monitor surroundings to detect potential hazards.
+2011,195,Monitor operations to ensure compliance with safety or security policies or regulations.
+2011,210,Identify opportunities for green initiatives.
+2011,216,Identify sustainable business practices.
+2011,309,Examine condition of property or products.
+2011,313,Test facilities for environmental hazards.
+2011,436,Review license or permit applications.
+2011,473,Analyze design requirements for computer or electronics systems.
+2011,516,Apply mathematical models of financial or business conditions.
+2011,518,Analyze financial records to improve budgeting or planning.
+2011,772,"Develop policies or procedures for archives, museums or libraries."
+2011,812,Plan production or operational procedures or sequences.
+2011,816,Mix substances or compounds needed for work activities.
+2011,851,Dispose of biomedical waste in accordance with standards.
+2011,863,Place materials into molds.
+2011,872,Dig holes or trenches.
+2011,874,Pour materials into or on designated areas.
+2011,918,Accompany patients or clients on outings to provide assistance.
+2011,1121,Treat greenery or surfaces with protective substances.
+2011,1131,Connect supply lines to production equipment or tools.
+2011,1170,Lay out work according to specifications.
+2011,1235,Operate equipment to print images or bind printed images together.
+2011,1240,Operate biomass or biofuel production equipment.
+2011,1250,Operate communications equipment or systems.
+2011,1253,Operate forestry equipment.
+2011,1292,Update website content.
+2011,1313,Lubricate equipment to allow proper functioning.
+2011,1319,Perform manual service or maintenance tasks.
+2011,1340,Repair parts or assemblies.
+2011,1357,Maintain medical equipment or instruments.
+2011,1437,Record vital statistics or other health information.
+2011,1441,Organize informational materials.
+2011,1484,Communicate organizational information to customers or other stakeholders.
+2011,1528,Confer with coworkers to resolve equipment problems.
+2011,1550,Report maintenance or equipment problems to appropriate personnel.
+2011,1579,Confer with customers or users to assess problems.
+2011,1615,Refer individuals to educational or work programs.
+2011,1641,"Fit eyeglasses, contact lenses, or other vision aids."
+2011,1648,Feed patients.
+2011,1702,Arbitrate disputes between parties to resolve legal conflicts.
+2011,1705,Arrange collective bargaining agreements.
+2011,1708,Negotiate purchases or contracts.
+2011,1800,Supervise clerical or administrative personnel.
+2011,1808,Supervise sales or support personnel.
+2011,1810,Supervise student research or internship work.
+2011,1818,Coordinate forestry or agricultural activities.
+2011,1821,Supervise inmate activities.
+2011,1825,Coordinate design activities.
+2011,1873,Direct green energy production operations.
+2011,1878,Coordinate timing of food production activities.
+2011,1918,Direct law enforcement activities.
+2011,1931,Advise patients on effects of health conditions or treatments.
+2011,1933,Recommend types of assistive devices.
+2011,1980,Counsel clients or patients with substance abuse issues.
+2011,2020,"Send information, materials or documentation."
+2011,2042,Allocate physical resources within organizations.
+2012,16,Read work orders or descriptions of problems to determine repairs or modifications needed.
+2012,24,Examine records or other types of data to investigate criminal activities.
+2012,45,Conduct surveys in organizations.
+2012,65,Obtain personal or financial information about customers or applicants.
+2012,95,Investigate accidents to determine causes.
+2012,98,Investigate industrial or transportation accidents.
+2012,175,Monitor alarm systems.
+2012,177,Locate fires or fire danger areas.
+2012,178,Monitor surroundings to detect potential hazards.
+2012,195,Monitor operations to ensure compliance with safety or security policies or regulations.
+2012,210,Identify opportunities for green initiatives.
+2012,216,Identify sustainable business practices.
+2012,309,Examine condition of property or products.
+2012,313,Test facilities for environmental hazards.
+2012,436,Review license or permit applications.
+2012,473,Analyze design requirements for computer or electronics systems.
+2012,516,Apply mathematical models of financial or business conditions.
+2012,518,Analyze financial records to improve budgeting or planning.
+2012,772,"Develop policies or procedures for archives, museums or libraries."
+2012,812,Plan production or operational procedures or sequences.
+2012,816,Mix substances or compounds needed for work activities.
+2012,851,Dispose of biomedical waste in accordance with standards.
+2012,863,Place materials into molds.
+2012,872,Dig holes or trenches.
+2012,874,Pour materials into or on designated areas.
+2012,918,Accompany patients or clients on outings to provide assistance.
+2012,1121,Treat greenery or surfaces with protective substances.
+2012,1131,Connect supply lines to production equipment or tools.
+2012,1170,Lay out work according to specifications.
+2012,1235,Operate equipment to print images or bind printed images together.
+2012,1240,Operate biomass or biofuel production equipment.
+2012,1250,Operate communications equipment or systems.
+2012,1253,Operate forestry equipment.
+2012,1292,Update website content.
+2012,1313,Lubricate equipment to allow proper functioning.
+2012,1319,Perform manual service or maintenance tasks.
+2012,1340,Repair parts or assemblies.
+2012,1357,Maintain medical equipment or instruments.
+2012,1437,Record vital statistics or other health information.
+2012,1441,Organize informational materials.
+2012,1484,Communicate organizational information to customers or other stakeholders.
+2012,1528,Confer with coworkers to resolve equipment problems.
+2012,1550,Report maintenance or equipment problems to appropriate personnel.
+2012,1579,Confer with customers or users to assess problems.
+2012,1615,Refer individuals to educational or work programs.
+2012,1641,"Fit eyeglasses, contact lenses, or other vision aids."
+2012,1648,Feed patients.
+2012,1702,Arbitrate disputes between parties to resolve legal conflicts.
+2012,1705,Arrange collective bargaining agreements.
+2012,1708,Negotiate purchases or contracts.
+2012,1800,Supervise clerical or administrative personnel.
+2012,1808,Supervise sales or support personnel.
+2012,1810,Supervise student research or internship work.
+2012,1818,Coordinate forestry or agricultural activities.
+2012,1821,Supervise inmate activities.
+2012,1825,Coordinate design activities.
+2012,1873,Direct green energy production operations.
+2012,1878,Coordinate timing of food production activities.
+2012,1918,Direct law enforcement activities.
+2012,1931,Advise patients on effects of health conditions or treatments.
+2012,1933,Recommend types of assistive devices.
+2012,1980,Counsel clients or patients with substance abuse issues.
+2012,2020,"Send information, materials or documentation."
+2012,2042,Allocate physical resources within organizations.
+2013,16,Read work orders or descriptions of problems to determine repairs or modifications needed.
+2013,24,Examine records or other types of data to investigate criminal activities.
+2013,45,Conduct surveys in organizations.
+2013,65,Obtain personal or financial information about customers or applicants.
+2013,95,Investigate accidents to determine causes.
+2013,98,Investigate industrial or transportation accidents.
+2013,175,Monitor alarm systems.
+2013,177,Locate fires or fire danger areas.
+2013,178,Monitor surroundings to detect potential hazards.
+2013,195,Monitor operations to ensure compliance with safety or security policies or regulations.
+2013,210,Identify opportunities for green initiatives.
+2013,216,Identify sustainable business practices.
+2013,309,Examine condition of property or products.
+2013,313,Test facilities for environmental hazards.
+2013,436,Review license or permit applications.
+2013,473,Analyze design requirements for computer or electronics systems.
+2013,516,Apply mathematical models of financial or business conditions.
+2013,518,Analyze financial records to improve budgeting or planning.
+2013,772,"Develop policies or procedures for archives, museums or libraries."
+2013,812,Plan production or operational procedures or sequences.
+2013,816,Mix substances or compounds needed for work activities.
+2013,851,Dispose of biomedical waste in accordance with standards.
+2013,863,Place materials into molds.
+2013,872,Dig holes or trenches.
+2013,874,Pour materials into or on designated areas.
+2013,918,Accompany patients or clients on outings to provide assistance.
+2013,1121,Treat greenery or surfaces with protective substances.
+2013,1131,Connect supply lines to production equipment or tools.
+2013,1170,Lay out work according to specifications.
+2013,1235,Operate equipment to print images or bind printed images together.
+2013,1240,Operate biomass or biofuel production equipment.
+2013,1250,Operate communications equipment or systems.
+2013,1253,Operate forestry equipment.
+2013,1292,Update website content.
+2013,1313,Lubricate equipment to allow proper functioning.
+2013,1319,Perform manual service or maintenance tasks.
+2013,1340,Repair parts or assemblies.
+2013,1357,Maintain medical equipment or instruments.
+2013,1437,Record vital statistics or other health information.
+2013,1441,Organize informational materials.
+2013,1484,Communicate organizational information to customers or other stakeholders.
+2013,1528,Confer with coworkers to resolve equipment problems.
+2013,1550,Report maintenance or equipment problems to appropriate personnel.
+2013,1579,Confer with customers or users to assess problems.
+2013,1615,Refer individuals to educational or work programs.
+2013,1641,"Fit eyeglasses, contact lenses, or other vision aids."
+2013,1648,Feed patients.
+2013,1702,Arbitrate disputes between parties to resolve legal conflicts.
+2013,1705,Arrange collective bargaining agreements.
+2013,1708,Negotiate purchases or contracts.
+2013,1800,Supervise clerical or administrative personnel.
+2013,1808,Supervise sales or support personnel.
+2013,1810,Supervise student research or internship work.
+2013,1818,Coordinate forestry or agricultural activities.
+2013,1821,Supervise inmate activities.
+2013,1825,Coordinate design activities.
+2013,1873,Direct green energy production operations.
+2013,1878,Coordinate timing of food production activities.
+2013,1918,Direct law enforcement activities.
+2013,1931,Advise patients on effects of health conditions or treatments.
+2013,1933,Recommend types of assistive devices.
+2013,1980,Counsel clients or patients with substance abuse issues.
+2013,2020,"Send information, materials or documentation."
+2013,2042,Allocate physical resources within organizations.
+2014,16,Read work orders or descriptions of problems to determine repairs or modifications needed.
+2014,24,Examine records or other types of data to investigate criminal activities.
+2014,45,Conduct surveys in organizations.
+2014,65,Obtain personal or financial information about customers or applicants.
+2014,95,Investigate accidents to determine causes.
+2014,98,Investigate industrial or transportation accidents.
+2014,175,Monitor alarm systems.
+2014,177,Locate fires or fire danger areas.
+2014,178,Monitor surroundings to detect potential hazards.
+2014,195,Monitor operations to ensure compliance with safety or security policies or regulations.
+2014,210,Identify opportunities for green initiatives.
+2014,216,Identify sustainable business practices.
+2014,309,Examine condition of property or products.
+2014,313,Test facilities for environmental hazards.
+2014,436,Review license or permit applications.
+2014,473,Analyze design requirements for computer or electronics systems.
+2014,516,Apply mathematical models of financial or business conditions.
+2014,518,Analyze financial records to improve budgeting or planning.
+2014,772,"Develop policies or procedures for archives, museums or libraries."
+2014,812,Plan production or operational procedures or sequences.
+2014,816,Mix substances or compounds needed for work activities.
+2014,851,Dispose of biomedical waste in accordance with standards.
+2014,863,Place materials into molds.
+2014,872,Dig holes or trenches.
+2014,874,Pour materials into or on designated areas.
+2014,918,Accompany patients or clients on outings to provide assistance.
+2014,1121,Treat greenery or surfaces with protective substances.
+2014,1131,Connect supply lines to production equipment or tools.
+2014,1170,Lay out work according to specifications.
+2014,1235,Operate equipment to print images or bind printed images together.
+2014,1240,Operate biomass or biofuel production equipment.
+2014,1250,Operate communications equipment or systems.
+2014,1253,Operate forestry equipment.
+2014,1292,Update website content.
+2014,1313,Lubricate equipment to allow proper functioning.
+2014,1319,Perform manual service or maintenance tasks.
+2014,1340,Repair parts or assemblies.
+2014,1357,Maintain medical equipment or instruments.
+2014,1437,Record vital statistics or other health information.
+2014,1441,Organize informational materials.
+2014,1484,Communicate organizational information to customers or other stakeholders.
+2014,1528,Confer with coworkers to resolve equipment problems.
+2014,1550,Report maintenance or equipment problems to appropriate personnel.
+2014,1579,Confer with customers or users to assess problems.
+2014,1615,Refer individuals to educational or work programs.
+2014,1641,"Fit eyeglasses, contact lenses, or other vision aids."
+2014,1648,Feed patients.
+2014,1702,Arbitrate disputes between parties to resolve legal conflicts.
+2014,1705,Arrange collective bargaining agreements.
+2014,1708,Negotiate purchases or contracts.
+2014,1800,Supervise clerical or administrative personnel.
+2014,1808,Supervise sales or support personnel.
+2014,1810,Supervise student research or internship work.
+2014,1818,Coordinate forestry or agricultural activities.
+2014,1821,Supervise inmate activities.
+2014,1825,Coordinate design activities.
+2014,1873,Direct green energy production operations.
+2014,1878,Coordinate timing of food production activities.
+2014,1918,Direct law enforcement activities.
+2014,1931,Advise patients on effects of health conditions or treatments.
+2014,1933,Recommend types of assistive devices.
+2014,1980,Counsel clients or patients with substance abuse issues.
+2014,2020,"Send information, materials or documentation."
+2014,2042,Allocate physical resources within organizations.
+2015,16,Read work orders or descriptions of problems to determine repairs or modifications needed.
+2015,24,Examine records or other types of data to investigate criminal activities.
+2015,45,Conduct surveys in organizations.
+2015,65,Obtain personal or financial information about customers or applicants.
+2015,95,Investigate accidents to determine causes.
+2015,98,Investigate industrial or transportation accidents.
+2015,175,Monitor alarm systems.
+2015,177,Locate fires or fire danger areas.
+2015,178,Monitor surroundings to detect potential hazards.
+2015,195,Monitor operations to ensure compliance with safety or security policies or regulations.
+2015,210,Identify opportunities for green initiatives.
+2015,216,Identify sustainable business practices.
+2015,309,Examine condition of property or products.
+2015,313,Test facilities for environmental hazards.
+2015,436,Review license or permit applications.
+2015,473,Analyze design requirements for computer or electronics systems.
+2015,516,Apply mathematical models of financial or business conditions.
+2015,518,Analyze financial records to improve budgeting or planning.
+2015,772,"Develop policies or procedures for archives, museums or libraries."
+2015,812,Plan production or operational procedures or sequences.
+2015,816,Mix substances or compounds needed for work activities.
+2015,851,Dispose of biomedical waste in accordance with standards.
+2015,863,Place materials into molds.
+2015,872,Dig holes or trenches.
+2015,874,Pour materials into or on designated areas.
+2015,918,Accompany patients or clients on outings to provide assistance.
+2015,1121,Treat greenery or surfaces with protective substances.
+2015,1131,Connect supply lines to production equipment or tools.
+2015,1170,Lay out work according to specifications.
+2015,1235,Operate equipment to print images or bind printed images together.
+2015,1240,Operate biomass or biofuel production equipment.
+2015,1250,Operate communications equipment or systems.
+2015,1253,Operate forestry equipment.
+2015,1292,Update website content.
+2015,1313,Lubricate equipment to allow proper functioning.
+2015,1319,Perform manual service or maintenance tasks.
+2015,1340,Repair parts or assemblies.
+2015,1357,Maintain medical equipment or instruments.
+2015,1437,Record vital statistics or other health information.
+2015,1441,Organize informational materials.
+2015,1484,Communicate organizational information to customers or other stakeholders.
+2015,1528,Confer with coworkers to resolve equipment problems.
+2015,1550,Report maintenance or equipment problems to appropriate personnel.
+2015,1579,Confer with customers or users to assess problems.
+2015,1615,Refer individuals to educational or work programs.
+2015,1641,"Fit eyeglasses, contact lenses, or other vision aids."
+2015,1648,Feed patients.
+2015,1702,Arbitrate disputes between parties to resolve legal conflicts.
+2015,1705,Arrange collective bargaining agreements.
+2015,1708,Negotiate purchases or contracts.
+2015,1800,Supervise clerical or administrative personnel.
+2015,1808,Supervise sales or support personnel.
+2015,1810,Supervise student research or internship work.
+2015,1818,Coordinate forestry or agricultural activities.
+2015,1821,Supervise inmate activities.
+2015,1825,Coordinate design activities.
+2015,1873,Direct green energy production operations.
+2015,1878,Coordinate timing of food production activities.
+2015,1918,Direct law enforcement activities.
+2015,1931,Advise patients on effects of health conditions or treatments.
+2015,1933,Recommend types of assistive devices.
+2015,1980,Counsel clients or patients with substance abuse issues.
+2015,2020,"Send information, materials or documentation."
+2015,2042,Allocate physical resources within organizations.
+2016,16,Read work orders or descriptions of problems to determine repairs or modifications needed.
+2016,24,Examine records or other types of data to investigate criminal activities.
+2016,45,Conduct surveys in organizations.
+2016,65,Obtain personal or financial information about customers or applicants.
+2016,95,Investigate accidents to determine causes.
+2016,98,Investigate industrial or transportation accidents.
+2016,175,Monitor alarm systems.
+2016,177,Locate fires or fire danger areas.
+2016,178,Monitor surroundings to detect potential hazards.
+2016,195,Monitor operations to ensure compliance with safety or security policies or regulations.
+2016,210,Identify opportunities for green initiatives.
+2016,216,Identify sustainable business practices.
+2016,309,Examine condition of property or products.
+2016,313,Test facilities for environmental hazards.
+2016,436,Review license or permit applications.
+2016,473,Analyze design requirements for computer or electronics systems.
+2016,516,Apply mathematical models of financial or business conditions.
+2016,518,Analyze financial records to improve budgeting or planning.
+2016,772,"Develop policies or procedures for archives, museums or libraries."
+2016,812,Plan production or operational procedures or sequences.
+2016,816,Mix substances or compounds needed for work activities.
+2016,851,Dispose of biomedical waste in accordance with standards.
+2016,863,Place materials into molds.
+2016,872,Dig holes or trenches.
+2016,874,Pour materials into or on designated areas.
+2016,918,Accompany patients or clients on outings to provide assistance.
+2016,1121,Treat greenery or surfaces with protective substances.
+2016,1131,Connect supply lines to production equipment or tools.
+2016,1170,Lay out work according to specifications.
+2016,1235,Operate equipment to print images or bind printed images together.
+2016,1240,Operate biomass or biofuel production equipment.
+2016,1250,Operate communications equipment or systems.
+2016,1253,Operate forestry equipment.
+2016,1292,Update website content.
+2016,1313,Lubricate equipment to allow proper functioning.
+2016,1319,Perform manual service or maintenance tasks.
+2016,1340,Repair parts or assemblies.
+2016,1357,Maintain medical equipment or instruments.
+2016,1437,Record vital statistics or other health information.
+2016,1441,Organize informational materials.
+2016,1484,Communicate organizational information to customers or other stakeholders.
+2016,1528,Confer with coworkers to resolve equipment problems.
+2016,1550,Report maintenance or equipment problems to appropriate personnel.
+2016,1579,Confer with customers or users to assess problems.
+2016,1615,Refer individuals to educational or work programs.
+2016,1641,"Fit eyeglasses, contact lenses, or other vision aids."
+2016,1648,Feed patients.
+2016,1702,Arbitrate disputes between parties to resolve legal conflicts.
+2016,1705,Arrange collective bargaining agreements.
+2016,1708,Negotiate purchases or contracts.
+2016,1800,Supervise clerical or administrative personnel.
+2016,1808,Supervise sales or support personnel.
+2016,1810,Supervise student research or internship work.
+2016,1818,Coordinate forestry or agricultural activities.
+2016,1821,Supervise inmate activities.
+2016,1825,Coordinate design activities.
+2016,1873,Direct green energy production operations.
+2016,1878,Coordinate timing of food production activities.
+2016,1918,Direct law enforcement activities.
+2016,1931,Advise patients on effects of health conditions or treatments.
+2016,1933,Recommend types of assistive devices.
+2016,1980,Counsel clients or patients with substance abuse issues.
+2016,2020,"Send information, materials or documentation."
+2016,2042,Allocate physical resources within organizations.
+2017,16,Read work orders or descriptions of problems to determine repairs or modifications needed.
+2017,24,Examine records or other types of data to investigate criminal activities.
+2017,45,Conduct surveys in organizations.
+2017,65,Obtain personal or financial information about customers or applicants.
+2017,95,Investigate accidents to determine causes.
+2017,98,Investigate industrial or transportation accidents.
+2017,175,Monitor alarm systems.
+2017,177,Locate fires or fire danger areas.
+2017,178,Monitor surroundings to detect potential hazards.
+2017,195,Monitor operations to ensure compliance with safety or security policies or regulations.
+2017,210,Identify opportunities for green initiatives.
+2017,216,Identify sustainable business practices.
+2017,309,Examine condition of property or products.
+2017,313,Test facilities for environmental hazards.
+2017,436,Review license or permit applications.
+2017,473,Analyze design requirements for computer or electronics systems.
+2017,516,Apply mathematical models of financial or business conditions.
+2017,518,Analyze financial records to improve budgeting or planning.
+2017,772,"Develop policies or procedures for archives, museums or libraries."
+2017,812,Plan production or operational procedures or sequences.
+2017,816,Mix substances or compounds needed for work activities.
+2017,851,Dispose of biomedical waste in accordance with standards.
+2017,863,Place materials into molds.
+2017,872,Dig holes or trenches.
+2017,874,Pour materials into or on designated areas.
+2017,918,Accompany patients or clients on outings to provide assistance.
+2017,1121,Treat greenery or surfaces with protective substances.
+2017,1131,Connect supply lines to production equipment or tools.
+2017,1170,Lay out work according to specifications.
+2017,1235,Operate equipment to print images or bind printed images together.
+2017,1240,Operate biomass or biofuel production equipment.
+2017,1250,Operate communications equipment or systems.
+2017,1253,Operate forestry equipment.
+2017,1292,Update website content.
+2017,1313,Lubricate equipment to allow proper functioning.
+2017,1319,Perform manual service or maintenance tasks.
+2017,1340,Repair parts or assemblies.
+2017,1357,Maintain medical equipment or instruments.
+2017,1437,Record vital statistics or other health information.
+2017,1441,Organize informational materials.
+2017,1484,Communicate organizational information to customers or other stakeholders.
+2017,1528,Confer with coworkers to resolve equipment problems.
+2017,1550,Report maintenance or equipment problems to appropriate personnel.
+2017,1579,Confer with customers or users to assess problems.
+2017,1615,Refer individuals to educational or work programs.
+2017,1641,"Fit eyeglasses, contact lenses, or other vision aids."
+2017,1648,Feed patients.
+2017,1702,Arbitrate disputes between parties to resolve legal conflicts.
+2017,1705,Arrange collective bargaining agreements.
+2017,1708,Negotiate purchases or contracts.
+2017,1800,Supervise clerical or administrative personnel.
+2017,1808,Supervise sales or support personnel.
+2017,1810,Supervise student research or internship work.
+2017,1818,Coordinate forestry or agricultural activities.
+2017,1821,Supervise inmate activities.
+2017,1825,Coordinate design activities.
+2017,1873,Direct green energy production operations.
+2017,1878,Coordinate timing of food production activities.
+2017,1918,Direct law enforcement activities.
+2017,1931,Advise patients on effects of health conditions or treatments.
+2017,1933,Recommend types of assistive devices.
+2017,1980,Counsel clients or patients with substance abuse issues.
+2017,2020,"Send information, materials or documentation."
+2017,2042,Allocate physical resources within organizations.

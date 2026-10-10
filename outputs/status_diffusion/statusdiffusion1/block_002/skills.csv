@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+68,Observe individuals' activities to gather information or compile evidence.,0.33061507791307204,0.05917669015021121
+110,"Interview witnesses, suspects, or claimants.",0.2591689785353355,0.05187851841109186
+168,Monitor environment to ensure safety.,0.20450088527654292,0.051497190336926325
+200,Monitor operational activities to ensure compliance with regulations or standard operating procedures.,0.2825244246073329,0.06894101804397228
+334,Measure dimensions of completed products or workpieces to verify conformance to specifications.,0.27038728956602553,0.050307625348819746
+390,Evaluate the characteristics of green technologies.,0.1891716406892829,0.043631364555897556
+391,Assess product or process usefulness.,0.29170709483460483,0.06275206232176726
+406,Evaluate data quality.,0.2193328428641349,0.05413158019873132
+436,Review license or permit applications.,0.20751909565660315,0.041683575602567
+527,Determine the value of goods or services.,0.2576061271277369,0.05637905163012147
+541,Determine appropriate locations for operations or installations.,0.26391694884787664,0.060664871076673774
+637,Develop plans to manage natural or renewable resources.,0.2947784664948572,0.05816282314574279
+791,Arrange maintenance activities.,0.18754339049071075,0.04941144045262358
+801,"Plan conferences, programs, or special events.",0.29121961381635675,0.05949128964892912
+847,Remove snow.,0.088485954495106,0.029780540272777267
+1008,Adjust tuning or functioning of musical instruments.,0.17836899062787,0.044711545630212644
+1238,Operate energy production equipment.,0.2097818695938956,0.04936082102697117
+1273,Drive passenger vehicles.,0.11349903926647331,0.03099195546567036
+1282,Install programs onto computer or computer-controlled equipment.,0.18827780119724682,0.0710272135930498
+1383,Record crime or accident scene evidence with video or still cameras.,0.21478930780209066,0.04938914228725565
+1387,Prepare medical reports or documents.,0.21393149998142058,0.058201089356261726
+1393,Prepare proposal documents or grant applications.,0.2802517511950894,0.05401755829611542
+1478,Explain technical product or service information to customers.,0.2753420140630393,0.06261181719275914
+1567,Coordinate with external parties to exchange information.,0.2717388864849047,0.054693580941867964
+1582,Testify at legal or legislative proceedings.,0.17259425445528406,0.05480341209004864
+1677,Treat dental problems or diseases.,0.14980257067153308,0.04467896116586675
+1714,Negotiate project specifications.,0.28502494195653566,0.0576912411602285
+1722,Perform music for the public.,0.13300995930491044,0.05404051356482912
+1863,Manage outreach activities.,0.2853754270336772,0.06587937955304848
+1967,Counsel clients regarding educational or vocational issues.,0.2920817675340075,0.0689139515974543
+1983,Counsel family members of clients or patients.,0.18657898387276048,0.06354803223441415
+1999,Administer oaths to court participants.,0.2045619529047776,0.05427961589834587

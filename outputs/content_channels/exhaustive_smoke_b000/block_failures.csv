@@ -1,0 +1,3 @@
+outcome,scope,model,reason
+delta1,discipline,strict_internal,system is computationally singular: reciprocal condition number = 1.60887e-35
+delta2,discipline,strict_internal,system is computationally singular: reciprocal condition number = 2.14657e-37

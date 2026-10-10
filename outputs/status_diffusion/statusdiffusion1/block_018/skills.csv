@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+16,Read work orders or descriptions of problems to determine repairs or modifications needed.,0.2255921441562707,0.047513215698945066
+300,Examine patients to assess general physical condition.,0.253596999939781,0.06974058323053405
+306,"Inspect garments for defects, damage, or stains.",0.2000276018327806,0.04027235303260493
+396,Evaluate condition of properties.,0.16221014482166604,0.03801279513577087
+461,"Forecast economic, political, or social trends.",0.2718245420721636,0.0531247659758654
+645,Design structures or facilities.,0.290580548593066,0.059718521712507834
+755,Attend training sessions or professional meetings to develop or maintain professional knowledge.,0.3146391564550431,0.06825136550536609
+860,"Load shipments, belongings, or materials.",0.17069219767103533,0.03519382503117918
+862,Load or unload materials used in construction or extraction.,0.20164106907747173,0.039179209752123134
+868,Secure cargo.,0.13170834761612502,0.032798434011040274
+890,Clean medical equipment.,0.1554070571803253,0.05203297338621043
+956,Install equipment to protect or support trees.,0.1728160380242194,0.042327962630043924
+1010,Adjust equipment controls to regulate flow of production materials or products.,0.24056176625812947,0.05326130443898386
+1116,Paint surfaces or equipment.,0.15703683241920965,0.04620153108975533
+1119,Apply chemical solutions to plants to protect against disease or insects or to enhance growth.,0.23784710580358343,0.04415079730158616
+1157,Collect environmental data or samples.,0.2685730867879891,0.05567693185499784
+1181,Install plumbing or piping.,0.12010729269464145,0.03833382121243672
+1245,Lift materials or workpieces using cranes or other lifting equipment.,0.22390643304661564,0.04366449643640748
+1334,Maintain laboratory or technical equipment.,0.23493703491605852,0.05775121910718101
+1407,Maintain data in information systems or databases.,0.27158977478716023,0.06644468404235197
+1413,Record shipping information.,0.2005681652035499,0.04399473626821084
+1426,Document technical design details.,0.3130994424537154,0.055106306992970824
+1490,Explain financial information to customers.,0.2246713245009959,0.06158797544643258
+1507,Communicate with others to coordinate vehicle movement.,0.23858004339698163,0.04624171633851653
+1561,Signal others to coordinate vehicle movement.,0.2029094559130725,0.04218623816373155
+1649,Assist patients with hygiene or daily living activities.,0.22832573333493666,0.061565327618467745
+1676,Operate on patients to treat conditions.,0.23835531432166587,0.06464344180494574
+1866,"Direct sales, marketing, or customer service activities.",0.21454500690245454,0.06644114358646744
+1964,Advise others on social or educational issues.,0.2976678173920034,0.0619084791279021
+1977,Recommend improvements to increase safety or reduce risks.,0.278080664071998,0.05910955010154023
+1987,Recommend investments to clients.,0.16863609478521863,0.05658476009270195
+1990,File documents or records.,0.22557241348307935,0.04953244842551742

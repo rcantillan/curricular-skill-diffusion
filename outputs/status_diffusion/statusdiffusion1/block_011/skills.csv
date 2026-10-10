@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+118,"Monitor green energy equipment, systems, or facilities.",0.19342148069830808,0.046515320168486474
+130,Monitor construction operations.,0.19879756962574702,0.04468204699287297
+162,Monitor patron activities to identify problems or potential problems.,0.25870868354047816,0.04906205067487598
+215,Identify opportunities to improve operational efficiency.,0.2517140445583938,0.0705725787641177
+227,"Test materials, solutions, or samples.",0.2368747422705715,0.05757380497725388
+318,Test mechanical equipment to ensure proper functioning.,0.24705288350680085,0.05390794576666649
+326,Measure product or material dimensions.,0.17889843610816217,0.04571319972053587
+377,"Evaluate performance of applicants, trainees, or employees.",0.3519447858934968,0.07803989676285993
+429,Verify application data to determine program eligibility.,0.27454823089913827,0.056456159356080005
+442,Evaluate green operations or programs for compliance with standards or regulations.,0.2504739211074983,0.05788447867167026
+495,"Analyze jobs using observation, survey, or interview techniques.",0.3003292473639672,0.0583055220860267
+540,Determine metal or plastic production methods.,0.20587863425232353,0.04511012235423013
+720,Plan biological research.,0.25467382497412044,0.054778320854893675
+795,"Schedule repair, installation or maintenance activities.",0.2161608828893837,0.050956365589534564
+857,Dispose of trash or waste materials.,0.19219838048822158,0.045228776158522464
+1030,Cut materials according to specifications or needs.,0.21895533339764414,0.04671913159876282
+1035,Cut fabrics.,0.14363998224727875,0.0335670673799987
+1061,Cast molds of patient anatomies to create medical or dental devices.,0.10168475955134347,0.04361120975265626
+1198,"Cultivate micro-organisms for study, testing, or medical preparations.",0.2051997233802253,0.05374043737517753
+1218,Operate medical equipment.,0.19972959902521564,0.05578892639834348
+1293,Update computer database information.,0.12741243403858662,0.04895002623653218
+1366,Record information about suspects or criminals.,0.2617264821088259,0.051053714579705846
+1367,Record information from legal proceedings.,0.22577839681907053,0.04663296377452232
+1453,Prepare forms or applications.,0.22760427962748833,0.05180653266494942
+1494,Explain technical medical information to patients.,0.2898648934056733,0.054150570981311916
+1659,Assist customers to ensure comfort or safety.,0.23873980252505,0.06307195973829917
+1734,Teach basic living or other adaptive skills to patients or caregivers.,0.29009835637740533,0.07388567324299143
+1767,Train employees in proper work procedures.,0.30966328890063044,0.06958500169204158
+1780,Demonstrate activity techniques or equipment use.,0.31846485618430703,0.06263999714627116
+1912,Direct emergency management activities.,0.20165061748142005,0.05496229930196412
+1938,Advise others regarding green practices or environmental concerns.,0.19592005888088898,0.04782465671397496
+2038,"Maintain inventories of materials, equipment, or products.",0.24937346921565914,0.058263952374578154

@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+5,Read maps to determine routes.,0.22093734270255455,0.03621304727916814
+103,Interview others for news or entertainment purposes.,0.2582455419555419,0.0604406405418078
+129,Monitor organizational procedures to ensure proper functioning.,0.3003090542272735,0.06964147427857688
+237,Inspect locomotives or other railroad equipment.,0.18531623886363696,0.03607818003903928
+284,Inspect equipment or systems.,0.2402637105924026,0.053506668535719365
+309,Examine condition of property or products.,0.1917461217284339,0.04095370877754263
+317,Test performance of aircraft equipment.,0.1350305866036167,0.04734401067047458
+323,"Measure materials to mark reference points, cutting lines, or other indicators.",0.26411290686811567,0.044704242730047236
+332,Measure ingredients or substances to be used in production processes.,0.27799879324668236,0.05169538010957514
+405,Verify accuracy of financial information.,0.18179300339432675,0.04932473554556839
+422,Compile environmental or climatological data.,0.20093895901315456,0.05265451682471868
+525,Analyze test or performance data to assess equipment operation.,0.26285194027360675,0.061797360121047674
+529,Determine prices for menu items.,0.16743615968297884,0.04432111965155229
+560,Estimate technical or resource requirements for development or production projects.,0.27772779936191094,0.06441921269183545
+617,Create new recipes or food presentations.,0.2462769728307895,0.04881357516452773
+704,Develop contingency plans to deal with organizational emergencies.,0.2796518574477437,0.06512633247042844
+932,"Perform manual agricultural, aquacultural, or horticultural tasks.",0.20981291426061607,0.05114852175851741
+943,Install fencing or other barriers.,0.09712006694104525,0.031423966297539754
+948,Install safety or support equipment.,0.18465768914586933,0.055642647664675304
+969,Arrange food for serving.,0.20365577839411136,0.038270436301071395
+1015,Set equipment controls to meet cutting specifications.,0.18554070665311898,0.047983392185889574
+1114,Display student work.,0.34543714816605997,0.0596198959410395
+1247,Operate laboratory or field equipment.,0.25876144350292035,0.05982183709038933
+1287,Operate computers or computerized equipment.,0.21866806846184503,0.05957342901792669
+1481,"Inform the public about policies, services or procedures.",0.2547637146891169,0.0673656289024779
+1609,Establish interpersonal business relationships to facilitate work activities.,0.29399820140013316,0.06985006634969164
+1612,Refer patients to other healthcare practitioners or health resources.,0.17018461378483754,0.06565244640442221
+1746,Instruct college students in physical or life sciences.,0.31545835290809504,0.0637761396989474
+1828,Direct natural resources management or conservation programs.,0.20933522149087622,0.05668927207786859
+1913,Manage organizational security activities.,0.2022172036234244,0.06055177922411222
+1914,Direct fire fighting or prevention activities.,0.21574494138818823,0.04965946668202822
+2053,"Order materials, supplies, or equipment.",0.24216646280739904,0.050824741507692256

@@ -1,0 +1,5 @@
+model,rows,institutions,channel_correlation_min_eigenvalue,dropped
+related,31968,52,0.455926028572582,""
+random,31968,52,0.483114810476452,""
+related_on_lead_sample,20800,44,0.396446487132617,""
+related_with_future_sources,20800,44,0.394958334447735,""

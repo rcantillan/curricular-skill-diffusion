@@ -1,0 +1,364 @@
+FIRST CONTENT-CHANNEL PILOT — no RCA; exploratory associations
+
+delta1: annual inferred-score change / baseline SD.
+delta2: two-year net change / 2 / baseline SD; requires three observed consecutive profiles.
+Primary coverage: >=9 syllabi in each relevant year; >=3 sensitivity.
+Source profiles require >=3 syllabi. All model comparisons within a scope share a sample.
+Fixed effects: program-skill, skill-year, field-year, institution-year.
+Strict internal-channel model adds field-skill-year shocks and omits the discipline channel.
+Held-out main predictions: train endpoints <=2013; target years >=2014.
+Prediction models use train-only program-skill intercepts and time trend; no unseen-year effects.
+Hiring-2015 predictions: train 2014–2015, test 2016–2017; eligible repeated pairs only.
+Hiring-2022: retrospective sensitivity only; never treated as a prospective test.
+
+                        scope outcome min_syllabi  rows institutions programs
+                       <char>  <char>       <int> <int>        <int>    <int>
+ 1:                      main  delta1           9 48636          353     2345
+ 2:      network2015_post2013  delta1           9  1436           77      109
+ 3: network2022_retrospective  delta1           9  3676          114      289
+ 4:                      main  delta2           9 36360          299     1883
+ 5:      network2015_post2013  delta2           9   912           62       87
+ 6: network2022_retrospective  delta2           9  2220           94      212
+ 7:                      main  delta1           3 94276          503     4350
+ 8:      network2015_post2013  delta1           3  2752          127      208
+ 9: network2022_retrospective  delta1           3  6556          153      499
+10:                      main  delta2           3 69444          431     3372
+11:      network2015_post2013  delta2           3  1728          105      160
+12: network2022_retrospective  delta2           3  4116          146      380
+    skills first_year last_year
+     <int>      <int>     <int>
+ 1:      4       2008      2017
+ 2:      4       2014      2017
+ 3:      4       2014      2017
+ 4:      4       2008      2016
+ 5:      4       2014      2016
+ 6:      4       2014      2016
+ 7:      4       2008      2017
+ 8:      4       2014      2017
+ 9:      4       2014      2017
+10:      4       2008      2016
+11:      4       2014      2016
+12:      4       2014      2016
+
+CHANNEL COEFFICIENTS
+                        scope outcome min_syllabi
+                       <char>  <char>       <int>
+ 1:                      main  delta1           9
+ 2:                      main  delta1           9
+ 3:                      main  delta1           9
+ 4:                      main  delta1           9
+ 5:                      main  delta1           9
+ 6:      network2015_post2013  delta1           9
+ 7:      network2015_post2013  delta1           9
+ 8:      network2015_post2013  delta1           9
+ 9:      network2015_post2013  delta1           9
+10:      network2015_post2013  delta1           9
+11: network2022_retrospective  delta1           9
+12: network2022_retrospective  delta1           9
+13: network2022_retrospective  delta1           9
+14: network2022_retrospective  delta1           9
+15: network2022_retrospective  delta1           9
+16:                      main  delta2           9
+17:                      main  delta2           9
+18:                      main  delta2           9
+19:                      main  delta2           9
+20:                      main  delta2           9
+21:      network2015_post2013  delta2           9
+22:      network2015_post2013  delta2           9
+23:      network2015_post2013  delta2           9
+24:      network2015_post2013  delta2           9
+25:      network2015_post2013  delta2           9
+26: network2022_retrospective  delta2           9
+27: network2022_retrospective  delta2           9
+28: network2022_retrospective  delta2           9
+29: network2022_retrospective  delta2           9
+30: network2022_retrospective  delta2           9
+31:                      main  delta1           3
+32:                      main  delta1           3
+33:                      main  delta1           3
+34:                      main  delta1           3
+35:                      main  delta1           3
+36:      network2015_post2013  delta1           3
+37:      network2015_post2013  delta1           3
+38:      network2015_post2013  delta1           3
+39:      network2015_post2013  delta1           3
+40:      network2015_post2013  delta1           3
+41: network2022_retrospective  delta1           3
+42: network2022_retrospective  delta1           3
+43: network2022_retrospective  delta1           3
+44: network2022_retrospective  delta1           3
+45: network2022_retrospective  delta1           3
+46:                      main  delta2           3
+47:                      main  delta2           3
+48:                      main  delta2           3
+49:                      main  delta2           3
+50:                      main  delta2           3
+51:      network2015_post2013  delta2           3
+52:      network2015_post2013  delta2           3
+53:      network2015_post2013  delta2           3
+54:      network2015_post2013  delta2           3
+55:      network2015_post2013  delta2           3
+56: network2022_retrospective  delta2           3
+57: network2022_retrospective  delta2           3
+58: network2022_retrospective  delta2           3
+59: network2022_retrospective  delta2           3
+60: network2022_retrospective  delta2           3
+                        scope outcome min_syllabi
+                       <char>  <char>       <int>
+                                       model           term      estimate
+                                      <char>         <char>         <num>
+ 1:                              institution  same_inst_std  0.0398093720
+ 2:                               discipline same_field_std -0.0108298499
+ 3:                                     both  same_inst_std  0.0397917044
+ 4:                                     both same_field_std -0.0101348526
+ 5: institution_with_discipline_skill_shocks  same_inst_std  0.0393357072
+ 6:                 both_same_network_sample  same_inst_std -0.0263261301
+ 7:                 both_same_network_sample same_field_std  0.3710335802
+ 8:                         both_plus_hiring  same_inst_std -0.0266976521
+ 9:                         both_plus_hiring same_field_std  0.3375986892
+10:                         both_plus_hiring hiring2015_std -0.0659260003
+11:                 both_same_network_sample  same_inst_std -0.0850407093
+12:                 both_same_network_sample same_field_std  0.0008249802
+13:                         both_plus_hiring  same_inst_std -0.0851353371
+14:                         both_plus_hiring same_field_std  0.0101798063
+15:                         both_plus_hiring hiring2022_std -0.0283588341
+16:                              institution  same_inst_std  0.0116632403
+17:                               discipline same_field_std -0.0084787858
+18:                                     both  same_inst_std  0.0116474907
+19:                                     both same_field_std -0.0082814949
+20: institution_with_discipline_skill_shocks  same_inst_std  0.0111501504
+21:                 both_same_network_sample  same_inst_std -0.0202572592
+22:                 both_same_network_sample same_field_std -0.0458580952
+23:                         both_plus_hiring  same_inst_std -0.0197010016
+24:                         both_plus_hiring same_field_std -0.0300662421
+25:                         both_plus_hiring hiring2015_std -0.1021176173
+26:                 both_same_network_sample  same_inst_std -0.0087395269
+27:                 both_same_network_sample same_field_std -0.0110649376
+28:                         both_plus_hiring  same_inst_std -0.0088490295
+29:                         both_plus_hiring same_field_std -0.0051242491
+30:                         both_plus_hiring hiring2022_std -0.0103532408
+31:                              institution  same_inst_std  0.0313601289
+32:                               discipline same_field_std -0.0027427105
+33:                                     both  same_inst_std  0.0313595213
+34:                                     both same_field_std -0.0026179746
+35: institution_with_discipline_skill_shocks  same_inst_std  0.0314421143
+36:                 both_same_network_sample  same_inst_std  0.0149615325
+37:                 both_same_network_sample same_field_std -0.1003565831
+38:                         both_plus_hiring  same_inst_std  0.0148901522
+39:                         both_plus_hiring same_field_std -0.1101852975
+40:                         both_plus_hiring hiring2015_std -0.0191901299
+41:                 both_same_network_sample  same_inst_std -0.0154633783
+42:                 both_same_network_sample same_field_std  0.0626033528
+43:                         both_plus_hiring  same_inst_std -0.0153427153
+44:                         both_plus_hiring same_field_std  0.0514543689
+45:                         both_plus_hiring hiring2022_std  0.0380041141
+46:                              institution  same_inst_std  0.0050785397
+47:                               discipline same_field_std  0.0044449393
+48:                                     both  same_inst_std  0.0050792768
+49:                                     both same_field_std  0.0044573435
+50: institution_with_discipline_skill_shocks  same_inst_std  0.0046476307
+51:                 both_same_network_sample  same_inst_std -0.0268649358
+52:                 both_same_network_sample same_field_std  0.2185497441
+53:                         both_plus_hiring  same_inst_std -0.0287316830
+54:                         both_plus_hiring same_field_std  0.2491732642
+55:                         both_plus_hiring hiring2015_std -0.1237263503
+56:                 both_same_network_sample  same_inst_std -0.0012819047
+57:                 both_same_network_sample same_field_std  0.0655943162
+58:                         both_plus_hiring  same_inst_std -0.0009825538
+59:                         both_plus_hiring same_field_std  0.0549645798
+60:                         both_plus_hiring hiring2022_std  0.0235355586
+                                       model           term      estimate
+                                      <char>         <char>         <num>
+             se           p        p_bh
+          <num>       <num>       <num>
+ 1: 0.014721839 0.007181489 0.022731777
+ 2: 0.019786244 0.584490390 0.672906303
+ 3: 0.014724588 0.007217650 0.022731777
+ 4: 0.019788078 0.608853491 0.672906303
+ 5: 0.014570132 0.007274169 0.022731777
+ 6: 0.035348706 0.458716596 0.599860163
+ 7: 0.288722691 0.202664749 0.483307472
+ 8: 0.035090491 0.449116948 0.599860163
+ 9: 0.289995891 0.248004815 0.483307472
+10: 0.086199094 0.446752559 0.599860163
+11: 0.030140276 0.005648457 0.024005941
+12: 0.127228625 0.994837800 0.994837800
+13: 0.030161946 0.005630240 0.024005941
+14: 0.125796279 0.935646379 0.994124278
+15: 0.046591031 0.543960988 0.742553986
+16: 0.007893686 0.140586908 0.289263011
+17: 0.009659318 0.380768573 0.655780406
+18: 0.007896979 0.141287099 0.289263011
+19: 0.009690679 0.393468244 0.655780406
+20: 0.007733643 0.150416766 0.289263011
+21: 0.025880420 0.436816628 0.867313529
+22: 0.146381716 0.755138540 0.912201795
+23: 0.025641979 0.445267036 0.867313529
+24: 0.144251711 0.835588398 0.912201795
+25: 0.063645571 0.113775240 0.644726359
+26: 0.019211087 0.650226256 0.998495656
+27: 0.072734839 0.879416261 0.998495656
+28: 0.019287738 0.647455106 0.998495656
+29: 0.074936284 0.945628825 0.998495656
+30: 0.032877997 0.753543951 0.998495656
+31: 0.009591110 0.001150481 0.003903143
+32: 0.017981514 0.878830650 0.883758460
+33: 0.009589971 0.001149187 0.003903143
+34: 0.017896914 0.883758460 0.883758460
+35: 0.009686744 0.001249006 0.003903143
+36: 0.031518041 0.635824387 0.820886581
+37: 0.263088233 0.703507410 0.820886581
+38: 0.031415462 0.636337837 0.820886581
+39: 0.270478989 0.684426788 0.820886581
+40: 0.103564285 0.853294199 0.853294199
+41: 0.022465143 0.492295667 0.650057720
+42: 0.123394294 0.612648791 0.743930675
+43: 0.022539930 0.497102962 0.650057720
+44: 0.123956437 0.678653723 0.769140886
+45: 0.048548275 0.434956124 0.650057720
+46: 0.004732535 0.283822718 0.600969006
+47: 0.008727398 0.610797135 0.763496419
+48: 0.004732522 0.283751619 0.600969006
+49: 0.008723733 0.609652139 0.763496419
+50: 0.004739247 0.327307585 0.629437664
+51: 0.016527361 0.107086478 0.303411688
+52: 0.168507124 0.197509373 0.358225956
+53: 0.016610077 0.086637318 0.303411688
+54: 0.172063743 0.150584589 0.341059253
+55: 0.067457783 0.069493863 0.303411688
+56: 0.014334293 0.928864207 0.945234682
+57: 0.087848071 0.456466283 0.928302218
+58: 0.014278976 0.945234682 0.945234682
+59: 0.090236002 0.543397889 0.928302218
+60: 0.032430639 0.469180225 0.928302218
+             se           p        p_bh
+          <num>       <num>       <num>
+
+HELD-OUT PREDICTION
+                   scope outcome min_syllabi            model train_rows
+                  <char>  <char>       <int>           <char>      <int>
+ 1:                 main  delta1           9         baseline      17332
+ 2:                 main  delta1           9      institution      17332
+ 3:                 main  delta1           9       discipline      17332
+ 4:                 main  delta1           9             both      17332
+ 5: network2015_post2013  delta1           9             both        480
+ 6: network2015_post2013  delta1           9 both_plus_hiring        480
+ 7:                 main  delta2           9         baseline      10412
+ 8:                 main  delta2           9      institution      10412
+ 9:                 main  delta2           9       discipline      10412
+10:                 main  delta2           9             both      10412
+11:                 main  delta1           3         baseline      37496
+12:                 main  delta1           3      institution      37496
+13:                 main  delta1           3       discipline      37496
+14:                 main  delta1           3             both      37496
+15: network2015_post2013  delta1           3             both       1008
+16: network2015_post2013  delta1           3 both_plus_hiring       1008
+17:                 main  delta2           3         baseline      23528
+18:                 main  delta2           3      institution      23528
+19:                 main  delta2           3       discipline      23528
+20:                 main  delta2           3             both      23528
+                   scope outcome min_syllabi            model train_rows
+                  <char>  <char>       <int>           <char>      <int>
+    test_rows test_institutions train_end_year test_start_year test_end_year
+        <int>             <int>          <int>           <int>         <int>
+ 1:     12252               184           2013            2014          2017
+ 2:     12252               184           2013            2014          2017
+ 3:     12252               184           2013            2014          2017
+ 4:     12252               184           2013            2014          2017
+ 5:       448                45           2015            2016          2017
+ 6:       448                45           2015            2016          2017
+ 7:      5824               139           2013            2014          2016
+ 8:      5824               139           2013            2014          2016
+ 9:      5824               139           2013            2014          2016
+10:      5824               139           2013            2014          2016
+11:     25120               315           2013            2014          2017
+12:     25120               315           2013            2014          2017
+13:     25120               315           2013            2014          2017
+14:     25120               315           2013            2014          2017
+15:       924                89           2015            2016          2017
+16:       924                89           2015            2016          2017
+17:     12676               245           2013            2014          2016
+18:     12676               245           2013            2014          2016
+19:     12676               245           2013            2014          2016
+20:     12676               245           2013            2014          2016
+    test_rows test_institutions train_end_year test_start_year test_end_year
+        <int>             <int>          <int>           <int>         <int>
+         rmse       mae r2_vs_no_change mse_improvement_vs_reference reference
+        <num>     <num>           <num>                        <num>    <char>
+ 1: 0.4648164 0.3269574     -0.38139441                 0.000000e+00  baseline
+ 2: 0.4625984 0.3254879     -0.36824254                 9.520720e-03  baseline
+ 3: 0.4646836 0.3267880     -0.38060512                 5.713668e-04  baseline
+ 4: 0.4624606 0.3253224     -0.36742742                 1.011079e-02  baseline
+ 5: 0.4975415 0.3304059     -0.20910008                 0.000000e+00      both
+ 6: 0.4966791 0.3287271     -0.20491218                 3.463650e-03      both
+ 7: 0.2382522 0.1704209     -0.26578077                 0.000000e+00  baseline
+ 8: 0.2380890 0.1703026     -0.26404736                 1.369436e-03  baseline
+ 9: 0.2382750 0.1704482     -0.26602322                -1.915441e-04  baseline
+10: 0.2381124 0.1703306     -0.26429600                 1.173001e-03  baseline
+11: 0.6304973 0.4492386     -0.15681400                 0.000000e+00  baseline
+12: 0.6287426 0.4479923     -0.15038409                 5.558297e-03  baseline
+13: 0.6304999 0.4492456     -0.15682360                -8.296820e-06  baseline
+14: 0.6287457 0.4480021     -0.15039543                 5.548491e-03  baseline
+15: 0.7285916 0.5072926     -0.24371901                 0.000000e+00      both
+16: 0.7286508 0.5074334     -0.24392115                -1.625305e-04      both
+17: 0.3012760 0.2161996     -0.03343233                 0.000000e+00  baseline
+18: 0.3015930 0.2164486     -0.03560857                -2.105837e-03  baseline
+19: 0.3012044 0.2161427     -0.03294167                 4.747913e-04  baseline
+20: 0.3015231 0.2163947     -0.03512826                -1.641064e-03  baseline
+         rmse       mae r2_vs_no_change mse_improvement_vs_reference reference
+        <num>     <num>           <num>                        <num>    <char>
+
+PAIRED HELD-OUT LOSS COMPARISONS (positive = improvement)
+                   scope outcome min_syllabi            model reference
+                  <char>  <char>       <int>           <char>    <char>
+ 1:                 main  delta1           9      institution  baseline
+ 2:                 main  delta1           9       discipline  baseline
+ 3:                 main  delta1           9             both  baseline
+ 4: network2015_post2013  delta1           9 both_plus_hiring      both
+ 5:                 main  delta2           9      institution  baseline
+ 6:                 main  delta2           9       discipline  baseline
+ 7:                 main  delta2           9             both  baseline
+ 8:                 main  delta1           3      institution  baseline
+ 9:                 main  delta1           3       discipline  baseline
+10:                 main  delta1           3             both  baseline
+11: network2015_post2013  delta1           3 both_plus_hiring      both
+12:                 main  delta2           3      institution  baseline
+13:                 main  delta2           3       discipline  baseline
+14:                 main  delta2           3             both  baseline
+    mean_squared_loss_improvement        ci_low       ci_high
+                            <num>         <num>         <num>
+ 1:                  2.056992e-03  4.232957e-04  4.264780e-03
+ 2:                  1.234462e-04 -6.423673e-05  3.121752e-04
+ 3:                  2.184479e-03  5.597515e-04  4.394472e-03
+ 4:                  8.574182e-04 -1.502908e-03  2.745560e-03
+ 5:                  7.773478e-05  7.957867e-06  1.748992e-04
+ 6:                 -1.087283e-05 -3.993008e-05  2.153260e-05
+ 7:                  6.658431e-05 -6.480090e-06  1.676597e-04
+ 8:                  2.209572e-03  6.962144e-04  4.034915e-03
+ 9:                 -3.298209e-06 -1.545465e-05  9.216567e-06
+10:                  2.205674e-03  6.912372e-04  4.027444e-03
+11:                 -8.627864e-05 -4.944155e-04  3.227550e-04
+12:                 -1.911409e-04 -3.975019e-04 -4.357210e-05
+13:                  4.309548e-05 -3.368793e-06  9.389629e-05
+14:                 -1.489548e-04 -3.539833e-04  9.668829e-06
+    bootstrap_institutions bootstrap_replicates
+                     <int>                <num>
+ 1:                    184                  300
+ 2:                    184                  300
+ 3:                    184                  300
+ 4:                     45                  300
+ 5:                    139                  300
+ 6:                    139                  300
+ 7:                    139                  300
+ 8:                    315                  300
+ 9:                    315                  300
+10:                    315                  300
+11:                     89                  300
+12:                    245                  300
+13:                    245                  300
+14:                    245                  300
+
+No dated hiring-event or collaboration mechanism is identified. No labor-market returns are estimated.
+Generic peer content can reflect common shocks or sorting. Predictive improvement is not transmission.
+Short-panel lagged-outcome estimates may have dynamic-panel bias.
+Coverage filters change the population; follow-up eligibility conditions persistence diagnostics.

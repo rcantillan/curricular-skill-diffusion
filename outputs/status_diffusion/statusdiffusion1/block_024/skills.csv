@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+170,Monitor building premises to ensure occupant or visitor safety.,0.232185999474784,0.04910458093549907
+194,Inspect products or operations to ensure that standards are met.,0.2869351575968806,0.06498453391388792
+224,Test biological specimens to gather information about patient conditions.,0.25352331630938935,0.06485540697002112
+274,Inspect equipment or tools to be used in construction or excavation.,0.25622143574701434,0.04877295991962124
+365,Evaluate effectiveness of educational programs.,0.33525067529960134,0.08272361771132536
+384,Evaluate patient outcomes to determine effectiveness of treatments.,0.2284624621912743,0.08041500429057738
+418,Compile operational data.,0.22874663216108118,0.05900202229984724
+504,Appraise environmental impact of regulations or policies.,0.27977784776493064,0.05570646490319258
+569,Estimate time requirements for development or production projects.,0.23439923980706745,0.0553938493506472
+613,Develop marketing plans or strategies for environmental initiatives.,0.23468686962641058,0.0652958728307496
+659,Establish work standards.,0.31554543367717336,0.06715316221850869
+711,Create models of engineering designs or methods.,0.34671723519309755,0.0602813213027189
+804,"Plan layout of construction, installation, or repairs.",0.2653790723226605,0.055862593705309986
+879,Compact materials to create level bases.,0.0994560984221801,0.03914689409808934
+910,Apprehend criminal suspects.,0.20081309176708678,0.03918957874079717
+916,Provide escort or transportation.,0.15635765337242868,0.0446197566884735
+937,Cultivate land.,0.16571930546848077,0.04610260439479837
+1091,Level machines or equipment.,0.19542764397415424,0.04701207174687836
+1097,"Engrave designs, text, or other markings onto materials, workpieces, or products.",0.19263359496283985,0.04632041031581271
+1243,Operate natural gas distribution equipment.,0.1630948806337094,0.03939524373073586
+1262,Drive vehicles to transport individuals or equipment.,0.19997710045272035,0.04712657913948003
+1269,Drive trucks or truck-mounted equipment.,0.16073307733949863,0.04811805104581144
+1328,Repair electronic equipment.,0.17789981816058417,0.04789584760039429
+1385,Prepare official health documents or records.,0.12295849508184803,0.056874391247080595
+1428,Document technical specifications or requirements.,0.3338645539223625,0.059176192704450584
+1477,"Explain engineering drawings, specifications, or other technical information.",0.19478422477405416,0.05830482021594015
+1537,Confer with personnel to coordinate business operations.,0.2839635130444587,0.06885968744975446
+1741,Lead classes or community events.,0.29201507509223557,0.05899657335463992
+1797,Supervise production or support personnel.,0.20296585257033772,0.06672057118594134
+1892,Arrange delivery of goods or services.,0.21429972471848116,0.05396466893729603
+1940,Advise others about land management or conservation.,0.21285575898872008,0.0496136561415331
+1962,"Advise athletes, coaches, or trainers on exercise regimens, nutrition, or equipment use.",0.24556576832730556,0.05913461557699505

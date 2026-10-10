@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+11,Review technical documents to plan work.,0.3501820880283675,0.05617063284873569
+156,Monitor animal behavior or condition.,0.20231762846200954,0.04352342997844252
+171,Locate suspicious objects or vehicles.,0.18467602323407473,0.03532995905728084
+328,Measure distances or dimensions.,0.20453585869890517,0.040527671511352795
+397,Assess financial status of clients.,0.19109312493994698,0.05878726996273982
+467,Assess risks to business operations.,0.2661774299430986,0.06739654648563517
+509,Analyze forensic evidence to solve crimes.,0.281315085417054,0.04396714419565224
+532,Calculate costs of goods or services.,0.24109393049651615,0.05873572780992375
+557,Diagnose neural or psychological disorders.,0.20365244270720018,0.06044962415623346
+561,Identify information technology project resource requirements.,0.30659971588420676,0.06540366938217046
+622,Develop fire safety or prevention programs or plans.,0.2740562684958521,0.05597885618555552
+710,Develop operational methods or processes that use green materials or emphasize sustainability.,0.27996622049336417,0.05945150178240678
+885,Apply water or solutions to fabrics or apparel.,0.15313702688709355,0.03679522679861953
+886,Clean workpieces or finished products.,0.2220285268934973,0.04801662453283653
+904,Block physical access to restricted areas.,0.1604833165381552,0.039863355284302016
+905,"Provide security escorts for officials, jury members, or other individuals.",0.20438617947113447,0.05479630015334381
+1101,Fabricate products or components using machine tools.,0.21038151505690147,0.054356183850260836
+1112,Set up classroom materials or equipment.,0.34576160287408747,0.06670845633757445
+1208,Operate mining equipment.,0.16718168510982068,0.045229231667260804
+1221,Operate audiovisual equipment.,0.23603004198208402,0.05613966255492036
+1257,Operate cutting equipment.,0.17082058996665553,0.04134491114762473
+1261,Navigate water vessels.,0.18692591899983413,0.032154280594956126
+1276,Write computer programming code.,0.24540547687242933,0.06070318044868725
+1294,Enter information into databases or software programs.,0.24761712493878554,0.05729553721565859
+1315,Clear equipment jams.,0.11523157369708034,0.039577416171524236
+1500,Assist other educational professionals with projects or research.,0.3162394422428666,0.06559109422842387
+1502,Communicate with other workers to coordinate activities.,0.29957221949071,0.06231221417734264
+1729,Respond to customer inquiries.,0.2904785904794289,0.06370389240090463
+1764,"Train employees on environmental awareness, conservation, or safety topics.",0.2879499220204042,0.0639893624330316
+1931,Advise patients on effects of health conditions or treatments.,0.26839207008410826,0.066856311168216
+1961,Advise clients or community groups on health issues.,0.20264518670520795,0.062463336300571895
+2026,Participate in staffing decisions.,0.26980076679678117,0.0660521137482066

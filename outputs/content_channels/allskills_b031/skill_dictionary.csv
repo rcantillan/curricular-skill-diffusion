@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+57,"Collect medical information from patients, family members, or other medical professionals.",0.26385612685517584,0.06249627575141582
+80,Conduct historical research.,0.3053964936313862,0.06014316676358014
+92,Research new technologies.,0.2938811754613477,0.05053480696650313
+192,Monitor computer system performance to ensure proper operation.,0.26856449108410646,0.05696714250481802
+199,Evaluate personnel practices to ensure adherence to regulations.,0.2946732996483087,0.07095487113482705
+259,Count finished products or workpieces.,0.22670130247262707,0.04844832350003394
+326,Measure product or material dimensions.,0.17889843610816217,0.04571319972053587
+448,Review customer insurance information.,0.2142819794157264,0.04960956043189679
+510,Analyze crime scene evidence.,0.25403400873374193,0.04355131268462466
+553,Make decisions in legal cases.,0.2480231984879981,0.05514621868890083
+590,Select resources needed to accomplish tasks.,0.31833029884953523,0.052660040605174305
+619,Develop healthcare quality and safety procedures.,0.2888657307360656,0.0695409300949484
+648,Develop content for sales presentations or other materials.,0.3222498453614801,0.06942594513884476
+674,Design energy-efficient vehicles or vehicle components.,0.22874874741406803,0.04662149666682163
+745,Maintain knowledge of current developments in area of expertise.,0.35665925105781093,0.057359518460341
+777,Develop data analysis or data management procedures.,0.35178996644243565,0.06750090776602208
+825,"Clean food preparation areas, facilities, or equipment.",0.22640515298822114,0.04984293152391988
+900,Handle luggage or other possessions for patrons.,0.17120893719973498,0.04462782816456989
+953,Install roofing materials.,0.12357392854192076,0.03078236676483937
+955,Install wooden structural components.,0.16162220379130737,0.037473646943458686
+1029,Trim excess material from workpieces.,0.14492826960408073,0.03754371683711033
+1265,Operate vehicles or material-moving equipment.,0.2117814555952223,0.05454662922914631
+1276,Write computer programming code.,0.24540547687242933,0.06070318044868725
+1309,Maintain equipment or systems to ensure proper functioning.,0.2545658699555409,0.060019969078692566
+1325,Sharpen cutting or grinding tools.,0.11556103449845742,0.03635978977347346
+1402,"Maintain records, documents, or other files.",0.23703821284820942,0.055964693589507945
+1565,"Communicate technical information to suppliers, contractors, or regulatory agencies.",0.28944891163287984,0.06636964860794856
+1664,Assist customers with seating arrangements.,0.1982716313078969,0.04274412277735845
+1688,Customize energy products or services to meet customer needs.,0.21992198169834118,0.05932059421425225
+1805,Supervise employees.,0.24941319754047728,0.06895300762343774
+2022,Process forensic or legal evidence in accordance with procedures.,0.27026065001592553,0.052457815755032465
+2038,"Maintain inventories of materials, equipment, or products.",0.24937346921565914,0.058263952374578154

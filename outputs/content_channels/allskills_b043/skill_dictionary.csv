@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+37,Gather organizational performance information.,0.3005289058500331,0.06971553409276673
+50,Investigate the environmental impact of projects.,0.26526556347378816,0.05409966941062214
+59,Collect information about clients.,0.29238047137508344,0.06090095632649476
+170,Monitor building premises to ensure occupant or visitor safety.,0.232185999474784,0.04910458093549907
+184,Inspect landscaping to determine treatment needs.,0.19058249335799698,0.04468116734301432
+240,Inspect work sites to determine condition or necessary repairs.,0.23053179938570026,0.05248910934713489
+347,Calculate financial data.,0.21725178941572645,0.06296738041117786
+437,Verify shipping documentation.,0.15479920140726586,0.03407598414212195
+438,"Review environmental permits, plans, or reports.",0.22938630045504316,0.04673020435057596
+548,Determine production equipment settings.,0.1988959178067514,0.05141715116644825
+561,Identify information technology project resource requirements.,0.30659971588420676,0.06540366938217046
+579,Implement design or process improvements.,0.282496032462674,0.06364978964813778
+585,Select production equipment according to product specifications.,0.21320117910102893,0.058629836428202214
+602,Design computer modeling or simulation programs.,0.2854924969496193,0.07358489069554511
+614,Develop marketing plans or strategies.,0.19105858994094224,0.06891950001375564
+742,Maintain current knowledge related to work activities.,0.3205002261960846,0.058587938069374235
+766,Determine pricing or monetary policies.,0.22808698734240113,0.060859037761481466
+847,Remove snow.,0.088485954495106,0.029780540272777267
+861,Load materials into equipment for processing.,0.208838337114466,0.04717692382972448
+928,Participate in athletic events.,0.19072502018115425,0.05906789309198908
+1054,Smooth surfaces of objects or equipment.,0.14681474658687804,0.04071911472921105
+1135,Solder parts or connections between parts.,0.1731575400762604,0.03527165784791664
+1152,Store items.,0.1836438837173198,0.040798281410697315
+1332,Maintain recording or broadcasting equipment.,0.19607818784903802,0.05543069594230379
+1391,Prepare proposal documents.,0.2622645113760772,0.04765985475520904
+1515,Confer with organizational members to accomplish work activities.,0.3145893550978767,0.06781492408036828
+1520,Receive information or instructions for performing work assignments.,0.3558386483742539,0.05779789661258899
+1559,Consult with others regarding safe or healthy equipment or facilities.,0.23123845908128735,0.05498388303941525
+1928,"Provide health and wellness advice to patients, program participants, or caregivers.",0.29029185360832693,0.07349548975058992
+1969,Advise others on career or personal development.,0.26982571357747254,0.06769355141646853
+2020,"Send information, materials or documentation.",0.33591031355358314,0.04758084559408805
+2062,Control prescription refills or authorizations.,0.16186910676308017,0.04600484340836235

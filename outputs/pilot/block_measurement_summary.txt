@@ -1,0 +1,18 @@
+SENSIBILIDAD A PERIODOS DE TRES AÑOS -- no tasas anuales
+
+Periodos: 2002–2004, 2005–2007, 2008–2010, 2011–2013, 2014–2016.
+2017 queda fuera para evitar un periodo incompleto.
+Cobertura = total de syllabi del periodo; no equivale a k syllabi cada año.
+Benchmark fijo 2002--2004, construido con >=9 syllabi y el mínimo de años de cada especificación.
+Seguimiento = especialización en el siguiente periodo observado consecutivo y elegible.
+
+ min_observed_years  min_total_syllabi  program_pairs  entries  entry_rate_per_period  exit_rate_per_period  entry_survival_next_period  stable_survival_next_period  entry_followup_evaluable  mean_abs_delta_fixed_rca  mean_profile_cosine_change
+                  2                  9           8223  1730348                0.18495               0.22745                     0.55943                      0.85153                    887901                   0.06936                     0.00398
+                  2                 20           4308   721741                0.14658               0.18285                     0.59590                      0.88056                    350049                   0.05312                     0.00241
+                  2                 50           1988   263727                0.11544               0.14631                     0.63367                      0.89827                    113006                   0.04213                     0.00166
+                  3                  9           7053  1452714                0.18077               0.22260                     0.55735                      0.85308                    742410                   0.06715                     0.00370
+                  3                 20           3967   659514                0.14531               0.18167                     0.59259                      0.88000                    320757                   0.05248                     0.00233
+                  3                 50           1885   247758                0.11427               0.14553                     0.63336                      0.89857                    106081                   0.04148                     0.00156
+
+La agregación puede suavizar variación y cambios reales. No identifica por sí sola error de muestreo.
+Los millones de skill-events no son observaciones independientes.

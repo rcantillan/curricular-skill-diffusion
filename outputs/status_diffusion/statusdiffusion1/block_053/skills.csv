@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+63,Conduct market research.,0.24882363677173144,0.06650366841251923
+111,Monitor broadcasting operations to ensure proper functioning.,0.22680890227670922,0.0492658461657724
+139,Monitor the productivity or efficiency of industrial operations.,0.26680040998988136,0.059668962951744585
+213,Identify strategic business investment opportunities.,0.20437624373706129,0.07158935604040041
+321,Conduct test runs of production equipment.,0.266227137813868,0.05481450496256866
+388,Evaluate new technologies or methods.,0.31928407895885935,0.059539843306978514
+458,"Analyze physical, survey, or geographic data.",0.3030529104990037,0.05798601978608042
+488,"Analyze operational data to evaluate operations, processes or products.",0.30524220493248283,0.06822038739356524
+502,Analyze energy usage data.,0.1935245770567354,0.04271879027948458
+838,Clean tools or equipment.,0.17601306446582635,0.04747804132629182
+849,Protect structures or surfaces near work areas to avoid damage.,0.23136348667717285,0.048798541273099995
+850,Apply protective coverings to objects or surfaces near work areas.,0.1933731218554085,0.04703063937982999
+851,Dispose of biomedical waste in accordance with standards.,0.17053520450580592,0.04679414670427445
+902,"Move products, materials, or equipment between work areas.",0.2257988001815523,0.056413115215073355
+953,Install roofing materials.,0.12357392854192076,0.03078236676483937
+1001,Shape metal workpieces with hammers or other small hand tools.,0.1906155108090573,0.04544944809085896
+1124,Connect hoses to equipment or machinery.,0.1986638639846388,0.042826278041564934
+1297,Download data.,0.16839637260351717,0.041286272114686585
+1337,Repair furniture or upholstery.,0.1335738263813202,0.04140065944873277
+1440,Document lesson plans.,0.402061243546451,0.0692473317673023
+1455,"Prepare contracts, disclosures, or applications.",0.22878099683460512,0.05864536536551517
+1473,Write advertising or promotional material.,0.16927386970272046,0.057629157190427015
+1498,Communicate results of environmental research.,0.3079545885384868,0.05990063427373599
+1543,Communicate situation details to appropriate personnel.,0.2613207404044439,0.0604937991993529
+1657,Assist motorists or pedestrians.,0.19256501320305233,0.04989687660199037
+1666,Assist practitioners to perform medical procedures.,0.2535266590190774,0.06282990280557746
+1808,Supervise sales or support personnel.,0.18038703044160517,0.06707083304052161
+1820,"Direct activities of agricultural, forestry, or fishery employees.",0.21789415672428783,0.05280687807737918
+1852,Direct construction or extraction personnel.,0.1785450862553079,0.045387346533544204
+1929,Advise patients on preventive care techniques.,0.19419878221632428,0.05414495869771697
+1945,Provide technical support for computer network issues.,0.2358216259699737,0.059527177577714696
+2055,"Purchase materials, equipment, or other resources.",0.2259481272909759,0.050900048856514835

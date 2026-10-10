@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+61,Research crop management methods.,0.23354915298978043,0.047884486276283014
+75,Examine characteristics or behavior of living organisms.,0.3088735954163901,0.053760556992834066
+102,"Interview employees, customers, or others to collect information.",0.29126634867451795,0.06252119957045557
+197,Verify that medical activities or operations meet standards.,0.2728705893618111,0.0678159425887314
+355,Assess locations for potential green technology installations.,0.18538844338113838,0.04817899930586235
+459,Estimate demand for products or services.,0.21472842052670846,0.05994295938288838
+521,Conduct quantitative failure analyses of operational data.,0.23555179077732277,0.05740355197704436
+546,Determine forestry techniques or methods.,0.22886332127504924,0.04077354272403434
+765,Establish business management methods.,0.3117344492793632,0.07676072363562805
+836,Clean work sites.,0.15942117493580002,0.04098087166424211
+858,Remove excess materials from finished construction projects.,0.20605979957161566,0.04475641149344984
+975,Reassemble equipment after repair.,0.1612699744162077,0.04051867579505615
+1090,"Position patterns on equipment, materials, or workpieces.",0.24362776954230275,0.04287033174850993
+1122,Apply solutions to production equipment.,0.19876057796240998,0.05570024924584619
+1129,Run wiring to connect equipment.,0.15345051608783938,0.037033497732690865
+1142,Build construction forms or molds.,0.2289604470076315,0.05215336578458392
+1196,Attach equipment extensions or accessories.,0.16487100450520908,0.04539291201741855
+1214,Process x-rays or other medical images.,0.1992809239089248,0.05231386477146133
+1314,Maintain drilling equipment.,0.1528086775205379,0.04220900139330145
+1322,Maintain work equipment or machinery.,0.19947489076990715,0.055310453758996146
+1412,Record operational details of travel.,0.23892571068530175,0.048971752853608164
+1467,Prepare accident or incident reports.,0.2108176910245527,0.04959053783826492
+1583,Represent the interests of clients in legal proceedings.,0.24816022824983336,0.05850000704571328
+1590,Report news to the public.,0.15073482721035175,0.046352286284073986
+1643,Provide first aid or rescue assistance in emergencies.,0.22343739041025265,0.05889562812248794
+1703,Mediate disputes.,0.2761409489537159,0.06031435174956538
+1723,Collaborate with others to prepare or perform artistic productions.,0.2871400743208364,0.06522771449489367
+1760,Train others on performance techniques.,0.2748452866964178,0.06837460743107
+1793,Supervise maintenance workers.,0.20955144851775098,0.05735224412989553
+1801,Supervise activities of other legal personnel.,0.23726982224054463,0.06004837103325013
+1802,Supervise scientific or technical personnel.,0.28025573450000046,0.06328935842230703
+1835,Coordinate personnel recruitment activities.,0.24413143582116817,0.058533236640519744

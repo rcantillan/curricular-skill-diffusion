@@ -1,0 +1,7 @@
+{
+  "status": "crosswalk",
+  "mapped_activities": 161,
+  "unmapped_activities": 1909,
+  "categories": 161,
+  "aggregation": "weighted mean of raw clipped activity scores per category"
+}

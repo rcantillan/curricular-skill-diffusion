@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+159,"Monitor patient conditions during treatments, procedures, or activities.",0.25855263068165163,0.064286451406693
+197,Verify that medical activities or operations meet standards.,0.2728705893618111,0.0678159425887314
+352,Measure work site dimensions.,0.23142332684671563,0.04790266384642857
+354,Survey land or bodies of water to measure or determine features.,0.2675979887501651,0.04669201860061687
+402,Verify information or specifications.,0.2675073871240869,0.05283098621786436
+474,Evaluate designs or specifications to ensure quality.,0.298959957543464,0.06195753911142258
+539,Approve expenditures.,0.20809770043580006,0.05028373533221176
+639,Develop financial or business plans.,0.23396608063437305,0.06938001209613134
+677,Design energy-efficient equipment or systems.,0.26849314895023113,0.05366249899982714
+808,Adjust routes or speeds as necessary.,0.14956245121118153,0.04103773700611522
+829,Clean facilities or equipment.,0.24073289005159276,0.05616629782913777
+839,"Clean equipment, parts, or tools to repair or maintain them in good working order.",0.2275652037929658,0.05140027762790968
+981,Bolt objects into place.,0.1271357601956539,0.03540425436663565
+1106,Process animal carcasses.,0.16072351074485755,0.03810559551378855
+1131,Connect supply lines to production equipment or tools.,0.2153124331643994,0.05497166791336936
+1166,Lay out parts to prepare for assembly.,0.24248375230673552,0.04551017843819429
+1175,Package food or supplies.,0.18111736445885898,0.04502302555075361
+1192,"Set equipment guides, stops, spacers, or other fixtures.",0.16442730749963544,0.041313678791245395
+1242,Operate energy distribution equipment.,0.2017877026999,0.04616885139190364
+1298,Enter codes or other information into computers.,0.17101938955764762,0.05237244589980097
+1363,Prepare written decisions for legal proceedings.,0.26047988797860006,0.05506837224424184
+1424,Record production information.,0.24383570134323146,0.051899511374056635
+1523,Confer with others to resolve production problems or equipment malfunctions.,0.282634419431487,0.05995467281894364
+1541,Collaborate with other agencies and institutions to coordinate educational matters.,0.29089200599070936,0.05771520251285
+1625,Care for women during pregnancy and childbirth.,0.19390432939216998,0.05064552452371029
+1663,Help patrons use library or archival resources.,0.2767088907888188,0.05077851694008478
+1665,Arrange services or reservations for patrons.,0.19208147444724538,0.05155629945635604
+1694,Promote educational institutions or programs.,0.328789145442933,0.07436585092638301
+1696,Promote agricultural or hunting activities.,0.23029344865029885,0.05881512763706125
+1735,Teach life skills or strategies to clients or their families.,0.252611057245522,0.07591562625675478
+1787,Conduct health or safety training programs.,0.28110834686363617,0.07375118730708227
+1889,Direct energy production or management activities.,0.24372818998224868,0.05069440060628125

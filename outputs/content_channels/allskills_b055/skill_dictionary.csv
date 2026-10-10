@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+28,Use databases to locate investigation details or other information.,0.24968366503069164,0.051729062276452645
+120,Monitor equipment operation to ensure that products are not flawed.,0.2546611943180161,0.0561539077835816
+220,Test patient vision.,0.18063611550846076,0.05291038039603956
+280,Inspect material-moving equipment to detect problems.,0.19623315581604145,0.048196373488382405
+435,Review documents or materials for compliance with policies or regulations.,0.2948864077025553,0.057612866369278065
+552,Determine technical requirements of productions or projects.,0.32089885592169914,0.06371714209385326
+589,Select educational materials or equipment.,0.3613194294210358,0.062043439146414185
+703,Maintain contingency plans for disaster recovery.,0.2639482343885205,0.055219662724406954
+714,Analyze information obtained from news sources.,0.3282807928782344,0.05763715447885563
+876,"Spread sand, dirt or other loose materials onto surfaces.",0.1438612225487225,0.036088428434933845
+890,Clean medical equipment.,0.1554070571803253,0.05203297338621043
+989,Repair textiles or apparel.,0.1721395932304244,0.04469343753802248
+1026,Prepare medical instruments or equipment for use.,0.27250183126642324,0.056025494477308015
+1035,Cut fabrics.,0.14363998224727875,0.0335670673799987
+1101,Fabricate products or components using machine tools.,0.21038151505690147,0.054356183850260836
+1170,Lay out work according to specifications.,0.29857550306187836,0.05614436176395029
+1203,Operate pumping systems or equipment.,0.19884330477720638,0.04758746052141393
+1228,Operate packing or other material processing equipment.,0.20096508492086906,0.053542566798563465
+1243,Operate natural gas distribution equipment.,0.1630948806337094,0.03939524373073586
+1289,Load digital images onto computers or websites.,0.17229224881031846,0.05699408676392461
+1301,Maintain facilities.,0.24111807169276753,0.05658371954924787
+1305,Repair pipes to stop leaking.,0.08133473165371408,0.029939977394743574
+1365,Record information about legal matters.,0.26647465534074455,0.053068767246196066
+1384,"Document events or evidence, using photographic or audiovisual equipment.",0.28404811072229647,0.05495961249320631
+1438,Record patient medical histories.,0.18265580559870584,0.05215137250894374
+1441,Organize informational materials.,0.2945404938316193,0.04834699223670383
+1562,Signal others to coordinate work activities.,0.2590445362003988,0.05674987445835407
+1622,Give medications or immunizations.,0.11791195468836616,0.05167793266059357
+1634,Care for animals.,0.1596003336028533,0.0448244692676368
+1762,"Train workers in farming, forestry, or hunting techniques.",0.23544590568447246,0.04752407144235778
+1778,Train others in computer interface or software use.,0.293756294708693,0.07083522029174322
+2031,Perform human resources activities.,0.30291935435169376,0.06846234483391439

@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+9,Study blueprints or other instructions to determine equipment setup requirements.,0.23719878648473833,0.05636691164403374
+49,Research issues related to the environment or sustainable business practices.,0.312049847636364,0.06122228564198457
+90,"Research energy production, use, or conservation.",0.2655359174538818,0.04621255429579195
+120,Monitor equipment operation to ensure that products are not flawed.,0.2546611943180161,0.0561539077835816
+243,Inspect cargo areas for cleanliness or condition.,0.12408120256861305,0.034274130910435456
+352,Measure work site dimensions.,0.23142332684671563,0.04790266384642857
+362,Evaluate the effectiveness of counseling or educational programs.,0.3085186621561872,0.08035217849268424
+420,Compile data or documentation.,0.2628421924933636,0.055740771167485326
+478,Evaluate environmental or sustainability projects.,0.30391927834240073,0.05918588996389359
+522,"Analyze security of systems, network, or data.",0.308879575516589,0.05926859536634156
+584,Select production input materials.,0.23116007304114194,0.049101838612841196
+600,Develop software or computer applications.,0.22323061776934283,0.06728867524649669
+724,Design electromechanical equipment or systems.,0.2521204095547447,0.05400147332341003
+737,Develop plans for programs or services.,0.334309740754147,0.07100129642203987
+747,Research topics in area of expertise.,0.37774178440511047,0.05190925494588052
+778,Develop technical processes to improve the efficiency of biofuel production.,0.21586179696001986,0.04432117979733353
+908,Guard facilities.,0.20093225350281915,0.043491089460555424
+960,Collect samples of raw materials or finished products.,0.2661320073598209,0.055381194209177476
+1133,Solder parts or workpieces.,0.15278740987214637,0.04269299064640034
+1170,Lay out work according to specifications.,0.29857550306187836,0.05614436176395029
+1211,Operate road-surfacing equipment.,0.20085405548042495,0.0487229128904373
+1248,Operate precision equipment to control microscopic or nanoscopic processes.,0.23715455865295285,0.05370671401663365
+1465,Prepare operational reports or records.,0.28986160252339044,0.06551255205194044
+1466,Prepare reports detailing student activities or performance.,0.39124073176841273,0.07139241957908041
+1527,Collaborate with technical specialists to resolve design or development problems.,0.31371690032929656,0.06465477521672819
+1624,Administer anesthetics or sedatives to control pain.,0.12182895663536822,0.04664200269028261
+1668,Adjust positions of patients on beds or tables.,0.1880825301643996,0.04779962036842042
+1689,Perform marketing activities.,0.24980374028566715,0.0717642422501667
+1847,Manage budgets for appropriate resource allocation.,0.2760245077259452,0.06001076533840269
+1921,Coach others.,0.24467985330573902,0.06756098635280303
+2015,Issue documentation or identification to customers or employees.,0.2710952180112798,0.05748386971178822
+2023,Audition or interview potential performers or staff members.,0.22754688187309233,0.05894370283730113

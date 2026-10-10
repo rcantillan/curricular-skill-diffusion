@@ -1,0 +1,6 @@
+neighbors,requested_communities,seed,adjusted_rand_vs_main,connected_components,nonisolated_components,isolated_nodes,effective_communities
+20,8,20261011,1.0,1,1,0,8
+10,8,20261010,0.9276320248479862,1,1,0,8
+40,8,20261010,0.7735823299148502,1,1,0,8
+20,4,20261010,0.6254695217360844,1,1,0,4
+20,12,20261010,0.5828143633990809,1,1,0,12

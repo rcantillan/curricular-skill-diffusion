@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+65,Obtain personal or financial information about customers or applicants.,0.2468561676461508,0.056166681636193164
+81,Conduct research on social issues.,0.33871052420438,0.06776379172775264
+232,Test fluids to identify contamination or other problems.,0.2364215417665895,0.055763211750803156
+271,Inspected printed materials or other images to verify quality.,0.1980572963571659,0.04519415755440715
+273,Inspect installed components or assemblies.,0.1292595690551593,0.04483376209688292
+277,Inspect equipment or facilities to determine condition or maintenance needs.,0.2511467443253153,0.05625464562477617
+324,"Calculate dimensions of workpieces, products, or equipment.",0.22164163523191793,0.046259124672399766
+386,Assess skin or hair conditions.,0.17776792264664934,0.05010396110839634
+395,Evaluate scholarly materials.,0.3315222931585935,0.06323383681242424
+410,Verify mathematical calculations.,0.1996550783387522,0.05236951022465762
+433,Examine documents to verify adherence to requirements.,0.3035941424036166,0.05974484668880591
+493,Analyze forecasting data to improve business decisions.,0.2607786871179499,0.06504633477910739
+505,Analyze environmental regulations to ensure organizational compliance.,0.2379881633626416,0.058117985070746794
+665,Develop strategies or programs for students with special needs.,0.3331883824676507,0.07445736632674206
+700,Create images or other visual displays.,0.24962291092286032,0.0572798605830161
+713,Create physical models or prototypes.,0.2756127555821167,0.05840553365108146
+782,Develop testing routines or procedures.,0.3092687739699739,0.05883429102848713
+816,Mix substances or compounds needed for work activities.,0.23749171836579325,0.042997028790143
+983,Assemble electrical or electronic equipment.,0.21441794184832375,0.048565954173152806
+1076,Install production equipment or systems.,0.21099057781779987,0.06877348755701981
+1223,Operate audio-visual equipment.,0.2320857397722288,0.05553926652741049
+1395,Document operational procedures.,0.31866962433477103,0.0559142219149313
+1410,Document work hours or activities.,0.24559897689051044,0.052159321030713676
+1452,Prepare documentation for permits or licenses.,0.21831534292650934,0.05059403752808317
+1591,Provide information to the general public.,0.275197186193099,0.06120275055610905
+1604,Answer telephones to direct calls or provide information.,0.2122948848827138,0.05480271376112049
+1625,Care for women during pregnancy and childbirth.,0.19390432939216998,0.05064552452371029
+1682,Advocate for individual or community needs.,0.2783932397791978,0.068603315623829
+1772,Train transportation or material moving personnel.,0.2077558379248511,0.0409395384225421
+1818,Coordinate forestry or agricultural activities.,0.24566996651244233,0.055786016504524395
+1854,Direct installation activities.,0.18279127487491664,0.04386629355146914
+1895,Coordinate project activities with other personnel or departments.,0.2895404832345715,0.06539639735867905

@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+35,Evaluate information related to legal matters in public or personal records.,0.2493330918460519,0.051699006374041005
+60,Research livestock management methods.,0.2222934761045124,0.0506425335477171
+94,Research methods to improve food products.,0.21856239933858587,0.053125624281478406
+155,Monitor patients following surgeries or other treatments.,0.200583721663338,0.057810971681076746
+159,"Monitor patient conditions during treatments, procedures, or activities.",0.25855263068165163,0.064286451406693
+163,Monitor student performance.,0.34330068299784483,0.07449717306285045
+276,Inspect systems to determine if they are operating properly.,0.24846088618662837,0.05536682373727319
+279,Inspect equipment to locate or identify electrical problems.,0.20784306729761093,0.04197377185366711
+399,Evaluate project designs to determine adequacy or feasibility.,0.33580460422212915,0.06942446080080328
+400,Analyze data to determine project feasibility.,0.321873805286496,0.06617460543806729
+439,"Proofread documents, records, or other files to ensure accuracy.",0.2700932470034837,0.048056105949698016
+440,Review plans or proposals for environmental conservation.,0.26427284522710726,0.049865430174697016
+612,Develop business or market strategies.,0.27291317872760495,0.07676639722889267
+614,Develop marketing plans or strategies.,0.19105858994094224,0.06891950001375564
+618,Plan menu options.,0.2048322037903122,0.04659225049281747
+630,Develop technical specifications for systems or equipment.,0.32304743572262784,0.06624020687204281
+635,Develop environmental remediation or protection plans.,0.24451378641904498,0.05367005924491184
+756,Attend educational events to update medical knowledge.,0.29030265439017916,0.056936571206602574
+844,Clean production equipment.,0.1678676756911084,0.05145419084069299
+964,Prepare meat products for sale or consumption.,0.19588381627305873,0.04483660189904888
+1236,Operate metal or plastic forming equipment.,0.18490628782183113,0.05105033675805275
+1362,"Prepare financial documents, reports, or budgets.",0.26662757653069,0.060636156096475755
+1430,Document test results.,0.2706531137650971,0.043806484372265336
+1505,Meet with coworkers to communicate work orders or plans.,0.2567416578032508,0.059087207163751515
+1516,Confer with coworkers to coordinate work activities.,0.2554097249520572,0.05759414939607551
+1680,Treat chronic diseases or disorders.,0.21105158809439314,0.06072429744925393
+1771,Train others on work processes.,0.36522110516224293,0.07031310199901246
+1803,Supervise medical support personnel.,0.2236662443712671,0.06809613395076378
+1824,Direct technical activities or operations.,0.2726419901838089,0.06651404961855849
+1883,Coordinate logistics for productions or events.,0.22276727535252192,0.0602166232211043
+1959,Advise medical personnel regarding healthcare issues.,0.23628203007647625,0.062263423671025456
+2063,Prescribe medications.,0.14898465066663913,0.056597911701965736

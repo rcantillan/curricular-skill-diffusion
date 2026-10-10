@@ -1,0 +1,28 @@
+DISEÑO DEL PILOTO CONTINUO -- todavía sin estimar modelos
+
+Perfiles baseline >=9: 6,028; programas en skill space: 1,400.
+Espacio construido antes de 2008 con todas las DWAs; outcomes 2008--2017.
+Modelos: 64 DWAs uniformemente muestreadas, modo fixed, semilla 20261005.
+Exposición = score medio previo de otros programas observados, no presencia ni transmisión.
+
+ year  coverage  observed_profile_pairs  sampled_skill_rows  complete_channel_rows  complete_program_pairs  complete_institutions  complete_fields  sampled_skills  mean_delta_score_z
+ 2008         3                    1768              113152                 108608                    1697                    337               50              64             0.02717
+ 2008         9                     555               35520                  34624                     541                    161               40              64             0.02966
+ 2009         3                    1708              109312                 104320                    1630                    332               51              64             0.01622
+ 2009         9                     591               37824                  37184                     581                    172               45              64             0.03367
+ 2010         3                    1711              109504                 104896                    1639                    313               53              64             0.01758
+ 2010         9                     723               46272                  45184                     706                    186               48              64             0.01772
+ 2011         3                    2020              129280                 123328                    1927                    324               54              64             0.01798
+ 2011         9                    1013               64832                  63488                     992                    209               50              64             0.01498
+ 2012         3                    2293              146752                 139904                    2186                    340               54              64             0.03247
+ 2012         9                    1174               75136                  73344                    1146                    226               52              64             0.02435
+ 2013         3                    2641              169024                 163200                    2550                    380               53              64             0.00359
+ 2013         9                    1363               87232                  85760                    1340                    251               52              64             0.00989
+ 2014         3                    3002              192128                 185472                    2898                    388               53              64             0.05017
+ 2014         9                    1641              105024                 103616                    1619                    262               52              64             0.04194
+ 2015         3                    3294              210816                 204544                    3196                    408               54              64             0.00864
+ 2015         9                    1823              116672                 115264                    1801                    297               53              64             0.01933
+ 2016         3                    3680              235520                 229056                    3579                    431               54              64             0.03201
+ 2016         9                    1993              127552                 126016                    1969                    302               54              64             0.04144
+ 2017         3                    3702              236928                 230656                    3604                    446               55              64             0.03336
+ 2017         9                    2100              134400                 132864                    2076                    335               54              64             0.04700

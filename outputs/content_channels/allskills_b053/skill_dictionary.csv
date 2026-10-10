@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+60,Research livestock management methods.,0.2222934761045124,0.0506425335477171
+76,Obtain documentation to authorize activities.,0.23447407851609206,0.04956581997905778
+105,Interview people to obtain information about actions or status of individuals.,0.3084274649850696,0.0563826714720385
+196,Monitor organizational compliance with regulations.,0.22895468421051754,0.06367260125027681
+335,Weigh parcels to determine shipping costs.,0.14635916741424732,0.04235024730847233
+412,Sort mail.,0.1291620662585098,0.034226048752082586
+464,Analyze market or customer related data.,0.28045181643563394,0.06813868202524907
+476,Analyze project data to determine specifications or requirements.,0.3405971084470813,0.06710658310769711
+493,Analyze forecasting data to improve business decisions.,0.2607786871179499,0.06504633477910739
+652,Design medical devices or appliances.,0.2396871563516928,0.0524456808542242
+664,Plan educational activities.,0.3872298364991797,0.07158540806555107
+709,Develop sustainable industrial or development methods.,0.27377810245935635,0.058886056991489
+731,"Develop artistic or design concepts for decoration, exhibition, or commercial purposes.",0.3133409621522902,0.059887253486765976
+833,Maintain clean work areas.,0.19924563403599801,0.05508595943189223
+838,Clean tools or equipment.,0.17601306446582635,0.04747804132629182
+850,Apply protective coverings to objects or surfaces near work areas.,0.1933731218554085,0.04703063937982999
+868,Secure cargo.,0.13170834761612502,0.032798434011040274
+880,Spread concrete or other aggregate mixtures.,0.14084996447171494,0.03923914028842836
+958,"Install green structural components, equipment or systems.",0.13848857416111482,0.04450789528399218
+1126,Connect hoses to equipment or piping.,0.1954071705577307,0.041960665918082854
+1179,Install green plumbing or water handling systems.,0.11544466943526896,0.03830077611885451
+1208,Operate mining equipment.,0.16718168510982068,0.045229231667260804
+1213,Operate detonation equipment.,0.16471663159074332,0.037677003501745326
+1357,Maintain medical equipment or instruments.,0.20629888161579266,0.05724723680283279
+1388,Prepare reports summarizing patient diagnostic or care activities.,0.29873518357979345,0.061825991795244825
+1518,Communicate dining or order details to kitchen personnel.,0.24169704712375448,0.044107584769884224
+1599,Inform individuals or organizations of status or findings.,0.28203436861147974,0.05934041396008055
+1660,Assist patrons with entering or exiting vehicles or other forms of transportation.,0.2140214819321501,0.04703061505656483
+1703,Mediate disputes.,0.2761409489537159,0.06031435174956538
+1749,Teach physical science or mathematics courses at the college level.,0.24173864193629627,0.05252488054360526
+1870,Manage environmental sustainability projects.,0.24109572844641675,0.05882926725838208
+2046,Provide educational materials to community members.,0.3389910899213674,0.06519856698775857

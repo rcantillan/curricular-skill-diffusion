@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+10,Read documents to gather technical information.,0.35939887117352365,0.05199710993739996
+35,Evaluate information related to legal matters in public or personal records.,0.2493330918460519,0.051699006374041005
+66,Conduct opinion surveys or needs assessments.,0.2942692999857339,0.06838138550215973
+263,Inspect finished products to locate flaws.,0.24287403540892583,0.04800758375212005
+519,Analyze financial records or reports to determine state of operations.,0.21745677583045722,0.06471980125374754
+601,Develop computer or information systems.,0.24920214671035162,0.05961260612760296
+607,Design websites or web applications.,0.19093867819326452,0.06230744562746576
+640,Develop health assessment methods or programs.,0.3106092996345394,0.07602870461626154
+657,"Design tools, fixtures, or other devices for production equipment.",0.2093283987543129,0.05585233713216142
+679,Plan programs to address community health issues.,0.24796225251144582,0.06308666249837862
+682,Prepare production storyboards.,0.2532079160043125,0.051095374796903556
+713,Create physical models or prototypes.,0.2756127555821167,0.05840553365108146
+721,Plan environmental research.,0.2881235420033182,0.05171017613192404
+744,Update knowledge about emerging industry or technology trends.,0.25776861471333656,0.054239777373889
+756,Attend educational events to update medical knowledge.,0.29030265439017916,0.056936571206602574
+1022,Adjust vehicle components according to specifications.,0.15438627762939575,0.0436048481851817
+1061,Cast molds of patient anatomies to create medical or dental devices.,0.10168475955134347,0.04361120975265626
+1092,Position containers to receive materials or workpieces.,0.22913120288188527,0.042061944245239596
+1119,Apply chemical solutions to plants to protect against disease or insects or to enhance growth.,0.23784710580358343,0.04415079730158616
+1159,Seal gaps or cracks to prevent leakage or moisture intrusion.,0.20831166514897104,0.03940524140826932
+1283,Configure computer networks.,0.1791032235359988,0.052544452223644365
+1418,Maintain call records.,0.15175538962259508,0.04109476095570042
+1444,Write informational material.,0.37343692940544065,0.04759664089176621
+1545,Request emergency personnel.,0.10841552343558397,0.03827724574538543
+1591,Provide information to the general public.,0.275197186193099,0.06120275055610905
+1607,Develop business relationships.,0.2387689186348699,0.06862421140476137
+1630,Administer blood or other fluids intravenously.,0.07901284338827355,0.04394593206715651
+1653,Assist disabled or incapacitated individuals.,0.23176909166605905,0.06618901917201732
+1886,Direct healthcare delivery programs.,0.18407036807050484,0.060698499311428546
+1925,Interact with patients to build rapport or provide emotional support.,0.279225641915892,0.06994716780133774
+1976,Advise others on management of emergencies or hazardous situations or materials.,0.2769644982261109,0.060458449533450115
+2006,Process customer bills or payments.,0.18121730959124058,0.052857594564550116

@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+98,Investigate industrial or transportation accidents.,0.2463475023702717,0.04773662165766569
+160,Monitor nutrition related activities of individuals or groups.,0.2727217886204388,0.054540502508180176
+167,"Monitor student behavior, social development, or health.",0.3474187877460296,0.07201263448488625
+191,Monitor the performance of computer networks.,0.20761627743331215,0.054531080155650564
+265,Inspect medical or dental assistive devices.,0.19117458607033874,0.05104003498568963
+351,Survey land or properties.,0.1775094472433649,0.04351008292853381
+543,Determine operational procedures.,0.33849790568729166,0.06338752907605708
+545,Determine food production methods.,0.2524895089990046,0.045964718001894084
+568,Estimate material requirements for production.,0.23919652882266165,0.05331246973165694
+650,Design materials for industrial or commercial applications.,0.16000962034781036,0.05663903528477615
+697,Create computer-generated graphics or animation.,0.22761612996300576,0.059201875478524596
+767,Draft legislation or regulations.,0.24154239438205108,0.054012358694406154
+889,Sterilize medical equipment or instruments.,0.1638484657088587,0.049096474130001615
+982,Assemble products or production equipment.,0.21233667428417352,0.05611572253675125
+1039,Prepare explosives for detonation.,0.19881114869376246,0.03411773323919149
+1150,Stock serving stations or dining areas with food or supplies.,0.20773996060252173,0.04630946283685975
+1244,Operate forklifts or other loaders.,0.123796737621027,0.043261005204368624
+1305,Repair pipes to stop leaking.,0.08133473165371408,0.029939977394743574
+1349,Repair non-engine automotive or vehicle components.,0.1396171081115075,0.04298449854675483
+1352,Maintain vehicles in good working condition.,0.21675172636363632,0.04837176412413432
+1459,Maintain regulatory or compliance documentation.,0.2837686085082948,0.0653346435458276
+1559,Consult with others regarding safe or healthy equipment or facilities.,0.23123845908128735,0.05498388303941525
+1565,"Communicate technical information to suppliers, contractors, or regulatory agencies.",0.28944891163287984,0.06636964860794856
+1578,Confer with clients to determine needs.,0.32176355685351715,0.06550967234599447
+1605,Provide transportation information to passengers or customers.,0.24088801899170562,0.0519105070525248
+1667,Hold patients to ensure proper positioning or safety.,0.2080181525773061,0.0537249787528223
+1747,Tutor students who need extra assistance.,0.3249124559522222,0.0648506853687905
+1765,Train personnel in organizational or compliance procedures.,0.3245157279679838,0.07433885695994269
+1822,Count prison inmates or personnel.,0.17889870052123458,0.04274399262653186
+1880,Direct administrative or support services.,0.21151387818015946,0.06629443127300078
+1903,Plan employee work schedules.,0.22026509827355686,0.05199792875831351
+1971,Discuss student progress with parents or guardians.,0.3647216191259127,0.0707455516726225

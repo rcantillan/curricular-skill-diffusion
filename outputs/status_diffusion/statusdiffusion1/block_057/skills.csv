@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+3,Study scripts to determine project requirements.,0.3946888864522228,0.05523471153158467
+6,Review customer information.,0.2681130806303914,0.056631051598465786
+62,Research sustainable agricultural processes or practices.,0.2573812657660905,0.0490171122016167
+97,"Investigate transportation incidents, violations, or complaints.",0.22188352242402015,0.04940881424846641
+180,Monitor work environment to ensure safety or adherence to specifications.,0.28052728838553503,0.06460495091775607
+343,Estimate operational costs.,0.20088289266191095,0.06257841498789293
+367,Evaluate civic projects or public policies.,0.3119327116366951,0.06263308739603779
+441,Assess compliance with environmental laws.,0.22327121190859311,0.050708576400526534
+447,Examine financial records or processes.,0.18868908824784283,0.056439724393591836
+657,"Design tools, fixtures, or other devices for production equipment.",0.2093283987543129,0.05585233713216142
+692,Design layouts for print publications.,0.21786825825182463,0.04435737162853997
+728,Design costumes or cosmetic effects for characters.,0.20954089099236914,0.048998782333553155
+730,Design jewelry or decorative objects.,0.18292299199684736,0.04795187822801856
+794,Schedule agricultural or forestry work.,0.21019126266722007,0.04911062641945271
+805,Plan work procedures.,0.31652048227936314,0.05664159779294257
+892,Transport biological or other medical materials.,0.1779998940384871,0.04552421045449926
+917,Usher patrons to seats or exits.,0.15501864577549745,0.040066016986721485
+1025,Prepare medical supplies or equipment for use.,0.2559883820904112,0.05711899702309087
+1190,Attach rigging to objects so they can be moved.,0.13379832684414386,0.04022751309339858
+1296,Code data or other information.,0.19276454096665577,0.05118516742241632
+1311,Maintain sustainable energy production equipment.,0.1642497294006309,0.04584027948341074
+1486,Translate information for others.,0.26928509182780314,0.04691354154779022
+1501,Assist engineers or scientists with research.,0.23534778003135334,0.050533172702092496
+1549,"Notify others of emergencies, problems, or hazards.",0.261232460585103,0.049436988037930195
+1563,Signal equipment operators to indicate proper equipment positioning.,0.20840149517617834,0.047549413064377426
+1601,Provide customers with general information or assistance.,0.26281021754495704,0.0663361999450492
+1621,Treat patients using physical therapy techniques.,0.21721035049203696,0.05815944812259346
+1647,Assist individuals with paperwork.,0.24368401917352303,0.05339001730521224
+1648,Feed patients.,0.15334299584439265,0.05019005895403664
+1840,Manage control system activities in organizations.,0.2061273146214328,0.06026618986029612
+1850,Prepare project budgets.,0.3210946136556075,0.06083336098300306
+1868,Coordinate sales campaigns.,0.21388017472096874,0.06550293048143734

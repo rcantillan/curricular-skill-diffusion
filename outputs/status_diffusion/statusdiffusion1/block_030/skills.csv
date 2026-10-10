@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+113,Monitor engine operation or functioning.,0.16903886004578664,0.03930464684318472
+380,Evaluate quality of materials or products.,0.25565090602438684,0.05514349125417697
+507,Evaluate applicable laws and regulations to determine impact on organizational activities.,0.28567179318447317,0.06138450323776097
+580,"Select tools, equipment, or technologies for use in operations or projects.",0.3005265102777037,0.06278209682608277
+595,Develop exercise or conditioning programs.,0.1543118194117455,0.052038060807738165
+708,Develop sustainable organizational policies or practices.,0.2802330123929992,0.07324483535031048
+718,Develop methods of social or economic research.,0.34635476710517565,0.07040191996533167
+768,Develop procedures for data management.,0.3043453533278039,0.06353575457095455
+771,Develop business or financial information systems.,0.24624728646433267,0.06486334168804134
+818,Prepare materials or solutions for animal or plant use.,0.2498000903370935,0.049769251704209636
+875,Shovel materials.,0.13011664519558722,0.031587223354464955
+991,Feed materials or products into or through equipment.,0.23677262887176526,0.043995292883805465
+1159,Seal gaps or cracks to prevent leakage or moisture intrusion.,0.20831166514897104,0.03940524140826932
+1172,Draw guide lines or markings on materials or workpieces using patterns or other references.,0.292083513097213,0.046404364600738296
+1177,Package materials or products.,0.19629468122544722,0.04697262227480638
+1204,Operate pumps or compressors.,0.15011702981620442,0.045464909717357366
+1226,Operate painting or coating equipment.,0.1941409635877572,0.05076557381725122
+1331,Maintain computer networks to enhance performance and user access.,0.26294171370902625,0.06332943095735918
+1333,Maintain electronic equipment.,0.19133319186773445,0.04889146771699643
+1654,Assist individuals with special needs.,0.27504012874801004,0.07358707716253315
+1712,Negotiate agreements to resolve disputes.,0.23586023944193735,0.059933764633760406
+1713,Negotiate contracts with clients or service providers.,0.2034669278173523,0.06498979730161408
+1737,Teach life skills.,0.31781922097212967,0.07650922784150498
+1750,Read to students.,0.37428849494624894,0.07082115879768633
+1781,Train customers in the use of products.,0.3021275179571998,0.06589680169282908
+1782,Teach exercise or fitness techniques.,0.31712552591025184,0.07598932051674273
+1786,"Train patients, family members, or caregivers in techniques for managing disabilities or illnesses.",0.2798264115734906,0.07225068610544215
+1858,Organize recreational activities or events.,0.24767320720371633,0.061514228620581604
+1875,"Manage operations, research, or logistics projects.",0.2427537327514927,0.06773514465469418
+1926,Support the professional development of others.,0.35463348291307256,0.07680636537833603
+1992,Prepare business correspondence.,0.278500992232914,0.0601671263340535
+2051,Collect payments for goods or services.,0.22231351399585259,0.05457073741617934

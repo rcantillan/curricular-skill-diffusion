@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+148,Monitor flow of cash or other resources.,0.2450260995136027,0.058847590901801
+157,Monitor health or behavior of people or animals.,0.2550479513923355,0.05253579256531418
+216,Identify sustainable business practices.,0.23344489877206334,0.061899386608040605
+294,Examine medical instruments or equipment to ensure proper operation.,0.2501104641312225,0.057259336031150056
+345,Estimate costs for projects or productions.,0.2069672079741211,0.056441517435562034
+348,Compute gaming wins and losses.,0.17709310190494354,0.045423754555185936
+356,Measure clients to ensure proper product fit.,0.2627189414266764,0.05484837910195596
+428,Verify employee information.,0.22367032688951557,0.05868012688333567
+494,Analyze data to assess operational or project effectiveness.,0.32765127798374216,0.07149665880589652
+526,"Estimate costs of products, services, or materials.",0.23105182042927924,0.06091423829995876
+534,Troubleshoot equipment or systems operation problems.,0.20854907909870601,0.05036661995202421
+588,Select construction equipment.,0.1881871652868284,0.0472113557304795
+601,Develop computer or information systems.,0.24920214671035162,0.05961260612760296
+609,Design software applications.,0.26744986400033155,0.08367495752429298
+752,Maintain knowledge of laws or regulations.,0.3095013367305906,0.06259995616808893
+876,"Spread sand, dirt or other loose materials onto surfaces.",0.1438612225487225,0.036088428434933845
+1213,Operate detonation equipment.,0.16471663159074332,0.037677003501745326
+1230,"Operate cooking, baking, or other food preparation equipment.",0.21112864210318602,0.04652634419975403
+1284,Resolve computer network problems.,0.16935219531879583,0.04539499878253063
+1307,Maintain mechanical equipment.,0.1748407260252155,0.04774113934882566
+1382,Record images needed to address work issues.,0.2418671083093898,0.04754357906660703
+1408,Maintain records of customer accounts.,0.18363990187043755,0.053438407822640796
+1618,Implement therapeutic programs to improve patient functioning.,0.25943324038238263,0.0777329354215221
+1671,Assist healthcare practitioners during surgery.,0.18782871194044426,0.053863711971650685
+1787,Conduct health or safety training programs.,0.28110834686363617,0.07375118730708227
+1846,Manage financial activities of the organization.,0.24663172793473795,0.0746800046957908
+1893,Direct passenger or freight transport activities.,0.18015878138055755,0.04462657515370614
+1916,Direct security operations.,0.23099024732315912,0.05447575065072704
+1927,Encourage patients or clients to develop life skills.,0.28860079722312454,0.07954445444738911
+1989,Classify materials according to standard systems.,0.2156717453327806,0.04427210741737869
+1994,Perform clerical work in medical settings.,0.20334524960384984,0.053878332729063956
+2021,Route mail to correct destinations.,0.1442376850955539,0.030955843360910663

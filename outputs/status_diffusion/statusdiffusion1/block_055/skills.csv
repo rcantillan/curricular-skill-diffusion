@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+1,Study details of musical compositions.,0.30068745015262,0.04647536710279497
+15,Evaluate reports or designs to determine work needs.,0.35438913740544103,0.06317684970820488
+40,Collect data about project sites.,0.2634897562961177,0.05463813706636623
+50,Investigate the environmental impact of projects.,0.26526556347378816,0.05409966941062214
+76,Obtain documentation to authorize activities.,0.23447407851609206,0.04956581997905778
+177,Locate fires or fire danger areas.,0.20805313375414744,0.041938065255932674
+182,Monitor current trends.,0.3080177938734229,0.047952827446315
+222,Administer drug screening tests.,0.17635001473722678,0.0569927827702142
+246,Inspect facilities.,0.2574158357705711,0.05203960229127279
+285,Inspect plumbing systems or fixtures.,0.17421006093297944,0.0399714296932382
+289,Inspect industrial or commercial equipment to ensure proper operation.,0.253803877139847,0.05543383261604901
+413,Sort materials or objects for processing or transport.,0.2115524351907758,0.04311217579869515
+539,Approve expenditures.,0.20809770043580006,0.05028373533221176
+596,Develop patient therapy programs.,0.2876768384489053,0.07515700372583246
+690,Create diagrams or blueprints for workpieces or products.,0.2849021233321166,0.056670731832126925
+721,Plan environmental research.,0.2881235420033182,0.05171017613192404
+790,Schedule product or material transportation.,0.22481116578450533,0.05225835790468202
+950,Assemble metal structures.,0.18276916404031174,0.045311844047761146
+1038,"Cut carpet, vinyl or other flexible materials.",0.09983082157687449,0.03664915822694957
+1044,"Melt metal, plastic, or other materials to prepare for production.",0.14529524524585283,0.045658725304249
+1441,Organize informational materials.,0.2945404938316193,0.04834699223670383
+1534,Communicate patient status to other health practitioners.,0.19687860220802858,0.06433573074455257
+1631,Administer medical substances for imaging or other procedures.,0.2103578982314202,0.0569506941751443
+1670,Assist healthcare practitioners during examinations or treatments.,0.2605560182606181,0.0648376747935457
+1736,Teach daily living skills or behaviors.,0.35412646169044465,0.07985410598830546
+1761,Train staff members.,0.2670063452023902,0.06788506618681443
+1826,Coordinate software or hardware installation.,0.12062940158621444,0.05219099025323913
+1984,Counsel clients on mental health or personal achievement.,0.2681218573234897,0.07053894180304275
+1996,Process library materials.,0.33823445201924446,0.04398766603052651
+2003,Process medical billing information.,0.17962487734190422,0.0490076142325049
+2006,Process customer bills or payments.,0.18121730959124058,0.052857594564550116
+2028,"Select staff, team members, or performers.",0.23261700807133298,0.058059754881176574

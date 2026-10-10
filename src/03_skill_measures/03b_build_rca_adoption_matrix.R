@@ -27,6 +27,11 @@
 
 library(data.table)
 
+# Source scores are already means over syllabi in each institution-field-year.
+# With one public ID per cell, X below is that mean, not a sum of syllabus scores.
+# This benchmark gives cells equal weight; syllabus-weighted benchmarks are a
+# distinct estimand and should be reported separately rather than silently mixed.
+
 setDTthreads(threads = min(4L, parallel::detectCores() - 2L))
 
 dir_interim <- "data/interim"

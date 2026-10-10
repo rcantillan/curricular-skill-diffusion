@@ -1,0 +1,30 @@
+{
+  "baseline_years": [
+    2002,
+    2007
+  ],
+  "baseline_min_syllabi": 9,
+  "baseline_profiles": 6028,
+  "evaluation_years": [
+    2008,
+    2017
+  ],
+  "quantiles": [
+    0.5,
+    0.75,
+    0.9,
+    0.95
+  ],
+  "threshold_rule": "score >= fixed baseline quantile per DWA",
+  "reference_weighting": "equal public profiles; longitudinal repeats included",
+  "specialization": "fixed pooled baseline RCA >=1",
+  "interpretation": "high inferred semantic score, not validated curricular presence",
+  "joint_states": [
+    "low_score_not_specialized",
+    "high_score_not_specialized",
+    "low_score_specialized",
+    "high_score_specialized"
+  ],
+  "future_observation": "required only for persistence sensitivity",
+  "left_censoring": "baseline high states are not dated first appearances"
+}

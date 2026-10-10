@@ -1,0 +1,27 @@
+field,initial_nodes,usable_for_residual_graph
+Anthropology,1,False
+Biology,6,True
+Business,10,True
+Chemistry,2,False
+Computer Science,10,True
+Dance,1,False
+Economics,4,True
+Education,3,True
+Engineering,3,True
+English Literature,13,True
+Fine Arts,2,False
+Fitness and Leisure,1,False
+Geography,1,False
+History,7,True
+Mathematics,10,True
+Media / Communications,1,False
+Music,2,False
+Nursing,1,False
+Philosophy,2,False
+Physics,3,True
+Political Science,5,True
+Psychology,7,True
+Social Work,2,False
+Sociology,1,False
+Theatre Arts,1,False
+Women's Studies,1,False

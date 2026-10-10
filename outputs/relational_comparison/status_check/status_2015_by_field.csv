@@ -1,0 +1,415 @@
+unitid,field,network_name,raw_hiring_rank,status,available_year,outcome_start_year,measure
+243744,Computer Science,Stanford University,2.23,1.9066811107434964,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110635,Computer Science,UC Berkeley,2.31,1.9051748897433767,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+166683,Computer Science,MIT,3.52,1.8823932971165622,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110404,Computer Science,California Institute of Technology,5.24,1.8500095456139827,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+166027,Computer Science,Harvard University,6.12,1.8334411146126628,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+190415,Computer Science,Cornell University,8.29,1.792584869984409,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+211440,Computer Science,Carnegie Mellon University,9.28,1.7739453851079239,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+186131,Computer Science,Princeton University,9.32,1.773192274607864,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+130794,Computer Science,Yale University,9.98,1.760765951356874,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+236948,Computer Science,University of Washington,11.06,1.7404319678552544,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+145637,Computer Science,"University of Illinois, Urbana Champaign",13.43,1.6958101707267004,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+240444,Computer Science,"University of Wisconsin, Madison",14.12,1.6828190146006656,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+215062,Computer Science,University of Pennsylvania,15.31,1.660413977223881,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+227757,Computer Science,Rice University,16.44,1.6391386055971864,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110662,Computer Science,UCLA,17.82,1.6131562933451171,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+193900,Computer Science,New York University,18.23,1.605436910719502,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+144050,Computer Science,University of Chicago,18.82,1.5943285308436173,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228778,Computer Science,"University of Texas, Austin",19.44,1.5826553180926874,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+217156,Computer Science,Brown University,21.92,1.5359624670889682,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+190150,Computer Science,Columbia University,22.53,1.5244775319630535,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+195030,Computer Science,University of Rochester,25.64,1.4659231905833896,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+123961,Computer Science,University of Southern California,26.17,1.4559444764575946,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+162928,Computer Science,Johns Hopkins University,26.3,1.4534968673323998,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+166629,Computer Science,"University of Massachusetts, Amherst",26.95,1.4412588217064248,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110680,Computer Science,UC San Diego,27.93,1.422807614454955,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+163286,Computer Science,"University of Maryland, College Park",28.65,1.4092516254538754,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+170976,Computer Science,University of Michigan,29.37,1.3956956364527957,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+199120,Computer Science,"University of North Carolina, Chapel Hill",29.55,1.3923066392025258,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+198419,Computer Science,Duke University,30.5,1.3744202648261012,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+196097,Computer Science,"State University of New York, Stony Brook",36.01,1.2706792934428381,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110653,Computer Science,UC Irvine,37.36,1.2452618140658136,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+182670,Computer Science,Dartmouth College,37.9,1.2350948223150036,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+234076,Computer Science,University of Virginia,38.11,1.2311409921896888,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+243780,Computer Science,Purdue University,38.27,1.2281285501894486,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+174066,Computer Science,"University of Minnesota, Minneapolis",38.94,1.2155139493134441,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+139755,Computer Science,Georgia Tech,39.69,1.2013931274373193,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+186380,Computer Science,Rutgers University,40.46,1.1868957503111646,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+104179,Computer Science,University of Arizona,40.57,1.1848246964359996,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+214777,Computer Science,Pennsylvania State University,41.22,1.1725866508100249,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+204796,Computer Science,Ohio State University,42.17,1.1547002764336,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+147767,Computer Science,Northwestern University,44.47,1.111396422680151,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+179867,Computer Science,"Washington University, St. Louis",46.4,1.0750588410522566,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+215293,Computer Science,University of Pittsburgh,46.81,1.0673394584266416,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+164988,Computer Science,Boston University,51.73,0.9747068669192634,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+209551,Computer Science,University of Oregon,54.86,0.9157759702895695,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+196413,Computer Science,Syracuse University,56.74,0.8803797767867501,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110705,Computer Science,UC Santa Barbara,56.76,0.8800032215367201,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+230764,Computer Science,University of Utah,59.1,0.8359462572832108,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110644,Computer Science,UC Davis,61.39,0.7928306811547766,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228723,Computer Science,Texas A&M,63.14,0.7598820967771522,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+225511,Computer Science,University of Houston,64.97,0.7254272913994079,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+171100,Computer Science,Michigan State University,66.24,0.7015160330225033,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+126614,Computer Science,"University of Colorado, Boulder",68.17,0.6651784513946088,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+201645,Computer Science,Case Western Reserve University,70.82,0.6152848807656349,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110671,Computer Science,UC Riverside,71.14,0.6092599967651549,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+134097,Computer Science,Florida State University,74.98,0.5369613887593961,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+231624,Computer Science,College of William and Mary,75.2,0.5328192810090663,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+213543,Computer Science,Lehigh University,76.47,0.5089080226321617,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+145600,Computer Science,"University of Illinois, Chicago",79.33,0.4550606218778727,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+201885,Computer Science,University of Cincinnati,79.33,0.4550606218778727,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110714,Computer Science,UC Santa Cruz,79.49,0.45204817987763285,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+194824,Computer Science,Rensselaer Polytechnic Institute,79.68,0.44847090500234765,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228246,Computer Science,Southern Methodist University,80.22,0.438303913251538,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+132903,Computer Science,University of Central Florida,81.51,0.41401609962460334,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+187985,Computer Science,University of New Mexico,81.65,0.41138021287439336,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+199193,Computer Science,North Carolina State University,81.9,0.40667327224901845,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+196088,Computer Science,"State University of New York, Buffalo",82.16,0.4017780539986287,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+186867,Computer Science,Stevens Institute of Technology,82.4,0.3972593909982686,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+165015,Computer Science,Brandeis University,84.55,0.3567797016200445,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+131469,Computer Science,George Washington University,87.19,0.30707440861608537,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+153658,Computer Science,University of Iowa,87.49,0.3014260798656355,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+130943,Computer Science,University of Delaware,87.66,0.29822536024038054,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+153603,Computer Science,Iowa State University,92.45,0.20804037785819707,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+221999,Computer Science,Vanderbilt University,92.5,0.20709898973312213,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+134130,Computer Science,University of Florida,94.94,0.161159249229463,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+232186,Computer Science,George Mason University,97.34,0.11597261922586372,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+152080,Computer Science,University of Notre Dame,98.8,0.08848408597367433,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+172644,Computer Science,Wayne State University,99.58,0.07379843122250457,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+160658,Computer Science,"University of Louisiana, Lafayette",100.62,0.0542175582209448,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+240453,Computer Science,"University of Wisconsin, Milwaukee",102.07,0.026917302593770506,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228769,Computer Science,"University of Texas, Arlington",106.62,-0.05874901678805317,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+129020,Computer Science,University of Connecticut,108.32,-0.09075621304060238,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+209490,Computer Science,Oregon Health and Science University,108.71,-0.09809904041618726,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+104151,Computer Science,Arizona State University,108.72,-0.09828731804120236,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+155399,Computer Science,Kansas State University,109.31,-0.10939569791708721,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+137351,Computer Science,University of South Florida,111.94,-0.15891271329603124,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+233921,Computer Science,Virginia Tech,112.4,-0.16757348404672123,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+209807,Computer Science,Portland State University,113.61,-0.1903550766735357,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+218663,Computer Science,University of South Carolina,113.75,-0.19299096342374567,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+178411,Computer Science,Missouri University of Science and Technology,113.87,-0.1952502949239257,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+207500,Computer Science,University of Oklahoma,116.24,-0.23987209205247972,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+151351,Computer Science,Indiana University,116.75,-0.24947425092824466,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+145725,Computer Science,Illinois Institute of Technology,117.72,-0.2677371805546993,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+221759,Computer Science,"University of Tennessee, Knoxville",119.03,-0.2924015494316639,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+135726,Computer Science,University of Miami,120.24,-0.31518314205847836,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+185828,Computer Science,New Jersey Institute of Technology,120.85,-0.32666807718439317,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+157085,Computer Science,University of Kentucky,123.11,-0.3692188204377825,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+196079,Computer Science,"State University of New York, Binghamton",124.35,-0.392565245939642,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+126818,Computer Science,Colorado State University,124.6,-0.3972721865650169,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+126562,Computer Science,"University of Colorado, Denver",125.51,-0.4144054504413818,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228787,Computer Science,"University of Texas, Dallas",125.87,-0.42118344494192167,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+217484,Computer Science,University of Rhode Island,126.0,-0.42363105406711654,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+445054,Computer Science,Toyota Technological Institute at Chicago,126.16,-0.4266434960673564,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+100858,Computer Science,Auburn University,126.69,-0.43662221019315123,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+212054,Computer Science,Drexel University,127.37,-0.44942508869417114,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+209542,Computer Science,Oregon State University,127.72,-0.4560148055696959,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+181464,Computer Science,"University of Nebraska, Lincoln",130.66,-0.5113684273241049,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+133669,Computer Science,Florida Atlantic University,131.2,-0.5215354190749145,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+229027,Computer Science,"University of Texas, San Antonio",133.22,-0.559567499327944,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+127060,Computer Science,University of Denver,133.81,-0.5706758792038289,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+163268,Computer Science,"University of Maryland, Baltimore County",134.13,-0.5767007632043087,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+161253,Computer Science,University of Maine,135.62,-0.6047541293315434,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+190044,Computer Science,Clarkson University,137.31,-0.6365730479590778,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+188030,Computer Science,New Mexico State University,137.49,-0.6399620452093479,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+220862,Computer Science,University of Memphis,137.66,-0.6431627648346026,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+178402,Computer Science,"University of Missouri, Kansas City",138.72,-0.6631201930861922,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+178396,Computer Science,"University of Missouri, Columbia",139.45,-0.6768644597122868,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+234030,Computer Science,Virginia Commonwealth University,139.99,-0.687031451463097,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+168421,Computer Science,Worcester Polytechnic Institute,140.75,-0.7013405509642365,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+232982,Computer Science,Old Dominion University,142.05,-0.7258166422161864,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228796,Computer Science,"University of Texas, El Paso",142.2,-0.7286408065914108,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+119678,Computer Science,Naval Postgraduate School,142.23,-0.7292056394664559,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+166638,Computer Science,"University of Massachusetts, Boston",143.2,-0.7474685690929105,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+240727,Computer Science,University of Wyoming,144.8,-0.7775929890953104,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+139959,Computer Science,University of Georgia,145.66,-0.7937848648465998,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+176080,Computer Science,Mississippi State University,146.44,-0.8084705195977696,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+168148,Computer Science,Tufts University,146.5,-0.8096001853478596,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+133951,Computer Science,Florida International University,146.92,-0.8175078455984892,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+149222,Computer Science,"Southern Illinois University, Carbondale",148.23,-0.8421722144754539,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+204857,Computer Science,Ohio University,150.08,-0.8770035751032286,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+112251,Computer Science,Claremont Graduate University,150.95,-0.8933837284795328,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+131283,Computer Science,Catholic University of America,151.04,-0.8950782271046679,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+217882,Computer Science,Clemson University,151.45,-0.9027976097302827,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+166513,Computer Science,"University of Massachusetts, Lowell",151.46,-0.9029858873552981,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+207388,Computer Science,Oklahoma State University,151.76,-0.9086342161057477,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+199139,Computer Science,"University of North Carolina, Charlotte",152.67,-0.9257674799821123,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+100663,Computer Science,"University of Alabama, Birmingham",153.44,-0.9402648571082672,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+122931,Computer Science,Santa Clara University,153.65,-0.9442186872335823,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+141574,Computer Science,"University of Hawaii, Manoa",154.88,-0.9673768351104267,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+216339,Computer Science,Temple University,156.16,-0.9914763711123462,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+206084,Computer Science,University of Toledo,156.35,-0.9950536459876311,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+171128,Computer Science,Michigan Technological University,156.45,-0.996936422237781,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+183044,Computer Science,University of New Hampshire,156.98,-1.0069151363635758,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+180461,Computer Science,Montana State University,157.66,-1.0197180148645957,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+206604,Computer Science,Wright State University,159.2,-1.0487127691169051,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+172699,Computer Science,Western Michigan University,163.13,-1.1227058757477988,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+167358,Computer Science,Northeastern University,163.79,-1.1351321989987886,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+229115,Computer Science,Texas Tech University,164.46,-1.1477467998747937,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+207971,Computer Science,University of Tulsa,164.68,-1.1518889076251235,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+176017,Computer Science,University of Mississippi,165.5,-1.167327672876353,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+230038,Computer Science,Brigham Young University,166.53,-1.186720268252898,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+176372,Computer Science,University of Southern Mississippi,169.02,-1.2336013968816322,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+126580,Computer Science,"University of Colorado, Colorado Springs",169.16,-1.2362372836318418,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+126775,Computer Science,Colorado School of Mines,169.65,-1.2454628872575768,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+139940,Computer Science,Georgia State University,169.71,-1.246592553007667,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+182281,Computer Science,"University of Nevada, Las Vegas",171.62,-1.2825535793855312,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+203517,Computer Science,Kent State University,171.68,-1.2836832451356213,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+230728,Computer Science,Utah State University,173.75,-1.3226567135137255,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+144740,Computer Science,DePaul University,174.47,-1.3362127025148052,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+200332,Computer Science,North Dakota State University,176.03,-1.3655840120171445,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+136215,Computer Science,Nova Southeastern University,178.55,-1.413029973520924,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+106397,Computer Science,"University of Arkansas, Fayetteville",178.7,-1.4158541378961484,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+128744,Computer Science,University of Bridgeport,178.73,-1.4164189707711936,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+157289,Computer Science,University of Louisville,179.12,-1.4237617981467787,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+181394,Computer Science,"University of Nebraska, Omaha",179.97,-1.4397653962730532,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+133881,Computer Science,Florida Institute of Technology,180.75,-1.454451051024223,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+106245,Computer Science,"University of Arkansas, Little Rock",181.14,-1.4617938783998077,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+195003,Computer Science,Rochester Institute of Technology,181.68,-1.4719608701506177,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+194310,Computer Science,Pace University,182.16,-1.4809981961513374,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+187967,Computer Science,New Mexico Institute of Mining and Technology,182.28,-1.4832575276515174,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+182290,Computer Science,"University of Nevada, Reno",182.47,-1.4868348025268023,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+100751,Computer Science,"University of Alabama, Tuscaloosa",186.81,-1.568547291783311,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+243744,Business,Stanford University,1.19,1.7888482283522311,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+166683,Business,MIT,2.28,1.7539109830432262,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+166027,Business,Harvard University,4.39,1.6862801687294648,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110635,Business,UC Berkeley,6.16,1.6295472107506224,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+195030,Business,University of Rochester,6.21,1.6279445848190168,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+144050,Business,University of Chicago,6.27,1.6260214337010899,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+190415,Business,Cornell University,8.51,1.5542237919651536,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+147767,Business,Northwestern University,9.23,1.5311459785500314,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+170976,Business,University of Michigan,10.02,1.505824488830661,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+190150,Business,Columbia University,10.74,1.4827466754155385,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+130794,Business,Yale University,10.79,1.4811440494839327,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+215062,Business,University of Pennsylvania,11.72,1.4513352071560663,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+211440,Business,Carnegie Mellon University,11.99,1.4426810271253954,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+240444,Business,"University of Wisconsin, Madison",12.91,1.4131927099838502,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110662,Business,UCLA,13.96,1.37953756542013,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+193900,Business,New York University,16.62,1.294277865858706,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+174066,Business,"University of Minnesota, Minneapolis",18.8,1.2244033752406964,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+145637,Business,"University of Illinois, Urbana Champaign",19.2,1.2115823677878508,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+198419,Business,Duke University,20.3,1.1763245972925247,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+243780,Business,Purdue University,20.54,1.1686319928208175,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+204796,Business,Ohio State University,21.17,1.1484389060825853,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+153658,Business,University of Iowa,22.77,1.0971548762712022,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+199120,Business,"University of North Carolina, Chapel Hill",25.09,1.0227930330446968,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+179867,Business,"Washington University, St. Louis",26.07,0.9913815647852248,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+134130,Business,University of Florida,26.96,0.9628548232026429,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228778,Business,"University of Texas, Austin",27.03,0.9606111468983949,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+215293,Business,University of Pittsburgh,27.55,0.9439438372096954,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+214777,Business,Pennsylvania State University,28.06,0.9275970527073172,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+236948,Business,University of Washington,29.24,0.8897750807214222,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+163286,Business,"University of Maryland, College Park",29.5,0.8814414258770724,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+151351,Business,Indiana University,34.54,0.7198967319712158,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+171100,Business,Michigan State University,35.24,0.6974599689287356,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+139755,Business,Georgia Tech,37.28,0.6320728309192223,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+126614,Business,"University of Colorado, Boulder",37.77,0.6163670967894862,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110653,Business,UC Irvine,38.7,0.5865582544616198,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+104179,Business,University of Arizona,39.48,0.5615572899285708,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+230764,Business,University of Utah,39.73,0.5535441602705422,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+209551,Business,University of Oregon,40.37,0.533030548345989,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+123961,Business,University of Southern California,40.95,0.5144400875393624,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+196088,Business,"State University of New York, Buffalo",42.51,0.46443815847326414,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228787,Business,"University of Texas, Dallas",44.2,0.4102694019849906,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+234076,Business,University of Virginia,46.53,0.33558703357216413,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+164988,Business,Boston University,47.39,0.30802186754854577,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+166629,Business,"University of Massachusetts, Amherst",47.5,0.3044960904990132,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228723,Business,Texas A&M,47.53,0.30353451494004974,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+139658,Business,Emory University,47.68,0.2987266371452326,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+201645,Business,Case Western Reserve University,47.95,0.29007245711456164,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110644,Business,UC Davis,48.53,0.27148199630793535,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+139959,Business,University of Georgia,49.18,0.250647859197061,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+221999,Business,Vanderbilt University,49.98,0.22500584429136958,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+196413,Business,Syracuse University,50.61,0.20481275755313744,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+112251,Business,Claremont Graduate University,51.0,0.1923122752866128,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+104151,Business,Arizona State University,51.57,0.17404233966630758,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+218663,Business,University of South Carolina,52.71,0.13750246842569716,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+233921,Business,Virginia Tech,53.89,0.09968049643980217,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+134097,Business,Florida State University,54.57,0.07788478376996438,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+207500,Business,University of Oklahoma,55.75,0.0400628117840694,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+160755,Business,Tulane University,57.24,-0.0076954409777811135,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+129020,Business,University of Connecticut,58.41,-0.04519688777735479,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+164924,Business,Boston College,59.23,-0.0714799530556886,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+201885,Business,University of Cincinnati,61.05,-0.12981553696613682,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+225511,Business,University of Houston,61.07,-0.1304565873387792,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+186380,Business,Rutgers University,63.67,-0.21379313578227668,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+106397,Business,"University of Arkansas, Fayetteville",64.97,-0.25546141000402534,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+221759,Business,"University of Tennessee, Knoxville",68.62,-0.37245310301124307,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+182670,Business,Dartmouth College,69.32,-0.3948898660537228,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+157085,Business,University of Kentucky,69.52,-0.40130036978014577,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+227757,Business,Rice University,69.66,-0.4057877223886418,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228246,Business,Southern Methodist University,70.96,-0.4474559966103904,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+216339,Business,Temple University,73.39,-0.5253436168864286,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+131469,Business,George Washington University,74.3,-0.5545114088416526,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+100751,Business,"University of Alabama, Tuscaloosa",76.24,-0.6166932949879544,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+207388,Business,Oklahoma State University,76.35,-0.620219072037487,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+196079,Business,"State University of New York, Binghamton",76.48,-0.6243858994596622,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+153603,Business,Iowa State University,79.43,-0.7189408294243997,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+141574,Business,"University of Hawaii, Manoa",81.79,-0.7945847733961897,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+176017,Business,University of Mississippi,81.93,-0.7990721260046858,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+178420,Business,"University of Missouri, St. Louis",82.1,-0.8045210541721448,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+131496,Business,Georgetown University,83.14,-0.837855673549544,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+212054,Business,Drexel University,83.61,-0.8529203573066377,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+100858,Business,Auburn University,83.7,-0.8558050839835282,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+152080,Business,University of Notre Dame,84.5,-0.8814470988892196,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+199193,Business,North Carolina State University,86.03,-0.9304874523963547,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+135726,Business,University of Miami,86.87,-0.9574115680473309,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+179159,Business,Saint Louis University,87.94,-0.991707762983693,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+168421,Business,Worcester Polytechnic Institute,89.07,-1.0279271090379822,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+231624,Business,College of William and Mary,89.53,-1.042671267608755,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+190044,Business,Clarkson University,90.7,-1.0801727144083288,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+230038,Business,Brigham Young University,91.79,-1.1151099597173337,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+191241,Business,Fordham University,92.8,-1.147483003535769,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+122931,Business,Santa Clara University,94.16,-1.1910744288754445,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+209807,Business,Portland State University,95.0,-1.2179985445264208,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+136950,Business,Rollins College,95.11,-1.2215243215759533,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+167358,Business,Northeastern University,96.16,-1.2551794661396733,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+164739,Business,Bentley University,96.41,-1.263192595797702,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+131520,Business,Howard University,96.56,-1.2680004735925192,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+195003,Business,Rochester Institute of Technology,97.3,-1.2917193373802838,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228875,Business,Texas Christian University,97.9,-1.3109508485595527,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+222178,Business,Abilene Christian University,98.66,-1.3353107627199594,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+164580,Business,Babson College,99.06,-1.3481317701728053,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+121150,Business,Pepperdine University,99.38,-1.3583885761350818,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+127060,Business,University of Denver,99.54,-1.3635169791162203,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+199847,Business,Wake Forest University,100.06,-1.3801842888049196,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+103778,Business,Thunderbird School of Global Management,101.19,-1.4164036348592088,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+194310,Business,Pace University,101.48,-1.4256988652625222,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+223232,Business,Baylor University,102.03,-1.4433277505101851,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+144740,Business,DePaul University,103.77,-1.499099132930064,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+191649,Business,Hofstra University,104.9,-1.5353184789843535,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+166027,History,Harvard University,1.54,1.9036295469163298,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+130794,History,Yale University,2.41,1.8804535588464562,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110635,History,UC Berkeley,4.8,1.8167861893211699,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+186131,History,Princeton University,5.16,1.8071961252922564,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+243744,History,Stanford University,5.45,1.7994707959356315,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+144050,History,University of Chicago,6.19,1.7797578865428652,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+190150,History,Columbia University,7.0,1.75818024247781,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+165015,History,Brandeis University,9.97,1.6790622142392744,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+162928,History,Johns Hopkins University,10.84,1.6558862261694,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+215062,History,University of Pennsylvania,11.66,1.6340421914368752,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+240444,History,"University of Wisconsin, Madison",11.85,1.6289807687549487,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+170976,History,University of Michigan,13.94,1.5733051192537568,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110662,History,UCLA,14.01,1.5714403845814682,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+147767,History,Northwestern University,15.65,1.527752315116418,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+190415,History,Cornell University,17.39,1.48140033897667,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+217156,History,Brown University,17.74,1.4720766656152264,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110644,History,UC Davis,18.46,1.4528965375573994,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+195030,History,University of Rochester,18.69,1.446769552205594,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+193900,History,New York University,20.44,1.400151185398376,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110680,History,UC San Diego,23.18,1.327160142511646,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+198419,History,Duke University,25.01,1.2784106503646693,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+174066,History,"University of Minnesota, Minneapolis",25.21,1.273082837015273,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+186380,History,Rutgers University,27.27,1.2182063595164907,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+199120,History,"University of North Carolina, Chapel Hill",28.0,1.1987598407911941,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+234076,History,University of Virginia,29.17,1.1675921326972254,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+123961,History,University of Southern California,29.69,1.153739817988795,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+236948,History,University of Washington,32.1,1.0895396671285689,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+166683,History,MIT,33.77,1.0450524256611096,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228778,History,"University of Texas, Austin",35.45,1.0002987935261802,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+139658,History,Emory University,35.83,0.9901759481623272,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+151351,History,Indiana University,37.48,0.9462214880298075,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+196097,History,"State University of New York, Stony Brook",37.78,0.9382297680057129,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+145637,History,"University of Illinois, Urbana Champaign",40.18,0.8742960078129568,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+179867,History,"Washington University, St. Louis",41.6,0.8364685330322428,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110671,History,UC Riverside,42.05,0.824480952996101,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+171100,History,Michigan State University,43.05,0.7978418862491193,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110653,History,UC Irvine,45.07,0.7440309714202162,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110705,History,UC Santa Barbara,45.41,0.7349736887262426,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+196079,History,"State University of New York, Binghamton",46.0,0.7192566393455232,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+131496,History,Georgetown University,46.1,0.716592732670825,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+104179,History,University of Arizona,46.53,0.7051379339696229,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+163286,History,"University of Maryland, College Park",47.59,0.6769005232178222,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+131283,History,Catholic University of America,47.71,0.6737038352081846,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+134130,History,University of Florida,48.11,0.6630482085093918,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+211440,History,Carnegie Mellon University,48.68,0.6478639404636123,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+215293,History,University of Pittsburgh,50.83,0.5905899469576016,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+168148,History,Tufts University,51.36,0.5764712415817013,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+152080,History,University of Notre Dame,51.57,0.5708770375648351,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+227757,History,Rice University,53.53,0.518664466740751,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+196088,History,"State University of New York, Buffalo",54.79,0.48509924263955406,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+110714,History,UC Santa Cruz,55.13,0.4760419599455802,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+164988,History,Boston University,56.23,0.4467389865239004,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+221999,History,Vanderbilt University,56.37,0.44300951717932296,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+131469,History,George Washington University,58.48,0.3868010863431916,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+129020,History,University of Connecticut,59.19,0.36788734895283454,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+187985,History,University of New Mexico,59.2,0.3676209582853646,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+204796,History,Ohio State University,60.87,0.3231337168179053,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+139959,History,University of Georgia,63.54,0.2520074086034641,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+153658,History,University of Iowa,63.91,0.2421509539070809,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+166629,History,"University of Massachusetts, Amherst",65.01,0.21284798048540082,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+147703,History,Northern Illinois University,67.84,0.13745942159144262,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+135726,History,University of Miami,69.04,0.1054925414950645,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+164924,History,Boston College,69.26,0.09963194681072855,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+145600,History,"University of Illinois, Chicago",71.29,0.04555464131435565,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+216339,History,Temple University,71.68,0.03516540528303277,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+112251,History,Claremont Graduate University,72.35,0.017317230562555356,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+141574,History,"University of Hawaii, Manoa",74.3,-0.03462894959405905,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+201645,History,Case Western Reserve University,74.31,-0.034895340261529004,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+160755,History,Tulane University,75.99,-0.07964897239645809,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+172644,History,Wayne State University,76.92,-0.10442330447115125,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+134097,History,Florida State University,76.97,-0.10575525780850026,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+184348,History,Drew University,77.39,-0.11694366584223262,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+214777,History,Pennsylvania State University,77.6,-0.12253786985909862,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+186122,History,Princeton Theological Seminary,78.29,-0.14091882591451632,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+231624,History,College of William and Mary,79.47,-0.17235292467595453,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+201885,History,University of Cincinnati,80.84,-0.2088484461193196,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+133951,History,Florida International University,83.11,-0.26931912763496796,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+221759,History,"University of Tennessee, Knoxville",83.33,-0.27517972231930393,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+126614,History,"University of Colorado, Boulder",83.99,-0.29276150637231174,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+204857,History,Ohio University,84.09,-0.29542541304701014,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+130943,History,University of Delaware,84.6,-0.3090113370879706,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+209551,History,University of Oregon,84.69,-0.31140885309519906,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+157085,History,University of Kentucky,85.89,-0.34337573319157716,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+206084,History,University of Toledo,86.51,-0.35989195457470596,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+139940,History,Georgia State University,88.85,-0.42222737076264283,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+104151,History,Arizona State University,90.22,-0.4587228922060079,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+178396,History,"University of Missouri, Columbia",90.84,-0.4752391135891367,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+230764,History,University of Utah,91.22,-0.4853619589529896,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+183044,History,University of New Hampshire,93.18,-0.537574529777074,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+165334,History,Clark University,93.91,-0.5570210485023703,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+225511,History,University of Houston,94.03,-0.5602177365120082,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+196413,History,Syracuse University,94.98,-0.585524849921641,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+239105,History,Marquette University,96.38,-0.6228195433674152,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+203517,History,Kent State University,97.19,-0.6443971874324704,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+201441,History,Bowling Green State University,99.42,-0.7038023062782397,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+161253,History,University of Maine,99.55,-0.7072653849553472,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+176017,History,University of Mississippi,99.6,-0.7085973382926962,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+155399,History,Kansas State University,101.75,-0.765871331798707,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+207500,History,University of Oklahoma,102.67,-0.7903792732059303,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+131520,History,Howard University,102.94,-0.7975718212276153,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+178402,History,"University of Missouri, Kansas City",103.88,-0.822612543969778,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+181464,History,"University of Nebraska, Lincoln",104.87,-0.8489852200492901,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+192040,History,Jewish Theological Seminary of America,104.93,-0.8505835640541091,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+167358,History,Northeastern University,106.74,-0.8988002748661457,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228875,History,Texas Christian University,107.71,-0.9246401696107178,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+100858,History,Auburn University,108.36,-0.9419555629962562,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+153603,History,Iowa State University,110.88,-1.00908601119865,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+115214,History,Graduate Theological Union,111.93,-1.037057031282981,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+213543,History,Lehigh University,112.1,-1.0415856726299675,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+243780,History,Purdue University,112.31,-1.0471798766468339,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+218663,History,University of South Carolina,113.16,-1.0698230833817683,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+146719,History,Loyola University Chicago,115.09,-1.121236482203443,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228723,History,Texas A&M,115.5,-1.1321584995697056,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+106397,History,"University of Arkansas, Fayetteville",115.76,-1.139084656923921,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+105330,History,Northern Arizona University,116.22,-1.1513386276275324,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+238032,History,West Virginia University,116.38,-1.1556008783070493,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+191241,History,Fordham University,117.0,-1.1721170996901782,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+100751,History,"University of Alabama, Tuscaloosa",117.54,-1.1865021957335484,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+176372,History,University of Southern Mississippi,118.42,-1.209944574470892,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+200800,History,University of Akron,119.66,-1.2429770172371495,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228787,History,"University of Texas, Dallas",120.16,-1.2562965506106403,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+182290,History,"University of Nevada, Reno",122.43,-1.3167672321262889,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+145813,History,Illinois State University,122.59,-1.321029482805806,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+149222,History,"Southern Illinois University, Carbondale",122.79,-1.3263572961552024,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+157748,History,Southern Baptist Theological Seminary,122.94,-1.3303531561672495,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+172699,History,Western Michigan University,123.37,-1.3418079548684518,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+179159,History,Saint Louis University,123.83,-1.3540619255720632,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+228769,History,"University of Texas, Arlington",123.89,-1.355660269576882,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+229115,History,Texas Tech University,125.73,-1.4046761523913285,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+220862,History,University of Memphis,125.93,-1.410003965740725,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+176080,History,Mississippi State University,127.36,-1.4480978311889086,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+232186,History,George Mason University,129.9,-1.5157610607262424,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+207388,History,Oklahoma State University,130.04,-1.5194905300708195,2013,2014,negative_2015_hiring_rank_standardized_within_network_field
+220978,History,Middle Tennessee State University,135.54,-1.6660053971792188,2013,2014,negative_2015_hiring_rank_standardized_within_network_field

@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+2,Review production information to determine costume or makeup requirements.,0.24898076327040433,0.04872685009942927
+205,Mark agricultural or forestry products for identification.,0.198643324438122,0.04161488967252597
+220,Test patient vision.,0.18063611550846076,0.05291038039603956
+333,Weigh finished products.,0.1640752535945087,0.047862030554264086
+376,Evaluate capabilities or training needs.,0.38457635845653626,0.07971174103950243
+409,Verify accuracy of financial or transactional data.,0.17358766002554762,0.04873071502034888
+448,Review customer insurance information.,0.2142819794157264,0.04960956043189679
+510,Analyze crime scene evidence.,0.25403400873374193,0.04355131268462466
+511,Analyze laboratory findings.,0.2580578152053747,0.06469089972592645
+517,Analyze business or financial data.,0.30955110090378196,0.06292201409134918
+619,Develop healthcare quality and safety procedures.,0.2888657307360656,0.0695409300949484
+642,Plan facility layouts or designs.,0.2829849694981754,0.055952971021070386
+676,Design systems to reduce harmful emissions.,0.17030191015399837,0.04819384689943676
+834,Clean building walls or flooring.,0.1612799680354425,0.0430348110295143
+866,Load agricultural or forestry products for shipment.,0.16185888311214336,0.040472199286526525
+1057,Smooth surfaces with abrasive materials or tools.,0.1498260632488392,0.03151117035438047
+1078,Install metering equipment.,0.18157301295122819,0.04574367680219547
+1100,Fabricate parts or components.,0.21518711423440662,0.05288005245474319
+1144,"Construct patterns, templates, or other work aids.",0.34284763951974156,0.06166968945447607
+1178,Package objects for shipping.,0.18161353027355792,0.036460986250264886
+1183,Capture or kill animals.,0.17689570240826138,0.045260502839071806
+1330,Maintain computer hardware.,0.18294263183759152,0.052714275969205596
+1339,Repair precision devices or workpieces.,0.1551058062144327,0.040571073318667536
+1588,Provide technical information or assistance to public.,0.24970202521532786,0.05820757521683168
+1664,Assist customers with seating arrangements.,0.1982716313078969,0.04274412277735845
+1701,Resolve interpersonal conflicts.,0.2684558627485073,0.06208232338329999
+1748,Teach humanities courses at the college level.,0.28365788369276573,0.06538897680423007
+1775,Instruct workers to use equipment or perform technical procedures.,0.26659601029744584,0.06026835890205344
+1899,Coordinate resource procurement activities.,0.2247356316332117,0.06161543542533753
+1943,Provide recommendations to others about computer hardware.,0.19510184625962135,0.05178113124558715
+1981,"Provide counsel, comfort, or encouragement to individuals or families.",0.25777633321748544,0.07338219027257502
+2067,Inventory medical supplies or equipment.,0.2024477858774051,0.05570007180019173

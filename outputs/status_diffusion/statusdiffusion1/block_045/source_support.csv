@@ -1,0 +1,25 @@
+field,year,min_syllabi,targets,sources
+Business,2014,9,18,20
+Computer Science,2014,9,45,47
+History,2014,9,17,20
+Business,2014,20,11,13
+Computer Science,2014,20,26,27
+History,2014,20,14,14
+Business,2015,9,22,24
+Computer Science,2015,9,49,53
+History,2015,9,19,20
+Business,2015,20,17,17
+Computer Science,2015,20,33,34
+History,2015,20,15,17
+Business,2016,9,23,24
+Computer Science,2016,9,58,61
+History,2016,9,21,25
+Business,2016,20,15,17
+Computer Science,2016,20,38,38
+History,2016,20,15,17
+Business,2017,9,24,29
+Computer Science,2017,9,59,64
+History,2017,9,23,24
+Business,2017,20,17,21
+Computer Science,2017,20,40,42
+History,2017,20,15,17

@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+96,Examine debris to obtain information about causes of fires.,0.212065331778865,0.03901894634093825
+204,Apply identification labels or tags.,0.15715778861065033,0.03979067145842132
+275,Inspect safety equipment to ensure proper functioning.,0.24999115784223563,0.057135850154942346
+287,Inspect equipment to ensure safety or proper functioning.,0.25031794313702704,0.056986504313606544
+299,"Examine animals to detect illness, injury or other problems.",0.2324680702161584,0.05712240626497627
+339,Measure the level or depth of water or other liquids.,0.20215168622395435,0.044470849951949894
+364,Evaluate effectiveness of personnel policies or practices.,0.3049191237002318,0.07162978806396711
+434,Examine product information to ensure compliance with regulations.,0.2700103690507638,0.059567165216022136
+475,Analyze green technology design requirements.,0.24545509533808954,0.05307709869717796
+585,Select production equipment according to product specifications.,0.21320117910102893,0.058629836428202214
+638,Develop financial plans for clients.,0.26209967934986683,0.06882377368888726
+651,"Design micro- or nano-scale materials, devices, or systems.",0.17557953451708708,0.048775898051351636
+792,Schedule instructional activities.,0.3943721838072334,0.07803341413658257
+909,Maintain security.,0.23853382732315934,0.0531550540181898
+933,"Cultivate lawns, turf, or gardens.",0.12221836410983733,0.04253345573406397
+965,Add garnishes to food.,0.13203033365295264,0.030052916270508732
+997,Reshape metal workpieces to established specifications.,0.18142194842899806,0.04760972875196769
+1023,Control power supply connections.,0.1230093152762104,0.023677116969680088
+1027,Prepare patient treatment areas for use.,0.2706063018158592,0.05943114466498845
+1060,"Install heating, ventilation, or air conditioning (HVAC) equipment.",0.14921759099805884,0.04195350033286147
+1171,Align masonry materials.,0.09933283197028896,0.029577963568308514
+1288,Operate computer systems.,0.26185544194575405,0.06381392244018261
+1594,Present food or beverage information or menus to customers.,0.23563018818115442,0.05452015690062727
+1619,Administer therapy treatments to patients using hands or physical treatment aids.,0.24299840404462436,0.0639596418831783
+1623,Administer basic health care or medical treatments.,0.21696060671964076,0.06571607346407926
+1784,Teach physical education.,0.20139296839847445,0.05921803554828766
+1904,Prepare staff schedules or work assignments.,0.26690580455623775,0.0591781873644362
+1905,Prepare activity or work schedules.,0.2580241300106166,0.049355508220396214
+1935,Advise customers on the use of products or services.,0.2747322756224287,0.06814652123689172
+1982,Counsel clients regarding interpersonal issues.,0.26508159718795643,0.06834237626958302
+1993,Perform student enrollment or registration activities.,0.3256974190112809,0.06466988184118505
+2040,Order medical diagnostic or clinical tests.,0.1545250509102184,0.054958791672167

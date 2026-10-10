@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+28,Use databases to locate investigation details or other information.,0.24968366503069164,0.051729062276452645
+33,"Search files, databases or reference materials to obtain needed information.",0.2850046827994355,0.0434876946202658
+66,Conduct opinion surveys or needs assessments.,0.2942692999857339,0.06838138550215973
+86,Research engineering applications of emerging technologies.,0.18326840752433496,0.05450887196579855
+107,Interview patients to gather medical information.,0.2804436922488392,0.06298020796191098
+135,Monitor food services operations to ensure procedures are followed.,0.24524271917352347,0.05737796450075374
+164,Supervise school or student activities.,0.27618283119426007,0.06913258102095252
+255,Inspect buildings or grounds to determine condition.,0.15701214487325743,0.03734401400782035
+354,Survey land or bodies of water to measure or determine features.,0.2675979887501651,0.04669201860061687
+373,Evaluate current or prospective maintenance employees.,0.2585638662103511,0.06026885978136653
+412,Sort mail.,0.1291620662585098,0.034226048752082586
+528,Estimate costs or terms of sales.,0.1606799498330787,0.0579323776204289
+536,Authorize construction activities.,0.18868755245155905,0.04644132867099558
+556,Diagnose medical conditions.,0.2268254625539153,0.057894068539463314
+641,Develop tools to diagnose or assess needs.,0.3434138413711007,0.06740874558234378
+686,Create graphical representations of energy production systems.,0.2287503583772403,0.05246880604702683
+745,Maintain knowledge of current developments in area of expertise.,0.35665925105781093,0.057359518460341
+760,Review laws or regulations to maintain professional knowledge.,0.3049372950046444,0.06142885496291809
+796,Schedule operational activities.,0.276474595547113,0.06850105201241691
+863,Place materials into molds.,0.22059465958012636,0.043732117029588104
+900,Handle luggage or other possessions for patrons.,0.17120893719973498,0.04462782816456989
+970,Prepare breads or doughs.,0.21889955852820295,0.03425951510030606
+1107,Drill holes in earth or rock.,0.1243055239353272,0.04018007600578045
+1217,Operate diagnostic imaging equipment.,0.2121702154771066,0.05434325060359179
+1329,Repair electrical components.,0.14896054922136748,0.03421286855028842
+1375,Prepare analytical reports.,0.35307551301592577,0.05854537647261612
+1464,Prepare legal documents.,0.15044831902869907,0.043576104532816455
+1637,Rescue people from hazardous situations.,0.22596581086645615,0.05178424558082684
+1658,"Greet customers, patrons, or visitors.",0.20842111839764435,0.04693729335449124
+1873,Direct green energy production operations.,0.15810724668720977,0.04864575865274376
+1878,Coordinate timing of food production activities.,0.19450361991788298,0.041781464385259884
+1925,Interact with patients to build rapport or provide emotional support.,0.279225641915892,0.06994716780133774

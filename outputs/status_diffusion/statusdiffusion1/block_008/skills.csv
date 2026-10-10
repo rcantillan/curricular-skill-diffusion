@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+125,Monitor industrial energy consumption or management.,0.197659139499141,0.05053497655415216
+202,Determine operational compliance with regulations or standards.,0.2831028702785335,0.06712758928002313
+280,Inspect material-moving equipment to detect problems.,0.19623315581604145,0.048196373488382405
+426,Prepare cash for deposit or disbursement.,0.17739602743839442,0.040942342686145945
+486,Calculate data to inform organizational operations.,0.31041856774983406,0.0680978442388524
+667,Develop educational or training programs.,0.3334998579311549,0.07679336614102507
+677,Design energy-efficient equipment or systems.,0.26849314895023113,0.05366249899982714
+785,Develop agricultural methods.,0.24943645671068468,0.046940641736408925
+865,Load materials or equipment.,0.19178034169027924,0.04129548194987539
+952,Install doors or windows.,0.11613881273417345,0.036162390347484655
+1042,Prepare hazardous waste for processing or disposal.,0.21920055492219684,0.05055236871490875
+1137,Operate welding equipment.,0.17198721036894463,0.044422337125206816
+1168,Align parts or workpieces to ensure proper assembly.,0.18807622824353012,0.03860529690141236
+1227,Operate recycling equipment.,0.1638589323498665,0.045165135920728676
+1268,Drive vehicles to transport patrons.,0.15711862015660275,0.043166924560778176
+1332,Maintain recording or broadcasting equipment.,0.19607818784903802,0.05543069594230379
+1336,Maintain test equipment.,0.2353202415779694,0.053917066962704714
+1359,Repair medical or dental assistive devices.,0.16984357352786997,0.05169688881702441
+1414,Maintain operational records or records systems.,0.25412200448142014,0.060915249670207
+1506,Discuss problems or issues with supervisors.,0.251690173056403,0.05837222808297988
+1526,Communicate with management or other staff to resolve problems.,0.24794250189664913,0.061491972986288994
+1545,Request emergency personnel.,0.10841552343558397,0.03827724574538543
+1592,Present social services program information to the public.,0.22850483792186374,0.06396701075862893
+1606,Develop collaborative relationships between departments or with external organizations.,0.2926913805241372,0.07031258418941225
+1675,"Treat acute illnesses, infections, or injuries.",0.21030772864698052,0.059747351656077884
+1697,Distribute promotional literature or samples to customers.,0.22791995775315202,0.062158562504097035
+1727,Conduct amusement or gaming activities.,0.2738686828311214,0.05999977844902683
+1811,Supervise workers performing environmentally sustainable activities.,0.2147193369226943,0.05443917011664143
+1812,Serve on institutional or departmental committees.,0.26492034165096184,0.061242166128872025
+1891,Manage clerical or administrative activities.,0.23587309124336475,0.06377625860370396
+1949,Recommend personnel decisions or human resources activities.,0.29485285440245557,0.06645401845512382
+1956,Advise others on business or operational matters.,0.2801573300860979,0.06942517549265557

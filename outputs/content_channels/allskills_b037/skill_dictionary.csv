@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+204,Apply identification labels or tags.,0.15715778861065033,0.03979067145842132
+360,Assess individual or community needs for educational or social services.,0.3397040979562049,0.07131675967501626
+369,Administer tests to assess educational needs or progress.,0.38841471336429956,0.08017286545958614
+481,Analyze patient data to determine patient needs or treatment goals.,0.30763784848224995,0.0691377539667447
+577,Implement advertising or marketing initiatives.,0.2155675736106499,0.06967560497837337
+678,Plan programs to address community mental wellness needs.,0.2485040807937958,0.06609726116543106
+697,Create computer-generated graphics or animation.,0.22761612996300576,0.059201875478524596
+728,Design costumes or cosmetic effects for characters.,0.20954089099236914,0.048998782333553155
+757,Update technical knowledge.,0.2842233189129063,0.04983966291195478
+768,Develop procedures for data management.,0.3043453533278039,0.06353575457095455
+830,Clean patient rooms or patient treatment rooms.,0.19376422670023277,0.05709097251732299
+860,"Load shipments, belongings, or materials.",0.17069219767103533,0.03519382503117918
+1086,Position animal trapping or capture equipment.,0.1871323797324153,0.03935386117234579
+1155,Collect geographical or geological field data.,0.24864568233095566,0.049350987640742174
+1219,"Operate control consoles for sound, lighting or video.",0.19640834051128112,0.051711695106917074
+1415,Record service or repair activities.,0.22090847800829497,0.052075224483301825
+1485,"Communicate with clients about products, procedures, and policies.",0.3024373823223294,0.07161378847387563
+1544,Notify others of equipment repair or maintenance needs.,0.232090021943928,0.053627601281607935
+1640,Assist others during emergencies.,0.21903685138752435,0.055012370540504126
+1642,Fit patients for assistive devices.,0.14682307837967795,0.05004577838519469
+1689,Perform marketing activities.,0.24980374028566715,0.0717642422501667
+1732,Resolve customer complaints or problems.,0.2762399254233573,0.06264370274998528
+1783,Engage patients in exercises or activities.,0.2735665032924695,0.06905129321146308
+1864,Direct operational or production activities.,0.2372850810965492,0.06428064836919363
+1935,Advise customers on the use of products or services.,0.2747322756224287,0.06814652123689172
+1957,Advise others on ways to improve processes or products.,0.27413612504960244,0.06089031970566962
+1967,Counsel clients regarding educational or vocational issues.,0.2920817675340075,0.0689139515974543
+1973,Advise others on matters of public policy.,0.26687924474883795,0.069240802835768
+1980,Counsel clients or patients with substance abuse issues.,0.21967951881403497,0.06366600149349298
+2024,Conduct eligibility or selection interviews.,0.30156022069857435,0.06261802612225516
+2042,Allocate physical resources within organizations.,0.29430490157680866,0.06053576277461003
+2047,Distribute incoming mail.,0.1750947320749833,0.04353962023305161

@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+112,Monitor medical equipment to ensure proper functioning.,0.23073653329147334,0.05665336667238749
+378,Evaluate log quality.,0.14107086278060715,0.04164270381567051
+407,Verify accuracy of data.,0.16698288887461799,0.046310862324260064
+414,Sort recyclable materials.,0.1712780783362648,0.0352136077579031
+722,Develop environmental research methods.,0.32538537563304576,0.06105015143682207
+796,Schedule operational activities.,0.276474595547113,0.06850105201241691
+821,Operate firefighting equipment.,0.18909585030540782,0.05420955841675297
+867,Stack finished items for further processing or shipment.,0.17531765908676164,0.04360534671936379
+871,Load items into ovens or furnaces.,0.16781190380806246,0.035304136157138434
+933,"Cultivate lawns, turf, or gardens.",0.12221836410983733,0.04253345573406397
+997,Reshape metal workpieces to established specifications.,0.18142194842899806,0.04760972875196769
+1045,Prepare fabrics or materials for processing or production.,0.24752207114233524,0.04572944008934925
+1066,Remove parts or components from vehicles.,0.17949493212417067,0.04166886428650688
+1182,Locate animals for fishing or hunting purposes.,0.21133082965179173,0.042599141906301485
+1193,Set up still or video cameras or related equipment.,0.19856806160152576,0.05743072568939803
+1224,Operate audio recording equipment.,0.19191804684704616,0.051198430153199366
+1229,"Smooth garments with irons, presses, or steamers.",0.1172383101215661,0.02799825354579441
+1292,Update website content.,0.15452780493679472,0.040486377626490745
+1327,Repair electrical equipment.,0.14896297867194705,0.03746417459063177
+1472,Write material for artistic or entertainment purposes.,0.2959357162408755,0.06712361476106216
+1497,Communicate green energy production information.,0.2228407851546119,0.04255941628596575
+1513,Communicate with coworkers to coordinate installations or repairs.,0.2365455644708024,0.059833123513854725
+1635,Perform animal breeding procedures.,0.19861144537358996,0.0463360053670049
+1684,Sell agricultural products.,0.17122014808410713,0.05111943667062234
+1692,"Market products, services, or events.",0.24063655505889153,0.07093413990149583
+1709,Negotiate financial arrangements.,0.18449381212475133,0.05199214628112806
+1770,Train personnel on managerial topics.,0.3613499110982078,0.07424421186872561
+1835,Coordinate personnel recruitment activities.,0.24413143582116817,0.058533236640519744
+1838,Direct quality control activities.,0.25566051063304557,0.060723871505614195
+1881,Manage operations of artistic or entertainment departments or organizations.,0.24684808990046517,0.06844526881176226
+1999,Administer oaths to court participants.,0.2045619529047776,0.05427961589834587
+2014,Issue permits or other legal documents.,0.13686756563380006,0.04229554578475882

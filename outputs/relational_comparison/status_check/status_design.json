@@ -1,0 +1,28 @@
+{
+  "inputs": [
+    {
+      "file": "/home/rober/Documents/Papers/curricular-skill-diffusion/outputs/content_channels/allskills_b000/match_2015_cs.csv",
+      "sha256": "050d90108b3d91e065fc7d512202d349923a55ca54e8bf79589f755ce6c910ae",
+      "published_vertices": 206,
+      "matched_vertices": 172
+    },
+    {
+      "file": "/home/rober/Documents/Papers/curricular-skill-diffusion/outputs/content_channels/allskills_b000/match_2015_biz.csv",
+      "sha256": "abcff5bc68aa3f84ed5ae54592016695482a788d16c3c20835d47e0367ce1330",
+      "published_vertices": 113,
+      "matched_vertices": 108
+    },
+    {
+      "file": "/home/rober/Documents/Papers/curricular-skill-diffusion/outputs/content_channels/allskills_b000/match_2015_hist.csv",
+      "sha256": "8d2dea96e2a7cb6ed3409cddf8d669c839933984574ad3af6fff4a2ae8340bf6",
+      "published_vertices": 145,
+      "matched_vertices": 134
+    }
+  ],
+  "limitations": [
+    "Proxy is field-specific, not a university-wide status score.",
+    "Differences in standardized rank are operational proxies, not known cardinal status distances.",
+    "Use only outcomes from 2014 onward; no rank assignment to unmapped fields.",
+    "Faculty hiring connections do not identify curricular transmission."
+  ]
+}

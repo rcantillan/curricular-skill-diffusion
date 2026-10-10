@@ -1,0 +1,90 @@
+ROBUSTEZ CON DWAs FIJAS -- asociaciones, no transmisión
+
+Cada modelo dentro del corte usa la misma muestra de programa-skill repetidos.
+program_skill controla cada programa × DWA; program_fe replica el FE original en esa misma muestra.
+Las dinámicas con score previo y panel corto pueden tener sesgo; el control adicional no identifica causalidad.
+
+   min_coverage    rows institutions program_year_pairs program_skill_pairs
+          <int>   <int>        <int>              <int>               <int>
+1:            9  778176          353              12159              150080
+2:            3 1508416          503              23569              278400
+   skills
+    <int>
+1:     64
+2:     64
+    min_coverage                        model                   term
+           <int>                       <char>                 <char>
+ 1:            9    program_fe_three_channels                 rd_std
+ 2:            9    program_fe_three_channels  same_inst_score_z_std
+ 3:            9    program_fe_three_channels same_field_score_z_std
+ 4:            9    program_fe_three_channels      other_score_z_std
+ 5:            9      program_skill_portfolio                 rd_std
+ 6:            9      program_skill_inst_only                 rd_std
+ 7:            9      program_skill_inst_only  same_inst_score_z_std
+ 8:            9     program_skill_field_only                 rd_std
+ 9:            9     program_skill_field_only same_field_score_z_std
+10:            9   program_skill_two_channels                 rd_std
+11:            9   program_skill_two_channels  same_inst_score_z_std
+12:            9   program_skill_two_channels same_field_score_z_std
+13:            9 program_skill_three_channels                 rd_std
+14:            9 program_skill_three_channels  same_inst_score_z_std
+15:            9 program_skill_three_channels same_field_score_z_std
+16:            9 program_skill_three_channels      other_score_z_std
+17:            3    program_fe_three_channels                 rd_std
+18:            3    program_fe_three_channels  same_inst_score_z_std
+19:            3    program_fe_three_channels same_field_score_z_std
+20:            3    program_fe_three_channels      other_score_z_std
+21:            3      program_skill_portfolio                 rd_std
+22:            3      program_skill_inst_only                 rd_std
+23:            3      program_skill_inst_only  same_inst_score_z_std
+24:            3     program_skill_field_only                 rd_std
+25:            3     program_skill_field_only same_field_score_z_std
+26:            3   program_skill_two_channels                 rd_std
+27:            3   program_skill_two_channels  same_inst_score_z_std
+28:            3   program_skill_two_channels same_field_score_z_std
+29:            3 program_skill_three_channels                 rd_std
+30:            3 program_skill_three_channels  same_inst_score_z_std
+31:            3 program_skill_three_channels same_field_score_z_std
+32:            3 program_skill_three_channels      other_score_z_std
+    min_coverage                        model                   term
+           <int>                       <char>                 <char>
+        estimate          se             p observations
+           <num>       <num>         <num>        <int>
+ 1:  0.019318711 0.003260899  7.466694e-09       778176
+ 2:  0.063696083 0.007291139  9.950237e-17       778176
+ 3:  0.284314705 0.014053849  6.352516e-61       778176
+ 4: -0.125549495 0.026775208  3.932587e-06       778176
+ 5:  0.004168805 0.008758496  6.343891e-01       778176
+ 6:  0.004598759 0.008637956  5.947920e-01       778176
+ 7:  0.040720299 0.013730276  3.225765e-03       778176
+ 8:  0.004169226 0.008757216  6.343053e-01       778176
+ 9: -0.009796457 0.006583147  1.376167e-01       778176
+10:  0.004599089 0.008636860  5.947189e-01       778176
+11:  0.040714217 0.013728498  3.226369e-03       778176
+12: -0.009145186 0.006515019  1.612874e-01       778176
+13:  0.004974053 0.008606552  5.636755e-01       778176
+14:  0.033307869 0.011343659  3.540488e-03       778176
+15: -0.062817761 0.021618631  3.895838e-03       778176
+16: -0.547283506 0.214760477  1.124769e-02       778176
+17:  0.034641210 0.003047330  8.372880e-27      1508416
+18:  0.078526006 0.005998594  6.782785e-34      1508416
+19:  0.407357783 0.012407529 4.509135e-127      1508416
+20: -0.131213109 0.026842434  1.371113e-06      1508416
+21:  0.006206229 0.006993733  3.752893e-01      1508416
+22:  0.006442088 0.006914582  3.519564e-01      1508416
+23:  0.043458698 0.009187233  2.917583e-06      1508416
+24:  0.006199322 0.007001948  3.763804e-01      1508416
+25:  0.004085024 0.010419367  6.951798e-01      1508416
+26:  0.006433797 0.006922433  3.531220e-01      1508416
+27:  0.043461417 0.009184904  2.897077e-06      1508416
+28:  0.004912886 0.010305929  6.337798e-01      1508416
+29:  0.006864001 0.006939768  3.230994e-01      1508416
+30:  0.037895033 0.007708058  1.196616e-06      1508416
+31: -0.047653783 0.024899939  5.621263e-02      1508416
+32: -0.566602940 0.205076326  5.939519e-03      1508416
+        estimate          se             p observations
+           <num>       <num>         <num>        <int>
+
+CORRELACIONES DE CANALES: revisar los CSV de correlación residualizada.
+Un coeficiente residual negativo no demuestra inhibición de difusión.
+Esta es una muestra fija de DWAs; aún requiere repetir con otras semillas.

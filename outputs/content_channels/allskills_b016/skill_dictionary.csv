@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+110,"Interview witnesses, suspects, or claimants.",0.2591689785353355,0.05187851841109186
+114,Monitor lubrication of equipment or workpieces.,0.1894887053072327,0.04875984029344571
+128,Monitor extraction operations.,0.1982311891930492,0.040603373326815344
+214,Identify new applications for existing technologies.,0.28093001963221526,0.05737072795225946
+274,Inspect equipment or tools to be used in construction or excavation.,0.25622143574701434,0.04877295991962124
+278,Inspect telecommunications equipment to identify problems.,0.22582388183991312,0.047971034540267514
+341,Estimate construction project costs.,0.16442701114648334,0.04984930397870585
+355,Assess locations for potential green technology installations.,0.18538844338113838,0.04817899930586235
+364,Evaluate effectiveness of personnel policies or practices.,0.3049191237002318,0.07162978806396711
+432,Examine marketing materials to ensure compliance with policies or regulations.,0.24249068246565972,0.0587533081659194
+501,Analyze traffic data.,0.2343452834631717,0.04360836011907208
+509,Analyze forensic evidence to solve crimes.,0.281315085417054,0.04396714419565224
+562,Estimate labor requirements.,0.20925275400049784,0.04499290266209315
+564,Determine resource needs.,0.3467208253044123,0.0569010364491551
+608,Design video game features or details.,0.2774846294781018,0.054639936798633534
+754,Maintain knowledge of business operations.,0.34500977525298554,0.07460311785745631
+783,Develop procedures for data entry or processing.,0.3274013582067032,0.06172132919169358
+1012,Adjust equipment to ensure optimal performance.,0.23313373141672225,0.052221980420156834
+1114,Display student work.,0.34543714816605997,0.0596198959410395
+1163,Remove workpieces from molds.,0.15336590943380926,0.03624024758341294
+1164,Remove products or workpieces from production equipment.,0.1828745978816028,0.048430653773881054
+1167,Position structural components.,0.17911343593032483,0.0371585835606178
+1195,Install mechanical components in production equipment.,0.19376617114416086,0.058196856255009255
+1488,Educate clients on financial planning topics.,0.25602227498872,0.06338626620146122
+1587,Provide educational information to the public.,0.32035992797544743,0.06714247776890662
+1595,Present business-related information to audiences.,0.3025619556570996,0.06856480036758625
+1690,Demonstrate products to consumers.,0.2764380827455207,0.06009756191055523
+1782,Teach exercise or fitness techniques.,0.31712552591025184,0.07598932051674273
+1823,Direct surveying activities.,0.26536791023589834,0.0497772071542585
+1898,Manage preparation of special meals or diets.,0.25705339752637757,0.05113128257025907
+1910,Coordinate safety or regulatory compliance activities.,0.25842647209787695,0.06482002962445182
+2029,"Hire farming, fishing or forestry workers.",0.10050701212599887,0.04133387939726554

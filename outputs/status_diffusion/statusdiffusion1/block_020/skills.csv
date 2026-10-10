@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+8,Read technical information needed to perform maintenance or repairs.,0.25209679382888106,0.04879191271789803
+36,Research relevant legal materials to aid decision making.,0.29376655766423315,0.058109994325026566
+84,Collect information about community health needs.,0.29496563885534177,0.06629322609183064
+419,Compile technical information or documentation.,0.2999972289223613,0.059764548570506386
+492,Analyze logistics processes.,0.27432065019226903,0.05259972988359521
+503,Identify implications for cases from legal precedents or other legal information.,0.28518860441887767,0.05203198201596327
+607,Design websites or web applications.,0.19093867819326452,0.06230744562746576
+627,Determine design criteria or specifications.,0.33238856487558116,0.06332755491976631
+652,Design medical devices or appliances.,0.2396871563516928,0.0524456808542242
+663,Establish operational policies.,0.31533310137956116,0.07218426735520816
+673,Design environmental control systems.,0.1928906550792296,0.057497818717981125
+683,Create graphical representations of civil structures.,0.24107860131984057,0.045178228301397554
+684,"Create images of data, locations, or products.",0.20123096341707045,0.059366977182044686
+703,Maintain contingency plans for disaster recovery.,0.2639482343885205,0.055219662724406954
+837,Clean machinery or equipment.,0.18570294439382937,0.05020626797586082
+848,Clean vehicles or vehicle components.,0.18069590896881177,0.04397418761060931
+874,Pour materials into or on designated areas.,0.19847736078998043,0.04222463484985582
+896,Deliver items.,0.17993025961894485,0.0431830166414901
+978,Assemble electromechanical or hydraulic systems.,0.22191761029230228,0.056290372325136624
+1013,Calibrate equipment to specifications.,0.2069444264630553,0.04777488565283061
+1017,Adjust office equipment to ensure proper operation.,0.24447803806668825,0.0556772882479966
+1051,Trim trees or other vegetation.,0.07505046958198205,0.033106538605684986
+1200,Prepare biological samples for testing or analysis.,0.29783050648689535,0.06056154607923463
+1564,Communicate with government agencies.,0.22775758623390807,0.0604923128183715
+1661,"Make travel, accommodations, or entertainment arrangements for others.",0.1899962539266755,0.04834875083145906
+1674,Care for patients with mental illnesses.,0.19917508211430057,0.06706900115205978
+1745,Instruct college students in social sciences or humanities disciplines.,0.3078541904435973,0.07062073456425136
+1877,Direct operations of correctional facilities.,0.24944686810484354,0.05696832240916418
+1939,Advise others on green energy or related technologies.,0.1938982510872595,0.03929092249203748
+1950,Recommend packing or shipping methods.,0.10878454656522897,0.0321893524571126
+1966,Discuss child development and behavior with parents or guardians.,0.27361679968480423,0.07331258250440378
+1968,"Advise educators on curricula, instructional methods, or policies.",0.37110251454711346,0.07408285352249411

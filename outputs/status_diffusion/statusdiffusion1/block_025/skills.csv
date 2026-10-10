@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+154,Monitor clients to evaluate treatment progress.,0.19912326492866522,0.06553891870755546
+195,Monitor operations to ensure compliance with safety or security policies or regulations.,0.2664997726939283,0.06528040870337662
+218,Administer screening tests to determine abilities or treatment needs.,0.3028601514168885,0.07562765667353463
+239,Inspect structural components of vehicles to identify problems.,0.21752064320769787,0.043743438883749056
+477,Analyze design or requirements information for mechanical equipment or systems.,0.312468314289981,0.059541882538124834
+480,Analyze health-related data.,0.29019457125630416,0.06402386771704943
+500,Analyze shipping information to make routing decisions.,0.21211040707398846,0.05166809646302457
+608,Design video game features or details.,0.2774846294781018,0.054639936798633534
+647,Create marketing materials.,0.22540435221615793,0.06547365818236578
+648,Develop content for sales presentations or other materials.,0.3222498453614801,0.06942594513884476
+661,Develop instructional objectives.,0.4546475349386177,0.09681254450991117
+714,Analyze information obtained from news sources.,0.3282807928782344,0.05763715447885563
+746,Attend conferences or workshops to maintain professional knowledge.,0.301082740850531,0.05886596213820908
+776,Develop computer or information security policies or procedures.,0.2733466084351367,0.06547290150673975
+819,Prepare medications or medical solutions.,0.17173950851592576,0.05048123284642317
+829,Clean facilities or equipment.,0.24073289005159276,0.05616629782913777
+919,"Escort prisoners to courtrooms, prisons, or other facilities.",0.16428052882232924,0.04907885723463701
+930,Practice athletic or artistic skills.,0.16115624839147988,0.05708619737954241
+972,Prepare foods or meals.,0.21611069155159274,0.0423176358200332
+1007,Arrange items for use or display.,0.22531638185633762,0.041573723703554145
+1495,Explain medical procedures or test results to patients or family members.,0.26886881136944274,0.06348401554957693
+1585,Present sustainable products or services information to the public.,0.23017848375298647,0.06227285829380961
+1593,"Inform viewers, listeners, or audiences.",0.30870496686396887,0.06199121601693689
+1678,Treat animal injuries or illnesses.,0.17813223818032542,0.05267851315537286
+1742,Guide class discussions.,0.39673346729495695,0.06669193806481427
+1758,Train sales personnel.,0.2416296857171531,0.060898455838224265
+1779,Teach others to use technology or equipment.,0.3160896067367279,0.0646403915905819
+1900,Coordinate operational activities.,0.25435854453268136,0.06542755899602208
+1919,Coordinate legal schedules or activities.,0.2230790315673522,0.050154562587478385
+1924,Encourage students.,0.36441026154113987,0.07807720790168998
+1973,Advise others on matters of public policy.,0.26687924474883795,0.069240802835768
+1997,Prepare administrative documents.,0.24372110016091503,0.05760737649512457

@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+225,Test green technologies or processes.,0.2309425277553755,0.05173277508056896
+325,Measure physical or chemical properties of materials or objects.,0.2632153371957541,0.05587378311679392
+328,Measure distances or dimensions.,0.20453585869890517,0.040527671511352795
+339,Measure the level or depth of water or other liquids.,0.20215168622395435,0.044470849951949894
+361,Evaluate program effectiveness.,0.306856159903782,0.0749953361092411
+416,"Sort materials or products for processing, storing, shipping, or grading.",0.23676256985982153,0.04595647961266924
+498,Evaluate logistics methods to reduce environmental impact.,0.15165058080930632,0.04802638930993349
+633,Develop performance metrics or standards related to information technology.,0.3248702135036506,0.07233226824799965
+696,Create graphical representations of structures or landscapes.,0.2535116631839755,0.048982983778894956
+802,Plan implementation or promotion of recycling programs.,0.24594037158692716,0.05493956771064493
+859,Remove debris or damaged materials.,0.20381062584157297,0.044039316914675164
+1027,Prepare patient treatment areas for use.,0.2706063018158592,0.05943114466498845
+1072,Dismantle heavy equipment or machinery.,0.19265472318679455,0.04348780760034214
+1082,Apply solutions to hair for therapeutic or cosmetic purposes.,0.19366682493729234,0.040246639530456554
+1087,Position construction forms or molds.,0.2314871731914403,0.04401471169756615
+1099,Fabricate devices or components.,0.23465930793049064,0.05509295284546352
+1160,"Fill cracks, imperfections, or holes in products or workpieces.",0.20400830937226339,0.04228692981124108
+1318,Apply lubricants or coolants to workpieces.,0.12036058934109173,0.04179735854298885
+1335,Maintain computer equipment or software.,0.21474583982299292,0.06377583563152175
+1348,Repair tires.,0.0994813316941837,0.030857214300777164
+1380,Present medical research reports.,0.2712194335202388,0.06335487243960262
+1512,Relay information between personnel.,0.28747228878400855,0.057136763059201935
+1618,Implement therapeutic programs to improve patient functioning.,0.25943324038238263,0.0777329354215221
+1652,Assist students with special educational needs.,0.34437072410351655,0.07398489156445641
+1731,Communicate with customers to resolve complaints or ensure satisfaction.,0.29363220517352373,0.06659278911395476
+1739,Teach classes in area of specialization.,0.3334076998706032,0.06886584542461327
+1764,"Train employees on environmental awareness, conservation, or safety topics.",0.2879499220204042,0.0639893624330316
+1837,Manage human resources activities.,0.2583109227556409,0.06593548654741917
+1845,Manage organizational or project budgets.,0.22915401093928425,0.06691216650900542
+1914,Direct fire fighting or prevention activities.,0.21574494138818823,0.04965946668202822
+2013,Conduct gaming transactions.,0.20584245549352975,0.0455999545027778
+2055,"Purchase materials, equipment, or other resources.",0.2259481272909759,0.050900048856514835

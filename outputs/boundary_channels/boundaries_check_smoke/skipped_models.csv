@@ -1,0 +1,9 @@
+model,reason,block
+related,Dropped: external_same_stock;external_same_increase;external_other_stock;external_other_increase,block_000
+random,Dropped: random_external_same_stock;random_external_same_increase;random_external_other_stock;random_external_other_increase,block_000
+lead,Insufficient future-source comparison support,block_000
+forecast,"Object '..year' not found amongst [unitid, node_id, field_id, skill_id, year, min_syllabi, delta1, lag_score, previous_change, n_previous, ...]",block_000
+related,Dropped: internal_increase;external_same_stock;external_same_increase;external_other_stock;external_other_increase,block_001
+random,Dropped: random_internal_increase;random_external_same_stock;random_external_same_increase;random_external_other_stock;random_external_other_increase,block_001
+lead,Insufficient future-source comparison support,block_001
+forecast,"Object '..year' not found amongst [unitid, node_id, field_id, skill_id, year, min_syllabi, delta1, lag_score, previous_change, n_previous, ...]",block_001

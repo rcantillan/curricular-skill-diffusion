@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+43,Research geological features or processes.,0.2825725016348695,0.04684215166305151
+48,Research impacts of environmental conservation initiatives.,0.19398538823772396,0.05513580832819185
+55,Gather information for news stories.,0.31377754976775024,0.060351303142919976
+262,Inspect textile products.,0.2272316515268747,0.03919996190664061
+335,Weigh parcels to determine shipping costs.,0.14635916741424732,0.04235024730847233
+501,Analyze traffic data.,0.2343452834631717,0.04360836011907208
+559,Edit documents.,0.20782193430628718,0.044320804061826764
+599,Establish treatment goals.,0.27730438894044424,0.078690884621201
+621,Establish rules or policies governing student behavior.,0.3831979842012264,0.07657890390867786
+629,Develop specifications or procedures for website development or maintenance.,0.2692794213025876,0.0649968829822975
+664,Plan educational activities.,0.3872298364991797,0.07158540806555107
+781,Develop technical methods or processes.,0.37185068204429356,0.06330792913301747
+825,"Clean food preparation areas, facilities, or equipment.",0.22640515298822114,0.04984293152391988
+843,Clean surfaces in preparation for work activities.,0.19038801239797615,0.04221582096725419
+883,Clean fabrics or apparel.,0.18430972620487718,0.04260656031289287
+955,Install wooden structural components.,0.16162220379130737,0.037473646943458686
+963,Prepare foods for cooking or serving.,0.2269986001708704,0.041414583002125104
+1083,Apply makeup to alter or enhance appearance.,0.18701848564084297,0.038002288938743634
+1340,Repair parts or assemblies.,0.18039264357471782,0.04477453571663325
+1396,Record operational or production data.,0.23112623266257548,0.06023919925534817
+1404,Document operational activities.,0.3057141713380896,0.06615122396123385
+1427,Document network-related activities or tasks.,0.2803089217899792,0.04814400760564103
+1497,Communicate green energy production information.,0.2228407851546119,0.04255941628596575
+1511,Report information to managers or other personnel.,0.17941063563885132,0.05553300194293352
+1568,Collaborate with law enforcement or security agencies to share information.,0.23035297540378352,0.0523385975595843
+1611,Refer customers to appropriate personnel.,0.22702620893032494,0.062131916390136474
+1660,Assist patrons with entering or exiting vehicles or other forms of transportation.,0.2140214819321501,0.04703061505656483
+1718,Resolve personnel problems.,0.2816081457727274,0.06333056494592262
+1730,Answer customer questions about goods or services.,0.23116353819326432,0.06611127868351777
+1941,Provide technical guidance to other personnel.,0.3302528756121437,0.06500474900045598
+1953,Recommend organizational process or policy changes.,0.272332756863969,0.07037138704472469
+2010,Take product orders from customers.,0.16451789191257368,0.05355560185659786

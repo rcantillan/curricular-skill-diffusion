@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+119,Assess equipment functioning.,0.21180385048623152,0.053561334504928663
+211,Identify potential customers.,0.24911780646549453,0.05896969343660054
+226,Test green technology installations to verify performance.,0.19509995458498658,0.05323442297355154
+329,Measure physical characteristics of forestry or agricultural products.,0.19603000643193425,0.04694466485738882
+370,Prepare tests.,0.34597826537209736,0.055843368294497306
+430,Verify accuracy of patient information.,0.19609156393463842,0.05708239302941461
+472,Evaluate technical data to determine effect on designs or plans.,0.30606178919906973,0.06343214420275056
+524,Analyze test or validation data.,0.29893103601161247,0.05368408374359777
+624,Develop technical or scientific databases.,0.2862640874042805,0.0569333049465192
+628,Develop specifications for new products or processes.,0.3396293908395821,0.061947291911872114
+832,Clean facilities or work areas.,0.2488874824736229,0.05549992232424885
+864,Load materials into construction equipment.,0.16768017948865305,0.043027194849460576
+880,Spread concrete or other aggregate mixtures.,0.14084996447171494,0.03923914028842836
+881,Finish concrete surfaces.,0.1334802033471302,0.03293753059831107
+903,Use weapons or physical force to maintain security.,0.20400802901045073,0.05462335651014728
+979,Install vehicle parts or accessories.,0.15699355179170574,0.04608032228998733
+1028,Cut openings in existing structures.,0.1691578543805569,0.03902145809009788
+1098,Embalm corpses.,0.14814770090826174,0.040426910802174594
+1111,Trim client hair.,0.13101942622732268,0.04061804105879791
+1141,Assemble wood products.,0.16318337616572656,0.03947040012718003
+1145,Assemble metal or plastic parts or products.,0.18817659222080269,0.04846310270868253
+1215,Create advanced digital images of patients using computer imaging systems.,0.1808891672286495,0.049888567594175835
+1255,Operate farming equipment.,0.19188431591108165,0.04470544528671926
+1355,Service vehicles to maintain functionality.,0.21340058349070998,0.060249284366667835
+1397,Maintain operational records for green energy processes or other environmentally-sustainable activities.,0.23322663996449886,0.05469915111613997
+1444,Write informational material.,0.37343692940544065,0.04759664089176621
+1448,Develop instructional materials.,0.437529684729098,0.07468163773785637
+1550,Report maintenance or equipment problems to appropriate personnel.,0.15074040184422702,0.04967306303395276
+1753,Provide safety training.,0.2617002415258791,0.06409081021045544
+1789,Train medical providers.,0.2340778775744858,0.06418249749686324
+1942,Provide technical support for software maintenance or use.,0.2597591475257136,0.06954894709724274
+2020,"Send information, materials or documentation.",0.33591031355358314,0.04758084559408805

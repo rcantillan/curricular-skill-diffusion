@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+34,Collect archival data.,0.22130108413204963,0.045194593113321614
+87,Research design or application of green technologies.,0.24931032174435944,0.04842861292440347
+233,Test quality of materials or finished products.,0.24973619469459268,0.054506956454969835
+358,"Assess patient work, living, or social environments.",0.26635415571134746,0.07011795855128865
+389,"Evaluate potential of products, technologies, or resources.",0.31188740925199054,0.06319473588411886
+398,Appraise property values.,0.1809340085623751,0.041553605856002124
+466,Analyze market research data.,0.31764850963072344,0.06931213970518439
+530,Calculate shipping costs.,0.13008123276343667,0.04320148989205176
+570,"Determine types of equipment, tools, or materials needed for jobs.",0.30387687921383555,0.05518168599759229
+590,Select resources needed to accomplish tasks.,0.31833029884953523,0.052660040605174305
+593,Develop treatment plans for patients or clients.,0.28169371165544116,0.06977981151797963
+598,Develop treatment plans that use non-medical therapies.,0.25792651137093603,0.06840035622985234
+731,"Develop artistic or design concepts for decoration, exhibition, or commercial purposes.",0.3133409621522902,0.059887253486765976
+786,Arrange facility schedules.,0.24812487978019224,0.055197251736724594
+954,Construct exhibits or parts of exhibits.,0.2672984516614133,0.05063161966289615
+1018,Adjust the tension of nuts or bolts.,0.07585498563263718,0.03552401914106016
+1052,Grind parts to required dimensions.,0.12323788653611485,0.03870054813019187
+1209,Operate excavation equipment.,0.16774582013785735,0.04212402702849702
+1286,Resolve computer software problems.,0.20088486643978126,0.05587882610054791
+1321,Maintain fire fighting tools or equipment.,0.19378407734074285,0.05108166081693924
+1324,Maintain electromechanical equipment.,0.16816845932448507,0.04358558491626373
+1360,Repair medical facility equipment.,0.17769452445728215,0.05305240747610639
+1371,Present research results to others.,0.35008388120603834,0.06117383420846266
+1379,Prepare technical reports for internal use.,0.3037177225985398,0.059142870501430043
+1443,Modify teaching methods or materials to accommodate student needs.,0.4146301945227777,0.07512288653628957
+1470,Prepare operational progress or status reports.,0.295049141367618,0.06504141524438609
+1472,Write material for artistic or entertainment purposes.,0.2959357162408755,0.06712361476106216
+1499,Collaborate on research activities with scientists or technical specialists.,0.3028489090242198,0.05426666722312809
+1510,Liaise between departments or other groups to improve function or communication.,0.31123388830374965,0.06887930831973649
+1551,Warn individuals about rule violations or safety concerns.,0.26924274422793587,0.05953132933101849
+1600,Provide notifications to customers or patrons.,0.2201830172801923,0.05236527621773208
+1960,Advise communities or institutions regarding health or safety issues.,0.2638759671970809,0.0626361546406553

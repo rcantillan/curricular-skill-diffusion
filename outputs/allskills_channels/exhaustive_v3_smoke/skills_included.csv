@@ -1,0 +1,9 @@
+skill_id,skill,onet_branch_id,onet_branch,match_status,element_ids
+0,Review art or design materials.,4.A.1,Information Input,exact,4.A.1.a.1
+357,Evaluate potential problems in home or work environments of clients.,4.A.2,Mental Processes,exact,4.A.2.a.1
+813,Prepare compounds or solutions to be used for repairs.,4.A.3,Work Output,exact,4.A.3.a.1
+1474,Present work to clients for approval.,4.A.4,Interacting With Others,exact,4.A.4.a.1
+82,Research social issues.,unmapped,Unmapped / ambiguous,unmapped_or_ambiguous,
+603,Develop computer or online applications.,4.A.2,Mental Processes,exact,4.A.2.b.2
+1498,Communicate results of environmental research.,4.A.4,Interacting With Others,exact,4.A.4.a.2
+1040,Immerse objects or workpieces in cleaning or coating solutions.,4.A.3,Work Output,exact,4.A.3.a.2

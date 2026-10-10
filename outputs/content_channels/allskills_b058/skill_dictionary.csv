@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+162,Monitor patron activities to identify problems or potential problems.,0.25870868354047816,0.04906205067487598
+236,Inspect vehicles to determine overall condition.,0.18692364018613072,0.04322354796702262
+374,Evaluate skills of athletes or performers.,0.2972875614361322,0.06603244400124055
+430,Verify accuracy of patient information.,0.19609156393463842,0.05708239302941461
+451,Follow protocols or regulations for healthcare activities.,0.2807422682717324,0.0676303289879787
+497,Analyze data to inform operational decisions or activities.,0.345570082729927,0.06666402451441285
+558,Edit written materials.,0.3383974224098712,0.05179654872896741
+613,Develop marketing plans or strategies for environmental initiatives.,0.23468686962641058,0.0652958728307496
+623,Develop database parameters or specifications.,0.27563504160738234,0.059687196307841736
+841,Perform housekeeping duties.,0.15934538796980738,0.044597215932732415
+944,Install metal structural components.,0.14611662232201345,0.0409855522320008
+947,Build agricultural structures.,0.2209174983550097,0.04428553658490818
+975,Reassemble equipment after repair.,0.1612699744162077,0.04051867579505615
+1068,Disassemble equipment to inspect for deficiencies.,0.22161855845703307,0.04513118418107886
+1236,Operate metal or plastic forming equipment.,0.18490628782183113,0.05105033675805275
+1282,Install programs onto computer or computer-controlled equipment.,0.18827780119724682,0.0710272135930498
+1291,Enter patient or treatment data into computers.,0.23882394245122762,0.06032853225318385
+1314,Maintain drilling equipment.,0.1528086775205379,0.04220900139330145
+1329,Repair electrical components.,0.14896054922136748,0.03421286855028842
+1342,Repair green energy equipment or systems.,0.18662367956743553,0.048662989112355774
+1346,Repair defective engines or engine components.,0.16140387041506313,0.042447746589815656
+1393,Prepare proposal documents or grant applications.,0.2802517511950894,0.05401755829611542
+1434,Maintain financial or account records.,0.19776008633609746,0.05653733220110021
+1451,Prepare contracts or other transaction documents.,0.23082369466738442,0.052320739686902235
+1557,Discuss design or technical features of products or services with technical personnel.,0.29999640066224337,0.057307652596091274
+1568,Collaborate with law enforcement or security agencies to share information.,0.23035297540378352,0.0523385975595843
+1594,Present food or beverage information or menus to customers.,0.23563018818115442,0.05452015690062727
+1730,Answer customer questions about goods or services.,0.23116353819326432,0.06611127868351777
+1872,Coordinate logistics or other business operations.,0.20990491390444554,0.0672427439379379
+1878,Coordinate timing of food production activities.,0.19450361991788298,0.041781464385259884
+1977,Recommend improvements to increase safety or reduce risks.,0.278080664071998,0.05910955010154023
+2035,Maintain inventory of medical supplies or equipment.,0.2374634155101194,0.05836117125313935

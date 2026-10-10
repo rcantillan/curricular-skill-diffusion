@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+79,Conduct anthropological or archaeological research.,0.2532639768788989,0.05870222773171669
+150,Monitor business indicators.,0.2389730013331124,0.06011742178185337
+152,Time vehicle speed or traffic-control equipment operation.,0.19111158367435369,0.03951762763535081
+209,"Attach identification information to products, items or containers.",0.22965339712889907,0.0426551162468082
+344,Estimate green project costs.,0.1375539524167723,0.044924390160039254
+381,Evaluate quality of food ingredients or prepared foods.,0.27258602891456596,0.04986525536385752
+490,Interpret research or operational data.,0.30217046797362324,0.05984102069369382
+516,Apply mathematical models of financial or business conditions.,0.3064225047285998,0.07181880570719032
+610,Design healthcare-related software applications.,0.23567464353317796,0.06345869420573533
+666,Develop educational programs.,0.3573920333493692,0.07449263013744367
+712,Develop models of information or communications systems.,0.31462006743480453,0.06625995229755215
+715,Determine presentation subjects or content.,0.40569231343729173,0.0588872821076671
+725,Design electrical equipment or systems.,0.281714987177505,0.05643050658888666
+735,Develop program goals or plans.,0.36493636488785547,0.0804627854876024
+769,Establish nursing policies or standards.,0.28948686349800906,0.06667775678129802
+923,Climb ladders or vehicles to perform duties.,0.18685070507614432,0.05113572603939257
+1274,"Enter commands, instructions, or specifications into equipment.",0.22415846273025833,0.05069066295860026
+1370,Record information about suspicious objects.,0.1773011055329464,0.035708571564784616
+1403,Maintain personnel records.,0.21786206688752488,0.0586663685928229
+1411,Record research or operational data.,0.29072396937060385,0.05603085298648759
+1458,Maintain the order of legal documents.,0.23614951571366857,0.04592078699612812
+1479,Provide information about landscaping services or costs.,0.11057300869862342,0.03642515899477567
+1520,Receive information or instructions for performing work assignments.,0.3558386483742539,0.05779789661258899
+1554,Confer with technical personnel to prepare designs or operational plans.,0.3192743641778379,0.06473405115429795
+1569,Coordinate operational activities with external stakeholders.,0.23962072677173185,0.06822189543172086
+1716,Resolve employee or contractor problems.,0.24940817050646943,0.05830957299700372
+1739,Teach classes in area of specialization.,0.3334076998706032,0.06886584542461327
+1813,Manage content of broadcasts or presentations.,0.26660779544923685,0.059436605657237004
+1825,Coordinate design activities.,0.2695568614306571,0.05831794460954666
+1832,Direct design or development activities.,0.3103132924724618,0.06483891382626106
+1963,Advise others on healthcare matters.,0.22027783052836683,0.05900823609450848
+2027,Recruit personnel.,0.27988026274552086,0.05934761851355322

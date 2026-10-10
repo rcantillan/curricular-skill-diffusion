@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+31,Retrieve information from electronic sources.,0.3213840635766416,0.048017181871417035
+32,Gather information in order to provide services to clients.,0.32313739094409416,0.07108015122961431
+100,Investigate work related complaints to determine corrective actions.,0.27603760026161295,0.056484936973936695
+122,Monitor video displays of medical equipment to ensure proper functioning.,0.2399045262517252,0.05482460174462072
+251,Inspect facilities or sites to determine if they meet specifications or standards.,0.28080627734671526,0.05722452502169937
+269,Inspect sets or exhibits.,0.3023273326332105,0.03751198854754586
+271,Inspected printed materials or other images to verify quality.,0.1980572963571659,0.04519415755440715
+320,Test mechanical systems to ensure proper functioning.,0.2439517943450552,0.05328555073554596
+332,Measure ingredients or substances to be used in production processes.,0.27799879324668236,0.05169538010957514
+336,Weigh materials to ensure compliance with specifications.,0.217839090374171,0.05166467653769524
+386,Assess skin or hair conditions.,0.17776792264664934,0.05010396110839634
+618,Plan menu options.,0.2048322037903122,0.04659225049281747
+625,Develop library or archival databases.,0.26589646132913075,0.04987856847475707
+653,Design industrial processing systems.,0.21284820232846818,0.06962689170288407
+705,Develop emergency response plans or procedures.,0.2753186258556727,0.05919519587706029
+760,Review laws or regulations to maintain professional knowledge.,0.3049372950046444,0.06142885496291809
+885,Apply water or solutions to fabrics or apparel.,0.15313702688709355,0.03679522679861953
+901,Move construction or extraction materials to locations where they are needed.,0.22545489230723245,0.049626944452503007
+907,Maintain public order or security.,0.23419900324800955,0.06102562165913358
+988,Sew materials.,0.16777187899435975,0.03445566002338126
+1003,"Arrange artwork, products, or props.",0.20311750355142677,0.05138544205710904
+1083,Apply makeup to alter or enhance appearance.,0.18701848564084297,0.038002288938743634
+1124,Connect hoses to equipment or machinery.,0.1986638639846388,0.042826278041564934
+1493,Confer with clients to discuss treatment plans or progress.,0.23149501200364986,0.0651425515378172
+1632,"Apply bandages, dressings, or splints.",0.0729618574193984,0.04070346298347918
+1678,Treat animal injuries or illnesses.,0.17813223818032542,0.05267851315537286
+1767,Train employees in proper work procedures.,0.30966328890063044,0.06958500169204158
+1776,Instruct patients in the use of assistive equipment.,0.2564398835232744,0.06175996476732935
+1795,Supervise trainees.,0.30138392331469827,0.07066544738318441
+1831,Direct medical science or healthcare programs.,0.1886476286605836,0.060268130211117134
+1896,Direct department activities.,0.296271540780525,0.0673454589435395
+1900,Coordinate operational activities.,0.25435854453268136,0.06542755899602208

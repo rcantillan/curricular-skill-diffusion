@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+173,Monitor work areas to provide security.,0.24727555579130794,0.05552262664244523
+174,Maintain surveillance of individuals or establishments.,0.23228230831934407,0.05396899334855304
+185,Monitor environmental conditions to detect hazards.,0.253145417496848,0.050688030303222976
+266,Inspect items for damage or defects.,0.1916803610515919,0.04247847246811599
+550,Determine protocols for medical procedures.,0.2603091472574982,0.05752607263888825
+553,Make decisions in legal cases.,0.2480231984879981,0.05514621868890083
+567,Estimate cost or material requirements.,0.19159735555889157,0.05345168797263892
+616,Develop promotional strategies or plans.,0.20520761728151965,0.06950212888796048
+701,Create graphical representations of industrial production systems.,0.24987405054706446,0.049619640179692864
+799,Schedule appointments with prospective customers.,0.21944233264001425,0.05497781838782221
+884,Clean tableware.,0.1303885868647973,0.02852727509956989
+912,Enforce rules or regulations.,0.23672433319044395,0.06446607982761564
+927,Collect dirty dishes or other tableware.,0.14085736319882217,0.03444172509279887
+1031,Cut industrial materials in preparation for fabrication or processing.,0.19298161042850004,0.04167288083238069
+1105,Remove skin or other body parts from animals.,0.1716908090058067,0.0434555640063202
+1135,Solder parts or connections between parts.,0.1731575400762604,0.03527165784791664
+1152,Store items.,0.1836438837173198,0.040798281410697315
+1224,Operate audio recording equipment.,0.19191804684704616,0.051198430153199366
+1252,Operate irrigation systems.,0.193882887747677,0.043209967302903406
+1280,Install computer software.,0.15583167886038463,0.051612737032569585
+1306,"Service heating, ventilation or air-conditioning (HVAC) systems or components.",0.20716068297262716,0.04378392265347664
+1316,Maintain extraction or excavation equipment.,0.18451070555972218,0.048382714474026596
+1429,Document design or development procedures.,0.3655265450182488,0.0598741504603018
+1450,Prepare sales or other contracts.,0.19293039292850042,0.057675014155875275
+1474,Present work to clients for approval.,0.24239769452438736,0.05793465674114219
+1662,Assist passengers during vehicle boarding.,0.1621665399910423,0.03642184647989978
+1806,Supervise patient care personnel.,0.24149878847312548,0.0684564351002685
+1855,Coordinate construction project activities.,0.2447359624946917,0.05566204256621073
+1946,Recommend changes to improve computer or information systems.,0.2877272196134695,0.05624158090421868
+2036,Manage inventories of products or organizational resources.,0.2540602414918708,0.06729181571426034
+2064,Prescribe assistive medical devices or related treatments.,0.17377965554970146,0.062484376390567475
+2068,Monitor inventories of products or materials.,0.23781678814217003,0.05187022621524681

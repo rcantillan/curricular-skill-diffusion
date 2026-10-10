@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+21,Examine crime scenes to obtain evidence.,0.23720937288254845,0.049112491838683096
+38,Gather information about work conditions or locations.,0.2423642444790976,0.051805852805048444
+44,Conduct climatological research.,0.23126636587740532,0.04700819306791086
+109,"Interview clients to gather information about their backgrounds, needs, or progress.",0.3276248051318846,0.06660489282811759
+258,Inspect finishes of workpieces or finished products.,0.232469363300099,0.04626253775928862
+261,Inspect work to ensure standards are met.,0.30112309071101584,0.06430329659725519
+298,Check physical condition of people or animals.,0.24407197487276042,0.0514507674870434
+338,Measure materials or objects for installation or assembly.,0.25477206955457843,0.050889001914391774
+443,Conduct environmental audits.,0.2395614075091246,0.05888543825082806
+445,Conduct financial or regulatory audits.,0.2314347202475123,0.0673445386990651
+632,Determine operational criteria or specifications.,0.3327465969092571,0.06685287531671309
+681,Prepare drawings or diagrams of products or services.,0.34483146535335096,0.05744508649181495
+699,Create maps.,0.2519452742227935,0.04450577210896687
+707,Develop sustainable business strategies or practices.,0.2536446034112473,0.06792542544438424
+722,Develop environmental research methods.,0.32538537563304576,0.06105015143682207
+732,Develop theories or models of physical phenomena.,0.3181690630484405,0.05583296875684031
+763,Establish organizational guidelines or policies.,0.3161053965089587,0.07573705727803585
+856,Remove debris or vegetation from work sites.,0.18318101416680468,0.04597470471681687
+984,Assemble mechanical components or machine parts.,0.20988433532448647,0.047835078417169594
+989,Repair textiles or apparel.,0.1721395932304244,0.04469343753802248
+1085,Position safety or support equipment.,0.19012146677023906,0.05232094485109013
+1195,Install mechanical components in production equipment.,0.19376617114416086,0.058196856255009255
+1277,Program robotic equipment.,0.16525064872287681,0.06207932721322899
+1335,Maintain computer equipment or software.,0.21474583982299292,0.06377583563152175
+1529,Inform medical professionals regarding patient conditions and care.,0.2566000481698731,0.06755307554911573
+1541,Collaborate with other agencies and institutions to coordinate educational matters.,0.29089200599070936,0.05771520251285
+1596,Provide attraction or event information to patrons.,0.23727618255872626,0.05240972681689975
+1645,Treat medical emergencies.,0.19993390941174516,0.05870861507463728
+1686,Contract real estate to clients.,0.16574609806469814,0.051556333797244426
+1707,"Negotiate contracts for transportation, distribution, or logistics services.",0.19596621543264792,0.06234224989056206
+1791,Teach medical procedures to healthcare personnel.,0.31106339423888474,0.06520352326484928
+2044,Assign resources or facilities to patrons or employees.,0.27708412312851693,0.05729987124529228

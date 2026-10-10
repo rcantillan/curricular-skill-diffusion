@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+46,Research industrial processes or operations.,0.3251266209671535,0.05607432072977671
+64,Gather customer or product information to determine customer needs.,0.33095456377903143,0.06772335670046972
+67,Collect data about customer needs.,0.29585542979263413,0.06824730420593873
+93,Research product safety.,0.23173064795255433,0.05854964212598679
+244,Inspect work environments to ensure safety.,0.27294331817501644,0.06538073151984619
+288,Inspect production equipment.,0.22078157153616426,0.04975299982439881
+382,Assess physical conditions of patients to aid in diagnosis or treatment.,0.2653080530189128,0.06664317570466759
+453,Determine geographic coordinates.,0.14292167034356348,0.03176386159174428
+470,Apply mathematical principles or statistical approaches to solve problems in scientific or applied fields.,0.3643750622169876,0.06208180700424569
+548,Determine production equipment settings.,0.1988959178067514,0.05141715116644825
+566,"Estimate supplies, ingredients, or staff requirements for food preparation activities.",0.3000085944450897,0.05302726714160594
+802,Plan implementation or promotion of recycling programs.,0.24594037158692716,0.05493956771064493
+824,Clean vessels or marine equipment.,0.1804577526937622,0.046964450245395535
+845,Clean work areas or facilities.,0.24466853954246773,0.0577074915407904
+871,Load items into ovens or furnaces.,0.16781190380806246,0.035304136157138434
+1160,"Fill cracks, imperfections, or holes in products or workpieces.",0.20400830937226339,0.04228692981124108
+1185,"Apply finishes to artwork, crafts, or displays.",0.16781884432050395,0.04654627179875629
+1325,Sharpen cutting or grinding tools.,0.11556103449845742,0.03635978977347346
+1390,Write grant proposals.,0.23563946907382147,0.05144886034173127
+1491,Communicate detailed medical information to patients or family members.,0.2801268086557729,0.06387167278669033
+1515,Confer with organizational members to accomplish work activities.,0.3145893550978767,0.06781492408036828
+1519,Confer with others to conduct or arrange operational activities.,0.2926362979553743,0.06561365431953566
+1531,Collaborate with other professionals to assess client needs or plan treatments.,0.2812227539193765,0.07064717489072242
+1555,Collaborate with others to develop or refine designs.,0.3206247314893832,0.06371484105070878
+1560,Communicate project information to others.,0.29842040266406666,0.06169876185768085
+1706,Negotiate labor disputes.,0.22190406645985356,0.056819260254380013
+1749,Teach physical science or mathematics courses at the college level.,0.24173864193629627,0.05252488054360526
+1834,Coordinate training activities.,0.28174022210418115,0.06683902772916948
+1849,Prepare operational budgets for green energy or other green operations.,0.24582485035937324,0.057646897033096514
+1864,Direct operational or production activities.,0.2372850810965492,0.06428064836919363
+1890,Direct facility maintenance or repair activities.,0.23079638940361635,0.059603691620014866
+1957,Advise others on ways to improve processes or products.,0.27413612504960244,0.06089031970566962

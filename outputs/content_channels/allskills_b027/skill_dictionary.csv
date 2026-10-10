@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+44,Conduct climatological research.,0.23126636587740532,0.04700819306791086
+49,Research issues related to the environment or sustainable business practices.,0.312049847636364,0.06122228564198457
+154,Monitor clients to evaluate treatment progress.,0.19912326492866522,0.06553891870755546
+257,Inspect timing devices.,0.160957377319509,0.03987570680111354
+258,Inspect finishes of workpieces or finished products.,0.232469363300099,0.04626253775928862
+319,Measure equipment outputs.,0.1962402285845221,0.04576595506001862
+329,Measure physical characteristics of forestry or agricultural products.,0.19603000643193425,0.04694466485738882
+356,Measure clients to ensure proper product fit.,0.2627189414266764,0.05484837910195596
+422,Compile environmental or climatological data.,0.20093895901315456,0.05265451682471868
+469,Analyze risks to minimize losses or damages.,0.29495769449286496,0.059101968978350954
+490,Interpret research or operational data.,0.30217046797362324,0.05984102069369382
+495,"Analyze jobs using observation, survey, or interview techniques.",0.3003292473639672,0.0583055220860267
+741,Attend events to develop professional knowledge.,0.3063907942947915,0.06433793948042012
+794,Schedule agricultural or forestry work.,0.21019126266722007,0.04911062641945271
+865,Load materials or equipment.,0.19178034169027924,0.04129548194987539
+889,Sterilize medical equipment or instruments.,0.1638484657088587,0.049096474130001615
+951,Install building fixtures.,0.1806278629326475,0.03944689266247256
+974,Assemble equipment or components.,0.2197190295719981,0.053197183406954084
+1199,Prepare biological specimens for laboratory analysis.,0.2651520007818509,0.06143803308739027
+1201,Prepare compounds or solutions for products or testing.,0.28386935930590457,0.05750394947364013
+1216,Operate diagnostic or therapeutic medical instruments or equipment.,0.22418000812375724,0.05828329564517336
+1440,Document lesson plans.,0.402061243546451,0.0692473317673023
+1445,Prepare healthcare training materials.,0.3427975787392172,0.06564397490824118
+1658,"Greet customers, patrons, or visitors.",0.20842111839764435,0.04693729335449124
+1659,Assist customers to ensure comfort or safety.,0.23873980252505,0.06307195973829917
+1681,Treat patients using alternative medical procedures.,0.2087728271726938,0.05960032242596905
+1707,"Negotiate contracts for transportation, distribution, or logistics services.",0.19596621543264792,0.06234224989056206
+1715,Negotiate for services.,0.21010535204197048,0.0566704159128116
+1729,Respond to customer inquiries.,0.2904785904794289,0.06370389240090463
+1737,Teach life skills.,0.31781922097212967,0.07650922784150498
+1777,Teach others to use computer equipment or hardware.,0.29867008198772405,0.06487602537861589
+1868,Coordinate sales campaigns.,0.21388017472096874,0.06550293048143734

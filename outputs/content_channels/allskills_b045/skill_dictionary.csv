@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+96,Examine debris to obtain information about causes of fires.,0.212065331778865,0.03901894634093825
+103,Interview others for news or entertainment purposes.,0.2582455419555419,0.0604406405418078
+151,Monitor traffic signals.,0.21352659928085715,0.03702294289659486
+198,Monitor processes for compliance with standards.,0.26725019919674864,0.06283415637227512
+284,Inspect equipment or systems.,0.2402637105924026,0.053506668535719365
+307,Inspect cargo to identify potential hazards.,0.20163041626327163,0.04374775470713891
+459,Estimate demand for products or services.,0.21472842052670846,0.05994295938288838
+549,Determine appropriate methods for data analysis.,0.3608017611388545,0.06389907471978303
+554,Rule on admissibility of legal proceedings.,0.20546283763030912,0.05337516586685826
+557,Diagnose neural or psychological disorders.,0.20365244270720018,0.06044962415623346
+560,Estimate technical or resource requirements for development or production projects.,0.27772779936191094,0.06441921269183545
+729,Choreograph dances.,0.21006689474485757,0.051587282871347236
+765,Establish business management methods.,0.3117344492793632,0.07676072363562805
+827,Clean equipment or supplies.,0.21278919316008651,0.054725632595903934
+891,Clean medical equipment or facilities.,0.19988654539515524,0.057654833086735614
+962,Cut cooked or raw foods.,0.08796436628101312,0.037095496441476215
+999,Shape glass or similar materials.,0.09900541228481409,0.04158384152467783
+1017,Adjust office equipment to ensure proper operation.,0.24447803806668825,0.0556772882479966
+1304,Repair structural components.,0.16678775502587925,0.03768780558682633
+1311,Maintain sustainable energy production equipment.,0.1642497294006309,0.04584027948341074
+1313,Lubricate equipment to allow proper functioning.,0.1850761330539159,0.043608360369335415
+1471,"Write articles, books or other original materials in area of expertise.",0.2773708824021241,0.053805440814247325
+1501,Assist engineers or scientists with research.,0.23534778003135334,0.050533172702092496
+1530,Confer with other professionals to plan patient care.,0.26402745910915665,0.062150778972874084
+1534,Communicate patient status to other health practitioners.,0.19687860220802858,0.06433573074455257
+1647,Assist individuals with paperwork.,0.24368401917352303,0.05339001730521224
+1686,Contract real estate to clients.,0.16574609806469814,0.051556333797244426
+1811,Supervise workers performing environmentally sustainable activities.,0.2147193369226943,0.05443917011664143
+1840,Manage control system activities in organizations.,0.2061273146214328,0.06026618986029612
+1948,Advise others on logistics topics.,0.251262309641673,0.05078768038124682
+1958,Recommend changes or corrective procedures.,0.25226545468215034,0.057168823852880885
+2066,Inventory materials or equipment.,0.21860009976692113,0.04929091200435235

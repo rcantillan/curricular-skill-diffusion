@@ -1,0 +1,20 @@
+{
+  "tag": "allskills",
+  "block_size": 32,
+  "seed": 20261009,
+  "smoke": false,
+  "skills_total": 2070,
+  "fingerprints": {
+    "src/10_allskills_channels/run_all.py": "7136e0ee5c3f26507986affc1864ad3d0179910df849d9bba30422bf2ab7f18a",
+    "src/10_allskills_channels/fit_block.R": "c9c83a4e6b383867aa46892a93a7a9cad22fb9f9560235b852e63770f5915b46",
+    "src/09_content_channels/build_panel.py": "5f494b6c53cb9e5d61e627ec2cfebc1cb1ed5ec9b0abb7bad75886b3f7a3cbbf",
+    "data/derived/pilot/measurement_scores_manifest.json": "ce81561f8b7301a57b5e2c2d628f61535d055329bf5d36fb5ed3ee3b790b286d",
+    "data/derived/pilot/master_metadata.csv": "17da89078bf52b583759fe9aa9bfb2c7840fbb714bdcedf06c8b1ad6fe437afc",
+    "src/09_content_channels/institution_aliases.csv": "ad63d53b89330991263927ee9cc75665ba491e954b4a2c3a085ec5f869186163",
+    "data/raw/onet_reference/iwa_reference.txt": "21aea17a4ac775fc2a4e3cae359a681f001f1696692af80c993dffcb764503cf",
+    "data/raw/onet_reference/content_model_reference.txt": "a543959cbd6e472d6acc328734ee417a4b181eadb97a2c71ad0349104f6a69f9",
+    "data/raw/onet_reference/dwa_reference.txt": "e38a5b529a06d6803dd80d119f2bff4e1ce9507724ffd648d1f7b20983ab9d18"
+  },
+  "taxonomy_version": "Local reference previously documented as O*NET 29.1; hashes recorded",
+  "estimator": "row-weighted mean of block estimates, shared institution cluster influences"
+}

@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+4,Read materials to determine needed actions.,0.39728793793364336,0.05429513378952309
+69,Investigate personal characteristics or activities of individuals.,0.3865965967020568,0.060943354547408436
+91,Research human performance or health factors related to engineering or design activities.,0.33436135332017203,0.059215380888090245
+106,Interview people to gather information about criminal activities.,0.2722343234764425,0.05194388412213708
+121,Monitor instruments to ensure proper production conditions.,0.25665767724634897,0.05589226801191058
+153,Monitor patient progress or responses to treatments.,0.23514849954147277,0.06588634655009908
+181,Monitor market conditions or trends.,0.26985489591838074,0.06443084979720852
+206,Mark materials or objects for identification.,0.2377651772300937,0.04301658575614197
+248,Inspect areas for compliance with sanitation standards.,0.21948175369558653,0.05269932986166615
+347,Calculate financial data.,0.21725178941572645,0.06296738041117786
+369,Administer tests to assess educational needs or progress.,0.38841471336429956,0.08017286545958614
+392,Assess database performance.,0.20823004757415364,0.052579072924168246
+423,Compile geographic or related data.,0.21412559400298645,0.04792816700726749
+518,Analyze financial records to improve budgeting or planning.,0.30514975662408783,0.06313036028918194
+582,Select materials or props.,0.16073871554280034,0.04017479619901659
+586,Select construction materials.,0.21703178950597155,0.04585095202453185
+589,Select educational materials or equipment.,0.3613194294210358,0.062043439146414185
+615,Develop promotional strategies for religious organizations.,0.2378300966705373,0.07159638606885278
+639,Develop financial or business plans.,0.23396608063437305,0.06938001209613134
+986,"Assemble electrical components, subsystems, or systems.",0.23301970353483767,0.052552764461221695
+1004,Set up merchandise displays.,0.2134153323989721,0.053092765983387906
+1029,Trim excess material from workpieces.,0.14492826960408073,0.03754371683711033
+1106,Process animal carcasses.,0.16072351074485755,0.03810559551378855
+1151,Stock supplies or merchandise.,0.18820057924236858,0.05814817720749689
+1161,Apply material to fill gaps in surfaces.,0.15417481152670873,0.035043947586246744
+1199,Prepare biological specimens for laboratory analysis.,0.2651520007818509,0.06143803308739027
+1485,"Communicate with clients about products, procedures, and policies.",0.3024373823223294,0.07161378847387563
+1634,Care for animals.,0.1596003336028533,0.0448244692676368
+1655,Provide for basic needs of children.,0.27441722600116203,0.06942725056560548
+1817,Coordinate artistic activities.,0.22904370713188515,0.05844187419120097
+1915,Coordinate enforcement of laws or regulations.,0.2390298886454877,0.055610741424146605
+1920,Direct courtroom activities or procedures.,0.2538662754789324,0.04919819484872637

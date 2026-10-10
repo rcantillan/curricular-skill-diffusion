@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+27,Obtain property information.,0.14706310155806268,0.03578139946941753
+128,Monitor extraction operations.,0.1982311891930492,0.040603373326815344
+147,Monitor sales activities.,0.21574476064581932,0.057591350741654036
+169,Monitor access or flow of people to prevent problems.,0.2604786904389524,0.05128511078659136
+201,Evaluate construction projects to determine compliance with external standards or regulations.,0.2887872688191766,0.06037817351771635
+292,Inspect communications or broadcasting equipment.,0.23228159676791568,0.044978721180288506
+346,Estimate costs for labor or materials.,0.1630042226301096,0.04941184863183476
+508,Analyze laboratory specimens to detect abnormalities or other problems.,0.25148660242003956,0.05938660980567588
+555,Diagnose dental conditions.,0.1231291129660921,0.04143574243217997
+644,Design civil structures or systems.,0.2951137658498676,0.05583158472749384
+653,Design industrial processing systems.,0.21284820232846818,0.06962689170288407
+687,Create construction or installation diagrams.,0.2432317178614792,0.05433962997696958
+783,Develop procedures for data entry or processing.,0.3274013582067032,0.06172132919169358
+822,Protect property from fire or water damage.,0.19299177782863325,0.0400615946072277
+1000,Reshape small metal components for precision assembly.,0.08080996770425179,0.04175524513607323
+1046,"Prepare biological feedstock for physical, chemical, or biological processing.",0.23122542471134758,0.05164826882125283
+1050,Cut trees or logs.,0.14990945525563984,0.041352684970243456
+1074,Install drilling equipment.,0.1448049379043296,0.03872837107905138
+1096,Adjust dental devices or appliances to ensure fit.,0.13923337934530575,0.036757485732105695
+1251,"Operate communications, transmissions, or broadcasting equipment.",0.21769753558344507,0.05539806054353365
+1254,Operate grounds maintenance equipment.,0.16900939463105585,0.04911086574141213
+1289,Load digital images onto computers or websites.,0.17229224881031846,0.05699408676392461
+1291,Enter patient or treatment data into computers.,0.23882394245122762,0.06032853225318385
+1300,"Format digital documents, data, or images.",0.20689101751700395,0.05459184409037534
+1313,Lubricate equipment to allow proper functioning.,0.1850761330539159,0.043608360369335415
+1401,Record agricultural or forestry inventory data.,0.18681525868513635,0.045248311533821764
+1632,"Apply bandages, dressings, or splints.",0.0729618574193984,0.04070346298347918
+1691,Promote environmental sustainability or conservation initiatives.,0.23529876130142652,0.06322488024413461
+1816,Coordinate athletic or sporting events or activities.,0.2510885521225941,0.0594159053824889
+1889,Direct energy production or management activities.,0.24372818998224868,0.05069440060628125
+1969,Advise others on career or personal development.,0.26982571357747254,0.06769355141646853
+2031,Perform human resources activities.,0.30291935435169376,0.06846234483391439

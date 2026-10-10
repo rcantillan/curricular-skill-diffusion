@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+43,Research geological features or processes.,0.2825725016348695,0.04684215166305151
+211,Identify potential customers.,0.24911780646549453,0.05896969343660054
+306,"Inspect garments for defects, damage, or stains.",0.2000276018327806,0.04027235303260493
+406,Evaluate data quality.,0.2193328428641349,0.05413158019873132
+502,Analyze energy usage data.,0.1935245770567354,0.04271879027948458
+663,Establish operational policies.,0.31533310137956116,0.07218426735520816
+671,Apply knowledge or research findings to address environmental problems.,0.3150111096924351,0.06199229056028888
+706,"Develop operating strategies, plans, or procedures for green or sustainable operations.",0.2744035910275375,0.06595884261566913
+711,Create models of engineering designs or methods.,0.34671723519309755,0.0602813213027189
+723,Plan social sciences research.,0.33518831260617094,0.062359920688412986
+759,Study product information to acquire professional knowledge.,0.34041962065477754,0.06082440030403989
+800,Plan special events.,0.21653701706552766,0.046052555040868574
+873,Prepare surfaces for finishing.,0.19877632212226276,0.03767020306215457
+925,Arrange tables or dining areas.,0.22931977503069031,0.03922996234461506
+970,Prepare breads or doughs.,0.21889955852820295,0.03425951510030606
+1091,Level machines or equipment.,0.19542764397415424,0.04701207174687836
+1227,Operate recycling equipment.,0.1638589323498665,0.045165135920728676
+1462,Complete documentation required by programs or regulations.,0.278731647819675,0.05663428981945143
+1507,Communicate with others to coordinate vehicle movement.,0.23858004339698163,0.04624171633851653
+1600,Provide notifications to customers or patrons.,0.2201830172801923,0.05236527621773208
+1601,Provide customers with general information or assistance.,0.26281021754495704,0.0663361999450492
+1637,Rescue people from hazardous situations.,0.22596581086645615,0.05178424558082684
+1699,"Model cosmetics, clothing, or accessories.",0.14418484544213664,0.049722377424570766
+1701,Resolve interpersonal conflicts.,0.2684558627485073,0.06208232338329999
+1713,Negotiate contracts with clients or service providers.,0.2034669278173523,0.06498979730161408
+1768,Train personnel in technical or scientific procedures.,0.3321920060111147,0.060709739589660805
+1788,Teach health or hygiene practices.,0.26317426491108203,0.06719898864545674
+1790,Teach health management classes.,0.3042733663045779,0.06679523657616238
+1813,Manage content of broadcasts or presentations.,0.26660779544923685,0.059436605657237004
+1916,Direct security operations.,0.23099024732315912,0.05447575065072704
+1921,Coach others.,0.24467985330573902,0.06756098635280303
+2069,Monitor resources.,0.2398941139620114,0.041788109682956806

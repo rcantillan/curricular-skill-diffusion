@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+17,"Interpret blueprints, specifications, or diagrams to inform installation, development or operation activities.",0.3156720988087266,0.05622764974525918
+188,Assess characteristics of fires.,0.18535896368812207,0.03393868438132289
+236,Inspect vehicles to determine overall condition.,0.18692364018613072,0.04322354796702262
+374,Evaluate skills of athletes or performers.,0.2972875614361322,0.06603244400124055
+450,Protect patients or staff members using safety equipment.,0.21301756054794416,0.058835775847659436
+499,Analyze data to identify or resolve operational problems.,0.29826730458029205,0.06314836763273647
+513,Analyze chemical compounds or substances.,0.30960012210517573,0.05804754228247249
+563,"Calculate specific material, equipment, or labor requirements for production.",0.2643533725212345,0.05725072522738355
+587,Select medical equipment for addressing patient needs.,0.21425769822843344,0.05536768576270289
+623,Develop database parameters or specifications.,0.27563504160738234,0.059687196307841736
+759,Study product information to acquire professional knowledge.,0.34041962065477754,0.06082440030403989
+940,Install insulation in equipment or structures.,0.17524225595545814,0.041927597617800516
+976,Assemble precision electronics or optical equipment.,0.21157603845122747,0.0536100848492677
+1005,"Prepare materials for preservation, storage, or display.",0.24342903881154598,0.044996180247601304
+1130,Connect electrical components or equipment.,0.21484207789333085,0.04025173603620247
+1164,Remove products or workpieces from production equipment.,0.1828745978816028,0.048430653773881054
+1225,Operate chemical processing or water treatment systems or equipment.,0.18618447442125097,0.05496854896724757
+1260,Operate ships or other watercraft.,0.16301136681984044,0.04512531246158346
+1420,Record operational or environmental data.,0.2676872247609494,0.056281116959271224
+1437,Record vital statistics or other health information.,0.19885558535069778,0.056970756982521485
+1449,Develop training materials.,0.3863572796046785,0.07331725824801481
+1587,Provide educational information to the public.,0.32035992797544743,0.06714247776890662
+1603,Provide patrons with directions to locales or attractions.,0.2061475007762107,0.04585114605430436
+1633,Care for plants or animals.,0.15673066631813148,0.04760846042097387
+1694,Promote educational institutions or programs.,0.328789145442933,0.07436585092638301
+1696,Promote agricultural or hunting activities.,0.23029344865029885,0.05881512763706125
+1726,Operate gaming equipment.,0.17786413915703428,0.04859926759237507
+1728,Respond to customer problems or complaints.,0.272741556470637,0.0636839538839338
+1735,Teach life skills or strategies to clients or their families.,0.252611057245522,0.07591562625675478
+1762,"Train workers in farming, forestry, or hunting techniques.",0.23544590568447246,0.04752407144235778
+1798,Direct activities of subordinates.,0.3047787697495016,0.058728347111047206
+1908,Assign duties or work schedules to employees.,0.2455270194130725,0.05717229411463275

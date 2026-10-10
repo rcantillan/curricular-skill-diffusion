@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+14,Review blueprints or other instructions to determine operational methods or sequences.,0.30751511605972276,0.058260869088083755
+32,Gather information in order to provide services to clients.,0.32313739094409416,0.07108015122961431
+52,Research environmental impact of industrial or development activities.,0.1834764678312878,0.04921650672345411
+126,Monitor facilities or operational systems.,0.25139775682448545,0.06008729613742297
+250,"Inspect facilities to ensure compliance with safety, quality, or service standards.",0.26671627554545474,0.06534759128192882
+394,Evaluate utility of software or hardware technologies.,0.27399146109734585,0.06554864006737424
+463,Analyze website or related online data to track trends or usage.,0.2623168842670862,0.05307023460604998
+496,Analyze data to inform personnel decisions.,0.3268068548241541,0.06732535110104843
+544,Determine methods to minimize environmental impact of activities.,0.252110685670371,0.048011360815664886
+695,Draw detailed or technical illustrations.,0.30447193931303906,0.05240693962469306
+717,Develop biological research methods.,0.31096863313171735,0.06202435321982245
+757,Update technical knowledge.,0.2842233189129063,0.04983966291195478
+788,Schedule medical facility use.,0.18530705675597167,0.05327924990046454
+906,Detain suspects or witnesses.,0.21198911373042478,0.04698694979669361
+1064,Construct customized assistive medical or dental devices.,0.19042534242816833,0.053317683475162796
+1174,Package products for storage or shipment.,0.1678478116862974,0.044412626541476125
+1184,Apply decorative masonry finishes.,0.12619082550431338,0.03767159750494036
+1231,Operate heating or drying equipment.,0.18739965149270033,0.042834948648084126
+1232,Operate mixing equipment.,0.19356439393215055,0.047248839370470495
+1302,Perform basic equipment maintenance.,0.2300791717297608,0.051935744740653315
+1338,"Repair templates, patterns, or molds.",0.17025003399187186,0.040410921859960695
+1389,Develop proposals for current or prospective customers.,0.30165654388387597,0.06747225806108108
+1391,Prepare proposal documents.,0.2622645113760772,0.04765985475520904
+1398,Maintain operational records.,0.25042902031303854,0.061116446903932156
+1468,Prepare operational reports.,0.3205738762841732,0.06446553939821754
+1514,Confer with managers to make operational decisions.,0.29960399467650983,0.06803310643869803
+1681,Treat patients using alternative medical procedures.,0.2087728271726938,0.05960032242596905
+1692,"Market products, services, or events.",0.24063655505889153,0.07093413990149583
+1800,Supervise clerical or administrative personnel.,0.21866085092966223,0.06481710697882888
+1948,Advise others on logistics topics.,0.251262309641673,0.05078768038124682
+1991,Process healthcare paperwork.,0.21224645721698676,0.055662245852355775
+2030,Administer personnel recruitment or hiring activities.,0.23783031938470464,0.06479748978416888

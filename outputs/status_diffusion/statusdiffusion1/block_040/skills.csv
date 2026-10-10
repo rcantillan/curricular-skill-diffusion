@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+0,Review art or design materials.,0.299436456583278,0.05281703523316885
+25,Conduct hearings to investigate legal issues.,0.24863072935650324,0.05718820843549436
+136,Monitor loading processes to ensure they are performed properly.,0.1873571613130392,0.03984180340607614
+252,Inspect facilities to ensure compliance with security or safety regulations.,0.25489128266373595,0.06295818772571517
+379,Evaluate quality of plants or crops.,0.19960430183543473,0.04624837409480904
+414,Sort recyclable materials.,0.1712780783362648,0.0352136077579031
+457,Analyze Geographic Information Systems (GIS) data for use in green applications.,0.15124548510149313,0.0487064740086008
+460,Analyze industry trends.,0.29907061324187123,0.06164522738656015
+689,"Design layout of art or product exhibits, displays, or promotional materials.",0.24511245049270053,0.05585196670975341
+833,Maintain clean work areas.,0.19924563403599801,0.05508595943189223
+951,Install building fixtures.,0.1806278629326475,0.03944689266247256
+968,Cook foods.,0.15624642946947614,0.036391214523203604
+995,Adjust fabrics or other materials during garment production.,0.20002802897212954,0.03897557621609025
+1032,"Cut tile, stone, or other masonry materials.",0.11496340148442918,0.03580876704202131
+1088,Position construction or extraction equipment.,0.20694045735285382,0.04862796925778277
+1092,Position containers to receive materials or workpieces.,0.22913120288188527,0.042061944245239596
+1115,Treat facilities to eliminate pests.,0.19676661945836102,0.042925310786456256
+1241,Operate green energy production equipment.,0.19039484000152582,0.04688359143061179
+1318,Apply lubricants or coolants to workpieces.,0.12036058934109173,0.04179735854298885
+1341,Replace worn equipment components.,0.14466961624391195,0.04161008289479686
+1373,Prepare research reports.,0.395547009064931,0.057343904433010066
+1462,Complete documentation required by programs or regulations.,0.278731647819675,0.05663428981945143
+1521,Exchange information with colleagues.,0.32747267552422066,0.06328092727509821
+1538,Share sales-related or market information with colleagues.,0.2086436894007959,0.06065692749479367
+1547,Report vehicle or equipment malfunctions.,0.13658532314207517,0.042803144498562186
+1576,Discuss service options or needs with clients.,0.2593509541079961,0.0658883181322396
+1870,Manage environmental sustainability projects.,0.24109572844641675,0.05882926725838208
+1871,Oversee business processes.,0.2624063945987063,0.06672818329233045
+1885,Manage food service operations or parts of operations.,0.22420605878915043,0.062257276897560006
+1934,Advise customers on technical or procedural issues.,0.29054717256619217,0.06516386079008935
+1955,"Recommend technical design or process changes to improve efficiency, quality, or performance.",0.26468014675139295,0.06086093116274511
+2059,Order medical supplies or equipment.,0.15654306815466135,0.054165400553281125

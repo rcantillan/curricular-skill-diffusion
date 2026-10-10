@@ -1,0 +1,47 @@
+PILOTO DE CAMBIO CONTINUO -- asociaciones, no transmisión causal
+
+Outcome: cambio anual de score inferido, en SD de baseline de cada DWA.
+Muestra principal: >=9 syllabi en ambos años; sensibilidad: >=3.
+FE programa, skill×año y field×año; SE agrupados por institución.
+Control del score previo (lineal/cuadrático), cobertura y cantidad de sources.
+La cobertura actual es un ajuste de observación; podría ser endógena.
+Las tres especificaciones usan la misma muestra completa dentro de cada corte.
+
+   min_coverage skill_rows institutions program_year_pairs fields
+          <int>      <int>        <int>              <int>  <int>
+1:            9     817344          432              12771     54
+2:            3    1593984          609              24906     55
+   distinct_sampled_skills
+                     <int>
+1:                     548
+2:                     548
+
+PREDICTORES DEL REPERTORIO Y CANALES
+    min_coverage          model                   term    estimate          se
+           <int>         <char>                 <char>       <num>       <num>
+ 1:            9      portfolio                 rd_std  0.09134882 0.004970652
+ 2:            9 joint_channels                 rd_std  0.01498809 0.003509746
+ 3:            9 joint_channels  same_inst_score_z_std  0.06771043 0.007966171
+ 4:            9 joint_channels same_field_score_z_std  0.27320941 0.014137971
+ 5:            9 joint_channels      other_score_z_std -0.14892326 0.028725676
+ 6:            3      portfolio                 rd_std  0.15326979 0.004550830
+ 7:            3 joint_channels                 rd_std  0.03105161 0.003219747
+ 8:            3 joint_channels  same_inst_score_z_std  0.08181539 0.006409159
+ 9:            3 joint_channels same_field_score_z_std  0.38855675 0.012540142
+10:            3 joint_channels      other_score_z_std -0.16800509 0.029915616
+                p observations
+            <num>        <int>
+ 1:  4.040787e-56       817344
+ 2:  2.402049e-05       817344
+ 3:  3.136131e-16       817344
+ 4:  2.219624e-60       817344
+ 5:  3.339994e-07       817344
+ 6: 4.047407e-141      1593984
+ 7:  1.414461e-20      1593984
+ 8:  3.122629e-33      1593984
+ 9: 3.398457e-127      1593984
+10:  2.975980e-08      1593984
+
+Un coeficiente positivo de RD sería compatible con búsqueda local, no prueba de difusión.
+Los canales representan scores de sources observados; homofilia y shocks comunes pueden explicar asociaciones.
+64 DWAs aleatorias por año: piloto computacional, pendiente replicar muestreo y ampliar universo de modelos.

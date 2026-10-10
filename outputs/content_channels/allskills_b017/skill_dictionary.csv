@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+26,Investigate illegal or suspicious activities.,0.20762763229114067,0.04443561644880079
+95,Investigate accidents to determine causes.,0.2535373884477436,0.047710126851182096
+98,Investigate industrial or transportation accidents.,0.2463475023702717,0.04773662165766569
+167,"Monitor student behavior, social development, or health.",0.3474187877460296,0.07201263448488625
+243,Inspect cargo areas for cleanliness or condition.,0.12408120256861305,0.034274130910435456
+289,Inspect industrial or commercial equipment to ensure proper operation.,0.253803877139847,0.05543383261604901
+321,Conduct test runs of production equipment.,0.266227137813868,0.05481450496256866
+342,Estimate maintenance service requirements or costs.,0.16601922867111832,0.05035316652813943
+383,"Evaluate patient functioning, capabilities, or health.",0.28401104195172544,0.08224353051601997
+389,"Evaluate potential of products, technologies, or resources.",0.31188740925199054,0.06319473588411886
+522,"Analyze security of systems, network, or data.",0.308879575516589,0.05926859536634156
+622,Develop fire safety or prevention programs or plans.,0.2740562684958521,0.05597885618555552
+654,Develop equipment or component configurations.,0.31550814586507325,0.06694587471805438
+693,Develop diagrams or flow charts of system operation.,0.34266299529545585,0.06948468375558849
+704,Develop contingency plans to deal with organizational emergencies.,0.2796518574477437,0.06512633247042844
+761,Develop organizational policies or programs.,0.30501836361280693,0.07939844157967983
+914,Prevent unauthorized individuals from entering restricted areas.,0.18683161006503005,0.039904455235840984
+926,Serve food or beverages.,0.19221046663155314,0.05122490921546966
+976,Assemble precision electronics or optical equipment.,0.21157603845122747,0.0536100848492677
+1127,Lay cables to connect equipment.,0.17857685666440012,0.04385966217652601
+1389,Develop proposals for current or prospective customers.,0.30165654388387597,0.06747225806108108
+1390,Write grant proposals.,0.23563946907382147,0.05144886034173127
+1428,Document technical specifications or requirements.,0.3338645539223625,0.059176192704450584
+1484,Communicate organizational information to customers or other stakeholders.,0.29905418144442614,0.07667461171287876
+1573,Collaborate with law enforcement or security agencies to respond to incidents.,0.24401806835567325,0.05615842341731685
+1619,Administer therapy treatments to patients using hands or physical treatment aids.,0.24299840404462436,0.0639596418831783
+1888,Direct maintenance and repair activities in green energy production facilities.,0.12839120864291653,0.042830312371385106
+1956,Advise others on business or operational matters.,0.2801573300860979,0.06942517549265557
+1979,Intervene in crisis situations to assist clients.,0.3063018103880222,0.06592133492379945
+1995,Type documents.,0.2593587575746523,0.04543519721857363
+2012,Disburse funds from clients accounts to creditors.,0.15275100177654222,0.0469197373546752
+2037,Maintain supply or equipment inventories.,0.22461023347594525,0.0622488377189709

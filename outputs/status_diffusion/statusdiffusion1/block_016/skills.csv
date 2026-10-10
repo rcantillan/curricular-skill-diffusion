@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+20,Collect evidence for legal proceedings.,0.23343842373921767,0.05547092248781483
+286,Locate equipment or materials in need of repair or replacement.,0.19787854376095027,0.044821951723161814
+301,"Examine mouth, teeth, gums, or related facial structures.",0.14942935439814195,0.04712836566111714
+311,Examine physical characteristics of gemstones or precious metals.,0.2204119543785668,0.04066955382737858
+363,Measure effectiveness of business strategies or practices.,0.3445057032073643,0.07435223276711479
+437,Verify shipping documentation.,0.15479920140726586,0.03407598414212195
+452,Locate natural resources using geospatial or other environmental data.,0.27142726251426724,0.04777165707600153
+454,Analyze geological samples.,0.2403980487508296,0.04613715000250533
+484,Calculate numerical data for medical activities.,0.2222305097378902,0.05805004424420961
+538,Authorize payments to settle legal disputes.,0.1953205725607161,0.049161477328120186
+604,Design integrated computer systems.,0.27218918381834767,0.07584880411168039
+935,Plant greenery to improve landscape appearance.,0.1192791341602518,0.034731485774839685
+946,Assemble temporary equipment or structures.,0.20027028911280748,0.05063701793331741
+1045,Prepare fabrics or materials for processing or production.,0.24752207114233524,0.04572944008934925
+1053,"Remove dents from equipment, materials, tools or structures.",0.1788885404168881,0.03932115927859251
+1089,"Position equipment using hand tools, power tools, or heavy equipment.",0.1625671465111808,0.048149917435897964
+1131,Connect supply lines to production equipment or tools.,0.2153124331643994,0.05497166791336936
+1136,Braze metal parts or components.,0.1304168553370934,0.035778736960317484
+1175,Package food or supplies.,0.18111736445885898,0.04502302555075361
+1187,Apply decorative coloring to photographs or printed materials.,0.18289987315378237,0.04549291513270986
+1207,Operate heavy-duty construction or installation equipment.,0.1861412545008059,0.054742349524468346
+1272,Operate locomotives or other rail vehicles.,0.15819408343988042,0.0428033967342741
+1342,Repair green energy equipment or systems.,0.18662367956743553,0.048662989112355774
+1356,Maintain material moving equipment in good working condition.,0.22700558118712708,0.051606268705899655
+1436,Maintain medical facility records.,0.1753282464396151,0.054816221218726924
+1610,Develop professional relationships or networks.,0.24439030702239625,0.06643718150248515
+1705,Arrange collective bargaining agreements.,0.2251489151773387,0.0590329108758408
+1738,Teach vocational courses.,0.31025886442617623,0.07183275413960136
+1778,Train others in computer interface or software use.,0.293756294708693,0.07083522029174322
+1856,Coordinate construction or installation activities.,0.22839521736463136,0.05383267306583724
+1947,"Advise others on farming or forestry operations, regulations, or equipment.",0.2568468499772724,0.05370315516135144
+1952,"Advise others on issues related to repairs, installation, or equipment design.",0.2558210160598872,0.05178528686199001

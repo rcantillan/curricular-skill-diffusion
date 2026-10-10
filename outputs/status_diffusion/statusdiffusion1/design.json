@@ -1,0 +1,27 @@
+{
+  "tag": "statusdiffusion1",
+  "block_size": 32,
+  "seed": 20261010,
+  "smoke": false,
+  "hashes": {
+    "/home/rober/Documents/Papers/curricular-skill-diffusion/src/13_status_diffusion/run_diffusion.py": "daf673e6b49da89dc917ead5eea48dfedd5f439815c2f1392a3de329d14e923d",
+    "/home/rober/Documents/Papers/curricular-skill-diffusion/src/13_status_diffusion/fit_diffusion.R": "2762c6d8537513a2ab97f29d8a708e25331093d5d5a8e1b5fc93c5f543124b28",
+    "/home/rober/Documents/Papers/curricular-skill-diffusion/outputs/relational_comparison/status2015/status_2015_by_field.csv": "6bc94aa1580179952cf92292e52e0c35612efe58b3c72d56679165420e54b29f",
+    "/home/rober/Documents/Papers/curricular-skill-diffusion/outputs/relational_comparison/status2015/status_design.json": "59fc28f45c7ee1e265bb347ff17eea514bb40ac8a2872369657f86a49e64ea19",
+    "/home/rober/Documents/Papers/curricular-skill-diffusion/data/derived/pilot/master_metadata.csv": "17da89078bf52b583759fe9aa9bfb2c7840fbb714bdcedf06c8b1ad6fe437afc",
+    "/home/rober/Documents/Papers/curricular-skill-diffusion/data/derived/pilot/measurement_scores_manifest.json": "ce81561f8b7301a57b5e2c2d628f61535d055329bf5d36fb5ed3ee3b790b286d"
+  },
+  "baseline": [
+    2002,
+    2007
+  ],
+  "outcomes": [
+    2014,
+    2017
+  ],
+  "source_signal": "positive score change t-2 to t-1",
+  "receiver_unit": "university-field-activity-year",
+  "status_gap": "receiver minus source, larger status is higher",
+  "causal_claim": false,
+  "rca": false
+}

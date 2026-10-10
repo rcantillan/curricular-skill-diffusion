@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+8,Read technical information needed to perform maintenance or repairs.,0.25209679382888106,0.04879191271789803
+34,Collect archival data.,0.22130108413204963,0.045194593113321614
+40,Collect data about project sites.,0.2634897562961177,0.05463813706636623
+61,Research crop management methods.,0.23354915298978043,0.047884486276283014
+77,Obtain copyrights or other legal permissions.,0.1012991172891174,0.03939210004413313
+161,Monitor performance of organizational members or partners.,0.2829986347388854,0.07013002959808673
+176,Monitor work areas or procedures to ensure compliance with safety procedures.,0.28323624309206913,0.06182830292596473
+188,Assess characteristics of fires.,0.18535896368812207,0.03393868438132289
+222,Administer drug screening tests.,0.17635001473722678,0.0569927827702142
+246,Inspect facilities.,0.2574158357705711,0.05203960229127279
+256,Verify alignment of structures or equipment.,0.16567406396249162,0.043098589173905716
+311,Examine physical characteristics of gemstones or precious metals.,0.2204119543785668,0.04066955382737858
+371,Evaluate student work.,0.3722794484444267,0.07285131778271764
+529,Determine prices for menu items.,0.16743615968297884,0.04432111965155229
+550,Determine protocols for medical procedures.,0.2603091472574982,0.05752607263888825
+750,"Conduct research to inform art, designs, or other work.",0.34149864918430567,0.05856547810367011
+782,Develop testing routines or procedures.,0.3092687739699739,0.05883429102848713
+931,Harvest agricultural products.,0.16902823713437296,0.04576679738075941
+1085,Position safety or support equipment.,0.19012146677023906,0.05232094485109013
+1111,Trim client hair.,0.13101942622732268,0.04061804105879791
+1197,Set up laboratory or field equipment.,0.28904403498457276,0.061329542037685626
+1231,Operate heating or drying equipment.,0.18739965149270033,0.042834948648084126
+1317,Maintain green energy production plant equipment.,0.16953352896250817,0.04525662589047489
+1330,Maintain computer hardware.,0.18294263183759152,0.052714275969205596
+1382,Record images needed to address work issues.,0.2418671083093898,0.04754357906660703
+1487,Interpret cultural or religious information for others.,0.2932225274012942,0.058573309985360755
+1548,Relay information about incidents or emergencies to personnel using phones or two-way radios.,0.2537207406620771,0.051170663584927244
+1716,Resolve employee or contractor problems.,0.24940817050646943,0.05830957299700372
+1779,Teach others to use technology or equipment.,0.3160896067367279,0.0646403915905819
+1784,Teach physical education.,0.20139296839847445,0.05921803554828766
+1792,Train caregivers or other non-medical personnel.,0.15123877683638048,0.0633037687007984
+1904,Prepare staff schedules or work assignments.,0.26690580455623775,0.0591781873644362

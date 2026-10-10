@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+5,Read maps to determine routes.,0.22093734270255455,0.03621304727916814
+164,Supervise school or student activities.,0.27618283119426007,0.06913258102095252
+210,Identify opportunities for green initiatives.,0.2266080950300269,0.05461762281010256
+266,Inspect items for damage or defects.,0.1916803610515919,0.04247847246811599
+299,"Examine animals to detect illness, injury or other problems.",0.2324680702161584,0.05712240626497627
+385,Evaluate treatment options to guide medical decisions.,0.24587786122246205,0.06438963332880042
+444,Evaluate plans or specifications to determine technological or environmental implications.,0.3349259133203381,0.061288836755364194
+461,"Forecast economic, political, or social trends.",0.2718245420721636,0.0531247659758654
+465,Analyze consumer trends.,0.24331543912077006,0.06168942874477386
+480,Analyze health-related data.,0.29019457125630416,0.06402386771704943
+609,Design software applications.,0.26744986400033155,0.08367495752429298
+651,"Design micro- or nano-scale materials, devices, or systems.",0.17557953451708708,0.048775898051351636
+692,Design layouts for print publications.,0.21786825825182463,0.04435737162853997
+726,Design electronic or computer equipment or instrumentation.,0.2688600591522892,0.058611008497301775
+739,Maintain professional social services knowledge.,0.2628191376566015,0.0718178416356797
+818,Prepare materials or solutions for animal or plant use.,0.2498000903370935,0.049769251704209636
+894,"Transport animals, crops, or equipment.",0.19086101187591273,0.04337675184381948
+986,"Assemble electrical components, subsystems, or systems.",0.23301970353483767,0.052552764461221695
+992,Mount attachments or tools onto production equipment.,0.20228539235535864,0.055122439304109025
+1050,Cut trees or logs.,0.14990945525563984,0.041352684970243456
+1214,Process x-rays or other medical images.,0.1992809239089248,0.05231386477146133
+1358,Maintain medical laboratory equipment.,0.19624054463876908,0.056719906382358104
+1470,Prepare operational progress or status reports.,0.295049141367618,0.06504141524438609
+1475,Explain use of products or services.,0.29234451217816887,0.05868958082571536
+1772,Train transportation or material moving personnel.,0.2077558379248511,0.0409395384225421
+1775,Instruct workers to use equipment or perform technical procedures.,0.26659601029744584,0.06026835890205344
+1808,Supervise sales or support personnel.,0.18038703044160517,0.06707083304052161
+1911,Manage documentation to ensure organization or accuracy.,0.3329758636519567,0.05595631227776771
+1931,Advise patients on effects of health conditions or treatments.,0.26839207008410826,0.066856311168216
+1974,Recommend legal actions.,0.155358928553102,0.05295945856733756
+1987,Recommend investments to clients.,0.16863609478521863,0.05658476009270195
+2040,Order medical diagnostic or clinical tests.,0.1545250509102184,0.054958791672167

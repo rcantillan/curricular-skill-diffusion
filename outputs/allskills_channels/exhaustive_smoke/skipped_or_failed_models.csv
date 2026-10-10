@@ -1,0 +1,5 @@
+outcome,scope,model,reason,block
+delta1,discipline,strict_internal,system is computationally singular: reciprocal condition number = 1.60887e-35,exhaustive_smoke_b000
+delta2,discipline,strict_internal,system is computationally singular: reciprocal condition number = 2.14657e-37,exhaustive_smoke_b000
+delta1,discipline,strict_internal,system is computationally singular: reciprocal condition number = 8.16507e-36,exhaustive_smoke_b001
+delta2,discipline,strict_internal,system is computationally singular: reciprocal condition number = 6.00661e-38,exhaustive_smoke_b001

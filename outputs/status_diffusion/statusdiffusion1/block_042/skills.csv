@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+26,Investigate illegal or suspicious activities.,0.20762763229114067,0.04443561644880079
+131,Monitor vehicle movement or location.,0.15173988588828732,0.03967495949968463
+193,Identify actions needed to bring properties or facilities into compliance with regulations.,0.25447028850447906,0.05628624825256362
+254,Inspect condition or functioning of facilities or equipment.,0.2612555481680496,0.056555471145732304
+256,Verify alignment of structures or equipment.,0.16567406396249162,0.043098589173905716
+259,Count finished products or workpieces.,0.22670130247262707,0.04844832350003394
+270,Inspect completed work to ensure proper functioning.,0.2981627115187455,0.05945253210612954
+451,Follow protocols or regulations for healthcare activities.,0.2807422682717324,0.0676303289879787
+537,Authorize financial actions.,0.17956014829429323,0.04999747734815901
+581,Select project materials.,0.3536804322816849,0.055084602980328884
+660,Design psychological or educational treatment procedures or programs.,0.3537350518009298,0.07051429693796864
+729,Choreograph dances.,0.21006689474485757,0.051587282871347236
+738,Review professional literature to maintain professional knowledge.,0.33260464217153274,0.060527019851780745
+744,Update knowledge about emerging industry or technology trends.,0.25776861471333656,0.054239777373889
+749,Maintain medical or professional knowledge.,0.27313146959372864,0.06737565164330958
+893,"Move equipment, supplies or food to required locations.",0.2387636709809786,0.05192945991946914
+958,"Install green structural components, equipment or systems.",0.13848857416111482,0.04450789528399218
+1077,Install instrumentation or electronic equipment or systems.,0.2548028315690111,0.0589744454756335
+1117,Apply paint to surfaces.,0.12910883249409388,0.03692328449874771
+1146,Stock products or parts.,0.15556435186297382,0.05226103675355535
+1153,Collect biological specimens from patients.,0.2179765764396144,0.05974690554539687
+1179,Install green plumbing or water handling systems.,0.11544466943526896,0.03830077611885451
+1259,Operate textile cutting or production equipment.,0.2079412659472464,0.04966032776249353
+1290,Operate digital imaging equipment.,0.2091862549520571,0.05321721566752572
+1345,"Repair worn, damaged, or defective mechanical parts.",0.17534927940643683,0.04320292356462438
+1346,Repair defective engines or engine components.,0.16140387041506313,0.042447746589815656
+1489,Interpret financial information for others.,0.2390918672017247,0.05569020504742888
+1831,Direct medical science or healthcare programs.,0.1886476286605836,0.060268130211117134
+1901,Manage healthcare operations.,0.22882721688271457,0.06770486342664978
+1978,Advise others on health and safety issues.,0.24351430092617868,0.0572202434015196
+2018,Receive shipments.,0.1635693933463837,0.036887752780423465
+2052,Collect payments for good or services.,0.21031655512906497,0.053620744767687314

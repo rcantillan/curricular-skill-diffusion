@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+132,Monitor recreational facility operations.,0.20646698573390795,0.048440378927983856
+189,Inspect condition of natural environments.,0.21311400977266173,0.05033859951936297
+229,Analyze test results.,0.2922499211287332,0.05933602917415189
+283,Inspect gas systems or components to identify leaks or other potential hazards.,0.21773034083327886,0.04391231132739135
+302,Measure the physical or physiological attributes of patients.,0.2913785121721965,0.0649542594784146
+341,Estimate construction project costs.,0.16442701114648334,0.04984930397870585
+402,Verify information or specifications.,0.2675073871240869,0.05283098621786436
+558,Edit written materials.,0.3383974224098712,0.05179654872896741
+562,Estimate labor requirements.,0.20925275400049784,0.04499290266209315
+633,Develop performance metrics or standards related to information technology.,0.3248702135036506,0.07233226824799965
+831,Sterilize food cooking or processing equipment.,0.15885356052898097,0.04198517692835714
+841,Perform housekeeping duties.,0.15934538796980738,0.044597215932732415
+1022,Adjust vehicle components according to specifications.,0.15438627762939575,0.0436048481851817
+1033,Cut metal components for installation.,0.10010888197662574,0.03565059003243109
+1154,Collect biological specimens.,0.22031693950580714,0.05537544234155552
+1240,Operate biomass or biofuel production equipment.,0.18831332425248912,0.048365371221458696
+1249,Operate laboratory equipment to analyze medical samples.,0.2663143093178998,0.06056214396300548
+1326,Repair electrical circuits or wiring.,0.20477735813793946,0.04534602011875488
+1363,Prepare written decisions for legal proceedings.,0.26047988797860006,0.05506837224424184
+1392,Prepare proposals or grant applications to obtain project funding.,0.24170649836819905,0.05782055870318091
+1461,Prepare information or documentation related to legal or regulatory matters.,0.3149951176609163,0.05831379510451536
+1508,"Discuss performance, complaints, or violations with supervisors.",0.2521008762053743,0.05921337812030177
+1524,Confer with other personnel to resolve design or operational problems.,0.3065038403715986,0.061540911154681036
+1525,Collaborate with others to resolve information technology issues.,0.30471487414996706,0.06508160715349448
+1570,"Coordinate activities with suppliers, contractors, clients, or other departments.",0.267696826114134,0.06925654539409382
+1586,Present information to the public.,0.30620102169542057,0.05883282894147612
+1754,Train personnel to enhance job skills.,0.3321085101053414,0.07647775043864928
+1776,Instruct patients in the use of assistive equipment.,0.2564398835232744,0.06175996476732935
+1836,Direct employee training programs.,0.2681651157826807,0.07025781555633832
+1970,Advise others on educational matters.,0.36445597916224226,0.05935443212811602
+2001,Operate cash registers.,0.18295594844416035,0.050346149070258056
+2049,"Collect deposits, payments or fees.",0.1493407119490713,0.04428726452402582

@@ -1,0 +1,65 @@
+skill_id,skill,baseline_mean,baseline_sd
+22,Investigate crimes committed within organizations.,0.2575358464598538,0.06076201725343951
+28,Use databases to locate investigation details or other information.,0.24968366503069164,0.051729062276452645
+59,Collect information about clients.,0.29238047137508344,0.06090095632649476
+61,Research crop management methods.,0.23354915298978043,0.047884486276283014
+97,"Investigate transportation incidents, violations, or complaints.",0.22188352242402015,0.04940881424846641
+136,Monitor loading processes to ensure they are performed properly.,0.1873571613130392,0.03984180340607614
+201,Evaluate construction projects to determine compliance with external standards or regulations.,0.2887872688191766,0.06037817351771635
+208,Label production materials.,0.23552502247611148,0.046086751331554
+229,Analyze test results.,0.2922499211287332,0.05933602917415189
+254,Inspect condition or functioning of facilities or equipment.,0.2612555481680496,0.056555471145732304
+282,Conduct validation tests of equipment or processes.,0.303439330905275,0.06028734761677566
+325,Measure physical or chemical properties of materials or objects.,0.2632153371957541,0.05587378311679392
+415,Sort forestry or agricultural materials.,0.19561011277787033,0.04082494762829295
+430,Verify accuracy of patient information.,0.19609156393463842,0.05708239302941461
+438,"Review environmental permits, plans, or reports.",0.22938630045504316,0.04673020435057596
+514,Analyze budgetary or accounting data.,0.2854966930192437,0.0630301824262889
+554,Rule on admissibility of legal proceedings.,0.20546283763030912,0.05337516586685826
+565,"Estimate labor or resource requirements for forestry, fishing, or agricultural operations.",0.24919120368049125,0.0502563316217545
+580,"Select tools, equipment, or technologies for use in operations or projects.",0.3005265102777037,0.06278209682608277
+586,Select construction materials.,0.21703178950597155,0.04585095202453185
+606,Modify software programs to improve performance.,0.21066826512209685,0.06419007517915422
+622,Develop fire safety or prevention programs or plans.,0.2740562684958521,0.05597885618555552
+624,Develop technical or scientific databases.,0.2862640874042805,0.0569333049465192
+649,Design templates or patterns.,0.2754789059542136,0.059389995759848005
+680,Design public or employee health programs.,0.25655996074917103,0.06132882840344192
+686,Create graphical representations of energy production systems.,0.2287503583772403,0.05246880604702683
+710,Develop operational methods or processes that use green materials or emphasize sustainability.,0.27996622049336417,0.05945150178240678
+726,Design electronic or computer equipment or instrumentation.,0.2688600591522892,0.058611008497301775
+737,Develop plans for programs or services.,0.334309740754147,0.07100129642203987
+806,Plan work operations.,0.29864027914465796,0.06150371457232607
+813,Prepare compounds or solutions to be used for repairs.,0.22969482617203002,0.04394516344262944
+825,"Clean food preparation areas, facilities, or equipment.",0.22640515298822114,0.04984293152391988
+842,Clean equipment or facilities.,0.2344277597574652,0.056146829468093774
+846,Clean food service areas.,0.18638302110136007,0.04916960483313301
+872,Dig holes or trenches.,0.14538308939399464,0.03563476310696084
+922,Move patients to or from treatment areas.,0.22684303961778302,0.06156559787020998
+960,Collect samples of raw materials or finished products.,0.2661320073598209,0.055381194209177476
+964,Prepare meat products for sale or consumption.,0.19588381627305873,0.04483660189904888
+976,Assemble precision electronics or optical equipment.,0.21157603845122747,0.0536100848492677
+980,Install machine or equipment replacement parts.,0.17735201445407991,0.05155107572310752
+1106,Process animal carcasses.,0.16072351074485755,0.03810559551378855
+1157,Collect environmental data or samples.,0.2685730867879891,0.05567693185499784
+1202,Operate office equipment.,0.20368986395753141,0.05687662087237471
+1280,Install computer software.,0.15583167886038463,0.051612737032569585
+1302,Perform basic equipment maintenance.,0.2300791717297608,0.051935744740653315
+1304,Repair structural components.,0.16678775502587925,0.03768780558682633
+1318,Apply lubricants or coolants to workpieces.,0.12036058934109173,0.04179735854298885
+1325,Sharpen cutting or grinding tools.,0.11556103449845742,0.03635978977347346
+1360,Repair medical facility equipment.,0.17769452445728215,0.05305240747610639
+1391,Prepare proposal documents.,0.2622645113760772,0.04765985475520904
+1463,Document legal or regulatory information.,0.2421871066053421,0.05737461444108733
+1487,Interpret cultural or religious information for others.,0.2932225274012942,0.058573309985360755
+1571,Confer with others about financial matters.,0.22577090733360952,0.05336725618975786
+1647,Assist individuals with paperwork.,0.24368401917352303,0.05339001730521224
+1668,Adjust positions of patients on beds or tables.,0.1880825301643996,0.04779962036842042
+1672,Prepare patients physically for medical procedures.,0.19218108876758433,0.0570051438233348
+1684,Sell agricultural products.,0.17122014808410713,0.05111943667062234
+1751,Educate the public about fire safety or prevention.,0.2315993359581289,0.058857273270132925
+1812,Serve on institutional or departmental committees.,0.26492034165096184,0.061242166128872025
+1895,Coordinate project activities with other personnel or departments.,0.2895404832345715,0.06539639735867905
+1989,Classify materials according to standard systems.,0.2156717453327806,0.04427210741737869
+2019,Prepare outgoing mail.,0.19517741465378208,0.03786627354915629
+2020,"Send information, materials or documentation.",0.33591031355358314,0.04758084559408805
+2033,Administer standardized physical or psychological tests.,0.25074014873258105,0.07313222176869745

@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+111,Monitor broadcasting operations to ensure proper functioning.,0.22680890227670922,0.0492658461657724
+134,Track goods or materials.,0.24298997115278725,0.051421491562502135
+160,Monitor nutrition related activities of individuals or groups.,0.2727217886204388,0.054540502508180176
+175,Monitor alarm systems.,0.1928932192005641,0.04323477788885722
+365,Evaluate effectiveness of educational programs.,0.33525067529960134,0.08272361771132536
+532,Calculate costs of goods or services.,0.24109393049651615,0.05873572780992375
+533,Determine causes of operational problems or failures.,0.2572742593370941,0.05559128000750151
+547,Determine construction project layouts.,0.24747222412624512,0.05405238497885806
+581,Select project materials.,0.3536804322816849,0.055084602980328884
+600,Develop software or computer applications.,0.22323061776934283,0.06728867524649669
+650,Design materials for industrial or commercial applications.,0.16000962034781036,0.05663903528477615
+656,Design energy production or management equipment or systems.,0.2749860881401784,0.06155415147949829
+893,"Move equipment, supplies or food to required locations.",0.2387636709809786,0.05192945991946914
+937,Cultivate land.,0.16571930546848077,0.04610260439479837
+978,Assemble electromechanical or hydraulic systems.,0.22191761029230228,0.056290372325136624
+1020,"Adjust equipment controls to regulate flow of water, cleaning solutions, or other liquids.",0.20856572455673564,0.045744023057897695
+1056,Smooth metal surfaces or edges.,0.14914568830922367,0.03259909545038226
+1296,Code data or other information.,0.19276454096665577,0.05118516742241632
+1366,Record information about suspects or criminals.,0.2617264821088259,0.051053714579705846
+1374,Prepare scientific or technical reports or presentations.,0.3606228628256467,0.05652211834827661
+1400,Maintain inventory records.,0.20110388988221561,0.052404807970470854
+1416,Maintain social services program records.,0.17850439317335773,0.05532006047718827
+1516,Confer with coworkers to coordinate work activities.,0.2554097249520572,0.05759414939607551
+1566,Collaborate with outside groups to develop programs or projects.,0.3023975514228593,0.06571981583138166
+1609,Establish interpersonal business relationships to facilitate work activities.,0.29399820140013316,0.06985006634969164
+1867,Direct equipment maintenance or repair activities.,0.2301021240413074,0.05903203705430673
+1876,Coordinate activities of food service staff.,0.24967605413935026,0.05804041721302342
+1906,Prepare employee work schedules.,0.2530398108578304,0.05709488816847263
+1955,"Recommend technical design or process changes to improve efficiency, quality, or performance.",0.26468014675139295,0.06086093116274511
+1978,Advise others on health and safety issues.,0.24351430092617868,0.0572202434015196
+2017,Issue certificates or licenses.,0.19728451030295266,0.05424803241451535
+2061,Prescribe treatments or therapies.,0.16468263385136037,0.06374649130196652

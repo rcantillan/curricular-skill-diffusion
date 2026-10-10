@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+31,Retrieve information from electronic sources.,0.3213840635766416,0.048017181871417035
+73,Research microbiological or chemical processes or structures.,0.244025491239882,0.057198376716288954
+114,Monitor lubrication of equipment or workpieces.,0.1894887053072327,0.04875984029344571
+161,Monitor performance of organizational members or partners.,0.2829986347388854,0.07013002959808673
+240,Inspect work sites to determine condition or necessary repairs.,0.23053179938570026,0.05248910934713489
+278,Inspect telecommunications equipment to identify problems.,0.22582388183991312,0.047971034540267514
+325,Measure physical or chemical properties of materials or objects.,0.2632153371957541,0.05587378311679392
+330,"Calculate weights, volumes or other characteristics of materials.",0.2203827718191771,0.056735669648993285
+336,Weigh materials to ensure compliance with specifications.,0.217839090374171,0.05166467653769524
+383,"Evaluate patient functioning, capabilities, or health.",0.28401104195172544,0.08224353051601997
+506,Analyze impact of legal or regulatory changes.,0.2733535017221299,0.0575039417661801
+748,Update job related knowledge or skills.,0.23219543252073588,0.05749797333622374
+784,"Establish standards for products, processes, or procedures.",0.31564061007647537,0.06325189546987871
+842,Clean equipment or facilities.,0.2344277597574652,0.056146829468093774
+915,Guide patrons on tours.,0.20282285023954894,0.04899887074904264
+931,Harvest agricultural products.,0.16902823713437296,0.04576679738075941
+996,Position raw materials on processing or production equipment.,0.2490736257714005,0.05205292508650647
+1019,Adjust equipment controls to regulate coolant flow.,0.17762840473191738,0.04301908198972143
+1055,"Polish materials, workpieces, or finished products.",0.20893380245786405,0.04198497947258206
+1169,Mark reference points on construction materials.,0.22051862418613122,0.04286278149313243
+1378,Prepare technical or operational reports.,0.31287597131138106,0.0645106729169987
+1405,Maintain student records.,0.29873929696333845,0.05818899710741743
+1522,Communicate safety or hazard information to others.,0.28129974612541453,0.057228300937143886
+1580,Confer with customers or designers to determine order specifications.,0.29087678612674106,0.05896361752437118
+1595,Present business-related information to audiences.,0.3025619556570996,0.06856480036758625
+1715,Negotiate for services.,0.21010535204197048,0.0566704159128116
+1796,Supervise service workers.,0.231377972425183,0.06492153291029146
+1809,Supervise laboratory work.,0.27035255664532215,0.05807007892448049
+1888,Direct maintenance and repair activities in green energy production facilities.,0.12839120864291653,0.042830312371385106
+1980,Counsel clients or patients with substance abuse issues.,0.21967951881403497,0.06366600149349298
+2005,"Issue money, credit, or vouchers.",0.18850240505756408,0.047760258736444516
+2066,Inventory materials or equipment.,0.21860009976692113,0.04929091200435235

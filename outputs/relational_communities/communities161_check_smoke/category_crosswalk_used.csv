@@ -1,0 +1,162 @@
+skill_id,skill,category_id,weight
+0,Review art or design materials.,TEST_ONLY_0,1.0
+1,Study details of musical compositions.,TEST_ONLY_1,1.0
+2,Review production information to determine costume or makeup requirements.,TEST_ONLY_2,1.0
+3,Study scripts to determine project requirements.,TEST_ONLY_3,1.0
+4,Read materials to determine needed actions.,TEST_ONLY_4,1.0
+5,Read maps to determine routes.,TEST_ONLY_5,1.0
+6,Review customer information.,TEST_ONLY_6,1.0
+7,Read work orders or other instructions to determine product specifications or materials requirements.,TEST_ONLY_7,1.0
+8,Read technical information needed to perform maintenance or repairs.,TEST_ONLY_8,1.0
+9,Study blueprints or other instructions to determine equipment setup requirements.,TEST_ONLY_9,1.0
+10,Read documents to gather technical information.,TEST_ONLY_10,1.0
+11,Review technical documents to plan work.,TEST_ONLY_11,1.0
+12,Review blueprints or specifications to determine work requirements.,TEST_ONLY_12,1.0
+13,Review work orders or schedules to determine operations or procedures.,TEST_ONLY_13,1.0
+14,Review blueprints or other instructions to determine operational methods or sequences.,TEST_ONLY_14,1.0
+15,Evaluate reports or designs to determine work needs.,TEST_ONLY_15,1.0
+16,Read work orders or descriptions of problems to determine repairs or modifications needed.,TEST_ONLY_16,1.0
+17,"Interpret blueprints, specifications, or diagrams to inform installation, development or operation activities.",TEST_ONLY_17,1.0
+18,Review details of technical drawings or specifications.,TEST_ONLY_18,1.0
+19,Read work orders to determine material or setup requirements.,TEST_ONLY_19,1.0
+20,Collect evidence for legal proceedings.,TEST_ONLY_20,1.0
+21,Examine crime scenes to obtain evidence.,TEST_ONLY_21,1.0
+22,Investigate crimes committed within organizations.,TEST_ONLY_22,1.0
+23,Investigate legal issues.,TEST_ONLY_23,1.0
+24,Examine records or other types of data to investigate criminal activities.,TEST_ONLY_24,1.0
+25,Conduct hearings to investigate legal issues.,TEST_ONLY_25,1.0
+26,Investigate illegal or suspicious activities.,TEST_ONLY_26,1.0
+27,Obtain property information.,TEST_ONLY_27,1.0
+28,Use databases to locate investigation details or other information.,TEST_ONLY_28,1.0
+29,Search information sources to find specific data.,TEST_ONLY_29,1.0
+30,Gather financial records.,TEST_ONLY_30,1.0
+31,Retrieve information from electronic sources.,TEST_ONLY_31,1.0
+32,Gather information in order to provide services to clients.,TEST_ONLY_32,1.0
+33,"Search files, databases or reference materials to obtain needed information.",TEST_ONLY_33,1.0
+34,Collect archival data.,TEST_ONLY_34,1.0
+35,Evaluate information related to legal matters in public or personal records.,TEST_ONLY_35,1.0
+36,Research relevant legal materials to aid decision making.,TEST_ONLY_36,1.0
+37,Gather organizational performance information.,TEST_ONLY_37,1.0
+38,Gather information about work conditions or locations.,TEST_ONLY_38,1.0
+39,Gather physical survey data.,TEST_ONLY_39,1.0
+40,Collect data about project sites.,TEST_ONLY_40,1.0
+41,Obtain information about goods or services.,TEST_ONLY_41,1.0
+42,Research hydrologic features or processes.,TEST_ONLY_42,1.0
+43,Research geological features or processes.,TEST_ONLY_43,1.0
+44,Conduct climatological research.,TEST_ONLY_44,1.0
+45,Conduct surveys in organizations.,TEST_ONLY_45,1.0
+46,Research industrial processes or operations.,TEST_ONLY_46,1.0
+47,Conduct scientific research of organizational behavior or processes.,TEST_ONLY_47,1.0
+48,Research impacts of environmental conservation initiatives.,TEST_ONLY_48,1.0
+49,Research issues related to the environment or sustainable business practices.,TEST_ONLY_49,1.0
+50,Investigate the environmental impact of projects.,TEST_ONLY_50,1.0
+51,Monitor environmental impacts of production or development activities.,TEST_ONLY_51,1.0
+52,Research environmental impact of industrial or development activities.,TEST_ONLY_52,1.0
+53,Identify environmental concerns.,TEST_ONLY_53,1.0
+54,Evaluate environmental impact of operational or development activities.,TEST_ONLY_54,1.0
+55,Gather information for news stories.,TEST_ONLY_55,1.0
+56,Gather medical information from patient histories.,TEST_ONLY_56,1.0
+57,"Collect medical information from patients, family members, or other medical professionals.",TEST_ONLY_57,1.0
+58,"Collect information from people through observation, interviews, or surveys.",TEST_ONLY_58,1.0
+59,Collect information about clients.,TEST_ONLY_59,1.0
+60,Research livestock management methods.,TEST_ONLY_60,1.0
+61,Research crop management methods.,TEST_ONLY_61,1.0
+62,Research sustainable agricultural processes or practices.,TEST_ONLY_62,1.0
+63,Conduct market research.,TEST_ONLY_63,1.0
+64,Gather customer or product information to determine customer needs.,TEST_ONLY_64,1.0
+65,Obtain personal or financial information about customers or applicants.,TEST_ONLY_65,1.0
+66,Conduct opinion surveys or needs assessments.,TEST_ONLY_66,1.0
+67,Collect data about customer needs.,TEST_ONLY_67,1.0
+68,Observe individuals' activities to gather information or compile evidence.,TEST_ONLY_68,1.0
+69,Investigate personal characteristics or activities of individuals.,TEST_ONLY_69,1.0
+70,Research genetic characteristics or expression.,TEST_ONLY_70,1.0
+71,Research diseases or parasites.,TEST_ONLY_71,1.0
+72,Conduct research of processes in natural or industrial ecosystems.,TEST_ONLY_72,1.0
+73,Research microbiological or chemical processes or structures.,TEST_ONLY_73,1.0
+74,Classify organisms based on their characteristics or behavior.,TEST_ONLY_74,1.0
+75,Examine characteristics or behavior of living organisms.,TEST_ONLY_75,1.0
+76,Obtain documentation to authorize activities.,TEST_ONLY_76,1.0
+77,Obtain copyrights or other legal permissions.,TEST_ONLY_77,1.0
+78,Obtain written authorization to perform activities.,TEST_ONLY_78,1.0
+79,Conduct anthropological or archaeological research.,TEST_ONLY_79,1.0
+80,Conduct historical research.,TEST_ONLY_80,1.0
+81,Conduct research on social issues.,TEST_ONLY_81,1.0
+82,Research social issues.,TEST_ONLY_82,1.0
+83,Conduct research to increase knowledge about medical issues.,TEST_ONLY_83,1.0
+84,Collect information about community health needs.,TEST_ONLY_84,1.0
+85,Research engineering aspects of biological or chemical processes.,TEST_ONLY_85,1.0
+86,Research engineering applications of emerging technologies.,TEST_ONLY_86,1.0
+87,Research design or application of green technologies.,TEST_ONLY_87,1.0
+88,Conduct research to gain information about products or processes.,TEST_ONLY_88,1.0
+89,Research advanced engineering designs or applications.,TEST_ONLY_89,1.0
+90,"Research energy production, use, or conservation.",TEST_ONLY_90,1.0
+91,Research human performance or health factors related to engineering or design activities.,TEST_ONLY_91,1.0
+92,Research new technologies.,TEST_ONLY_92,1.0
+93,Research product safety.,TEST_ONLY_93,1.0
+94,Research methods to improve food products.,TEST_ONLY_94,1.0
+95,Investigate accidents to determine causes.,TEST_ONLY_95,1.0
+96,Examine debris to obtain information about causes of fires.,TEST_ONLY_96,1.0
+97,"Investigate transportation incidents, violations, or complaints.",TEST_ONLY_97,1.0
+98,Investigate industrial or transportation accidents.,TEST_ONLY_98,1.0
+99,"Investigate system, equipment, or product failures.",TEST_ONLY_99,1.0
+100,Investigate work related complaints to determine corrective actions.,TEST_ONLY_100,1.0
+101,Investigate safety of work environment.,TEST_ONLY_101,1.0
+102,"Interview employees, customers, or others to collect information.",TEST_ONLY_102,1.0
+103,Interview others for news or entertainment purposes.,TEST_ONLY_103,1.0
+104,Interview clients to gather financial information.,TEST_ONLY_104,1.0
+105,Interview people to obtain information about actions or status of individuals.,TEST_ONLY_105,1.0
+106,Interview people to gather information about criminal activities.,TEST_ONLY_106,1.0
+107,Interview patients to gather medical information.,TEST_ONLY_107,1.0
+108,Interview claimants to get information related to legal proceedings.,TEST_ONLY_108,1.0
+109,"Interview clients to gather information about their backgrounds, needs, or progress.",TEST_ONLY_109,1.0
+110,"Interview witnesses, suspects, or claimants.",TEST_ONLY_110,1.0
+111,Monitor broadcasting operations to ensure proper functioning.,TEST_ONLY_111,1.0
+112,Monitor medical equipment to ensure proper functioning.,TEST_ONLY_112,1.0
+113,Monitor engine operation or functioning.,TEST_ONLY_113,1.0
+114,Monitor lubrication of equipment or workpieces.,TEST_ONLY_114,1.0
+115,Monitor equipment operation to ensure proper functioning.,TEST_ONLY_115,1.0
+116,Observe equipment in operation to detect potential problems.,TEST_ONLY_116,1.0
+117,Watch operating equipment to detect malfunctions.,TEST_ONLY_117,1.0
+118,"Monitor green energy equipment, systems, or facilities.",TEST_ONLY_118,1.0
+119,Assess equipment functioning.,TEST_ONLY_119,1.0
+120,Monitor equipment operation to ensure that products are not flawed.,TEST_ONLY_120,1.0
+121,Monitor instruments to ensure proper production conditions.,TEST_ONLY_121,1.0
+122,Monitor video displays of medical equipment to ensure proper functioning.,TEST_ONLY_122,1.0
+123,Monitor equipment gauges or displays to ensure proper operation.,TEST_ONLY_123,1.0
+124,Monitor equipment fluid levels.,TEST_ONLY_124,1.0
+125,Monitor industrial energy consumption or management.,TEST_ONLY_125,1.0
+126,Monitor facilities or operational systems.,TEST_ONLY_126,1.0
+127,Monitor operational quality or safety.,TEST_ONLY_127,1.0
+128,Monitor extraction operations.,TEST_ONLY_128,1.0
+129,Monitor organizational procedures to ensure proper functioning.,TEST_ONLY_129,1.0
+130,Monitor construction operations.,TEST_ONLY_130,1.0
+131,Monitor vehicle movement or location.,TEST_ONLY_131,1.0
+132,Monitor recreational facility operations.,TEST_ONLY_132,1.0
+133,Inspect operational processes.,TEST_ONLY_133,1.0
+134,Track goods or materials.,TEST_ONLY_134,1.0
+135,Monitor food services operations to ensure procedures are followed.,TEST_ONLY_135,1.0
+136,Monitor loading processes to ensure they are performed properly.,TEST_ONLY_136,1.0
+137,Monitor biofuel production operations.,TEST_ONLY_137,1.0
+138,Inspect cargo to ensure it is properly loaded or secured.,TEST_ONLY_138,1.0
+139,Monitor the productivity or efficiency of industrial operations.,TEST_ONLY_139,1.0
+140,Monitor operational procedures in technical environments to ensure conformance to standards.,TEST_ONLY_140,1.0
+141,Inspect operations of green energy facilities.,TEST_ONLY_141,1.0
+142,Monitor conditions at energy-producing landfills.,TEST_ONLY_142,1.0
+143,Monitor the handling of hazardous materials or medical wastes.,TEST_ONLY_143,1.0
+144,Monitor organizational processes.,TEST_ONLY_144,1.0
+145,Monitor financial information.,TEST_ONLY_145,1.0
+146,Monitor financial activities.,TEST_ONLY_146,1.0
+147,Monitor sales activities.,TEST_ONLY_147,1.0
+148,Monitor flow of cash or other resources.,TEST_ONLY_148,1.0
+149,Monitor financial indicators.,TEST_ONLY_149,1.0
+150,Monitor business indicators.,TEST_ONLY_150,1.0
+151,Monitor traffic signals.,TEST_ONLY_151,1.0
+152,Time vehicle speed or traffic-control equipment operation.,TEST_ONLY_152,1.0
+153,Monitor patient progress or responses to treatments.,TEST_ONLY_153,1.0
+154,Monitor clients to evaluate treatment progress.,TEST_ONLY_154,1.0
+155,Monitor patients following surgeries or other treatments.,TEST_ONLY_155,1.0
+156,Monitor animal behavior or condition.,TEST_ONLY_156,1.0
+157,Monitor health or behavior of people or animals.,TEST_ONLY_157,1.0
+158,Monitor patients to detect health problems.,TEST_ONLY_158,1.0
+159,"Monitor patient conditions during treatments, procedures, or activities.",TEST_ONLY_159,1.0
+160,Monitor nutrition related activities of individuals or groups.,TEST_ONLY_160,1.0

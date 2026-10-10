@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+133,Inspect operational processes.,0.24552215875564018,0.05558937362640361
+223,Test patient nervous system functioning.,0.17384709338022536,0.054759036519984566
+313,Test facilities for environmental hazards.,0.20546649374618448,0.050446171942827606
+322,Test electrical circuits or components for proper functioning.,0.22077147449270035,0.0451931788220471
+359,Evaluate characteristics of individuals to determine needs or eligibility.,0.33948003204147215,0.06572714434994784
+360,Assess individual or community needs for educational or social services.,0.3397040979562049,0.07131675967501626
+462,Analyze market conditions or trends.,0.3073380003256468,0.06574669799036009
+672,Protect wildlife or natural areas.,0.18637504845703343,0.054921772847704935
+733,Develop mathematical models of environmental conditions.,0.32771873178782457,0.0563808701440548
+751,Attend training to learn new skills or update knowledge.,0.27563640688155316,0.06412521339649116
+780,Develop procedures to evaluate organizational activities.,0.32289362443042535,0.0772864063145779
+854,Remove trash.,0.12227532994956891,0.030780967960775635
+1026,Prepare medical instruments or equipment for use.,0.27250183126642324,0.056025494477308015
+1054,Smooth surfaces of objects or equipment.,0.14681474658687804,0.04071911472921105
+1068,Disassemble equipment to inspect for deficiencies.,0.22161855845703307,0.04513118418107886
+1123,Apply sealants or other protective coatings.,0.08801005478682168,0.038328012911080206
+1193,Set up still or video cameras or related equipment.,0.19856806160152576,0.05743072568939803
+1242,Operate energy distribution equipment.,0.2017877026999,0.04616885139190364
+1597,Discuss account status or activity with customers or patrons.,0.23853689654495636,0.0485639791649771
+1615,Refer individuals to educational or work programs.,0.28199427572893154,0.06749892937384623
+1616,Refer clients to community or social service programs.,0.15825447447130087,0.06604249085674538
+1783,Engage patients in exercises or activities.,0.2735665032924695,0.06905129321146308
+1845,Manage organizational or project budgets.,0.22915401093928425,0.06691216650900542
+1874,Manage guest services.,0.1944853075945583,0.04975610534645697
+1902,"Direct organizational operations, projects, or services.",0.2776880092891508,0.07237627844241354
+1911,Manage documentation to ensure organization or accuracy.,0.3329758636519567,0.05595631227776771
+1930,Provide medical or cosmetic advice for clients.,0.1346251209143993,0.05505886762792169
+1976,Advise others on management of emergencies or hazardous situations or materials.,0.2769644982261109,0.060458449533450115
+2029,"Hire farming, fishing or forestry workers.",0.10050701212599887,0.04133387939726554
+2041,Distribute instructional or library materials.,0.28552862089084274,0.05650802722876993
+2042,Allocate physical resources within organizations.,0.29430490157680866,0.06053576277461003
+2061,Prescribe treatments or therapies.,0.16468263385136037,0.06374649130196652

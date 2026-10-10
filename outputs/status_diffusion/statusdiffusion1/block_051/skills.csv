@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+134,Track goods or materials.,0.24298997115278725,0.051421491562502135
+208,Label production materials.,0.23552502247611148,0.046086751331554
+249,Inspect facilities to ensure compliance with fire regulations.,0.2436493210809565,0.05832608275054114
+469,Analyze risks to minimize losses or damages.,0.29495769449286496,0.059101968978350954
+498,Evaluate logistics methods to reduce environmental impact.,0.15165058080930632,0.04802638930993349
+514,Analyze budgetary or accounting data.,0.2854966930192437,0.0630301824262889
+554,Rule on admissibility of legal proceedings.,0.20546283763030912,0.05337516586685826
+571,Estimate materials requirements for projects.,0.25779744612392175,0.05108078453215356
+643,Incorporate green features into the design of structures or facilities.,0.20345409654931476,0.04918651482758189
+762,"Develop operating strategies, plans, or procedures.",0.3272658376350376,0.07856966958593399
+827,Clean equipment or supplies.,0.21278919316008651,0.054725632595903934
+830,Clean patient rooms or patient treatment rooms.,0.19376422670023277,0.05709097251732299
+921,Transport clients to appointments.,0.18384292361546065,0.0539586114361171
+1011,Calibrate scientific or technical equipment.,0.2417876127563042,0.054374385800842855
+1065,Direct vehicle traffic.,0.1476662771190111,0.032878582799233565
+1127,Lay cables to connect equipment.,0.17857685666440012,0.04385966217652601
+1237,Operate industrial equipment.,0.2072067600403123,0.05276791027953704
+1323,Lubricate production equipment.,0.15586019514963492,0.04322131932434562
+1402,"Maintain records, documents, or other files.",0.23703821284820942,0.055964693589507945
+1418,Maintain call records.,0.15175538962259508,0.04109476095570042
+1480,Inform others about laws or regulations.,0.24397360458958212,0.06021979574012721
+1579,Confer with customers or users to assess problems.,0.3106755410583931,0.06311584113214037
+1683,Merchandise healthcare products or services.,0.21488244896698738,0.06303565290249011
+1695,Deliver promotional presentations to current or prospective customers.,0.2741513534248506,0.06802590628168642
+1881,Manage operations of artistic or entertainment departments or organizations.,0.24684808990046517,0.06844526881176226
+1887,Direct industrial production activities.,0.2225688654849039,0.055336004690825336
+1995,Type documents.,0.2593587575746523,0.04543519721857363
+1998,Perform administrative or clerical tasks.,0.2037027814479097,0.057614765854039095
+2034,"Maintain food, beverage, or equipment inventories.",0.23281610843082257,0.05815721165679056
+2039,Maintain the inventory of equipment.,0.23841284985832803,0.05574892767481018
+2046,Provide educational materials to community members.,0.3389910899213674,0.06519856698775857
+2054,Order instructional or library materials or equipment.,0.36171719789515416,0.05940241196018836

@@ -1,6 +1,20 @@
 # --- Data (heavy, kept local only) ---
 data/
 !data/.gitkeep
+release_data/
+data_manifest.json
+data_inventory.csv
+
+# Source-like analytical inputs and large generated matrices remain local.
+outputs/**/*.npy
+outputs/**/panel.csv.gz
+outputs/**/candidate_edges.csv.gz
+outputs/**/matched_edges_*.csv
+outputs/**/match_2015_*.csv
+outputs/**/name_lookup.csv
+outputs/**/ambiguous_names.csv
+outputs/**/institution_match_audit.csv
+outputs/**/field_match_audit.csv
 
 # --- R ---
 .Rproj.user/

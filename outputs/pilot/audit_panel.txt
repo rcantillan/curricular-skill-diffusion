@@ -1,0 +1,73 @@
+AUDITORIA DEL PANEL -- sin reestimar modelos
+
+Unidad: perfil agregado institution-field-year, no syllabus individual
+Perfiles: 144990 
+Instituciones: 1500 
+Fields: 59 
+Syllabi representados: 1437019 
+Mediana de syllabi por perfil: 2 
+Fraccion con uno: 0.3922271 
+Fraccion con menos de diez: 0.8444858 
+Pares observados: 119278 
+Pares consecutivos: 89514 
+Pares con gaps: 29764 
+Fraccion con gaps: 0.2495347 
+
+COVERAGE EN AMBOS EXTREMOS DE LA TRANSICION
+   min_syllabi_both_years annual_profile_pairs fraction_of_annual_pairs
+                    <int>                <int>                    <num>
+1:                      1                89514                1.0000000
+2:                      3                40590                0.4534486
+3:                      5                27019                0.3018411
+4:                      9                16745                0.1870657
+   institutions fields
+          <int>  <int>
+1:         1235     58
+2:          911     57
+3:          734     56
+4:          529     54
+
+COBERTURA ANUAL
+     year profiles institutions fields represented_syllabi median_syllabi
+    <int>    <int>        <int>  <int>               <int>          <num>
+ 1:  2000     5146          854     54               16591              1
+ 2:  2001     7419          967     55               24523              2
+ 3:  2002     9667         1052     57               36694              2
+ 4:  2003    10795         1097     57               47922              2
+ 5:  2004    10055         1092     57               42731              2
+ 6:  2005     9051         1076     57               39998              2
+ 7:  2006     8861         1037     58               43711              2
+ 8:  2007     7433          997     57               39746              2
+ 9:  2008     7000          948     56               38616              2
+10:  2009     6628          912     54               42085              2
+11:  2010     6372          861     56               60771              2
+12:  2011     6623          885     57               77159              2
+13:  2012     7128          911     57               93882              2
+14:  2013     7881          954     57              117330              2
+15:  2014     8490          961     56              144203              3
+16:  2015     8806          993     57              175475              3
+17:  2016     9342         1000     58              198789              3
+18:  2017     8293          918     58              196793              3
+    fraction_single consecutive_pairs gap_pairs
+              <num>             <int>     <int>
+ 1:       0.5128255                 0         0
+ 2:       0.4674484              3373         0
+ 3:       0.4038481              5172       822
+ 4:       0.3733210              6643      1204
+ 5:       0.3968175              7027      1362
+ 6:       0.4248149              6206      1735
+ 7:       0.4233157              5805      2146
+ 8:       0.4375084              5011      1727
+ 9:       0.4378571              4399      1975
+10:       0.4437236              4147      1944
+11:       0.4031701              3948      1864
+12:       0.3915144              4113      2017
+13:       0.3773850              4514      2122
+14:       0.3611217              5005      2306
+15:       0.3436985              5531      2359
+16:       0.3335226              5958      2234
+17:       0.3181332              6422      2295
+18:       0.2965151              6240      1652
+
+Los RDS de eventos y tablas anteriores siguen siendo resultados legacy.
+No se han regenerado ni deben confundirse con eventos anuales corregidos.

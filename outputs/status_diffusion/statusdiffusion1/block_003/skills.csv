@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+82,Research social issues.,0.34725376564532184,0.07161007645343344
+112,Monitor medical equipment to ensure proper functioning.,0.23073653329147334,0.05665336667238749
+165,Enforce rules or policies governing student behavior.,0.34743271366290585,0.07760420298090127
+175,Monitor alarm systems.,0.1928932192005641,0.04323477788885722
+186,Measure environmental characteristics.,0.25517617999883885,0.05350339093035339
+196,Monitor organizational compliance with regulations.,0.22895468421051754,0.06367260125027681
+210,Identify opportunities for green initiatives.,0.2266080950300269,0.05461762281010256
+291,Inspect equipment to ensure proper functioning.,0.23358360863288014,0.05213914931258112
+319,Measure equipment outputs.,0.1962402285845221,0.04576595506001862
+387,"Assess the cost effectiveness of products, projects, or services.",0.28994817137408724,0.06839778783224969
+471,Analyze data to identify trends or relationships among variables.,0.32023777803251596,0.053190255525096104
+481,Analyze patient data to determine patient needs or treatment goals.,0.30763784848224995,0.0691377539667447
+564,Determine resource needs.,0.3467208253044123,0.0569010364491551
+625,Develop library or archival databases.,0.26589646132913075,0.04987856847475707
+679,Plan programs to address community health issues.,0.24796225251144582,0.06308666249837862
+742,Maintain current knowledge related to work activities.,0.3205002261960846,0.058587938069374235
+753,Maintain professional knowledge or certifications.,0.31138078982664374,0.07131072098135188
+777,Develop data analysis or data management procedures.,0.35178996644243565,0.06750090776602208
+852,Dispose of hazardous materials.,0.1917074710718324,0.04789651374835659
+877,Apply adhesives to construction materials.,0.16171415429933658,0.04179231313803116
+911,Confiscate prohibited or dangerous items.,0.20704276955822878,0.04504940292000111
+947,Build agricultural structures.,0.2209174983550097,0.04428553658490818
+1063,Fabricate medical devices.,0.18852897228438903,0.04636492697942492
+1082,Apply solutions to hair for therapeutic or cosmetic purposes.,0.19366682493729234,0.040246639530456554
+1126,Connect hoses to equipment or piping.,0.1954071705577307,0.041960665918082854
+1219,"Operate control consoles for sound, lighting or video.",0.19640834051128112,0.051711695106917074
+1310,Maintain office equipment in proper operating condition.,0.23926724716854592,0.05846013349909561
+1344,Repair production equipment or tools.,0.1752890442693209,0.054614707054592135
+1454,"Prepare documentation for contracts, transactions, or regulatory compliance.",0.32155387101791644,0.05711455077280176
+1617,Treat patients using psychological therapies.,0.26072470000663545,0.0733211417337333
+1687,Sell products or services.,0.17764327348025882,0.06193469020676162
+1774,Train staff members in social services skills.,0.2852617532337421,0.07704224388326703

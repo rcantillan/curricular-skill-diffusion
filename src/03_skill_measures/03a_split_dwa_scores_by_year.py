@@ -4,7 +4,7 @@
 OBJETIVO
 --------
 Convertir la matriz ancha de scores DWA (`detailed_work_activities_scores.gzip`,
-un score por combinacion syllabus-id x Detailed Work Activity) a formato largo
+un score promedio por institution-field-year ID x Detailed Work Activity) a formato largo
 y segmentarla en archivos anuales (skills_by_year/skills_<year>.csv).
 
 CORRECCION CLAVE (respecto a 006.py original)
@@ -33,6 +33,9 @@ FECHA: Junio 2026
 """
 import pandas as pd
 import os
+
+# Public Atlas IDs identify aggregated institution-field-year profiles, not
+# individual syllabi. The metadata's syllabi_cnt records their underlying size.
 
 RAW_SCORES_PATH = "data/raw/detailed_work_activities_scores.gzip"
 META_PATH = "data/raw/institution_fos_year.gzip"

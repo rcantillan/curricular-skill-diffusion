@@ -1,0 +1,18 @@
+VALIDACION DE MEDICION -- sin modelos de difusion ni efectos fiscales
+
+DWAs fuente: 2070
+Tabla comparativa: outcomes 2002--2017 para ambos benchmarks.
+Benchmark fijo: 2000--2001. CSV por año incluye 2001 para reconciliar legacy.
+
+ coverage      universe  profile_pairs  adoption_risk  abandonment_risk  adoption_rate  abandonment_rate  fixed_adoption_rate  fixed_abandonment_rate  fraction_entries_increasing_score  fraction_entries_increasing_share  entry_survival_next_year  exit_survival_next_year
+        1      all_dwas          86141       97452608          80859262        0.28937           0.34980              0.28865                 0.34819                            0.82254                            0.99965                   0.49647                  0.57360
+        1 legacy_top100          86141        4586128           4027972        0.28737           0.32721              0.26574                 0.34614                            0.79407                            0.99943                   0.51291                  0.55452
+        3      all_dwas          39664       44933399          37171081        0.22653           0.27533              0.22579                 0.27336                            0.83154                            0.99948                   0.51329                  0.58551
+        3 legacy_top100          39664        2077621           1888779        0.22386           0.24708              0.20088                 0.26603                            0.80437                            0.99914                   0.53640                  0.55756
+        5      all_dwas          26598       30267174          24790686        0.19230           0.23611              0.19140                 0.23369                            0.83758                            0.99924                   0.52470                  0.59491
+        5 legacy_top100          26598        1413280           1246520        0.18569           0.20939              0.16314                 0.22777                            0.80899                            0.99875                   0.54797                  0.56721
+        9      all_dwas          16574       18982032          15326148        0.15546           0.19399              0.15422                 0.19082                            0.84620                            0.99882                   0.54487                  0.60871
+        9 legacy_top100          16574         907648            749752        0.14333           0.17377              0.12180                 0.19099                            0.81919                            0.99806                   0.55827                  0.58891
+
+Los intervalos con gaps se guardaron por separado; sus tasas NO son hazards anuales.
+Los archivos legacy y manuscript permanecen sin sobrescritura.

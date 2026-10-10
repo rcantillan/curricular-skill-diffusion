@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+141,Inspect operations of green energy facilities.,0.227036531879231,0.04567726480834695
+144,Monitor organizational processes.,0.27339402554628395,0.061242292410733284
+198,Monitor processes for compliance with standards.,0.26725019919674864,0.06283415637227512
+230,Test characteristics of materials or structures.,0.25824309871748524,0.053476282112799214
+235,Inspect mechanical components of vehicles to identify problems.,0.21993704519857343,0.04370783721470776
+242,"Inspect facilities, equipment or supplies to ensure conformance to standards.",0.2745263390097882,0.0630704751170216
+263,Inspect finished products to locate flaws.,0.24287403540892583,0.04800758375212005
+272,Inspect completed work to ensure proper installation.,0.2166510411721959,0.047034364719127204
+368,Assess educational needs of students.,0.40391875199966865,0.07842646093726806
+577,Implement advertising or marketing initiatives.,0.2155675736106499,0.06967560497837337
+597,Modify treatment plans to accommodate client needs.,0.2305270898501988,0.06390676009948529
+640,Develop health assessment methods or programs.,0.3106092996345394,0.07602870461626154
+698,Create graphical representations of mechanical equipment.,0.2218868819706373,0.05516313278917808
+723,Plan social sciences research.,0.33518831260617094,0.062359920688412986
+807,Plan flight operations.,0.23056229328583236,0.05125231810108477
+938,"Irrigate lawns, trees, or plants.",0.124287490703384,0.039286371212703716
+944,Install metal structural components.,0.14611662232201345,0.0409855522320008
+959,Collect samples for analysis or testing.,0.3252445353802255,0.06020742630544782
+1006,Decorate indoor or outdoor spaces.,0.1803107153641835,0.048423407172553265
+1059,Install solar energy systems.,0.13949156030225565,0.03982819014256592
+1182,Locate animals for fishing or hunting purposes.,0.21133082965179173,0.042599141906301485
+1206,Operate drilling equipment.,0.17199863648639685,0.04365320821152703
+1304,Repair structural components.,0.16678775502587925,0.03768780558682633
+1447,Prepare instruction manuals.,0.33419280765079706,0.05586407058502731
+1552,Collaborate with others to determine production details.,0.29299102370686647,0.06285965557907262
+1622,Give medications or immunizations.,0.11791195468836616,0.05167793266059357
+1628,Immunize patients.,0.14842291484986708,0.04600080104392162
+1640,Assist others during emergencies.,0.21903685138752435,0.055012370540504126
+1653,Assist disabled or incapacitated individuals.,0.23176909166605905,0.06618901917201732
+1755,Train personnel on proper operational procedures.,0.31049050562690805,0.06991650757678178
+1773,Train service staff.,0.22006135767634408,0.05495929676385137
+2062,Control prescription refills or authorizations.,0.16186910676308017,0.04600484340836235

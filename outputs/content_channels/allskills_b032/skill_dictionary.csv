@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+7,Read work orders or other instructions to determine product specifications or materials requirements.,0.24025118552206384,0.05398711124579736
+41,Obtain information about goods or services.,0.27610397829512295,0.05630775297795917
+64,Gather customer or product information to determine customer needs.,0.33095456377903143,0.06772335670046972
+157,Monitor health or behavior of people or animals.,0.2550479513923355,0.05253579256531418
+242,"Inspect facilities, equipment or supplies to ensure conformance to standards.",0.2745263390097882,0.0630704751170216
+327,Measure radiation levels.,0.18095139502206328,0.05029183716899969
+340,Estimate time or monetary resources needed to complete projects.,0.24164387874933677,0.05350419655204203
+348,Compute gaming wins and losses.,0.17709310190494354,0.045423754555185936
+350,Compute debt repayment schedules.,0.19829820286214364,0.0479818551208963
+373,Evaluate current or prospective maintenance employees.,0.2585638662103511,0.06026885978136653
+387,"Assess the cost effectiveness of products, projects, or services.",0.28994817137408724,0.06839778783224969
+449,Examine financial records to ensure compliance with policies or regulations.,0.21643301648855331,0.0605822543410789
+574,Implement organizational process or policy changes.,0.2771249793370945,0.07353995318216337
+578,Implement financial decisions.,0.2764608989094225,0.06937796139406821
+599,Establish treatment goals.,0.27730438894044424,0.078690884621201
+687,Create construction or installation diagrams.,0.2432317178614792,0.05433962997696958
+1207,Operate heavy-duty construction or installation equipment.,0.1861412545008059,0.054742349524468346
+1245,Lift materials or workpieces using cranes or other lifting equipment.,0.22390643304661564,0.04366449643640748
+1250,Operate communications equipment or systems.,0.23301206200281963,0.05697706067542235
+1262,Drive vehicles to transport individuals or equipment.,0.19997710045272035,0.04712657913948003
+1321,Maintain fire fighting tools or equipment.,0.19378407734074285,0.05108166081693924
+1469,Write operational reports.,0.31636612730524283,0.06498627203601666
+1483,"Explain regulations, policies, or procedures.",0.22789771511745177,0.05685421317583594
+1510,Liaise between departments or other groups to improve function or communication.,0.31123388830374965,0.06887930831973649
+1537,Confer with personnel to coordinate business operations.,0.2839635130444587,0.06885968744975446
+1661,"Make travel, accommodations, or entertainment arrangements for others.",0.1899962539266755,0.04834875083145906
+1666,Assist practitioners to perform medical procedures.,0.2535266590190774,0.06282990280557746
+1675,"Treat acute illnesses, infections, or injuries.",0.21030772864698052,0.059747351656077884
+1700,"Promote products, services, or programs.",0.2341989003621427,0.0707864719288465
+1816,Coordinate athletic or sporting events or activities.,0.2510885521225941,0.0594159053824889
+1899,Coordinate resource procurement activities.,0.2247356316332117,0.06161543542533753
+1913,Manage organizational security activities.,0.2022172036234244,0.06055177922411222

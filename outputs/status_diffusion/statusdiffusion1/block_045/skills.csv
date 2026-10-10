@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+7,Read work orders or other instructions to determine product specifications or materials requirements.,0.24025118552206384,0.05398711124579736
+45,Conduct surveys in organizations.,0.3062949296433313,0.06884442138920488
+56,Gather medical information from patient histories.,0.2769249860121101,0.05734907339683511
+77,Obtain copyrights or other legal permissions.,0.1012991172891174,0.03939210004413313
+217,Test patient heart or lung functioning.,0.18287323206619158,0.057448327425307366
+267,Check quality of foods or supplies.,0.20155640776156197,0.04747652559585823
+282,Conduct validation tests of equipment or processes.,0.303439330905275,0.06028734761677566
+310,Inspect materials or equipment to determine need for repair or replacement.,0.23522846195172523,0.050188518444621466
+350,Compute debt repayment schedules.,0.19829820286214364,0.0479818551208963
+366,"Evaluate training programs, instructors, or materials.",0.3727775795540808,0.0701310513175957
+432,Examine marketing materials to ensure compliance with policies or regulations.,0.24249068246565972,0.0587533081659194
+455,Analyze environmental data.,0.28940675075165906,0.05463607044146167
+662,Plan experiential learning activities.,0.37094479343231584,0.0779023843386741
+750,"Conduct research to inform art, designs, or other work.",0.34149864918430567,0.05856547810367011
+920,Accompany individuals or groups to activities.,0.28124567006602635,0.0644898535830315
+929,Participate in physical training to maintain fitness.,0.15632505591887852,0.05394288257597937
+974,Assemble equipment or components.,0.2197190295719981,0.053197183406954084
+987,Sew clothing or other articles.,0.1401834897133374,0.04055940754616479
+1014,Adjust temperature controls of ovens or other heating equipment.,0.18367337877720627,0.03834012495900903
+1041,Prepare excavation or extraction sites for commissioning or decommissioning.,0.1962076168762437,0.042373158910616764
+1070,Dismantle equipment or temporary structures.,0.18883593353998043,0.04637593852083812
+1087,Position construction forms or molds.,0.2314871731914403,0.04401471169756615
+1256,Operate grinding equipment.,0.16224731408692772,0.04114469970937125
+1442,Create technology-based learning materials.,0.3773001272876578,0.06365666143548163
+1602,"Provide basic information to guests, visitors, or clients.",0.3130158887607828,0.059332568336885015
+1641,"Fit eyeglasses, contact lenses, or other vision aids.",0.14350309278798992,0.02922223155974854
+1698,"Promote products, activities, or organizations.",0.25112358627786996,0.07219087153819588
+1805,Supervise employees.,0.24941319754047728,0.06895300762343774
+1859,Coordinate student extracurricular activities.,0.303464323766589,0.06615729772479019
+1862,Organize special events.,0.23549374546002091,0.056563510029193846
+1918,Direct law enforcement activities.,0.20214306408294602,0.0556926192580987
+2022,Process forensic or legal evidence in accordance with procedures.,0.27026065001592553,0.052457815755032465

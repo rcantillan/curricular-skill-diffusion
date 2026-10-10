@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+59,Collect information about clients.,0.29238047137508344,0.06090095632649476
+179,Patrol natural areas to ensure safety or enforce regulations.,0.19362190960235506,0.05380355588347387
+192,Monitor computer system performance to ensure proper operation.,0.26856449108410646,0.05696714250481802
+293,"Inspect mechanical equipment to locate damage, defects, or wear.",0.23148357842883208,0.0483150571068617
+393,Evaluate characteristics of equipment or systems.,0.2904113714792625,0.05935490622876937
+407,Verify accuracy of data.,0.16698288887461799,0.046310862324260064
+489,Evaluate energy production data.,0.21435358302305957,0.04816238541096072
+739,Maintain professional social services knowledge.,0.2628191376566015,0.0718178416356797
+774,Establish standards for medical care.,0.25911605404495663,0.0640961405507787
+887,Clean objects.,0.16554816887889837,0.035912722585798196
+891,Clean medical equipment or facilities.,0.19988654539515524,0.057654833086735614
+899,Move furniture.,0.12997844716547788,0.0345306361471802
+901,Move construction or extraction materials to locations where they are needed.,0.22545489230723245,0.049626944452503007
+949,Install trim or paneling.,0.07930261353648296,0.03242611738760905
+1093,Position material handling equipment.,0.20411752350630427,0.0496331231821353
+1148,Store records or related materials.,0.2319310578946577,0.05046543324477199
+1298,Enter codes or other information into computers.,0.17101938955764762,0.05237244589980097
+1381,Record information about environmental conditions.,0.287590619379728,0.04991799404208383
+1523,Confer with others to resolve production problems or equipment malfunctions.,0.282634419431487,0.05995467281894364
+1536,Collaborate with others to develop or implement marketing strategies.,0.28481810011197806,0.074513249720528
+1540,Collaborate with other professionals to develop education or assistance programs.,0.3401833925507631,0.07310511406501306
+1546,Notify others of equipment problems.,0.21543659086844752,0.04953598809573317
+1575,Confer with court staff to clarify information.,0.22091765361761875,0.04861219541907395
+1589,Explain project details to the general public.,0.29316157294210377,0.06038646277045209
+1613,Help clients get needed services or resources.,0.2811732691630719,0.069525771117937
+1690,Demonstrate products to consumers.,0.2764380827455207,0.06009756191055523
+1795,Supervise trainees.,0.30138392331469827,0.07066544738318441
+1815,Coordinate musical rehearsals or performances.,0.22060103611994025,0.056316654956512585
+1857,Manage construction activities.,0.22673925547611107,0.05315714604516413
+1860,Coordinate special events or programs.,0.27030348611065086,0.05806487481530091
+1937,Advise others about environmental management or conservation.,0.2300833602096887,0.052512471538794354
+2009,Take customer orders.,0.2164682271214333,0.060670380231618484

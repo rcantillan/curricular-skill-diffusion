@@ -1,0 +1,929 @@
+unitid,institution_name,community,programs
+100663,University of Alabama at Birmingham,1,1
+100706,University of Alabama in Huntsville,4,1
+100751,"University of Alabama, Tuscaloosa",0,2
+100751,"University of Alabama, Tuscaloosa",1,6
+100751,"University of Alabama, Tuscaloosa",2,13
+100751,"University of Alabama, Tuscaloosa",4,1
+100751,"University of Alabama, Tuscaloosa",5,1
+100751,"University of Alabama, Tuscaloosa",6,9
+100751,"University of Alabama, Tuscaloosa",7,1
+100858,Auburn University,0,1
+101435,Huntingdon College,6,1
+101693,University of Mobile,2,1
+102368,Troy University,0,1
+102368,Troy University,2,3
+102614,University of Alaska Fairbanks,1,1
+102614,University of Alaska Fairbanks,2,1
+102614,University of Alaska Fairbanks,5,1
+102614,University of Alaska Fairbanks,7,1
+104151,Arizona State University,0,1
+104151,Arizona State University,2,5
+104151,Arizona State University,4,1
+104151,Arizona State University,5,2
+104151,Arizona State University,6,2
+104151,Arizona State University,7,1
+104179,University of Arizona,0,1
+104179,University of Arizona,1,1
+104179,University of Arizona,2,1
+104179,University of Arizona,4,1
+104179,University of Arizona,5,1
+104179,University of Arizona,6,3
+104179,University of Arizona,7,1
+105330,Northern Arizona University,0,1
+105330,Northern Arizona University,2,3
+105330,Northern Arizona University,6,1
+105330,Northern Arizona University,7,1
+106245,University of Arkansas at Little Rock,6,1
+106263,University of Arkansas for Medical Sciences,2,1
+106397,University of Arkansas at Fayetteville,4,1
+106397,University of Arkansas at Fayetteville,6,1
+108232,Academy of Art University,1,3
+110404,California Institute of Technology,5,1
+110422,California Polytechnic State University,1,1
+110422,California Polytechnic State University,5,1
+110422,California Polytechnic State University,6,1
+110486,"California State University, Bakersfield",2,1
+110486,"California State University, Bakersfield",6,1
+110510,"California State University, San Bernardino",6,1
+110529,"California State Polytechnic University, Pomona",0,1
+110529,"California State Polytechnic University, Pomona",1,1
+110529,"California State Polytechnic University, Pomona",5,1
+110538,"California State University, Chico",4,1
+110538,"California State University, Chico",6,1
+110547,"California State University, Dominguez Hills",6,1
+110565,"California State University, Fullerton",0,1
+110565,"California State University, Fullerton",2,1
+110565,"California State University, Fullerton",6,1
+110574,"California State University, East Bay",4,1
+110583,"California State University, Long Beach",0,1
+110583,"California State University, Long Beach",6,1
+110608,"California State University, Northridge",0,1
+110608,"California State University, Northridge",6,2
+110617,"California State University, Sacramento",0,1
+110617,"California State University, Sacramento",2,2
+110617,"California State University, Sacramento",4,1
+110617,"California State University, Sacramento",6,4
+110635,"University of California, Berkeley",0,3
+110635,"University of California, Berkeley",1,1
+110635,"University of California, Berkeley",2,2
+110635,"University of California, Berkeley",3,1
+110635,"University of California, Berkeley",4,1
+110635,"University of California, Berkeley",5,1
+110635,"University of California, Berkeley",6,5
+110635,"University of California, Berkeley",7,1
+110644,"University of California, Davis",3,1
+110644,"University of California, Davis",4,1
+110644,"University of California, Davis",5,2
+110653,"University of California, Irvine",1,1
+110653,"University of California, Irvine",4,1
+110653,"University of California, Irvine",5,4
+110653,"University of California, Irvine",6,9
+110653,"University of California, Irvine",7,3
+110662,University of California Los Angeles,4,1
+110662,University of California Los Angeles,5,2
+110662,University of California Los Angeles,6,3
+110662,University of California Los Angeles,7,1
+110680,"University of California, San Diego",3,1
+110680,"University of California, San Diego",4,1
+110680,"University of California, San Diego",5,2
+110680,"University of California, San Diego",6,4
+110680,"University of California, San Diego",7,1
+110705,"University of California, Santa Barbara",1,1
+110705,"University of California, Santa Barbara",4,1
+110705,"University of California, Santa Barbara",5,2
+110705,"University of California, Santa Barbara",6,2
+110705,"University of California, Santa Barbara",7,1
+110714,"University of California, Santa Cruz",3,1
+110714,"University of California, Santa Cruz",4,1
+110714,"University of California, Santa Cruz",5,2
+110714,"University of California, Santa Cruz",6,2
+110714,"University of California, Santa Cruz",7,1
+115083,Golden Gate University,0,1
+115409,Harvey Mudd College,4,1
+115755,Humboldt State University,5,1
+115755,Humboldt State University,6,1
+117627,La Sierra University,2,2
+117946,Loyola Marymount University,4,1
+119173,Mount St. Mary's College,0,1
+119605,National University,2,2
+120865,Pacific Union College,6,1
+121150,Pepperdine University,0,1
+121309,Point Loma Nazarene University,2,1
+121345,Pomona College,6,1
+121345,Pomona College,7,1
+122409,San Diego State University,2,1
+122409,San Diego State University,4,1
+122409,San Diego State University,5,1
+122409,San Diego State University,6,2
+122409,San Diego State University,7,1
+122597,San Francisco State University,0,1
+122597,San Francisco State University,4,1
+122597,San Francisco State University,5,1
+122597,San Francisco State University,6,1
+122612,University of San Francisco,0,1
+122612,University of San Francisco,4,1
+122755,San Jose State University,0,1
+122755,San Jose State University,1,1
+122755,San Jose State University,2,3
+122755,San Jose State University,4,1
+122755,San Jose State University,6,1
+123572,Sonoma State University,2,1
+123961,University of Southern California,0,1
+123961,University of Southern California,1,1
+123961,University of Southern California,4,1
+123961,University of Southern California,5,1
+123961,University of Southern California,7,1
+125727,Westmont College,1,1
+125727,Westmont College,2,11
+125727,Westmont College,4,1
+125727,Westmont College,6,3
+125727,Westmont College,7,1
+126562,University of Colorado Denver,4,1
+126562,University of Colorado Denver,5,1
+126614,University of Colorado Boulder,0,1
+126614,University of Colorado Boulder,1,2
+126614,University of Colorado Boulder,2,2
+126614,University of Colorado Boulder,3,1
+126614,University of Colorado Boulder,4,1
+126614,University of Colorado Boulder,5,1
+126614,University of Colorado Boulder,6,3
+126614,University of Colorado Boulder,7,2
+126818,Colorado State University,0,1
+126818,Colorado State University,1,1
+126818,Colorado State University,2,1
+126818,Colorado State University,4,1
+126818,Colorado State University,5,1
+126818,Colorado State University,6,1
+127060,University of Denver,6,1
+128744,University of Bridgeport,0,1
+129020,University of Connecticut,1,1
+130794,Yale University,4,1
+130794,Yale University,5,1
+130943,University of Delaware,0,1
+130943,University of Delaware,4,1
+130943,University of Delaware,5,1
+130943,University of Delaware,6,1
+130943,University of Delaware,7,2
+131159,American University,5,1
+131159,American University,6,1
+131469,George Washington University,6,2
+131496,Georgetown University,6,3
+131520,Howard University,1,3
+131520,Howard University,2,3
+131520,Howard University,5,1
+131520,Howard University,6,1
+131520,Howard University,7,1
+132903,University of Central Florida,0,1
+132903,University of Central Florida,1,1
+132903,University of Central Florida,2,3
+132903,University of Central Florida,4,1
+132903,University of Central Florida,6,1
+133669,Florida Atlantic University,4,1
+133669,Florida Atlantic University,5,1
+133669,Florida Atlantic University,6,1
+133881,Florida Institute of Technology,0,2
+133881,Florida Institute of Technology,3,1
+133881,Florida Institute of Technology,4,1
+133951,Florida International University,0,1
+133951,Florida International University,1,1
+133951,Florida International University,2,2
+133951,Florida International University,3,1
+133951,Florida International University,4,1
+133951,Florida International University,5,1
+133951,Florida International University,6,4
+133951,Florida International University,7,1
+134097,Florida State University,1,1
+134097,Florida State University,2,2
+134097,Florida State University,4,1
+134097,Florida State University,5,1
+134097,Florida State University,6,2
+134097,Florida State University,7,1
+134130,University of Florida,0,1
+134130,University of Florida,1,1
+134130,University of Florida,2,7
+134130,University of Florida,4,1
+134130,University of Florida,5,1
+134130,University of Florida,6,4
+134130,University of Florida,7,1
+136215,Nova Southeastern University,0,2
+136950,Rollins College,0,1
+137351,University of South Florida,0,5
+137351,University of South Florida,1,1
+137351,University of South Florida,2,11
+137351,University of South Florida,5,1
+137351,University of South Florida,6,2
+137351,University of South Florida,7,1
+138600,Agnes Scott College,2,1
+139366,Columbus State University,4,1
+139658,Emory University,1,1
+139658,Emory University,2,1
+139658,Emory University,6,2
+139755,Georgia Institute of Technology,0,1
+139755,Georgia Institute of Technology,1,1
+139755,Georgia Institute of Technology,4,1
+139755,Georgia Institute of Technology,5,1
+139931,Georgia Southern University,2,1
+139931,Georgia Southern University,6,1
+139940,Georgia State University,0,1
+139940,Georgia State University,4,1
+139940,Georgia State University,6,2
+139959,University of Georgia,0,1
+139959,University of Georgia,1,1
+139959,University of Georgia,2,7
+139959,University of Georgia,3,1
+139959,University of Georgia,4,1
+139959,University of Georgia,5,1
+139959,University of Georgia,6,5
+139959,University of Georgia,7,1
+141264,Valdosta State University,2,2
+141334,University of West Georgia,2,2
+141334,University of West Georgia,6,2
+141486,Chaminade University of Honolulu,0,2
+141486,Chaminade University of Honolulu,1,1
+141486,Chaminade University of Honolulu,2,8
+141486,Chaminade University of Honolulu,4,1
+141486,Chaminade University of Honolulu,6,3
+142115,Boise State University,0,1
+142285,University of Idaho,0,1
+142285,University of Idaho,2,1
+142285,University of Idaho,4,1
+142285,University of Idaho,5,1
+142285,University of Idaho,6,1
+142285,University of Idaho,7,1
+142522,Brigham Young University Idaho,2,1
+143358,Bradley University,6,1
+144050,University of Chicago,3,1
+144050,University of Chicago,4,1
+144050,University of Chicago,5,1
+144050,University of Chicago,6,1
+144740,DePaul University,0,1
+144740,DePaul University,4,1
+144892,Eastern Illinois University,0,1
+144892,Eastern Illinois University,2,1
+144892,Eastern Illinois University,6,2
+145600,University of Illinois at Chicago,0,2
+145600,University of Illinois at Chicago,2,1
+145600,University of Illinois at Chicago,4,1
+145600,University of Illinois at Chicago,5,2
+145600,University of Illinois at Chicago,6,1
+145637,University of Illinois at Urbana Champaign,0,1
+145637,University of Illinois at Urbana Champaign,2,1
+145637,University of Illinois at Urbana Champaign,4,1
+145637,University of Illinois at Urbana Champaign,5,2
+145637,University of Illinois at Urbana Champaign,6,1
+145637,University of Illinois at Urbana Champaign,7,1
+145725,Illinois Institute of Technology,0,1
+145725,Illinois Institute of Technology,4,1
+145725,Illinois Institute of Technology,5,1
+145813,Illinois State University,0,1
+145813,Illinois State University,2,4
+145813,Illinois State University,6,1
+146719,Loyola University Chicago,0,1
+147341,Monmouth College,6,1
+147679,North Park University,0,1
+147703,Northern Illinois University,0,1
+147703,Northern Illinois University,2,2
+147703,Northern Illinois University,6,2
+147767,Northwestern University,0,1
+147767,Northwestern University,3,1
+147767,Northwestern University,4,1
+148627,Saint Xavier University,6,1
+149222,Southern Illinois University Carbondale,2,1
+149222,Southern Illinois University Carbondale,6,1
+149222,Southern Illinois University Carbondale,7,1
+149231,Southern Illinois University Edwardsville,6,1
+150136,Ball State University,6,1
+150400,DePauw University,2,1
+150400,DePauw University,4,1
+150756,Hanover College,6,1
+151102,Indiana University – Purdue University Fort Wayne,0,1
+151102,Indiana University – Purdue University Fort Wayne,2,3
+151102,Indiana University – Purdue University Fort Wayne,4,1
+151111,Indiana University – Purdue University Indianapolis,4,1
+151111,Indiana University – Purdue University Indianapolis,6,1
+151351,Indiana University Bloomington,0,1
+151351,Indiana University Bloomington,1,1
+151351,Indiana University Bloomington,2,2
+151351,Indiana University Bloomington,4,1
+151351,Indiana University Bloomington,5,1
+151351,Indiana University Bloomington,6,2
+151351,Indiana University Bloomington,7,1
+152080,University of Notre Dame,0,1
+152080,University of Notre Dame,1,1
+152080,University of Notre Dame,2,1
+152080,University of Notre Dame,6,2
+152318,Rose–Hulman Institute of Technology,4,1
+153269,Drake University,0,1
+153384,Grinnell College,5,2
+153384,Grinnell College,6,2
+153603,Iowa State University,0,2
+153603,Iowa State University,1,2
+153603,Iowa State University,2,3
+153603,Iowa State University,3,1
+153603,Iowa State University,4,1
+153603,Iowa State University,5,2
+153603,Iowa State University,6,4
+153603,Iowa State University,7,1
+153658,University of Iowa,2,1
+153658,University of Iowa,4,1
+153658,University of Iowa,5,1
+153658,University of Iowa,6,5
+153658,University of Iowa,7,1
+154095,University of Northern Iowa,2,1
+154095,University of Northern Iowa,4,1
+154095,University of Northern Iowa,6,1
+155317,University of Kansas,2,1
+155317,University of Kansas,5,1
+155317,University of Kansas,6,1
+155399,Kansas State University,0,1
+155399,Kansas State University,2,2
+155399,Kansas State University,4,1
+155399,Kansas State University,5,1
+155681,Pittsburg State University,2,1
+155681,Pittsburg State University,6,1
+156295,Berea College,6,1
+156620,Eastern Kentucky University,2,3
+156620,Eastern Kentucky University,6,1
+157085,University of Kentucky,0,1
+157085,University of Kentucky,1,2
+157085,University of Kentucky,2,1
+157085,University of Kentucky,3,1
+157085,University of Kentucky,4,1
+157085,University of Kentucky,5,1
+157085,University of Kentucky,6,2
+157085,University of Kentucky,7,2
+157289,University of Louisville,6,2
+157401,Murray State University,2,2
+157447,Northern Kentucky University,1,1
+157447,Northern Kentucky University,6,1
+157951,Western Kentucky University,0,1
+157951,Western Kentucky University,2,2
+157951,Western Kentucky University,6,1
+157951,Western Kentucky University,7,1
+159391,Louisiana State University,5,1
+159391,Louisiana State University,7,1
+159647,Louisiana Tech University,6,1
+159656,Loyola University New Orleans,0,3
+159656,Loyola University New Orleans,1,3
+159656,Loyola University New Orleans,2,8
+159656,Loyola University New Orleans,3,1
+159656,Loyola University New Orleans,4,1
+159656,Loyola University New Orleans,5,2
+159656,Loyola University New Orleans,6,9
+159656,Loyola University New Orleans,7,2
+159966,Nicholls State University,1,1
+160038,Northwestern State University,2,1
+160612,Southeastern Louisiana University,2,1
+160755,Tulane University,0,1
+161004,Bowdoin College,4,1
+162654,Goucher College,4,1
+162928,Johns Hopkins University,0,1
+162928,Johns Hopkins University,1,1
+162928,Johns Hopkins University,4,1
+162928,Johns Hopkins University,5,2
+163204,University of Maryland University College,0,1
+163204,University of Maryland University College,4,1
+163204,University of Maryland University College,6,2
+163268,"University of Maryland, Baltimore County",1,1
+163268,"University of Maryland, Baltimore County",4,1
+163268,"University of Maryland, Baltimore County",5,1
+163268,"University of Maryland, Baltimore County",6,1
+163286,"University of Maryland, College Park",0,1
+163286,"University of Maryland, College Park",1,1
+163286,"University of Maryland, College Park",2,1
+163286,"University of Maryland, College Park",3,1
+163286,"University of Maryland, College Park",4,1
+163286,"University of Maryland, College Park",5,3
+163286,"University of Maryland, College Park",6,4
+163286,"University of Maryland, College Park",7,2
+164076,Towson University,2,1
+164155,United States Naval Academy,4,1
+164924,Boston College,0,1
+164924,Boston College,3,1
+164988,Boston University,0,1
+164988,Boston University,4,1
+164988,Boston University,5,1
+166027,Harvard University,4,1
+166027,Harvard University,5,1
+166027,Harvard University,6,1
+166513,University of Massachusetts Lowell,4,1
+166629,University of Massachusetts Amherst,0,1
+166629,University of Massachusetts Amherst,1,1
+166629,University of Massachusetts Amherst,2,1
+166629,University of Massachusetts Amherst,3,1
+166629,University of Massachusetts Amherst,4,1
+166629,University of Massachusetts Amherst,5,1
+166629,University of Massachusetts Amherst,6,2
+166683,Massachusetts Institute of Technology,0,1
+166683,Massachusetts Institute of Technology,1,2
+166683,Massachusetts Institute of Technology,3,1
+166683,Massachusetts Institute of Technology,4,1
+166683,Massachusetts Institute of Technology,5,4
+166683,Massachusetts Institute of Technology,6,8
+166683,Massachusetts Institute of Technology,7,1
+167358,Northeastern University,0,1
+167358,Northeastern University,4,1
+167358,Northeastern University,5,1
+168148,Tufts University,2,1
+168148,Tufts University,4,1
+168148,Tufts University,7,1
+168281,Wheaton College,5,1
+168421,Worcester Polytechnic Institute,4,1
+169080,Calvin College,5,1
+169798,Eastern Michigan University,6,1
+170082,Grand Valley State University,4,1
+170532,Kalamazoo College,2,1
+170976,University of Michigan–Ann Arbor,0,1
+170976,University of Michigan–Ann Arbor,1,1
+170976,University of Michigan–Ann Arbor,3,1
+170976,University of Michigan–Ann Arbor,4,1
+170976,University of Michigan–Ann Arbor,5,2
+170976,University of Michigan–Ann Arbor,6,17
+170976,University of Michigan–Ann Arbor,7,2
+171100,Michigan State University,0,1
+171100,Michigan State University,1,1
+171100,Michigan State University,2,2
+171100,Michigan State University,4,1
+171100,Michigan State University,5,2
+171100,Michigan State University,6,4
+171100,Michigan State University,7,1
+171128,Michigan Technological University,1,1
+171571,Oakland University,1,1
+172644,Wayne State University,1,1
+172644,Wayne State University,4,1
+172644,Wayne State University,6,1
+172699,Western Michigan University,0,1
+172699,Western Michigan University,1,1
+172699,Western Michigan University,2,1
+172699,Western Michigan University,6,2
+173258,Carleton College,6,1
+173902,Macalester College,6,1
+173920,"Minnesota State University, Mankato",2,2
+174233,"University of Minnesota, Duluth",1,1
+174233,"University of Minnesota, Duluth",2,2
+174358,Minnesota State University Moorhead,5,1
+175078,Southwest Minnesota State University,6,1
+175616,Delta State University,6,1
+176017,University of Mississippi,4,1
+176017,University of Mississippi,5,1
+176035,Mississippi University for Women,2,1
+176080,Mississippi State University,4,1
+176372,University of Southern Mississippi,7,1
+177065,Columbia College,0,1
+177065,Columbia College,1,1
+177065,Columbia College,2,1
+178396,University of Missouri,6,1
+178402,University of Missouri–Kansas City,0,1
+178721,Park University,0,2
+178721,Park University,2,3
+179043,Rockhurst University,0,1
+179557,Southeast Missouri State University,0,1
+179557,Southeast Missouri State University,6,1
+179867,Washington University in St. Louis,3,1
+179867,Washington University in St. Louis,4,1
+179867,Washington University in St. Louis,5,1
+179867,Washington University in St. Louis,6,1
+179894,Webster University,0,3
+179894,Webster University,2,2
+180461,Montana State University,1,1
+180489,University of Montana,0,1
+180489,University of Montana,6,1
+180489,University of Montana,7,1
+181002,Creighton University,6,1
+181020,Doane College,2,1
+181464,University of Nebraska–Lincoln,4,1
+181464,University of Nebraska–Lincoln,5,1
+182281,"University of Nevada, Las Vegas",6,2
+182290,University of Nevada Reno,0,1
+182290,University of Nevada Reno,4,1
+182290,University of Nevada Reno,6,1
+182306,Great Basin College,0,1
+182306,Great Basin College,2,1
+182306,Great Basin College,6,1
+182458,Sierra Nevada College,0,1
+182458,Sierra Nevada College,1,2
+182458,Sierra Nevada College,2,1
+182458,Sierra Nevada College,6,2
+182670,Dartmouth College,5,1
+183211,Rivier University,2,1
+183211,Rivier University,4,1
+184348,Drew University,2,1
+184782,Rowan University,1,1
+185590,Montclair State University,6,1
+185828,New Jersey Institute of Technology,0,1
+185828,New Jersey Institute of Technology,4,1
+185828,New Jersey Institute of Technology,5,1
+186131,Princeton University,3,1
+186131,Princeton University,6,1
+186380,Rutgers University,0,1
+186380,Rutgers University,1,1
+186380,Rutgers University,3,1
+186380,Rutgers University,4,1
+186380,Rutgers University,5,2
+186380,Rutgers University,6,6
+186380,Rutgers University,7,2
+186584,Seton Hall University,6,1
+186867,Stevens Institute of Technology,4,1
+186876,Richard Stockton College of New Jersey,6,1
+187134,College of New Jersey,2,1
+187967,New Mexico Institute of Mining and Technology,5,1
+187985,University of New Mexico,0,1
+187985,University of New Mexico,1,1
+187985,University of New Mexico,2,2
+187985,University of New Mexico,4,1
+187985,University of New Mexico,5,1
+188030,New Mexico State University,0,2
+188030,New Mexico State University,4,1
+188429,Adelphi University,4,1
+190044,Clarkson University,0,1
+190044,Clarkson University,1,1
+190044,Clarkson University,4,1
+190044,Clarkson University,5,1
+190150,Columbia University,3,1
+190150,Columbia University,4,1
+190150,Columbia University,5,2
+190150,Columbia University,6,4
+190150,Columbia University,7,1
+190415,Cornell University,1,1
+190415,Cornell University,4,1
+190415,Cornell University,5,1
+190415,Cornell University,6,2
+190415,Cornell University,7,1
+190594,Hunter College,5,1
+191630,Hobart and William Smith Colleges,4,1
+191630,Hobart and William Smith Colleges,5,1
+193654,New School,0,1
+193900,New York University,0,2
+193900,New York University,3,2
+193900,New York University,4,1
+193900,New York University,6,2
+193900,New York University,7,1
+194824,Rensselaer Polytechnic Institute,4,1
+194824,Rensselaer Polytechnic Institute,5,1
+195003,Rochester Institute of Technology,4,1
+195030,University of Rochester,6,1
+196060,"University at Albany, State University of New York",4,1
+196060,"University at Albany, State University of New York",6,1
+196088,"University at Buffalo, State University of New York",4,1
+196088,"University at Buffalo, State University of New York",6,1
+196097,Stony Brook University,4,1
+196097,Stony Brook University,5,2
+196158,SUNY Fredonia,6,1
+196167,SUNY Geneseo,6,1
+196246,SUNY Plattsburgh,6,1
+196413,Syracuse University,0,1
+196413,Syracuse University,1,1
+196413,Syracuse University,2,1
+196413,Syracuse University,4,1
+196413,Syracuse University,6,1
+196866,Union College,5,1
+197869,Appalachian State University,1,1
+197869,Appalachian State University,2,3
+198385,Davidson College,1,1
+198419,Duke University,0,1
+198419,Duke University,4,1
+198419,Duke University,5,1
+198419,Duke University,6,1
+198464,East Carolina University,0,1
+198464,East Carolina University,4,1
+198464,East Carolina University,6,1
+198598,Greensboro College,2,1
+199120,University of North Carolina at Chapel Hill,0,1
+199120,University of North Carolina at Chapel Hill,2,2
+199120,University of North Carolina at Chapel Hill,3,1
+199120,University of North Carolina at Chapel Hill,4,1
+199120,University of North Carolina at Chapel Hill,5,1
+199120,University of North Carolina at Chapel Hill,6,3
+199120,University of North Carolina at Chapel Hill,7,1
+199139,University of North Carolina at Charlotte,0,1
+199139,University of North Carolina at Charlotte,6,1
+199148,University of North Carolina at Greensboro,0,1
+199148,University of North Carolina at Greensboro,1,1
+199148,University of North Carolina at Greensboro,6,2
+199193,North Carolina State University,0,1
+199193,North Carolina State University,1,2
+199193,North Carolina State University,4,1
+199193,North Carolina State University,5,1
+199193,North Carolina State University,6,3
+199193,North Carolina State University,7,1
+199209,North Carolina Wesleyan College,2,1
+199218,University of North Carolina Wilmington,2,2
+199218,University of North Carolina Wilmington,5,1
+199218,University of North Carolina Wilmington,6,1
+199306,Pfeiffer University,6,1
+199847,Wake Forest University,4,1
+199847,Wake Forest University,5,1
+200332,North Dakota State University,2,1
+200332,North Dakota State University,4,1
+200800,University of Akron,0,3
+200800,University of Akron,2,11
+200800,University of Akron,4,1
+200800,University of Akron,6,1
+200800,University of Akron,7,1
+201645,Case Western Reserve University,2,1
+201885,University of Cincinnati,4,1
+202134,Cleveland State University,2,3
+203517,Kent State University,0,1
+203517,Kent State University,4,1
+203535,Kenyon College,7,1
+204024,Miami University,6,1
+204501,Oberlin College,6,3
+204796,Ohio State University,0,1
+204796,Ohio State University,1,3
+204796,Ohio State University,2,2
+204796,Ohio State University,3,1
+204796,Ohio State University,4,1
+204796,Ohio State University,5,1
+204796,Ohio State University,6,2
+204796,Ohio State University,7,1
+204857,Ohio University,0,1
+204857,Ohio University,6,2
+204857,Ohio University,7,1
+206084,University of Toledo,0,1
+206084,University of Toledo,6,1
+206604,Wright State University,4,1
+206604,Wright State University,6,1
+206695,Youngstown State University,6,1
+206941,University of Central Oklahoma,2,1
+207263,Northeastern State University,0,1
+207388,Oklahoma State University-Main Campus,0,1
+207388,Oklahoma State University-Main Campus,1,1
+207388,Oklahoma State University-Main Campus,2,1
+207388,Oklahoma State University-Main Campus,4,1
+207388,Oklahoma State University-Main Campus,5,1
+207388,Oklahoma State University-Main Campus,7,1
+207500,University of Oklahoma,2,1
+207500,University of Oklahoma,4,1
+207500,University of Oklahoma,5,1
+207582,Oral Roberts University,0,2
+207582,Oral Roberts University,1,6
+207582,Oral Roberts University,2,19
+208646,Eastern Oregon University,6,1
+209056,Lewis & Clark College,2,1
+209542,Oregon State University,0,1
+209542,Oregon State University,1,1
+209542,Oregon State University,4,1
+209542,Oregon State University,5,1
+209542,Oregon State University,7,1
+209551,University of Oregon,2,3
+209551,University of Oregon,3,1
+209551,University of Oregon,5,1
+209551,University of Oregon,6,3
+209807,Portland State University,0,1
+209807,Portland State University,4,1
+210429,Western Oregon University,2,1
+211158,Bloomsburg University,6,1
+211440,Carnegie Mellon University,0,1
+211440,Carnegie Mellon University,4,1
+212009,Dickinson College,6,1
+212054,Drexel University,1,1
+212054,Drexel University,4,1
+213251,Juniata College,4,1
+213543,Lehigh University,4,1
+213668,Lycoming College,1,1
+214041,Millersville University,1,1
+214157,Moravian College,0,1
+214157,Moravian College,1,4
+214157,Moravian College,2,6
+214157,Moravian College,3,1
+214157,Moravian College,4,1
+214157,Moravian College,6,6
+214157,Moravian College,7,1
+214777,Pennsylvania State University,0,1
+214777,Pennsylvania State University,1,4
+214777,Pennsylvania State University,2,5
+214777,Pennsylvania State University,3,1
+214777,Pennsylvania State University,4,1
+214777,Pennsylvania State University,5,2
+214777,Pennsylvania State University,6,5
+214777,Pennsylvania State University,7,2
+215062,University of Pennsylvania,0,2
+215062,University of Pennsylvania,3,1
+215062,University of Pennsylvania,4,1
+215062,University of Pennsylvania,5,1
+215062,University of Pennsylvania,6,2
+215062,University of Pennsylvania,7,1
+215293,University of Pittsburgh,4,1
+215293,University of Pittsburgh,5,1
+215293,University of Pittsburgh,6,2
+215770,Saint Joseph's University,5,1
+215770,Saint Joseph's University,6,1
+215947,Seton Hill University,6,1
+216287,Swarthmore College,5,1
+216339,Temple University,3,1
+216339,Temple University,4,1
+216339,Temple University,5,1
+216339,Temple University,6,1
+216597,Villanova University,4,1
+216597,Villanova University,5,1
+216597,Villanova University,6,2
+216852,Widener University,1,1
+216931,Wilkes University,0,1
+216931,Wilkes University,1,2
+216931,Wilkes University,5,1
+216931,Wilkes University,6,2
+216931,Wilkes University,7,1
+217156,Brown University,4,1
+217484,University of Rhode Island,4,1
+217484,University of Rhode Island,5,1
+217819,College of Charleston,2,2
+217819,College of Charleston,6,2
+217819,College of Charleston,7,1
+217882,Clemson University,1,1
+217882,Clemson University,4,1
+217998,Erskine College,2,1
+218663,University of South Carolina,0,1
+218663,University of South Carolina,4,1
+218663,University of South Carolina,5,1
+218663,University of South Carolina,6,2
+218964,Winthrop University,2,1
+218964,Winthrop University,6,1
+220075,East Tennessee State University,5,1
+220631,Lincoln Memorial University,2,1
+220862,University of Memphis,0,3
+220862,University of Memphis,2,1
+220862,University of Memphis,3,1
+220862,University of Memphis,4,1
+220862,University of Memphis,6,1
+220978,Middle Tennessee State University,0,1
+220978,Middle Tennessee State University,6,1
+221351,Rhodes College,0,2
+221351,Rhodes College,1,2
+221351,Rhodes College,2,2
+221351,Rhodes College,3,1
+221351,Rhodes College,6,2
+221351,Rhodes College,7,1
+221759,University of Tennessee at Knoxville,4,1
+221759,University of Tennessee at Knoxville,5,2
+221999,Vanderbilt University,4,1
+221999,Vanderbilt University,5,1
+222178,Abilene Christian University,2,1
+222831,Angelo State University,6,1
+222831,Angelo State University,7,1
+224147,Texas A&M University–Corpus Christi,0,1
+224554,Texas A&M University–Commerce,0,1
+224554,Texas A&M University–Commerce,2,1
+225414,University of Houston–Clear Lake,0,1
+225414,University of Houston–Clear Lake,6,1
+225511,University of Houston,0,1
+225511,University of Houston,4,1
+225511,University of Houston,5,1
+225511,University of Houston,6,4
+226091,Lamar University,6,1
+227216,University of North Texas,0,2
+227216,University of North Texas,4,1
+227216,University of North Texas,5,1
+227216,University of North Texas,6,3
+227368,University of Texas Rio Grande Valley,2,1
+227757,Rice University,2,1
+227757,Rice University,4,1
+227757,Rice University,5,1
+227845,St. Edward's University,0,1
+227881,Sam Houston State University,2,1
+227881,Sam Houston State University,6,1
+228246,Southern Methodist University,4,1
+228246,Southern Methodist University,5,1
+228431,Stephen F. Austin State University,2,3
+228653,The University of Texas Medical Branch,2,1
+228723,Texas A&M University,0,1
+228723,Texas A&M University,1,2
+228723,Texas A&M University,2,1
+228723,Texas A&M University,3,1
+228723,Texas A&M University,4,1
+228723,Texas A&M University,5,1
+228723,Texas A&M University,6,3
+228723,Texas A&M University,7,1
+228769,University of Texas at Arlington,0,1
+228769,University of Texas at Arlington,1,1
+228769,University of Texas at Arlington,2,1
+228769,University of Texas at Arlington,4,1
+228769,University of Texas at Arlington,6,2
+228769,University of Texas at Arlington,7,1
+228778,University of Texas at Austin,0,1
+228778,University of Texas at Austin,1,3
+228778,University of Texas at Austin,2,3
+228778,University of Texas at Austin,3,1
+228778,University of Texas at Austin,4,1
+228778,University of Texas at Austin,5,2
+228778,University of Texas at Austin,6,6
+228778,University of Texas at Austin,7,1
+228787,University of Texas at Dallas,0,3
+228787,University of Texas at Dallas,1,3
+228787,University of Texas at Dallas,2,3
+228787,University of Texas at Dallas,3,1
+228787,University of Texas at Dallas,4,2
+228787,University of Texas at Dallas,5,2
+228787,University of Texas at Dallas,6,4
+228787,University of Texas at Dallas,7,2
+228796,University of Texas at El Paso,0,2
+228796,University of Texas at El Paso,1,1
+228796,University of Texas at El Paso,2,1
+228796,University of Texas at El Paso,4,1
+228796,University of Texas at El Paso,5,1
+228802,University of Texas at Tyler,1,1
+229027,University of Texas at San Antonio,0,1
+229027,University of Texas at San Antonio,2,1
+229027,University of Texas at San Antonio,4,1
+229115,Texas Tech University,0,1
+229115,Texas Tech University,2,2
+229115,Texas Tech University,4,1
+229115,Texas Tech University,5,1
+229115,Texas Tech University,6,1
+229267,Trinity University,4,1
+230038,Brigham Young University,1,1
+230038,Brigham Young University,2,4
+230038,Brigham Young University,4,1
+230038,Brigham Young University,6,1
+230603,Southern Utah University,2,1
+230728,Utah State University,0,1
+230728,Utah State University,2,1
+230728,Utah State University,6,1
+230764,University of Utah,0,1
+230764,University of Utah,1,1
+230764,University of Utah,2,3
+230764,University of Utah,4,1
+230764,University of Utah,5,2
+230764,University of Utah,6,2
+230782,Weber State University,6,1
+230959,Middlebury College,6,1
+231174,University of Vermont,0,1
+231174,University of Vermont,2,1
+231174,University of Vermont,4,1
+231174,University of Vermont,6,2
+231174,University of Vermont,7,1
+232186,George Mason University,0,1
+232186,George Mason University,1,2
+232186,George Mason University,2,2
+232186,George Mason University,3,1
+232186,George Mason University,4,1
+232186,George Mason University,5,1
+232186,George Mason University,6,3
+232186,George Mason University,7,1
+232423,James Madison University,4,1
+232423,James Madison University,6,1
+232423,James Madison University,7,1
+232557,Liberty University,2,1
+232982,Old Dominion University,2,1
+232982,Old Dominion University,4,1
+232982,Old Dominion University,5,1
+233277,Radford University,6,1
+233374,University of Richmond,6,1
+233426,Roanoke College,4,1
+233921,Virginia Tech,0,1
+233921,Virginia Tech,4,1
+233921,Virginia Tech,5,1
+233921,Virginia Tech,6,3
+233921,Virginia Tech,7,1
+234030,Virginia Commonwealth University,6,1
+234076,University of Virginia,0,1
+234076,University of Virginia,2,1
+234076,University of Virginia,4,1
+234076,University of Virginia,6,2
+234827,Central Washington University,4,1
+234827,Central Washington University,6,1
+236230,Pacific Lutheran University,4,1
+236328,University of Puget Sound,5,1
+236328,University of Puget Sound,6,1
+236595,Seattle University,0,1
+236939,Washington State University,0,1
+236939,Washington State University,1,1
+236939,Washington State University,2,3
+236939,Washington State University,4,1
+236939,Washington State University,6,1
+236948,University of Washington,0,1
+236948,University of Washington,1,3
+236948,University of Washington,2,3
+236948,University of Washington,3,1
+236948,University of Washington,4,1
+236948,University of Washington,5,3
+236948,University of Washington,6,10
+236948,University of Washington,7,2
+237011,Western Washington University,4,1
+237057,Whitman College,5,1
+237525,Marshall University,0,1
+238032,West Virginia University,1,1
+238032,West Virginia University,6,1
+239105,Marquette University,6,2
+240107,Viterbo University,2,1
+240268,University of Wisconsin–Eau Claire,6,1
+240365,University of Wisconsin–Oshkosh,7,1
+240374,University of Wisconsin–Parkside,6,1
+240444,University of Wisconsin–Madison,0,1
+240444,University of Wisconsin–Madison,1,1
+240444,University of Wisconsin–Madison,2,1
+240444,University of Wisconsin–Madison,3,1
+240444,University of Wisconsin–Madison,4,1
+240444,University of Wisconsin–Madison,5,1
+240444,University of Wisconsin–Madison,6,3
+240444,University of Wisconsin–Madison,7,1
+240453,University of Wisconsin–Milwaukee,3,1
+240453,University of Wisconsin–Milwaukee,5,1
+240453,University of Wisconsin–Milwaukee,6,1
+240727,University of Wyoming,6,1
+243744,Stanford University,1,1
+243744,Stanford University,3,1
+243744,Stanford University,4,1
+243744,Stanford University,5,1
+243744,Stanford University,6,3
+243744,Stanford University,7,1

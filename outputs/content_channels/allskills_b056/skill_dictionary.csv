@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+0,Review art or design materials.,0.299436456583278,0.05281703523316885
+4,Read materials to determine needed actions.,0.39728793793364336,0.05429513378952309
+55,Gather information for news stories.,0.31377754976775024,0.060351303142919976
+72,Conduct research of processes in natural or industrial ecosystems.,0.27068995002222973,0.05388545362964803
+86,Research engineering applications of emerging technologies.,0.18326840752433496,0.05450887196579855
+253,Inspect facilities for cleanliness.,0.2358555673224955,0.054390783310911794
+353,Calculate geographic positions from survey data.,0.14128605188536839,0.04071862854548019
+424,Reconcile records of sales or other financial transactions.,0.1890063082923024,0.056927269068412924
+582,Select materials or props.,0.16073871554280034,0.04017479619901659
+701,Create graphical representations of industrial production systems.,0.24987405054706446,0.049619640179692864
+733,Develop mathematical models of environmental conditions.,0.32771873178782457,0.0563808701440548
+918,Accompany patients or clients on outings to provide assistance.,0.2594015613739214,0.06742788084836643
+924,Climb equipment or structures to access work areas.,0.18541080003749116,0.04714225681910178
+949,Install trim or paneling.,0.07930261353648296,0.03242611738760905
+952,Install doors or windows.,0.11613881273417345,0.036162390347484655
+1075,Install audio or communications equipment.,0.2090446907149973,0.05395923548368316
+1093,Position material handling equipment.,0.20411752350630427,0.0496331231821353
+1097,"Engrave designs, text, or other markings onto materials, workpieces, or products.",0.19263359496283985,0.04632041031581271
+1133,Solder parts or workpieces.,0.15278740987214637,0.04269299064640034
+1150,Stock serving stations or dining areas with food or supplies.,0.20773996060252173,0.04630946283685975
+1200,Prepare biological samples for testing or analysis.,0.29783050648689535,0.06056154607923463
+1387,Prepare medical reports or documents.,0.21393149998142058,0.058201089356261726
+1401,Record agricultural or forestry inventory data.,0.18681525868513635,0.045248311533821764
+1420,Record operational or environmental data.,0.2676872247609494,0.056281116959271224
+1674,Care for patients with mental illnesses.,0.19917508211430057,0.06706900115205978
+1745,Instruct college students in social sciences or humanities disciplines.,0.3078541904435973,0.07062073456425136
+1756,Train others in operational procedures.,0.3242442456202713,0.06932476156017564
+1800,Supervise clerical or administrative personnel.,0.21866085092966223,0.06481710697882888
+1821,Supervise inmate activities.,0.23429169706403402,0.05577900044515053
+1926,Support the professional development of others.,0.35463348291307256,0.07680636537833603
+2048,Distribute supplies to workers.,0.22033142456834764,0.05049524811517176
+2052,Collect payments for good or services.,0.21031655512906497,0.053620744767687314

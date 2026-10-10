@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+78,Obtain written authorization to perform activities.,0.18805345093911707,0.048548474569261986
+124,Monitor equipment fluid levels.,0.14930169070769736,0.04707832245708956
+137,Monitor biofuel production operations.,0.13074729286995188,0.04240821890693078
+140,Monitor operational procedures in technical environments to ensure conformance to standards.,0.25991173940909074,0.06418854462751593
+269,Inspect sets or exhibits.,0.3023273326332105,0.03751198854754586
+295,Test computer hardware performance.,0.1641567652058725,0.0489189047192961
+320,Test mechanical systems to ensure proper functioning.,0.2439517943450552,0.05328555073554596
+375,Evaluate employee performance.,0.266504468438122,0.07364370471447548
+404,Review accuracy of sales or other transactions.,0.19725784352869935,0.05412946964269401
+515,Analyze financial information.,0.29303911349436,0.062031472664246495
+551,Choose optimal transportation routes or speeds.,0.2044016971889515,0.04204684086964889
+583,"Select equipment, materials, or supplies for cleaning or maintenance activities.",0.26603192379562085,0.05290519093711981
+709,Develop sustainable industrial or development methods.,0.27377810245935635,0.058886056991489
+740,Stay informed about current developments in field of specialization.,0.32434735407597853,0.048022993748287154
+803,Plan community programs or activities for the general public.,0.2507622799195425,0.060600529652105016
+1073,"Install electrical components, equipment, or systems.",0.2055005575424685,0.05333125658330576
+1120,Apply protective or decorative finishes to workpieces or products.,0.19517962183543497,0.0456931312272577
+1176,Package materials for transport.,0.2010216482687458,0.0397890265733439
+1188,Install equipment attachments or components.,0.1901758908658756,0.05034227201248063
+1205,Control pumps or pumping equipment.,0.156732588848789,0.043293556092135595
+1212,Operate equipment or vehicles to clear construction sites or move materials.,0.1877408285839412,0.05185429252773378
+1299,Convert data among multiple digital or analog formats.,0.12076253643090594,0.034560844088121094
+1350,Rebuild parts or components.,0.18619032404396174,0.04513020519003782
+1361,Prepare financial documents.,0.19012491882017224,0.050637104484878334
+1419,Record personnel information.,0.2714657228911748,0.05712169358747662
+1424,Record production information.,0.24383570134323146,0.051899511374056635
+1757,Train personnel.,0.18288236976459865,0.03965635408288499
+1814,Direct productions or performances.,0.16350703480325113,0.0551424289187006
+1928,"Provide health and wellness advice to patients, program participants, or caregivers.",0.29029185360832693,0.07349548975058992
+1986,Advise real estate clients.,0.18450273332033815,0.05266160449169051
+2008,Arrange insurance coverage.,0.14265984314161542,0.05065305253030689
+2035,Maintain inventory of medical supplies or equipment.,0.2374634155101194,0.05836117125313935

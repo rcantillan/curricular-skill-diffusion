@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+23,Investigate legal issues.,0.21796010310086236,0.05539058703094283
+24,Examine records or other types of data to investigate criminal activities.,0.2438369135268755,0.05111659916128539
+99,"Investigate system, equipment, or product failures.",0.26723881258178506,0.05651907662346028
+449,Examine financial records to ensure compliance with policies or regulations.,0.21643301648855331,0.0605822543410789
+497,Analyze data to inform operational decisions or activities.,0.345570082729927,0.06666402451441285
+533,Determine causes of operational problems or failures.,0.2572742593370941,0.05559128000750151
+605,Develop software or applications for scientific or technical use.,0.26502919773191724,0.06052188754536024
+693,Develop diagrams or flow charts of system operation.,0.34266299529545585,0.06948468375558849
+770,Develop information communication procedures.,0.3416976410783016,0.06654402029983551
+798,Schedule patient procedures or appointments.,0.22488123278002617,0.058763525642512277
+840,Decontaminate equipment or sites to remove hazardous or toxic substances.,0.22298515480126158,0.04966426411223299
+942,Assemble structural components.,0.22834206871151216,0.04375930728648195
+1067,Disassemble equipment for maintenance or repair.,0.17681906033623745,0.04444376586942796
+1069,"Remove accessories, tools, or other parts from equipment.",0.16671251191738556,0.04280465396199426
+1102,Attach decorative or functional accessories to products.,0.19674084541887896,0.044864995176073036
+1155,Collect geographical or geological field data.,0.24864568233095566,0.049350987640742174
+1250,Operate communications equipment or systems.,0.23301206200281963,0.05697706067542235
+1283,Configure computer networks.,0.1791032235359988,0.052544452223644365
+1351,Service green vehicles to make repairs or maintain good working order.,0.19292668107730648,0.043562632194778225
+1422,Record information from meetings or other formal proceedings.,0.3156465064426007,0.05572379407737541
+1439,Maintain medical records.,0.17694535525497637,0.05676908911591214
+1503,Provide information to coworkers.,0.3145687146084944,0.06450290629219292
+1518,Communicate dining or order details to kitchen personnel.,0.24169704712375448,0.044107584769884224
+1574,Meet with individuals involved in legal processes to provide information and clarify issues.,0.31812205111562825,0.05963036689722303
+1652,Assist students with special educational needs.,0.34437072410351655,0.07398489156445641
+1663,Help patrons use library or archival resources.,0.2767088907888188,0.05077851694008478
+1876,Coordinate activities of food service staff.,0.24967605413935026,0.05804041721302342
+1884,Direct maintenance or repair activities.,0.19702997350763132,0.04772741722691704
+1897,Coordinate reporting or editing activities.,0.23833462795852658,0.05300709960243757
+1898,Manage preparation of special meals or diets.,0.25705339752637757,0.05113128257025907
+2032,Administer compensation or benefits programs.,0.22180176139051058,0.067702381833369
+2056,Purchase stocks of merchandise or supplies.,0.1652643558181817,0.0562568666643125

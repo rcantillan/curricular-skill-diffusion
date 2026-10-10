@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+57,"Collect medical information from patients, family members, or other medical professionals.",0.26385612685517584,0.06249627575141582
+72,Conduct research of processes in natural or industrial ecosystems.,0.27068995002222973,0.05388545362964803
+149,Monitor financial indicators.,0.21777498049751182,0.05721909632246379
+166,Monitor activities of individuals to ensure safety or compliance with rules.,0.30430540614482426,0.06443031366053462
+264,Evaluate projects to determine compliance with technical specifications.,0.29753152810799505,0.06816218332119725
+337,Measure stock or liquid levels in sustainable fuel production systems.,0.10584383798229935,0.04533285993122858
+421,Compile specialized bibliographies or lists of materials.,0.28629508307398766,0.041281607319907265
+789,Schedule activities or facility use.,0.31088571629728035,0.061781816209470077
+826,Clean furniture or fixtures.,0.1482883562193098,0.04093118269368441
+853,Remove debris from work sites.,0.1700111484914234,0.045066054055570993
+924,Climb equipment or structures to access work areas.,0.18541080003749116,0.04714225681910178
+945,Install structural foundations.,0.15580766832299298,0.035346057614106814
+957,Install hardware or other interior fixtures.,0.10068238054726285,0.03501614313815091
+1138,"Build models, patterns, or templates.",0.279400525301411,0.06165385284095323
+1156,Collect geological samples.,0.22555216671565964,0.04571110335112132
+1166,Lay out parts to prepare for assembly.,0.24248375230673552,0.04551017843819429
+1265,Operate vehicles or material-moving equipment.,0.2117814555952223,0.05454662922914631
+1266,Operate transportation equipment to demonstrate function or malfunction.,0.25466324559007947,0.053988421481977834
+1312,"Maintain forestry, hunting, or agricultural equipment.",0.16945925552886584,0.047279305298368324
+1369,Document information related to legal proceedings.,0.25793907235368224,0.048135856254640084
+1386,Document client health or progress.,0.255519593464664,0.06107248828882582
+1421,Maintain logs of production activities.,0.1981214549588595,0.05510343542637957
+1425,Prepare procedural documents.,0.33725858679761134,0.05569137713133359
+1483,"Explain regulations, policies, or procedures.",0.22789771511745177,0.05685421317583594
+1544,Notify others of equipment repair or maintenance needs.,0.232090021943928,0.053627601281607935
+1548,Relay information about incidents or emergencies to personnel using phones or two-way radios.,0.2537207406620771,0.051170663584927244
+1711,"Negotiate contracts for environmental remediation, green energy, or renewable resources.",0.20720299239117512,0.05498464380890448
+1756,Train others in operational procedures.,0.3242442456202713,0.06932476156017564
+1766,Train construction or extraction personnel.,0.17196628384190468,0.04115757602061368
+1933,Recommend types of assistive devices.,0.15396936950215667,0.04590116730576775
+1965,Advise students on academic or career matters.,0.3453694256212074,0.07048777188812354
+2011,Process sales or other transactions.,0.19948252288984814,0.056703403279469225

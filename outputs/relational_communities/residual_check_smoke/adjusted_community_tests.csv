@@ -1,0 +1,10 @@
+outcome,min_syllabi,rows,institutions,community_wald_p,dropped_terms
+change_abs,3,486,61,0.805382554301318,community::3;community::6
+change_rms,3,486,61,0.493640369273797,community::3;community::6
+two_year_abs,3,385,57,0.0471759378800479,community::3;community::4;community::6;community::7
+change_abs,9,248,38,,community::1;community::2;community::3;community::4;community::5;community::6;community::7
+change_rms,9,248,38,,community::1;community::2;community::3;community::4;community::5;community::6;community::7
+two_year_abs,9,191,33,,community::1;community::2;community::3;community::4;community::6;community::7;baseline_years
+change_abs,20,136,24,,community::1;community::2;community::3;community::4;community::6;community::7;baseline_years
+change_rms,20,136,24,,community::1;community::2;community::3;community::4;community::6;community::7;baseline_years
+two_year_abs,20,103,19,,community::1;community::2;community::3;community::4;community::6;community::7;baseline_years

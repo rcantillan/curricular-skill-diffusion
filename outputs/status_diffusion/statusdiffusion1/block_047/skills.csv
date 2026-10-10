@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+178,Monitor surroundings to detect potential hazards.,0.25573867647196413,0.04781884563301702
+199,Evaluate personnel practices to ensure adherence to regulations.,0.2946732996483087,0.07095487113482705
+203,Monitor medical facility activities to ensure adherence to standards or regulations.,0.26810685701194376,0.0649045414899102
+214,Identify new applications for existing technologies.,0.28093001963221526,0.05737072795225946
+251,Inspect facilities or sites to determine if they meet specifications or standards.,0.28080627734671526,0.05722452502169937
+519,Analyze financial records or reports to determine state of operations.,0.21745677583045722,0.06471980125374754
+523,Interpret design or operational test results.,0.25873882906005236,0.05249211664396268
+602,Design computer modeling or simulation programs.,0.2854924969496193,0.07358489069554511
+606,Modify software programs to improve performance.,0.21066826512209685,0.06419007517915422
+620,"Develop safety standards, policies, or procedures.",0.2794945028495353,0.06602902184621671
+688,Create schematic drawings for electronics.,0.2521959929155612,0.05015496978268677
+694,Prepare graphics or other visual representations of information.,0.34291841938995304,0.05112176310056563
+719,Design research studies to obtain scientific information.,0.3277093329835772,0.059865382809053194
+888,Clean materials to prepare them for production.,0.19890089179031217,0.04691455218089671
+913,Search individuals for illegal or dangerous items.,0.20135735040676833,0.04322620499477878
+926,Serve food or beverages.,0.19221046663155314,0.05122490921546966
+941,Install masonry materials.,0.14682732671914364,0.03369996735936084
+1047,Prepare materials for processing.,0.26166763510583885,0.048101340910049514
+1180,Install piping for installation or maintenance activities.,0.14773924361629034,0.046009265609391954
+1202,Operate office equipment.,0.20368986395753141,0.05687662087237471
+1229,"Smooth garments with irons, presses, or steamers.",0.1172383101215661,0.02799825354579441
+1267,Control equipment that regulates vehicle traffic.,0.1571180570665223,0.03905734875965614
+1279,Create electronic data backup to prevent loss of information.,0.2020530816755141,0.048626877375914264
+1285,Troubleshoot issues with computer applications or systems.,0.2044948042644324,0.054291375817709944
+1451,Prepare contracts or other transaction documents.,0.23082369466738442,0.052320739686902235
+1469,Write operational reports.,0.31636612730524283,0.06498627203601666
+1577,Confer with clients to exchange information.,0.3128290424552086,0.0645227284551344
+1844,Prepare operational budgets.,0.26990390461778346,0.06688035965647257
+1872,Coordinate logistics or other business operations.,0.20990491390444554,0.0672427439379379
+1936,Recommend products or services to customers.,0.25155874247644305,0.0638721323230724
+2004,Execute sales or other financial transactions.,0.19692296624286715,0.06295915241703365
+2060,Acquire supplies or equipment.,0.21321235569326452,0.04915320446946473

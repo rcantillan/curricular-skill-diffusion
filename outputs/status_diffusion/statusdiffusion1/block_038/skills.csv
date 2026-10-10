@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+47,Conduct scientific research of organizational behavior or processes.,0.33304549489299873,0.06968097778680055
+315,"Test performance of electrical, electronic, mechanical, or integrated systems or equipment.",0.2512057994304907,0.0545280737262908
+361,Evaluate program effectiveness.,0.306856159903782,0.0749953361092411
+378,Evaluate log quality.,0.14107086278060715,0.04164270381567051
+411,Check quality of diagnostic images.,0.13346472737982734,0.04816476316102024
+468,Analyze risks related to investments in green technology.,0.180859677916556,0.05293413605833404
+482,Analyze test data or images to inform diagnosis or treatment.,0.25679993310849447,0.059911965297851914
+578,Implement financial decisions.,0.2764608989094225,0.06937796139406821
+611,Apply information technology to solve business or other applied problems.,0.3421494007581275,0.06611028818222404
+682,Prepare production storyboards.,0.2532079160043125,0.051095374796903556
+743,Update knowledge of legal or regulatory environments.,0.2835160954075981,0.05326578588147172
+817,Prepare chemicals for work application.,0.21849417042999342,0.054095910058957586
+898,Handle caskets.,0.15483474364565392,0.043257118637052616
+914,Prevent unauthorized individuals from entering restricted areas.,0.18683161006503005,0.039904455235840984
+985,Install gauges or controls.,0.12463775763079041,0.04374364385058436
+1012,Adjust equipment to ensure optimal performance.,0.23313373141672225,0.052221980420156834
+1043,Heat material or workpieces to prepare for or complete production.,0.21521947083659726,0.04073578437229852
+1128,Thread wire or cable through ducts or conduits.,0.1344175797768082,0.030778217676469027
+1163,Remove workpieces from molds.,0.15336590943380926,0.03624024758341294
+1173,Package agricultural products for shipment or further processing.,0.18820988171781636,0.04557373376786597
+1295,Prepare data for analysis.,0.3637721682564699,0.056883787119662396
+1431,Document design or operational test results.,0.3282297334938621,0.05371093929615343
+1496,Communicate with the public on environmental issues.,0.2509228659912073,0.06229860938238945
+1573,Collaborate with law enforcement or security agencies to respond to incidents.,0.24401806835567325,0.05615842341731685
+1646,Implement advanced life support techniques.,0.23219740202073616,0.05279541807614649
+1839,Coordinate flight control or management activities.,0.2326654250502658,0.05739642901746017
+1879,Coordinate shipping activities with external parties.,0.1774516148364299,0.05129941959001374
+1882,Coordinate activities of production personnel.,0.23861887427704206,0.06080539783235324
+1922,Encourage patients during therapeutic activities.,0.24679222895421368,0.07279318584037432
+2012,Disburse funds from clients accounts to creditors.,0.15275100177654222,0.0469197373546752
+2045,Distribute resources to patrons or employees.,0.2765667263487052,0.06550659618533898
+2065,Monitor availability of equipment or supplies.,0.24321227889581953,0.05322505132255362

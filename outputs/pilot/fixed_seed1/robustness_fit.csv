@@ -1,0 +1,13 @@
+min_coverage,model,observations,r2_within,collinear_variables
+9,program_fe_three_channels,778176,0.246509884199915,""
+9,program_skill_portfolio,778176,0.435465289601243,""
+9,program_skill_inst_only,778176,0.437082962548842,""
+9,program_skill_field_only,778176,0.435465646051926,""
+9,program_skill_two_channels,778176,0.4370834084427,""
+9,program_skill_three_channels,778176,0.437862001999583,""
+3,program_fe_three_channels,1508416,0.35141964705672,""
+3,program_skill_portfolio,1508416,0.491702464630247,""
+3,program_skill_inst_only,1508416,0.492815075814068,""
+3,program_skill_field_only,1508416,0.491704621707028,""
+3,program_skill_two_channels,1508416,0.492817509806967,""
+3,program_skill_three_channels,1508416,0.493175368313885,""

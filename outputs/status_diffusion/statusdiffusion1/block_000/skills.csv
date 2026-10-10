@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+85,Research engineering aspects of biological or chemical processes.,0.21971192444973475,0.06212842642204667
+95,Investigate accidents to determine causes.,0.2535373884477436,0.047710126851182096
+142,Monitor conditions at energy-producing landfills.,0.09748844652581283,0.03437741042500262
+158,Monitor patients to detect health problems.,0.21609791628367678,0.05869549192281515
+212,Identify investment opportunities or strategies.,0.26808816208277964,0.06699481981491805
+225,Test green technologies or processes.,0.2309425277553755,0.05173277508056896
+260,"Inspect metal, plastic, or composite products.",0.19890319485417982,0.048043373000102536
+290,Inspect sustainable energy production facilities or equipment.,0.214612554472744,0.04611668110172916
+416,"Sort materials or products for processing, storing, shipping, or grading.",0.23676256985982153,0.04595647961266924
+438,"Review environmental permits, plans, or reports.",0.22938630045504316,0.04673020435057596
+474,Evaluate designs or specifications to ensure quality.,0.298959957543464,0.06195753911142258
+547,Determine construction project layouts.,0.24747222412624512,0.05405238497885806
+549,Determine appropriate methods for data analysis.,0.3608017611388545,0.06389907471978303
+573,Estimate construction project labor requirements.,0.19328249701376896,0.044603822428543605
+591,Edit audio or video recordings.,0.17192512876499708,0.052973914498813286
+626,Create databases to store electronic data.,0.28535060229130793,0.06008663911625126
+878,Assist skilled construction or extraction personnel.,0.1898545480434639,0.047251336040432475
+981,Bolt objects into place.,0.1271357601956539,0.03540425436663565
+1056,Smooth metal surfaces or edges.,0.14914568830922367,0.03259909545038226
+1086,Position animal trapping or capture equipment.,0.1871323797324153,0.03935386117234579
+1095,Adjust prostheses or other assistive devices.,0.16194386924966822,0.05310171318827331
+1233,Operate conveyors or other industrial material moving equipment.,0.18441507000829488,0.051168598099524454
+1253,Operate forestry equipment.,0.17985839278981453,0.047447095819634064
+1263,Follow safety procedures for vehicle operation.,0.20088226262989323,0.04352484330032443
+1347,Replace vehicle glass.,0.08388603442390527,0.025367087432674955
+1358,Maintain medical laboratory equipment.,0.19624054463876908,0.056719906382358104
+1376,Write reports or evaluations.,0.37674268481254175,0.06626977256924763
+1635,Perform animal breeding procedures.,0.19861144537358996,0.0463360053670049
+1724,Entertain public with comedic or dramatic performances.,0.23839732355374962,0.061046716146988644
+1740,Teach social science courses at the college level.,0.2789260519913739,0.06905527858172757
+1841,Manage budgets for personal services operations.,0.23295537785351716,0.06520982884821698
+1894,Direct material handling or moving activities.,0.2272144338800592,0.04754038073348432

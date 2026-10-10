@@ -1,0 +1,26 @@
+{
+  "tag": "communities_check_smoke",
+  "neighbors": 20,
+  "communities": 8,
+  "seed": 20261010,
+  "smoke": true,
+  "baseline": [
+    2002,
+    2007
+  ],
+  "evaluation": [
+    2008,
+    2017
+  ],
+  "baseline_min_syllabi": 9,
+  "baseline_min_observed_years": 2,
+  "hashes": {
+    "/home/rober/Documents/Papers/curricular-skill-diffusion/src/11_relational_communities/run_communities.py": "b2adaa39967cb7c0283acbd5cb24b307b30647541f5c22ad07908b9adf17e482",
+    "/home/rober/Documents/Papers/curricular-skill-diffusion/src/11_relational_communities/fit_communities.R": "aa7b5912d4762442b7e6dab379a0742382abd1490cca61e1cb44d5dfbdf0fe27",
+    "/home/rober/Documents/Papers/curricular-skill-diffusion/data/derived/pilot/master_metadata.csv": "17da89078bf52b583759fe9aa9bfb2c7840fbb714bdcedf06c8b1ad6fe437afc",
+    "/home/rober/Documents/Papers/curricular-skill-diffusion/data/derived/pilot/measurement_scores_manifest.json": "ce81561f8b7301a57b5e2c2d628f61535d055329bf5d36fb5ed3ee3b790b286d"
+  },
+  "rca": false,
+  "community_definition": "positive cosine kNN on initial standardized 2070-DWA profiles; spectral partition",
+  "secondary_layer": "explicit crosswalk or separate scores only; never inferred from DWA titles"
+}

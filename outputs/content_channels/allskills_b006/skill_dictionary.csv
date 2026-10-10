@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+24,Examine records or other types of data to investigate criminal activities.,0.2438369135268755,0.05111659916128539
+65,Obtain personal or financial information about customers or applicants.,0.2468561676461508,0.056166681636193164
+73,Research microbiological or chemical processes or structures.,0.244025491239882,0.057198376716288954
+88,Conduct research to gain information about products or processes.,0.35026237346051686,0.059241632569373835
+116,Observe equipment in operation to detect potential problems.,0.25828621084406145,0.049809753445468306
+127,Monitor operational quality or safety.,0.2636666216567682,0.06533435346870237
+144,Monitor organizational processes.,0.27339402554628395,0.061242292410733284
+150,Monitor business indicators.,0.2389730013331124,0.06011742178185337
+281,Inspect electrical or electronic systems for defects.,0.24504099115991998,0.04861968136999386
+315,"Test performance of electrical, electronic, mechanical, or integrated systems or equipment.",0.2512057994304907,0.0545280737262908
+346,Estimate costs for labor or materials.,0.1630042226301096,0.04941184863183476
+351,Survey land or properties.,0.1775094472433649,0.04351008292853381
+366,"Evaluate training programs, instructors, or materials.",0.3727775795540808,0.0701310513175957
+440,Review plans or proposals for environmental conservation.,0.26427284522710726,0.049865430174697016
+454,Analyze geological samples.,0.2403980487508296,0.04613715000250533
+500,Analyze shipping information to make routing decisions.,0.21211040707398846,0.05166809646302457
+520,Analyze financial records to improve efficiency.,0.2288027493183476,0.06343142435082251
+649,Design templates or patterns.,0.2754789059542136,0.059389995759848005
+669,Develop educational policies.,0.3449930410816186,0.0730585010997279
+689,"Design layout of art or product exhibits, displays, or promotional materials.",0.24511245049270053,0.05585196670975341
+798,Schedule patient procedures or appointments.,0.22488123278002617,0.058763525642512277
+909,Maintain security.,0.23853382732315934,0.0531550540181898
+966,Assist chefs or caterers with food or drink preparation.,0.18463892972412038,0.046881527949100145
+1023,Control power supply connections.,0.1230093152762104,0.023677116969680088
+1196,Attach equipment extensions or accessories.,0.16487100450520908,0.04539291201741855
+1396,Record operational or production data.,0.23112623266257548,0.06023919925534817
+1422,Record information from meetings or other formal proceedings.,0.3156465064426007,0.05572379407737541
+1466,Prepare reports detailing student activities or performance.,0.39124073176841273,0.07139241957908041
+1809,Supervise laboratory work.,0.27035255664532215,0.05807007892448049
+1855,Coordinate construction project activities.,0.2447359624946917,0.05566204256621073
+1943,Provide recommendations to others about computer hardware.,0.19510184625962135,0.05178113124558715
+2043,Distribute materials to employees or customers.,0.25567875764847403,0.0652751192066061

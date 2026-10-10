@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+22,Investigate crimes committed within organizations.,0.2575358464598538,0.06076201725343951
+127,Monitor operational quality or safety.,0.2636666216567682,0.06533435346870237
+176,Monitor work areas or procedures to ensure compliance with safety procedures.,0.28323624309206913,0.06182830292596473
+281,Inspect electrical or electronic systems for defects.,0.24504099115991998,0.04861968136999386
+342,Estimate maintenance service requirements or costs.,0.16601922867111832,0.05035316652813943
+401,Verify accuracy of records.,0.16774919895519275,0.04474315889017194
+427,Examine personal documentation to ensure that it is valid.,0.21152852132073635,0.04843649224722518
+446,Examine financial records.,0.12714775971881198,0.05028568238315558
+531,Estimate costs of goods or services.,0.23529778100447904,0.06023871746690483
+542,Determine operational methods.,0.26886815481652304,0.05912288139145241
+734,Develop scientific or mathematical models.,0.3245073961580962,0.059873540757355646
+764,Develop organizational methods or procedures.,0.3428550811569348,0.0777938676861406
+806,Plan work operations.,0.29864027914465796,0.06150371457232607
+808,Adjust routes or speeds as necessary.,0.14956245121118153,0.04103773700611522
+1003,"Arrange artwork, products, or props.",0.20311750355142677,0.05138544205710904
+1113,Arrange childcare or educational settings to ensure physical safety of children.,0.26687512015428033,0.06502679733171023
+1134,Weld metal components.,0.09275766106093235,0.03306517180302759
+1222,Operate still or video cameras or related equipment.,0.20492301384704653,0.05797308190167838
+1281,Install computer hardware.,0.17472761570006645,0.048133324447767974
+1394,Record details of deliveries or shipments.,0.21428119013055674,0.05001368489660384
+1572,Represent the organization in external relations.,0.2976137593847051,0.07153324730670878
+1636,Provide care for animals.,0.1841990300975445,0.05057265676427212
+1685,Customize financial products or services to meet customer needs.,0.22441679135882497,0.06443573629560466
+1688,Customize energy products or services to meet customer needs.,0.21992198169834118,0.05932059421425225
+1700,"Promote products, services, or programs.",0.2341989003621427,0.0707864719288465
+1743,Apply multiple teaching methods.,0.3847770355439627,0.07536330103453748
+1792,Train caregivers or other non-medical personnel.,0.15123877683638048,0.0633037687007984
+1821,Supervise inmate activities.,0.23429169706403402,0.05577900044515053
+1848,Manage organizational or program finances.,0.23789289991124798,0.068366208239374
+1896,Direct department activities.,0.296271540780525,0.0673454589435395
+2048,Distribute supplies to workers.,0.22033142456834764,0.05049524811517176
+2058,Purchase products or services.,0.18750164992252782,0.05700113795177912

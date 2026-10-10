@@ -1,0 +1,641 @@
+year,skill_id,skill
+2008,1,Study details of musical compositions.
+2008,13,Review work orders or schedules to determine operations or procedures.
+2008,36,Research relevant legal materials to aid decision making.
+2008,55,Gather information for news stories.
+2008,87,Research design or application of green technologies.
+2008,95,Investigate accidents to determine causes.
+2008,106,Interview people to gather information about criminal activities.
+2008,122,Monitor video displays of medical equipment to ensure proper functioning.
+2008,166,Monitor activities of individuals to ensure safety or compliance with rules.
+2008,183,Monitor external affairs or events affecting business operations.
+2008,203,Monitor medical facility activities to ensure adherence to standards or regulations.
+2008,292,Inspect communications or broadcasting equipment.
+2008,294,Examine medical instruments or equipment to ensure proper operation.
+2008,296,Test computer system operations to ensure proper functioning.
+2008,317,Test performance of aircraft equipment.
+2008,323,"Measure materials to mark reference points, cutting lines, or other indicators."
+2008,376,Evaluate capabilities or training needs.
+2008,440,Review plans or proposals for environmental conservation.
+2008,465,Analyze consumer trends.
+2008,486,Calculate data to inform organizational operations.
+2008,570,"Determine types of equipment, tools, or materials needed for jobs."
+2008,571,Estimate materials requirements for projects.
+2008,586,Select construction materials.
+2008,587,Select medical equipment for addressing patient needs.
+2008,639,Develop financial or business plans.
+2008,681,Prepare drawings or diagrams of products or services.
+2008,689,"Design layout of art or product exhibits, displays, or promotional materials."
+2008,707,Develop sustainable business strategies or practices.
+2008,747,Research topics in area of expertise.
+2008,773,Develop financial analysis methods.
+2008,780,Develop procedures to evaluate organizational activities.
+2008,809,Plan trapping or hunting activities.
+2008,859,Remove debris or damaged materials.
+2008,902,"Move products, materials, or equipment between work areas."
+2008,934,Prepare land for agricultural use.
+2008,950,Assemble metal structures.
+2008,958,"Install green structural components, equipment or systems."
+2008,1005,"Prepare materials for preservation, storage, or display."
+2008,1051,Trim trees or other vegetation.
+2008,1131,Connect supply lines to production equipment or tools.
+2008,1140,Build production molds.
+2008,1224,Operate audio recording equipment.
+2008,1265,Operate vehicles or material-moving equipment.
+2008,1267,Control equipment that regulates vehicle traffic.
+2008,1297,Download data.
+2008,1358,Maintain medical laboratory equipment.
+2008,1373,Prepare research reports.
+2008,1445,Prepare healthcare training materials.
+2008,1496,Communicate with the public on environmental issues.
+2008,1536,Collaborate with others to develop or implement marketing strategies.
+2008,1578,Confer with clients to determine needs.
+2008,1590,Report news to the public.
+2008,1612,Refer patients to other healthcare practitioners or health resources.
+2008,1638,Respond to emergencies to provide assistance.
+2008,1683,Merchandise healthcare products or services.
+2008,1711,"Negotiate contracts for environmental remediation, green energy, or renewable resources."
+2008,1721,Perform for recordings.
+2008,1726,Operate gaming equipment.
+2008,1752,Teach safety standards or environmental compliance methods.
+2008,1763,Train food preparation or food service personnel.
+2008,1786,"Train patients, family members, or caregivers in techniques for managing disabilities or illnesses."
+2008,1826,Coordinate software or hardware installation.
+2008,1964,Advise others on social or educational issues.
+2008,2066,Inventory materials or equipment.
+2009,1,Study details of musical compositions.
+2009,13,Review work orders or schedules to determine operations or procedures.
+2009,36,Research relevant legal materials to aid decision making.
+2009,55,Gather information for news stories.
+2009,87,Research design or application of green technologies.
+2009,95,Investigate accidents to determine causes.
+2009,106,Interview people to gather information about criminal activities.
+2009,122,Monitor video displays of medical equipment to ensure proper functioning.
+2009,166,Monitor activities of individuals to ensure safety or compliance with rules.
+2009,183,Monitor external affairs or events affecting business operations.
+2009,203,Monitor medical facility activities to ensure adherence to standards or regulations.
+2009,292,Inspect communications or broadcasting equipment.
+2009,294,Examine medical instruments or equipment to ensure proper operation.
+2009,296,Test computer system operations to ensure proper functioning.
+2009,317,Test performance of aircraft equipment.
+2009,323,"Measure materials to mark reference points, cutting lines, or other indicators."
+2009,376,Evaluate capabilities or training needs.
+2009,440,Review plans or proposals for environmental conservation.
+2009,465,Analyze consumer trends.
+2009,486,Calculate data to inform organizational operations.
+2009,570,"Determine types of equipment, tools, or materials needed for jobs."
+2009,571,Estimate materials requirements for projects.
+2009,586,Select construction materials.
+2009,587,Select medical equipment for addressing patient needs.
+2009,639,Develop financial or business plans.
+2009,681,Prepare drawings or diagrams of products or services.
+2009,689,"Design layout of art or product exhibits, displays, or promotional materials."
+2009,707,Develop sustainable business strategies or practices.
+2009,747,Research topics in area of expertise.
+2009,773,Develop financial analysis methods.
+2009,780,Develop procedures to evaluate organizational activities.
+2009,809,Plan trapping or hunting activities.
+2009,859,Remove debris or damaged materials.
+2009,902,"Move products, materials, or equipment between work areas."
+2009,934,Prepare land for agricultural use.
+2009,950,Assemble metal structures.
+2009,958,"Install green structural components, equipment or systems."
+2009,1005,"Prepare materials for preservation, storage, or display."
+2009,1051,Trim trees or other vegetation.
+2009,1131,Connect supply lines to production equipment or tools.
+2009,1140,Build production molds.
+2009,1224,Operate audio recording equipment.
+2009,1265,Operate vehicles or material-moving equipment.
+2009,1267,Control equipment that regulates vehicle traffic.
+2009,1297,Download data.
+2009,1358,Maintain medical laboratory equipment.
+2009,1373,Prepare research reports.
+2009,1445,Prepare healthcare training materials.
+2009,1496,Communicate with the public on environmental issues.
+2009,1536,Collaborate with others to develop or implement marketing strategies.
+2009,1578,Confer with clients to determine needs.
+2009,1590,Report news to the public.
+2009,1612,Refer patients to other healthcare practitioners or health resources.
+2009,1638,Respond to emergencies to provide assistance.
+2009,1683,Merchandise healthcare products or services.
+2009,1711,"Negotiate contracts for environmental remediation, green energy, or renewable resources."
+2009,1721,Perform for recordings.
+2009,1726,Operate gaming equipment.
+2009,1752,Teach safety standards or environmental compliance methods.
+2009,1763,Train food preparation or food service personnel.
+2009,1786,"Train patients, family members, or caregivers in techniques for managing disabilities or illnesses."
+2009,1826,Coordinate software or hardware installation.
+2009,1964,Advise others on social or educational issues.
+2009,2066,Inventory materials or equipment.
+2010,1,Study details of musical compositions.
+2010,13,Review work orders or schedules to determine operations or procedures.
+2010,36,Research relevant legal materials to aid decision making.
+2010,55,Gather information for news stories.
+2010,87,Research design or application of green technologies.
+2010,95,Investigate accidents to determine causes.
+2010,106,Interview people to gather information about criminal activities.
+2010,122,Monitor video displays of medical equipment to ensure proper functioning.
+2010,166,Monitor activities of individuals to ensure safety or compliance with rules.
+2010,183,Monitor external affairs or events affecting business operations.
+2010,203,Monitor medical facility activities to ensure adherence to standards or regulations.
+2010,292,Inspect communications or broadcasting equipment.
+2010,294,Examine medical instruments or equipment to ensure proper operation.
+2010,296,Test computer system operations to ensure proper functioning.
+2010,317,Test performance of aircraft equipment.
+2010,323,"Measure materials to mark reference points, cutting lines, or other indicators."
+2010,376,Evaluate capabilities or training needs.
+2010,440,Review plans or proposals for environmental conservation.
+2010,465,Analyze consumer trends.
+2010,486,Calculate data to inform organizational operations.
+2010,570,"Determine types of equipment, tools, or materials needed for jobs."
+2010,571,Estimate materials requirements for projects.
+2010,586,Select construction materials.
+2010,587,Select medical equipment for addressing patient needs.
+2010,639,Develop financial or business plans.
+2010,681,Prepare drawings or diagrams of products or services.
+2010,689,"Design layout of art or product exhibits, displays, or promotional materials."
+2010,707,Develop sustainable business strategies or practices.
+2010,747,Research topics in area of expertise.
+2010,773,Develop financial analysis methods.
+2010,780,Develop procedures to evaluate organizational activities.
+2010,809,Plan trapping or hunting activities.
+2010,859,Remove debris or damaged materials.
+2010,902,"Move products, materials, or equipment between work areas."
+2010,934,Prepare land for agricultural use.
+2010,950,Assemble metal structures.
+2010,958,"Install green structural components, equipment or systems."
+2010,1005,"Prepare materials for preservation, storage, or display."
+2010,1051,Trim trees or other vegetation.
+2010,1131,Connect supply lines to production equipment or tools.
+2010,1140,Build production molds.
+2010,1224,Operate audio recording equipment.
+2010,1265,Operate vehicles or material-moving equipment.
+2010,1267,Control equipment that regulates vehicle traffic.
+2010,1297,Download data.
+2010,1358,Maintain medical laboratory equipment.
+2010,1373,Prepare research reports.
+2010,1445,Prepare healthcare training materials.
+2010,1496,Communicate with the public on environmental issues.
+2010,1536,Collaborate with others to develop or implement marketing strategies.
+2010,1578,Confer with clients to determine needs.
+2010,1590,Report news to the public.
+2010,1612,Refer patients to other healthcare practitioners or health resources.
+2010,1638,Respond to emergencies to provide assistance.
+2010,1683,Merchandise healthcare products or services.
+2010,1711,"Negotiate contracts for environmental remediation, green energy, or renewable resources."
+2010,1721,Perform for recordings.
+2010,1726,Operate gaming equipment.
+2010,1752,Teach safety standards or environmental compliance methods.
+2010,1763,Train food preparation or food service personnel.
+2010,1786,"Train patients, family members, or caregivers in techniques for managing disabilities or illnesses."
+2010,1826,Coordinate software or hardware installation.
+2010,1964,Advise others on social or educational issues.
+2010,2066,Inventory materials or equipment.
+2011,1,Study details of musical compositions.
+2011,13,Review work orders or schedules to determine operations or procedures.
+2011,36,Research relevant legal materials to aid decision making.
+2011,55,Gather information for news stories.
+2011,87,Research design or application of green technologies.
+2011,95,Investigate accidents to determine causes.
+2011,106,Interview people to gather information about criminal activities.
+2011,122,Monitor video displays of medical equipment to ensure proper functioning.
+2011,166,Monitor activities of individuals to ensure safety or compliance with rules.
+2011,183,Monitor external affairs or events affecting business operations.
+2011,203,Monitor medical facility activities to ensure adherence to standards or regulations.
+2011,292,Inspect communications or broadcasting equipment.
+2011,294,Examine medical instruments or equipment to ensure proper operation.
+2011,296,Test computer system operations to ensure proper functioning.
+2011,317,Test performance of aircraft equipment.
+2011,323,"Measure materials to mark reference points, cutting lines, or other indicators."
+2011,376,Evaluate capabilities or training needs.
+2011,440,Review plans or proposals for environmental conservation.
+2011,465,Analyze consumer trends.
+2011,486,Calculate data to inform organizational operations.
+2011,570,"Determine types of equipment, tools, or materials needed for jobs."
+2011,571,Estimate materials requirements for projects.
+2011,586,Select construction materials.
+2011,587,Select medical equipment for addressing patient needs.
+2011,639,Develop financial or business plans.
+2011,681,Prepare drawings or diagrams of products or services.
+2011,689,"Design layout of art or product exhibits, displays, or promotional materials."
+2011,707,Develop sustainable business strategies or practices.
+2011,747,Research topics in area of expertise.
+2011,773,Develop financial analysis methods.
+2011,780,Develop procedures to evaluate organizational activities.
+2011,809,Plan trapping or hunting activities.
+2011,859,Remove debris or damaged materials.
+2011,902,"Move products, materials, or equipment between work areas."
+2011,934,Prepare land for agricultural use.
+2011,950,Assemble metal structures.
+2011,958,"Install green structural components, equipment or systems."
+2011,1005,"Prepare materials for preservation, storage, or display."
+2011,1051,Trim trees or other vegetation.
+2011,1131,Connect supply lines to production equipment or tools.
+2011,1140,Build production molds.
+2011,1224,Operate audio recording equipment.
+2011,1265,Operate vehicles or material-moving equipment.
+2011,1267,Control equipment that regulates vehicle traffic.
+2011,1297,Download data.
+2011,1358,Maintain medical laboratory equipment.
+2011,1373,Prepare research reports.
+2011,1445,Prepare healthcare training materials.
+2011,1496,Communicate with the public on environmental issues.
+2011,1536,Collaborate with others to develop or implement marketing strategies.
+2011,1578,Confer with clients to determine needs.
+2011,1590,Report news to the public.
+2011,1612,Refer patients to other healthcare practitioners or health resources.
+2011,1638,Respond to emergencies to provide assistance.
+2011,1683,Merchandise healthcare products or services.
+2011,1711,"Negotiate contracts for environmental remediation, green energy, or renewable resources."
+2011,1721,Perform for recordings.
+2011,1726,Operate gaming equipment.
+2011,1752,Teach safety standards or environmental compliance methods.
+2011,1763,Train food preparation or food service personnel.
+2011,1786,"Train patients, family members, or caregivers in techniques for managing disabilities or illnesses."
+2011,1826,Coordinate software or hardware installation.
+2011,1964,Advise others on social or educational issues.
+2011,2066,Inventory materials or equipment.
+2012,1,Study details of musical compositions.
+2012,13,Review work orders or schedules to determine operations or procedures.
+2012,36,Research relevant legal materials to aid decision making.
+2012,55,Gather information for news stories.
+2012,87,Research design or application of green technologies.
+2012,95,Investigate accidents to determine causes.
+2012,106,Interview people to gather information about criminal activities.
+2012,122,Monitor video displays of medical equipment to ensure proper functioning.
+2012,166,Monitor activities of individuals to ensure safety or compliance with rules.
+2012,183,Monitor external affairs or events affecting business operations.
+2012,203,Monitor medical facility activities to ensure adherence to standards or regulations.
+2012,292,Inspect communications or broadcasting equipment.
+2012,294,Examine medical instruments or equipment to ensure proper operation.
+2012,296,Test computer system operations to ensure proper functioning.
+2012,317,Test performance of aircraft equipment.
+2012,323,"Measure materials to mark reference points, cutting lines, or other indicators."
+2012,376,Evaluate capabilities or training needs.
+2012,440,Review plans or proposals for environmental conservation.
+2012,465,Analyze consumer trends.
+2012,486,Calculate data to inform organizational operations.
+2012,570,"Determine types of equipment, tools, or materials needed for jobs."
+2012,571,Estimate materials requirements for projects.
+2012,586,Select construction materials.
+2012,587,Select medical equipment for addressing patient needs.
+2012,639,Develop financial or business plans.
+2012,681,Prepare drawings or diagrams of products or services.
+2012,689,"Design layout of art or product exhibits, displays, or promotional materials."
+2012,707,Develop sustainable business strategies or practices.
+2012,747,Research topics in area of expertise.
+2012,773,Develop financial analysis methods.
+2012,780,Develop procedures to evaluate organizational activities.
+2012,809,Plan trapping or hunting activities.
+2012,859,Remove debris or damaged materials.
+2012,902,"Move products, materials, or equipment between work areas."
+2012,934,Prepare land for agricultural use.
+2012,950,Assemble metal structures.
+2012,958,"Install green structural components, equipment or systems."
+2012,1005,"Prepare materials for preservation, storage, or display."
+2012,1051,Trim trees or other vegetation.
+2012,1131,Connect supply lines to production equipment or tools.
+2012,1140,Build production molds.
+2012,1224,Operate audio recording equipment.
+2012,1265,Operate vehicles or material-moving equipment.
+2012,1267,Control equipment that regulates vehicle traffic.
+2012,1297,Download data.
+2012,1358,Maintain medical laboratory equipment.
+2012,1373,Prepare research reports.
+2012,1445,Prepare healthcare training materials.
+2012,1496,Communicate with the public on environmental issues.
+2012,1536,Collaborate with others to develop or implement marketing strategies.
+2012,1578,Confer with clients to determine needs.
+2012,1590,Report news to the public.
+2012,1612,Refer patients to other healthcare practitioners or health resources.
+2012,1638,Respond to emergencies to provide assistance.
+2012,1683,Merchandise healthcare products or services.
+2012,1711,"Negotiate contracts for environmental remediation, green energy, or renewable resources."
+2012,1721,Perform for recordings.
+2012,1726,Operate gaming equipment.
+2012,1752,Teach safety standards or environmental compliance methods.
+2012,1763,Train food preparation or food service personnel.
+2012,1786,"Train patients, family members, or caregivers in techniques for managing disabilities or illnesses."
+2012,1826,Coordinate software or hardware installation.
+2012,1964,Advise others on social or educational issues.
+2012,2066,Inventory materials or equipment.
+2013,1,Study details of musical compositions.
+2013,13,Review work orders or schedules to determine operations or procedures.
+2013,36,Research relevant legal materials to aid decision making.
+2013,55,Gather information for news stories.
+2013,87,Research design or application of green technologies.
+2013,95,Investigate accidents to determine causes.
+2013,106,Interview people to gather information about criminal activities.
+2013,122,Monitor video displays of medical equipment to ensure proper functioning.
+2013,166,Monitor activities of individuals to ensure safety or compliance with rules.
+2013,183,Monitor external affairs or events affecting business operations.
+2013,203,Monitor medical facility activities to ensure adherence to standards or regulations.
+2013,292,Inspect communications or broadcasting equipment.
+2013,294,Examine medical instruments or equipment to ensure proper operation.
+2013,296,Test computer system operations to ensure proper functioning.
+2013,317,Test performance of aircraft equipment.
+2013,323,"Measure materials to mark reference points, cutting lines, or other indicators."
+2013,376,Evaluate capabilities or training needs.
+2013,440,Review plans or proposals for environmental conservation.
+2013,465,Analyze consumer trends.
+2013,486,Calculate data to inform organizational operations.
+2013,570,"Determine types of equipment, tools, or materials needed for jobs."
+2013,571,Estimate materials requirements for projects.
+2013,586,Select construction materials.
+2013,587,Select medical equipment for addressing patient needs.
+2013,639,Develop financial or business plans.
+2013,681,Prepare drawings or diagrams of products or services.
+2013,689,"Design layout of art or product exhibits, displays, or promotional materials."
+2013,707,Develop sustainable business strategies or practices.
+2013,747,Research topics in area of expertise.
+2013,773,Develop financial analysis methods.
+2013,780,Develop procedures to evaluate organizational activities.
+2013,809,Plan trapping or hunting activities.
+2013,859,Remove debris or damaged materials.
+2013,902,"Move products, materials, or equipment between work areas."
+2013,934,Prepare land for agricultural use.
+2013,950,Assemble metal structures.
+2013,958,"Install green structural components, equipment or systems."
+2013,1005,"Prepare materials for preservation, storage, or display."
+2013,1051,Trim trees or other vegetation.
+2013,1131,Connect supply lines to production equipment or tools.
+2013,1140,Build production molds.
+2013,1224,Operate audio recording equipment.
+2013,1265,Operate vehicles or material-moving equipment.
+2013,1267,Control equipment that regulates vehicle traffic.
+2013,1297,Download data.
+2013,1358,Maintain medical laboratory equipment.
+2013,1373,Prepare research reports.
+2013,1445,Prepare healthcare training materials.
+2013,1496,Communicate with the public on environmental issues.
+2013,1536,Collaborate with others to develop or implement marketing strategies.
+2013,1578,Confer with clients to determine needs.
+2013,1590,Report news to the public.
+2013,1612,Refer patients to other healthcare practitioners or health resources.
+2013,1638,Respond to emergencies to provide assistance.
+2013,1683,Merchandise healthcare products or services.
+2013,1711,"Negotiate contracts for environmental remediation, green energy, or renewable resources."
+2013,1721,Perform for recordings.
+2013,1726,Operate gaming equipment.
+2013,1752,Teach safety standards or environmental compliance methods.
+2013,1763,Train food preparation or food service personnel.
+2013,1786,"Train patients, family members, or caregivers in techniques for managing disabilities or illnesses."
+2013,1826,Coordinate software or hardware installation.
+2013,1964,Advise others on social or educational issues.
+2013,2066,Inventory materials or equipment.
+2014,1,Study details of musical compositions.
+2014,13,Review work orders or schedules to determine operations or procedures.
+2014,36,Research relevant legal materials to aid decision making.
+2014,55,Gather information for news stories.
+2014,87,Research design or application of green technologies.
+2014,95,Investigate accidents to determine causes.
+2014,106,Interview people to gather information about criminal activities.
+2014,122,Monitor video displays of medical equipment to ensure proper functioning.
+2014,166,Monitor activities of individuals to ensure safety or compliance with rules.
+2014,183,Monitor external affairs or events affecting business operations.
+2014,203,Monitor medical facility activities to ensure adherence to standards or regulations.
+2014,292,Inspect communications or broadcasting equipment.
+2014,294,Examine medical instruments or equipment to ensure proper operation.
+2014,296,Test computer system operations to ensure proper functioning.
+2014,317,Test performance of aircraft equipment.
+2014,323,"Measure materials to mark reference points, cutting lines, or other indicators."
+2014,376,Evaluate capabilities or training needs.
+2014,440,Review plans or proposals for environmental conservation.
+2014,465,Analyze consumer trends.
+2014,486,Calculate data to inform organizational operations.
+2014,570,"Determine types of equipment, tools, or materials needed for jobs."
+2014,571,Estimate materials requirements for projects.
+2014,586,Select construction materials.
+2014,587,Select medical equipment for addressing patient needs.
+2014,639,Develop financial or business plans.
+2014,681,Prepare drawings or diagrams of products or services.
+2014,689,"Design layout of art or product exhibits, displays, or promotional materials."
+2014,707,Develop sustainable business strategies or practices.
+2014,747,Research topics in area of expertise.
+2014,773,Develop financial analysis methods.
+2014,780,Develop procedures to evaluate organizational activities.
+2014,809,Plan trapping or hunting activities.
+2014,859,Remove debris or damaged materials.
+2014,902,"Move products, materials, or equipment between work areas."
+2014,934,Prepare land for agricultural use.
+2014,950,Assemble metal structures.
+2014,958,"Install green structural components, equipment or systems."
+2014,1005,"Prepare materials for preservation, storage, or display."
+2014,1051,Trim trees or other vegetation.
+2014,1131,Connect supply lines to production equipment or tools.
+2014,1140,Build production molds.
+2014,1224,Operate audio recording equipment.
+2014,1265,Operate vehicles or material-moving equipment.
+2014,1267,Control equipment that regulates vehicle traffic.
+2014,1297,Download data.
+2014,1358,Maintain medical laboratory equipment.
+2014,1373,Prepare research reports.
+2014,1445,Prepare healthcare training materials.
+2014,1496,Communicate with the public on environmental issues.
+2014,1536,Collaborate with others to develop or implement marketing strategies.
+2014,1578,Confer with clients to determine needs.
+2014,1590,Report news to the public.
+2014,1612,Refer patients to other healthcare practitioners or health resources.
+2014,1638,Respond to emergencies to provide assistance.
+2014,1683,Merchandise healthcare products or services.
+2014,1711,"Negotiate contracts for environmental remediation, green energy, or renewable resources."
+2014,1721,Perform for recordings.
+2014,1726,Operate gaming equipment.
+2014,1752,Teach safety standards or environmental compliance methods.
+2014,1763,Train food preparation or food service personnel.
+2014,1786,"Train patients, family members, or caregivers in techniques for managing disabilities or illnesses."
+2014,1826,Coordinate software or hardware installation.
+2014,1964,Advise others on social or educational issues.
+2014,2066,Inventory materials or equipment.
+2015,1,Study details of musical compositions.
+2015,13,Review work orders or schedules to determine operations or procedures.
+2015,36,Research relevant legal materials to aid decision making.
+2015,55,Gather information for news stories.
+2015,87,Research design or application of green technologies.
+2015,95,Investigate accidents to determine causes.
+2015,106,Interview people to gather information about criminal activities.
+2015,122,Monitor video displays of medical equipment to ensure proper functioning.
+2015,166,Monitor activities of individuals to ensure safety or compliance with rules.
+2015,183,Monitor external affairs or events affecting business operations.
+2015,203,Monitor medical facility activities to ensure adherence to standards or regulations.
+2015,292,Inspect communications or broadcasting equipment.
+2015,294,Examine medical instruments or equipment to ensure proper operation.
+2015,296,Test computer system operations to ensure proper functioning.
+2015,317,Test performance of aircraft equipment.
+2015,323,"Measure materials to mark reference points, cutting lines, or other indicators."
+2015,376,Evaluate capabilities or training needs.
+2015,440,Review plans or proposals for environmental conservation.
+2015,465,Analyze consumer trends.
+2015,486,Calculate data to inform organizational operations.
+2015,570,"Determine types of equipment, tools, or materials needed for jobs."
+2015,571,Estimate materials requirements for projects.
+2015,586,Select construction materials.
+2015,587,Select medical equipment for addressing patient needs.
+2015,639,Develop financial or business plans.
+2015,681,Prepare drawings or diagrams of products or services.
+2015,689,"Design layout of art or product exhibits, displays, or promotional materials."
+2015,707,Develop sustainable business strategies or practices.
+2015,747,Research topics in area of expertise.
+2015,773,Develop financial analysis methods.
+2015,780,Develop procedures to evaluate organizational activities.
+2015,809,Plan trapping or hunting activities.
+2015,859,Remove debris or damaged materials.
+2015,902,"Move products, materials, or equipment between work areas."
+2015,934,Prepare land for agricultural use.
+2015,950,Assemble metal structures.
+2015,958,"Install green structural components, equipment or systems."
+2015,1005,"Prepare materials for preservation, storage, or display."
+2015,1051,Trim trees or other vegetation.
+2015,1131,Connect supply lines to production equipment or tools.
+2015,1140,Build production molds.
+2015,1224,Operate audio recording equipment.
+2015,1265,Operate vehicles or material-moving equipment.
+2015,1267,Control equipment that regulates vehicle traffic.
+2015,1297,Download data.
+2015,1358,Maintain medical laboratory equipment.
+2015,1373,Prepare research reports.
+2015,1445,Prepare healthcare training materials.
+2015,1496,Communicate with the public on environmental issues.
+2015,1536,Collaborate with others to develop or implement marketing strategies.
+2015,1578,Confer with clients to determine needs.
+2015,1590,Report news to the public.
+2015,1612,Refer patients to other healthcare practitioners or health resources.
+2015,1638,Respond to emergencies to provide assistance.
+2015,1683,Merchandise healthcare products or services.
+2015,1711,"Negotiate contracts for environmental remediation, green energy, or renewable resources."
+2015,1721,Perform for recordings.
+2015,1726,Operate gaming equipment.
+2015,1752,Teach safety standards or environmental compliance methods.
+2015,1763,Train food preparation or food service personnel.
+2015,1786,"Train patients, family members, or caregivers in techniques for managing disabilities or illnesses."
+2015,1826,Coordinate software or hardware installation.
+2015,1964,Advise others on social or educational issues.
+2015,2066,Inventory materials or equipment.
+2016,1,Study details of musical compositions.
+2016,13,Review work orders or schedules to determine operations or procedures.
+2016,36,Research relevant legal materials to aid decision making.
+2016,55,Gather information for news stories.
+2016,87,Research design or application of green technologies.
+2016,95,Investigate accidents to determine causes.
+2016,106,Interview people to gather information about criminal activities.
+2016,122,Monitor video displays of medical equipment to ensure proper functioning.
+2016,166,Monitor activities of individuals to ensure safety or compliance with rules.
+2016,183,Monitor external affairs or events affecting business operations.
+2016,203,Monitor medical facility activities to ensure adherence to standards or regulations.
+2016,292,Inspect communications or broadcasting equipment.
+2016,294,Examine medical instruments or equipment to ensure proper operation.
+2016,296,Test computer system operations to ensure proper functioning.
+2016,317,Test performance of aircraft equipment.
+2016,323,"Measure materials to mark reference points, cutting lines, or other indicators."
+2016,376,Evaluate capabilities or training needs.
+2016,440,Review plans or proposals for environmental conservation.
+2016,465,Analyze consumer trends.
+2016,486,Calculate data to inform organizational operations.
+2016,570,"Determine types of equipment, tools, or materials needed for jobs."
+2016,571,Estimate materials requirements for projects.
+2016,586,Select construction materials.
+2016,587,Select medical equipment for addressing patient needs.
+2016,639,Develop financial or business plans.
+2016,681,Prepare drawings or diagrams of products or services.
+2016,689,"Design layout of art or product exhibits, displays, or promotional materials."
+2016,707,Develop sustainable business strategies or practices.
+2016,747,Research topics in area of expertise.
+2016,773,Develop financial analysis methods.
+2016,780,Develop procedures to evaluate organizational activities.
+2016,809,Plan trapping or hunting activities.
+2016,859,Remove debris or damaged materials.
+2016,902,"Move products, materials, or equipment between work areas."
+2016,934,Prepare land for agricultural use.
+2016,950,Assemble metal structures.
+2016,958,"Install green structural components, equipment or systems."
+2016,1005,"Prepare materials for preservation, storage, or display."
+2016,1051,Trim trees or other vegetation.
+2016,1131,Connect supply lines to production equipment or tools.
+2016,1140,Build production molds.
+2016,1224,Operate audio recording equipment.
+2016,1265,Operate vehicles or material-moving equipment.
+2016,1267,Control equipment that regulates vehicle traffic.
+2016,1297,Download data.
+2016,1358,Maintain medical laboratory equipment.
+2016,1373,Prepare research reports.
+2016,1445,Prepare healthcare training materials.
+2016,1496,Communicate with the public on environmental issues.
+2016,1536,Collaborate with others to develop or implement marketing strategies.
+2016,1578,Confer with clients to determine needs.
+2016,1590,Report news to the public.
+2016,1612,Refer patients to other healthcare practitioners or health resources.
+2016,1638,Respond to emergencies to provide assistance.
+2016,1683,Merchandise healthcare products or services.
+2016,1711,"Negotiate contracts for environmental remediation, green energy, or renewable resources."
+2016,1721,Perform for recordings.
+2016,1726,Operate gaming equipment.
+2016,1752,Teach safety standards or environmental compliance methods.
+2016,1763,Train food preparation or food service personnel.
+2016,1786,"Train patients, family members, or caregivers in techniques for managing disabilities or illnesses."
+2016,1826,Coordinate software or hardware installation.
+2016,1964,Advise others on social or educational issues.
+2016,2066,Inventory materials or equipment.
+2017,1,Study details of musical compositions.
+2017,13,Review work orders or schedules to determine operations or procedures.
+2017,36,Research relevant legal materials to aid decision making.
+2017,55,Gather information for news stories.
+2017,87,Research design or application of green technologies.
+2017,95,Investigate accidents to determine causes.
+2017,106,Interview people to gather information about criminal activities.
+2017,122,Monitor video displays of medical equipment to ensure proper functioning.
+2017,166,Monitor activities of individuals to ensure safety or compliance with rules.
+2017,183,Monitor external affairs or events affecting business operations.
+2017,203,Monitor medical facility activities to ensure adherence to standards or regulations.
+2017,292,Inspect communications or broadcasting equipment.
+2017,294,Examine medical instruments or equipment to ensure proper operation.
+2017,296,Test computer system operations to ensure proper functioning.
+2017,317,Test performance of aircraft equipment.
+2017,323,"Measure materials to mark reference points, cutting lines, or other indicators."
+2017,376,Evaluate capabilities or training needs.
+2017,440,Review plans or proposals for environmental conservation.
+2017,465,Analyze consumer trends.
+2017,486,Calculate data to inform organizational operations.
+2017,570,"Determine types of equipment, tools, or materials needed for jobs."
+2017,571,Estimate materials requirements for projects.
+2017,586,Select construction materials.
+2017,587,Select medical equipment for addressing patient needs.
+2017,639,Develop financial or business plans.
+2017,681,Prepare drawings or diagrams of products or services.
+2017,689,"Design layout of art or product exhibits, displays, or promotional materials."
+2017,707,Develop sustainable business strategies or practices.
+2017,747,Research topics in area of expertise.
+2017,773,Develop financial analysis methods.
+2017,780,Develop procedures to evaluate organizational activities.
+2017,809,Plan trapping or hunting activities.
+2017,859,Remove debris or damaged materials.
+2017,902,"Move products, materials, or equipment between work areas."
+2017,934,Prepare land for agricultural use.
+2017,950,Assemble metal structures.
+2017,958,"Install green structural components, equipment or systems."
+2017,1005,"Prepare materials for preservation, storage, or display."
+2017,1051,Trim trees or other vegetation.
+2017,1131,Connect supply lines to production equipment or tools.
+2017,1140,Build production molds.
+2017,1224,Operate audio recording equipment.
+2017,1265,Operate vehicles or material-moving equipment.
+2017,1267,Control equipment that regulates vehicle traffic.
+2017,1297,Download data.
+2017,1358,Maintain medical laboratory equipment.
+2017,1373,Prepare research reports.
+2017,1445,Prepare healthcare training materials.
+2017,1496,Communicate with the public on environmental issues.
+2017,1536,Collaborate with others to develop or implement marketing strategies.
+2017,1578,Confer with clients to determine needs.
+2017,1590,Report news to the public.
+2017,1612,Refer patients to other healthcare practitioners or health resources.
+2017,1638,Respond to emergencies to provide assistance.
+2017,1683,Merchandise healthcare products or services.
+2017,1711,"Negotiate contracts for environmental remediation, green energy, or renewable resources."
+2017,1721,Perform for recordings.
+2017,1726,Operate gaming equipment.
+2017,1752,Teach safety standards or environmental compliance methods.
+2017,1763,Train food preparation or food service personnel.
+2017,1786,"Train patients, family members, or caregivers in techniques for managing disabilities or illnesses."
+2017,1826,Coordinate software or hardware installation.
+2017,1964,Advise others on social or educational issues.
+2017,2066,Inventory materials or equipment.

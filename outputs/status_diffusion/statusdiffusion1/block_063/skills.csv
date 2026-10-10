@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+104,Interview clients to gather financial information.,0.2512911575806236,0.06067218992393873
+117,Watch operating equipment to detect malfunctions.,0.20062618337956162,0.04694473800006127
+123,Monitor equipment gauges or displays to ensure proper operation.,0.2369284153589916,0.04758209082847822
+268,Inspect food products.,0.21346474274900523,0.0458776000739646
+316,Test electrical equipment or systems to ensure proper functioning.,0.2486422478760785,0.04845560659781998
+357,Evaluate potential problems in home or work environments of clients.,0.3047906560932329,0.06144243249591693
+408,Check data for recording errors.,0.17911105889698103,0.04557265391466679
+456,Analyze geological or geographical data.,0.27252179071400184,0.048375687272376705
+465,Analyze consumer trends.,0.24331543912077006,0.06168942874477386
+654,Develop equipment or component configurations.,0.31550814586507325,0.06694587471805438
+656,Design energy production or management equipment or systems.,0.2749860881401784,0.06155415147949829
+810,Prepare detailed work plans.,0.29188405908410775,0.05656421564227456
+855,"Remove worn, damaged or outdated materials from work areas.",0.23512051408078932,0.0517810165276323
+867,Stack finished items for further processing or shipment.,0.17531765908676164,0.04360534671936379
+869,Load materials into production equipment.,0.20395662046947569,0.04911493243976346
+872,Dig holes or trenches.,0.14538308939399464,0.03563476310696084
+934,Prepare land for agricultural use.,0.21487054194575375,0.04403332914404654
+939,Install carpet or flooring.,0.07395510055199232,0.031152016224041394
+973,"Install parts, assemblies, or attachments in transportation or material handling equipment.",0.19037441230673516,0.04632805255208521
+1020,"Adjust equipment controls to regulate flow of water, cleaning solutions, or other liquids.",0.20856572455673564,0.045744023057897695
+1021,Adjust flow of electricity to tools or production equipment.,0.17156065411148014,0.044145414330750254
+1080,"Treat nails by shaping, decorating, or augmenting.",0.10170389011692119,0.03205164717125855
+1264,"Travel to work sites to perform installation, repair or maintenance work.",0.19119863312773674,0.05155789087761997
+1620,Administer therapeutic massages.,0.1683210255474449,0.059970532353087615
+1699,"Model cosmetics, clothing, or accessories.",0.14418484544213664,0.049722377424570766
+1752,Teach safety standards or environmental compliance methods.,0.3099261455602189,0.06679882543971012
+1770,Train personnel on managerial topics.,0.3613499110982078,0.07424421186872561
+1799,Supervise information technology personnel.,0.27792813578268105,0.06651200640075651
+1907,Assign class work to students.,0.38229521932863264,0.06531621215221403
+1917,Direct criminal investigations.,0.21113380539797613,0.04980588595423892
+1972,Provide legal advice to clients.,0.19634969323863616,0.056020340701743075
+1988,Advise others on financial matters.,0.1917719086060049,0.050399087118203734

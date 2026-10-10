@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+101,Investigate safety of work environment.,0.26975795785475976,0.05738098712001362
+108,Interview claimants to get information related to legal proceedings.,0.25790254738868584,0.04972223424265532
+115,Monitor equipment operation to ensure proper functioning.,0.24397250324336384,0.054228567992409
+116,Observe equipment in operation to detect potential problems.,0.25828621084406145,0.049809753445468306
+228,Test products for functionality or quality.,0.26157465992866596,0.056983109348766665
+327,Measure radiation levels.,0.18095139502206328,0.05029183716899969
+487,Analyze operational or research data.,0.34343756191041763,0.06401436372304796
+576,Apply new technologies to improve work processes.,0.2768129240773056,0.06363329760326893
+592,Mix sound inputs.,0.11594052029565369,0.032146814135115755
+634,Plan natural resources conservation or restoration programs.,0.23225247541323912,0.05293199688179182
+670,Design water conservation systems.,0.16908972851194398,0.04253003023572094
+716,Devise research or testing protocols.,0.3439344275758129,0.06440312315993962
+1040,Immerse objects or workpieces in cleaning or coating solutions.,0.21072990523357682,0.045376037112898934
+1081,"Apply cleansing or conditioning agents to client hair, scalp, or skin.",0.16149995585600574,0.03943836851714418
+1094,"Secure watercraft to docks, wharves or other vessels.",0.18235999307647613,0.035060562558172255
+1140,Build production molds.,0.21200131144741183,0.052687518767686944
+1189,"Set up material handling gear or equipment, such as rigging, packaging, or temporary structures.",0.2197745086823156,0.05328056576967972
+1239,Operate natural gas generation equipment.,0.15823078237640995,0.03732120812395768
+1292,Update website content.,0.15452780493679472,0.040486377626490745
+1368,Prepare investigation or incident reports.,0.21432890105391547,0.05055314188750888
+1438,Record patient medical histories.,0.18265580559870584,0.05215137250894374
+1446,Prepare informational or reference materials.,0.44005893571250926,0.05241225264448534
+1482,Communicate organizational policies and procedures.,0.31454074474037824,0.07160865635441754
+1562,Signal others to coordinate work activities.,0.2590445362003988,0.05674987445835407
+1566,Collaborate with outside groups to develop programs or projects.,0.3023975514228593,0.06571981583138166
+1673,Maintain sterile operative fields.,0.16705069343359322,0.05018093284508375
+1708,Negotiate purchases or contracts.,0.17807487036645633,0.06005630556282705
+1733,Correspond with customers to answer questions or resolve complaints.,0.24962841017534876,0.06478373063127534
+1910,Coordinate safety or regulatory compliance activities.,0.25842647209787695,0.06482002962445182
+1923,Visit individuals in their homes to provide support or information.,0.26898344779727956,0.062029983421343166
+2037,Maintain supply or equipment inventories.,0.22461023347594525,0.0622488377189709
+2050,Collect fares or payment from customers.,0.16617925051858018,0.04738293902118348

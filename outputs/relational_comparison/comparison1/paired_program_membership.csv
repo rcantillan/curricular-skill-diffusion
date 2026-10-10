@@ -1,0 +1,1401 @@
+unitid,fos,raw,field_residual
+100663,Physics,1,1
+100706,Computer Science,4,2
+100751,Anthropology,2,4
+100751,Biology,2,6
+100751,Business,0,5
+100751,Chemistry,7,2
+100751,Computer Science,4,6
+100751,Dance,1,-1
+100751,Earth Sciences,6,5
+100751,Education,2,4
+100751,Engineering,1,1
+100751,English Literature,6,2
+100751,Film and Photography,1,6
+100751,Fine Arts,1,4
+100751,French,6,1
+100751,Geography,2,5
+100751,History,6,3
+100751,Journalism,2,5
+100751,Marketing,0,2
+100751,Mathematics,5,5
+100751,Media / Communications,2,0
+100751,Medicine,2,3
+100751,Music,6,4
+100751,Nutrition,2,-1
+100751,Philosophy,2,4
+100751,Physics,1,1
+100751,Political Science,6,6
+100751,Psychology,2,6
+100751,Public Safety,6,-1
+100751,Religion,6,4
+100751,Social Work,2,2
+100751,Sociology,2,4
+100751,Spanish,6,3
+100751,Theatre Arts,1,5
+100751,Women's Studies,2,4
+100858,Business,0,7
+101435,Political Science,6,3
+101693,Music,2,4
+102368,Business,0,4
+102368,English Literature,2,6
+102368,History,2,4
+102368,Psychology,2,4
+102614,Biology,7,1
+102614,Chemistry,1,4
+102614,Physics,5,5
+102614,Psychology,2,6
+104151,Biology,7,3
+104151,Business,0,3
+104151,Computer Science,4,3
+104151,Education,2,5
+104151,Engineering,5,3
+104151,English Literature,6,4
+104151,Geography,2,5
+104151,Mathematics,5,2
+104151,Media / Communications,2,1
+104151,Political Science,6,3
+104151,Psychology,2,3
+104151,Sociology,2,6
+104179,Biology,7,4
+104179,Business,0,7
+104179,Computer Science,4,2
+104179,Engineering,1,5
+104179,English Literature,6,1
+104179,History,6,3
+104179,Mathematics,5,7
+104179,Political Science,6,2
+104179,Psychology,2,7
+105330,Biology,7,6
+105330,Business,0,6
+105330,Education,2,5
+105330,English Literature,6,6
+105330,History,2,6
+105330,Nursing,2,1
+106245,English Literature,6,5
+106263,Nursing,2,1
+106397,Computer Science,4,4
+106397,History,6,7
+108232,Computer Science,1,4
+108232,Film and Photography,1,4
+108232,Fine Arts,1,5
+110404,Physics,5,4
+110422,Computer Science,1,4
+110422,English Literature,6,2
+110422,Mathematics,5,7
+110486,English Literature,6,3
+110486,Psychology,2,1
+110510,Philosophy,6,0
+110529,Business,0,2
+110529,Computer Science,5,3
+110529,Engineering,1,5
+110538,Computer Science,4,5
+110538,Spanish,6,7
+110547,Sociology,6,2
+110565,Anthropology,2,6
+110565,Business,0,5
+110565,History,6,1
+110574,Computer Science,4,7
+110583,Business,0,5
+110583,History,6,4
+110608,Business,0,3
+110608,English Literature,6,5
+110608,History,6,4
+110617,Anthropology,6,6
+110617,Business,0,5
+110617,Computer Science,4,4
+110617,Education,2,0
+110617,English Literature,6,1
+110617,History,6,3
+110617,Philosophy,6,6
+110617,Political Science,2,4
+110635,Accounting,0,7
+110635,Anthropology,2,4
+110635,Biology,7,2
+110635,Business,0,2
+110635,Computer Science,4,5
+110635,Economics,3,5
+110635,Engineering,1,2
+110635,English Literature,6,7
+110635,Film and Photography,6,3
+110635,History,6,2
+110635,Marketing,0,1
+110635,Mathematics,5,2
+110635,Philosophy,6,2
+110635,Political Science,6,7
+110635,Sociology,2,1
+110644,Computer Science,4,3
+110644,Economics,3,7
+110644,Mathematics,5,3
+110644,Physics,5,3
+110653,Anthropology,6,3
+110653,Biology,7,2
+110653,Chemistry,5,2
+110653,Computer Science,4,2
+110653,Earth Sciences,7,3
+110653,Economics,5,2
+110653,Engineering,1,5
+110653,English Literature,6,2
+110653,Film and Photography,6,3
+110653,Fine Arts,6,3
+110653,History,6,2
+110653,Mathematics,5,2
+110653,Music,6,7
+110653,Philosophy,6,2
+110653,Physics,5,2
+110653,Political Science,6,3
+110653,Psychology,7,2
+110653,Sociology,6,3
+110662,Biology,7,2
+110662,Chemistry,5,3
+110662,Computer Science,4,7
+110662,History,6,2
+110662,Mathematics,5,7
+110662,Music,6,7
+110662,Psychology,6,7
+110680,Biology,7,2
+110680,Computer Science,4,2
+110680,Economics,3,7
+110680,History,6,2
+110680,Mathematics,5,2
+110680,Philosophy,6,7
+110680,Physics,5,2
+110680,Political Science,6,2
+110680,Psychology,6,2
+110705,Chemistry,7,2
+110705,Computer Science,4,3
+110705,Economics,5,7
+110705,Engineering,1,7
+110705,English Literature,6,7
+110705,History,6,2
+110705,Mathematics,5,2
+110714,Biology,7,2
+110714,Computer Science,4,3
+110714,Economics,3,2
+110714,Engineering,5,3
+110714,English Literature,6,3
+110714,Mathematics,5,7
+110714,Political Science,6,2
+115083,Business,0,6
+115409,Computer Science,4,2
+115755,Computer Science,5,2
+115755,English Literature,6,4
+117627,Fitness and Leisure,2,2
+117627,Mathematics,2,6
+117946,Computer Science,4,7
+119173,Business,0,6
+119605,English Literature,2,4
+119605,Psychology,2,0
+120865,English Literature,6,2
+121150,Business,0,1
+121309,Mathematics,2,6
+121345,Chemistry,7,3
+121345,Philosophy,6,2
+122409,Biology,7,1
+122409,Computer Science,4,3
+122409,English Literature,6,3
+122409,History,6,2
+122409,Mathematics,5,7
+122409,Psychology,2,2
+122597,Business,0,5
+122597,Computer Science,4,6
+122597,History,6,1
+122597,Mathematics,5,5
+122612,Business,0,4
+122612,Computer Science,4,1
+122755,Business,0,6
+122755,Computer Science,4,5
+122755,Criminal Justice,2,3
+122755,Education,2,5
+122755,Engineering,1,1
+122755,English Literature,6,5
+122755,Media / Communications,2,3
+123572,Psychology,2,3
+123961,Biology,7,7
+123961,Business,0,5
+123961,Computer Science,4,5
+123961,Engineering,1,7
+123961,Mathematics,5,7
+125727,Biology,2,1
+125727,Chemistry,7,3
+125727,Computer Science,4,5
+125727,English Literature,6,6
+125727,Fine Arts,1,6
+125727,Fitness and Leisure,2,3
+125727,History,2,6
+125727,Mathematics,2,6
+125727,Media / Communications,2,6
+125727,Music,2,4
+125727,Philosophy,2,6
+125727,Political Science,2,6
+125727,Psychology,2,1
+125727,Religion,6,4
+125727,Sociology,2,6
+125727,Spanish,6,2
+125727,Theatre Arts,2,1
+126562,Computer Science,4,6
+126562,Mathematics,5,4
+126614,Biology,7,7
+126614,Business,0,7
+126614,Computer Science,4,4
+126614,Economics,3,1
+126614,Engineering,1,4
+126614,English Literature,2,1
+126614,Mathematics,5,3
+126614,Media / Communications,2,2
+126614,Philosophy,6,2
+126614,Physics,1,6
+126614,Political Science,6,7
+126614,Psychology,7,5
+126614,Sociology,6,2
+126818,Computer Science,4,5
+126818,Economics,0,6
+126818,Engineering,1,3
+126818,English Literature,6,1
+126818,Mathematics,5,3
+126818,Psychology,2,7
+127060,English Literature,6,3
+128744,Business,0,4
+129020,Engineering,1,4
+130794,Computer Science,4,3
+130794,Mathematics,5,1
+130943,Biology,7,4
+130943,Business,0,0
+130943,Chemistry,7,3
+130943,Computer Science,4,4
+130943,English Literature,6,2
+130943,Mathematics,5,1
+131159,Mathematics,5,1
+131159,Political Science,6,3
+131469,History,6,6
+131469,Political Science,6,3
+131496,English Literature,6,2
+131496,History,6,2
+131496,Political Science,6,7
+131520,Biology,7,4
+131520,Chemistry,1,6
+131520,Film and Photography,1,4
+131520,Fitness and Leisure,2,2
+131520,Journalism,2,6
+131520,Mathematics,5,4
+131520,Media / Communications,2,6
+131520,Music,6,4
+131520,Physics,1,6
+132903,Business,0,5
+132903,Computer Science,4,1
+132903,Education,2,4
+132903,Engineering,1,6
+132903,English Literature,2,4
+132903,History,6,3
+132903,Philosophy,2,6
+133669,Computer Science,4,7
+133669,History,6,7
+133669,Mathematics,5,2
+133881,Accounting,0,3
+133881,Business,0,5
+133881,Computer Science,4,5
+133881,Mathematics,3,7
+133951,Biology,7,7
+133951,Business,0,6
+133951,Computer Science,4,3
+133951,Economics,3,3
+133951,Education,2,0
+133951,Engineering,1,6
+133951,English Literature,6,3
+133951,Fitness and Leisure,2,1
+133951,History,6,3
+133951,Mathematics,5,3
+133951,Political Science,6,5
+133951,Religion,6,5
+134097,Biology,7,0
+134097,Computer Science,4,5
+134097,Health Technician,2,-1
+134097,History,6,0
+134097,Mathematics,1,6
+134097,Medicine,2,0
+134097,Physics,5,3
+134097,Political Science,6,1
+134130,Agriculture,2,6
+134130,Anthropology,6,1
+134130,Biology,7,6
+134130,Business,0,7
+134130,Computer Science,4,5
+134130,Education,2,1
+134130,Engineering,1,4
+134130,English Literature,6,4
+134130,Fitness and Leisure,2,2
+134130,History,6,3
+134130,Media / Communications,2,3
+134130,Medicine,2,7
+134130,Physics,5,4
+134130,Political Science,6,7
+134130,Psychology,2,4
+134130,Sociology,2,6
+136215,Business,0,0
+136215,Computer Science,0,1
+136950,Business,0,5
+137351,Accounting,0,0
+137351,Anthropology,6,1
+137351,Biology,7,1
+137351,Business,0,6
+137351,Computer Science,0,6
+137351,Economics,0,6
+137351,Education,2,1
+137351,English Literature,6,4
+137351,Fine Arts,1,6
+137351,Geography,2,4
+137351,History,2,4
+137351,Journalism,2,7
+137351,Marketing,0,6
+137351,Mathematics,5,6
+137351,Media / Communications,2,6
+137351,Medicine,2,4
+137351,Political Science,2,6
+137351,Psychology,2,7
+137351,Social Work,2,7
+137351,Sociology,2,6
+137351,Spanish,2,6
+138600,Mathematics,2,0
+139366,Computer Science,4,6
+139658,Chemistry,1,1
+139658,English Literature,6,5
+139658,History,6,2
+139658,Mathematics,2,0
+139755,Business,0,5
+139755,Computer Science,4,4
+139755,Engineering,1,2
+139755,Mathematics,5,2
+139931,English Literature,6,3
+139931,Spanish,2,6
+139940,Business,0,5
+139940,Computer Science,4,3
+139940,English Literature,6,0
+139940,Philosophy,6,7
+139959,Anthropology,6,2
+139959,Biology,7,1
+139959,Business,0,5
+139959,Computer Science,4,0
+139959,Economics,3,1
+139959,Education,2,4
+139959,English Literature,6,3
+139959,Fitness and Leisure,2,4
+139959,History,6,3
+139959,Mathematics,5,7
+139959,Media / Communications,2,4
+139959,Medicine,2,4
+139959,Music,6,5
+139959,Political Science,6,7
+139959,Psychology,2,6
+139959,Sociology,2,1
+139959,Spanish,2,4
+139959,Theatre Arts,1,2
+141264,Education,2,6
+141264,Psychology,2,0
+141334,English Literature,2,6
+141334,History,6,1
+141334,Media / Communications,2,5
+141334,Political Science,6,7
+141486,Accounting,0,2
+141486,Biology,2,6
+141486,Business,0,6
+141486,Computer Science,4,0
+141486,Criminal Justice,2,6
+141486,Education,2,6
+141486,English Literature,6,4
+141486,Film and Photography,1,1
+141486,History,6,6
+141486,Media / Communications,2,5
+141486,Music,6,3
+141486,Philosophy,2,6
+141486,Psychology,2,6
+141486,Religion,2,6
+141486,Sociology,2,6
+142115,Business,0,6
+142285,Biology,7,7
+142285,Business,0,6
+142285,Computer Science,4,7
+142285,English Literature,2,4
+142285,Mathematics,5,6
+142285,Psychology,6,3
+142522,Fitness and Leisure,2,3
+143358,Political Science,6,7
+144050,Computer Science,4,3
+144050,Economics,3,2
+144050,History,6,1
+144050,Mathematics,5,3
+144740,Business,0,3
+144740,Computer Science,4,6
+144892,Business,0,3
+144892,Education,2,0
+144892,English Literature,6,0
+144892,History,6,7
+145600,Accounting,0,2
+145600,Business,0,7
+145600,Chemistry,5,2
+145600,Computer Science,4,2
+145600,Mathematics,5,2
+145600,Political Science,6,2
+145600,Psychology,2,5
+145637,Biology,7,2
+145637,Business,0,7
+145637,Computer Science,4,4
+145637,Education,2,7
+145637,Engineering,5,7
+145637,English Literature,6,7
+145637,Mathematics,5,2
+145725,Business,0,4
+145725,Computer Science,4,5
+145725,Mathematics,5,7
+145813,Economics,0,1
+145813,Education,2,1
+145813,English Literature,2,1
+145813,Media / Communications,2,1
+145813,Political Science,6,3
+145813,Psychology,2,1
+146719,Business,0,2
+147341,Classics,6,2
+147679,Business,0,4
+147703,Business,0,2
+147703,Education,2,6
+147703,English Literature,2,6
+147703,History,6,3
+147703,Political Science,6,4
+147767,Business,0,2
+147767,Computer Science,4,1
+147767,Economics,3,7
+148627,English Literature,6,2
+149222,Biology,7,3
+149222,History,6,6
+149222,Media / Communications,2,7
+149231,English Literature,6,1
+150136,English Literature,6,3
+150400,Computer Science,4,3
+150400,Sociology,2,4
+150756,History,6,7
+151102,Business,0,7
+151102,Computer Science,4,3
+151102,Education,2,4
+151102,Media / Communications,2,7
+151102,Psychology,2,5
+151111,Computer Science,4,1
+151111,History,6,6
+151351,Biology,7,5
+151351,Business,0,7
+151351,Chemistry,1,4
+151351,Computer Science,4,1
+151351,Education,2,3
+151351,English Literature,6,7
+151351,History,6,2
+151351,Physics,5,4
+151351,Psychology,2,0
+152080,Business,0,7
+152080,Engineering,1,7
+152080,English Literature,2,1
+152080,Philosophy,6,2
+152080,Theology,6,7
+152318,Computer Science,4,5
+153269,Business,0,3
+153384,Computer Science,5,2
+153384,English Literature,6,2
+153384,History,6,2
+153384,Mathematics,5,2
+153603,Agriculture,1,4
+153603,Biology,7,6
+153603,Business,0,5
+153603,Computer Science,4,4
+153603,Economics,3,5
+153603,Engineering,1,3
+153603,English Literature,6,4
+153603,Fitness and Leisure,2,1
+153603,History,6,3
+153603,Marketing,0,2
+153603,Mathematics,5,3
+153603,Media / Communications,2,5
+153603,Physics,5,6
+153603,Political Science,6,0
+153603,Psychology,2,1
+153603,Sociology,6,2
+153658,Biology,7,5
+153658,Computer Science,4,5
+153658,Education,6,3
+153658,English Literature,6,3
+153658,History,6,4
+153658,Mathematics,5,6
+153658,Media / Communications,6,7
+153658,Political Science,6,4
+153658,Psychology,2,4
+154095,Computer Science,4,6
+154095,Education,2,3
+154095,Psychology,6,7
+155317,English Literature,2,4
+155317,Mathematics,5,3
+155317,Philosophy,6,2
+155399,Computer Science,4,6
+155399,Economics,0,4
+155399,English Literature,2,4
+155399,History,2,1
+155399,Mathematics,5,1
+155681,French,6,3
+155681,Spanish,2,4
+156295,English Literature,6,5
+156620,Education,2,4
+156620,English Literature,6,6
+156620,History,2,6
+156620,Media / Communications,2,6
+157085,Biology,7,6
+157085,Business,0,6
+157085,Chemistry,7,7
+157085,Computer Science,4,7
+157085,Economics,3,0
+157085,Education,2,1
+157085,Engineering,1,5
+157085,English Literature,6,7
+157085,Mathematics,5,4
+157085,Physics,1,6
+157085,Political Science,6,3
+157289,English Literature,6,3
+157289,Political Science,6,1
+157401,Education,2,6
+157401,English Literature,2,6
+157447,Chemistry,1,1
+157447,English Literature,6,4
+157951,Biology,7,7
+157951,Business,0,5
+157951,Education,2,6
+157951,English Literature,6,6
+157951,Psychology,2,5
+159391,Biology,7,6
+159391,Mathematics,5,2
+159647,English Literature,6,4
+159656,Accounting,0,4
+159656,Biology,7,6
+159656,Business,0,1
+159656,Chemistry,7,2
+159656,Classics,6,6
+159656,Computer Science,4,3
+159656,Criminal Justice,2,7
+159656,Dance,2,-1
+159656,Economics,3,3
+159656,Education,2,3
+159656,English Literature,6,3
+159656,Film and Photography,1,5
+159656,Fine Arts,1,4
+159656,French,6,2
+159656,History,6,7
+159656,Journalism,6,3
+159656,Marketing,0,4
+159656,Mathematics,5,6
+159656,Media / Communications,2,2
+159656,Music,6,6
+159656,Nursing,2,1
+159656,Philosophy,6,5
+159656,Physics,5,7
+159656,Political Science,6,5
+159656,Psychology,2,6
+159656,Religion,6,5
+159656,Sociology,2,4
+159656,Spanish,2,5
+159656,Theatre Arts,1,4
+159966,Chemistry,1,1
+160038,Psychology,2,4
+160612,Education,2,4
+160755,Business,0,6
+161004,Computer Science,4,5
+162654,Computer Science,4,2
+162928,Business,0,7
+162928,Computer Science,4,2
+162928,Engineering,1,2
+162928,Mathematics,5,7
+162928,Physics,5,3
+163204,Business,0,4
+163204,Computer Science,4,4
+163204,English Literature,6,4
+163204,History,6,6
+163268,Computer Science,4,5
+163268,English Literature,6,7
+163268,Film and Photography,1,2
+163268,Mathematics,5,5
+163286,Biology,7,7
+163286,Business,0,7
+163286,Chemistry,5,2
+163286,Computer Science,4,2
+163286,Earth Sciences,7,5
+163286,Economics,3,7
+163286,Education,2,7
+163286,Engineering,1,2
+163286,English Literature,6,5
+163286,Fine Arts,6,3
+163286,History,6,7
+163286,Mathematics,5,7
+163286,Physics,5,7
+163286,Political Science,6,2
+164076,Psychology,2,1
+164155,Computer Science,4,1
+164924,Business,0,7
+164924,Economics,3,2
+164988,Business,0,2
+164988,Computer Science,4,5
+164988,Mathematics,5,5
+166027,Computer Science,4,5
+166027,Mathematics,5,4
+166027,Political Science,6,4
+166513,Computer Science,4,2
+166629,Business,0,2
+166629,Computer Science,4,7
+166629,Economics,3,2
+166629,Engineering,1,4
+166629,English Literature,6,0
+166629,History,2,1
+166629,Mathematics,5,7
+166629,Philosophy,6,2
+166683,Anthropology,6,3
+166683,Architecture,1,-1
+166683,Biology,7,2
+166683,Business,0,5
+166683,Chemistry,5,2
+166683,Chinese,6,-1
+166683,Computer Science,4,4
+166683,Economics,3,2
+166683,Engineering,1,2
+166683,English Literature,6,2
+166683,Film and Photography,6,2
+166683,History,6,2
+166683,Mathematics,5,5
+166683,Music,5,5
+166683,Philosophy,6,2
+166683,Physics,5,4
+166683,Political Science,6,2
+166683,Psychology,6,2
+167358,Business,0,4
+167358,Computer Science,4,2
+167358,Mathematics,5,2
+168148,Biology,7,3
+168148,Computer Science,4,5
+168148,Political Science,2,4
+168281,Mathematics,5,2
+168421,Computer Science,4,4
+169080,Mathematics,5,0
+169798,English Literature,6,2
+170082,Computer Science,4,3
+170532,Philosophy,2,1
+170976,Anthropology,6,3
+170976,Biology,7,7
+170976,Business,0,2
+170976,Chemistry,7,7
+170976,Classics,6,2
+170976,Computer Science,4,7
+170976,Economics,3,7
+170976,Education,6,3
+170976,Engineering,1,2
+170976,English Literature,6,3
+170976,Film and Photography,6,3
+170976,Fine Arts,6,3
+170976,French,6,3
+170976,German,6,7
+170976,History,6,3
+170976,Mathematics,5,7
+170976,Music,6,3
+170976,Philosophy,6,7
+170976,Physics,5,7
+170976,Political Science,6,2
+170976,Psychology,6,3
+170976,Sociology,6,3
+170976,Spanish,6,3
+170976,Theatre Arts,6,3
+170976,Women's Studies,6,7
+171100,Biology,7,3
+171100,Business,0,2
+171100,Computer Science,4,1
+171100,Engineering,1,7
+171100,English Literature,6,4
+171100,History,6,6
+171100,Mathematics,5,1
+171100,Nursing,2,6
+171100,Philosophy,6,6
+171100,Physics,5,2
+171100,Political Science,6,7
+171100,Psychology,2,7
+171128,Engineering,1,5
+171571,Chemistry,1,6
+172644,Computer Science,4,5
+172644,Engineering,1,1
+172644,English Literature,6,2
+172699,Business,0,2
+172699,Education,2,2
+172699,Engineering,1,4
+172699,English Literature,6,3
+172699,Political Science,6,7
+173258,Political Science,6,1
+173902,History,6,2
+173920,English Literature,2,4
+173920,Political Science,2,6
+174233,Computer Science,1,1
+174233,Education,2,3
+174233,English Literature,2,4
+174358,Mathematics,5,5
+175078,History,6,6
+175616,Sociology,6,2
+176017,Computer Science,4,3
+176017,Physics,5,3
+176035,English Literature,2,1
+176080,Computer Science,4,1
+176372,Biology,7,2
+177065,Computer Science,0,1
+177065,Fine Arts,1,7
+177065,Social Work,2,5
+178396,English Literature,6,0
+178402,Business,0,4
+178721,Accounting,0,0
+178721,Business,0,0
+178721,Education,2,1
+178721,History,2,0
+178721,Psychology,2,0
+179043,Business,0,1
+179557,Business,0,3
+179557,Political Science,6,0
+179867,Computer Science,4,2
+179867,Economics,3,7
+179867,Mathematics,5,3
+179867,Political Science,6,7
+179894,Business,0,0
+179894,Computer Science,0,0
+179894,Education,2,7
+179894,Marketing,0,3
+179894,Psychology,2,0
+180461,Engineering,1,3
+180489,Anthropology,6,6
+180489,Biology,7,5
+180489,Business,0,5
+181002,English Literature,6,1
+181020,Psychology,2,6
+181464,Computer Science,4,1
+181464,Mathematics,5,2
+182281,History,6,7
+182281,Political Science,6,6
+182290,Business,0,7
+182290,Computer Science,4,4
+182290,Philosophy,6,5
+182306,Business,0,6
+182306,Education,2,0
+182306,Political Science,6,6
+182458,Business,0,1
+182458,Computer Science,1,1
+182458,English Literature,6,5
+182458,Fine Arts,1,1
+182458,Music,6,1
+182458,Psychology,2,5
+182670,Mathematics,5,3
+183211,Computer Science,4,0
+183211,Mathematics,2,6
+184348,English Literature,2,1
+184782,Engineering,1,4
+185590,English Literature,6,3
+185828,Business,0,5
+185828,Computer Science,4,4
+185828,Mathematics,5,3
+186131,Economics,3,4
+186131,Political Science,6,2
+186380,Biology,7,7
+186380,Business,0,2
+186380,Computer Science,4,7
+186380,Economics,3,7
+186380,Engineering,1,1
+186380,English Literature,6,2
+186380,Geography,7,7
+186380,History,6,2
+186380,Mathematics,5,2
+186380,Physics,5,3
+186380,Political Science,6,2
+186380,Psychology,6,7
+186380,Religion,6,2
+186380,Sociology,6,7
+186584,English Literature,6,7
+186867,Computer Science,4,2
+186876,English Literature,6,1
+187134,English Literature,2,1
+187967,Mathematics,5,2
+187985,Business,0,1
+187985,Computer Science,4,7
+187985,Education,2,7
+187985,English Literature,2,1
+187985,Mathematics,5,4
+187985,Physics,1,4
+188030,Accounting,0,2
+188030,Business,0,3
+188030,Computer Science,4,5
+188429,Computer Science,4,2
+190044,Business,0,1
+190044,Computer Science,4,6
+190044,Engineering,1,1
+190044,Mathematics,5,6
+190150,Biology,7,2
+190150,Computer Science,4,2
+190150,Economics,3,2
+190150,Engineering,5,2
+190150,English Literature,6,7
+190150,History,6,2
+190150,Mathematics,5,2
+190150,Political Science,6,2
+190150,Psychology,6,7
+190415,Biology,7,5
+190415,Computer Science,4,2
+190415,Engineering,1,5
+190415,English Literature,6,2
+190415,Mathematics,5,5
+190415,Political Science,6,2
+190594,Physics,5,7
+191630,Computer Science,4,5
+191630,Mathematics,5,4
+193654,Business,0,6
+193900,Accounting,3,2
+193900,Biology,7,7
+193900,Business,0,2
+193900,Computer Science,4,2
+193900,Economics,3,1
+193900,History,6,2
+193900,Marketing,0,1
+193900,Political Science,6,2
+194824,Computer Science,4,7
+194824,Mathematics,5,2
+195003,Computer Science,4,4
+195030,Political Science,6,7
+196060,Computer Science,4,0
+196060,English Literature,6,7
+196088,Computer Science,4,6
+196088,English Literature,6,1
+196097,Computer Science,4,2
+196097,Mathematics,5,2
+196097,Physics,5,7
+196158,English Literature,6,5
+196167,English Literature,6,3
+196246,History,6,5
+196413,Business,0,4
+196413,Computer Science,4,4
+196413,English Literature,2,4
+196413,Physics,1,6
+196413,Political Science,6,3
+196866,Mathematics,5,3
+197869,Education,2,6
+197869,Mathematics,1,4
+197869,Medicine,2,3
+197869,Psychology,2,0
+198385,Biology,1,4
+198419,Computer Science,4,3
+198419,Economics,0,1
+198419,Mathematics,5,7
+198419,Political Science,6,4
+198464,Business,0,3
+198464,Computer Science,4,6
+198464,English Literature,6,1
+198598,Fitness and Leisure,2,7
+199120,Biology,7,7
+199120,Business,0,3
+199120,Computer Science,4,0
+199120,Economics,3,7
+199120,English Literature,6,2
+199120,History,6,4
+199120,Mathematics,5,1
+199120,Media / Communications,2,7
+199120,Political Science,2,4
+199120,Sociology,6,2
+199139,Business,0,6
+199139,History,6,3
+199148,Business,0,1
+199148,English Literature,6,3
+199148,Fine Arts,1,7
+199148,History,6,5
+199193,Agriculture,1,5
+199193,Biology,7,6
+199193,Business,0,7
+199193,Computer Science,4,3
+199193,Engineering,1,6
+199193,English Literature,6,3
+199193,French,6,4
+199193,Mathematics,5,3
+199193,Spanish,6,2
+199209,Criminal Justice,2,5
+199218,Education,2,7
+199218,Fitness and Leisure,2,6
+199218,Mathematics,5,1
+199218,Psychology,6,3
+199306,Sociology,6,3
+199847,Computer Science,4,7
+199847,Mathematics,5,3
+200332,Computer Science,4,4
+200332,English Literature,2,1
+200800,Accounting,0,1
+200800,Biology,2,1
+200800,Business,0,1
+200800,Chemistry,2,6
+200800,Computer Science,4,6
+200800,Earth Sciences,7,1
+200800,Economics,0,0
+200800,Education,2,1
+200800,English Literature,2,1
+200800,History,6,1
+200800,Mathematics,2,6
+200800,Media / Communications,2,6
+200800,Medicine,2,1
+200800,Political Science,2,1
+200800,Psychology,2,1
+200800,Social Work,2,3
+200800,Sociology,2,1
+201645,Political Science,2,4
+201885,Computer Science,4,7
+202134,Geography,2,4
+202134,History,2,4
+202134,Sociology,2,4
+203517,Business,0,1
+203517,Computer Science,4,6
+203535,Biology,7,1
+204024,English Literature,6,5
+204501,English Literature,6,4
+204501,History,6,7
+204501,Political Science,6,1
+204796,Biology,2,1
+204796,Business,0,6
+204796,Computer Science,4,6
+204796,Economics,3,4
+204796,Engineering,1,3
+204796,English Literature,2,1
+204796,Film and Photography,1,5
+204796,Fine Arts,1,4
+204796,Geography,7,3
+204796,History,6,6
+204796,Physics,5,6
+204796,Political Science,6,1
+204857,Biology,7,3
+204857,Business,0,7
+204857,English Literature,6,5
+204857,History,6,7
+206084,Business,0,7
+206084,Law,6,-1
+206604,Computer Science,4,4
+206604,English Literature,6,2
+206695,English Literature,6,7
+206941,Media / Communications,2,6
+207263,Business,0,4
+207388,Biology,7,4
+207388,Business,0,7
+207388,Computer Science,4,3
+207388,Engineering,1,6
+207388,Mathematics,5,4
+207388,Psychology,2,1
+207500,Computer Science,4,5
+207500,Mathematics,5,2
+207500,Political Science,2,6
+207582,Accounting,0,0
+207582,Biology,2,1
+207582,Business,0,6
+207582,Chemistry,1,6
+207582,Classics,2,0
+207582,Computer Science,1,6
+207582,Education,2,0
+207582,Engineering,1,6
+207582,English Literature,2,0
+207582,Film and Photography,1,4
+207582,Fine Arts,1,4
+207582,Fitness and Leisure,2,4
+207582,French,2,1
+207582,German,2,0
+207582,History,2,6
+207582,Journalism,2,4
+207582,Mathematics,2,6
+207582,Media / Communications,2,4
+207582,Music,2,4
+207582,Nursing,2,0
+207582,Physics,1,1
+207582,Political Science,2,6
+207582,Psychology,2,6
+207582,Social Work,2,4
+207582,Spanish,2,1
+207582,Theatre Arts,2,4
+207582,Theology,2,6
+208646,English Literature,6,1
+209056,Psychology,2,0
+209542,Biology,7,6
+209542,Business,0,5
+209542,Chemistry,5,2
+209542,Computer Science,4,6
+209542,Engineering,1,5
+209551,Biology,2,0
+209551,Economics,3,5
+209551,Education,2,4
+209551,English Literature,6,2
+209551,History,6,2
+209551,Mathematics,5,3
+209551,Political Science,6,2
+209551,Psychology,2,7
+209807,Business,0,4
+209807,Computer Science,4,1
+210429,Mathematics,2,0
+211158,History,6,5
+211440,Business,0,2
+211440,Computer Science,4,2
+212009,English Literature,6,7
+212054,Computer Science,4,7
+212054,Engineering,1,4
+213251,Computer Science,4,6
+213543,Computer Science,4,5
+213668,Chemistry,1,4
+214041,Mathematics,1,4
+214157,Biology,7,4
+214157,Business,0,6
+214157,Chemistry,1,1
+214157,Computer Science,4,4
+214157,Economics,3,6
+214157,Education,2,4
+214157,English Literature,6,3
+214157,Film and Photography,1,1
+214157,Fine Arts,1,4
+214157,French,6,2
+214157,German,6,4
+214157,History,6,4
+214157,Mathematics,1,6
+214157,Music,6,6
+214157,Nursing,2,7
+214157,Philosophy,2,6
+214157,Political Science,6,1
+214157,Psychology,2,1
+214157,Sociology,2,1
+214157,Spanish,2,5
+214777,Biology,7,6
+214777,Business,0,3
+214777,Chemistry,1,0
+214777,Computer Science,4,0
+214777,Earth Sciences,7,5
+214777,Economics,3,1
+214777,Education,2,7
+214777,Engineering,1,4
+214777,English Literature,6,4
+214777,Film and Photography,6,3
+214777,Fine Arts,1,3
+214777,Fitness and Leisure,2,2
+214777,Geography,1,1
+214777,History,6,5
+214777,Mathematics,5,1
+214777,Media / Communications,2,5
+214777,Physics,5,4
+214777,Political Science,6,1
+214777,Psychology,2,7
+214777,Sociology,2,6
+214777,Spanish,6,2
+215062,Biology,7,2
+215062,Business,0,5
+215062,Computer Science,4,5
+215062,Economics,3,1
+215062,English Literature,6,2
+215062,History,6,4
+215062,Marketing,0,1
+215062,Mathematics,5,7
+215293,Computer Science,4,6
+215293,English Literature,6,2
+215293,Law,6,-1
+215293,Mathematics,5,5
+215770,Mathematics,5,7
+215770,Political Science,6,3
+215947,English Literature,6,2
+216287,Mathematics,5,3
+216339,Business,3,3
+216339,Computer Science,4,6
+216339,History,6,6
+216339,Mathematics,5,5
+216597,Computer Science,4,2
+216597,English Literature,6,2
+216597,History,6,4
+216597,Mathematics,5,7
+216852,Chemistry,1,1
+216931,Biology,1,4
+216931,Chemistry,7,3
+216931,Education,6,3
+216931,Engineering,1,5
+216931,English Literature,6,3
+216931,Mathematics,0,4
+216931,Physics,5,2
+217156,Computer Science,4,2
+217484,Computer Science,4,4
+217484,Mathematics,5,4
+217819,Biology,7,2
+217819,English Literature,6,7
+217819,History,6,5
+217819,Media / Communications,2,3
+217819,Psychology,2,7
+217882,Computer Science,4,7
+217882,Engineering,1,0
+217998,Theology,2,4
+218663,Business,0,1
+218663,Computer Science,4,3
+218663,Mathematics,5,2
+218663,Political Science,6,6
+218663,Religion,6,3
+218964,English Literature,2,0
+218964,History,6,2
+220075,Mathematics,5,2
+220631,Nursing,2,3
+220862,Accounting,0,3
+220862,Business,0,7
+220862,Computer Science,4,6
+220862,Economics,3,5
+220862,Education,2,6
+220862,History,6,7
+220862,Marketing,0,3
+220978,Business,0,3
+220978,English Literature,6,7
+221351,Accounting,0,5
+221351,Biology,7,6
+221351,Business,0,3
+221351,Economics,3,1
+221351,English Literature,6,3
+221351,Fine Arts,1,2
+221351,History,6,3
+221351,Mathematics,1,1
+221351,Philosophy,2,1
+221351,Psychology,2,1
+221759,Computer Science,4,4
+221759,Mathematics,5,7
+221759,Physics,5,7
+221999,Computer Science,4,5
+221999,Physics,5,5
+222178,Theology,2,1
+222831,Agriculture,7,2
+222831,English Literature,6,6
+224147,Business,0,1
+224554,Business,0,1
+224554,English Literature,2,6
+225414,Accounting,0,5
+225414,English Literature,6,2
+225511,Business,0,7
+225511,Computer Science,4,5
+225511,English Literature,6,4
+225511,History,6,7
+225511,Mathematics,5,7
+225511,Music,6,7
+225511,Political Science,6,7
+226091,Political Science,6,7
+227216,Accounting,0,3
+227216,Business,0,4
+227216,Computer Science,4,3
+227216,English Literature,6,4
+227216,Mathematics,5,3
+227216,Music,6,0
+227216,Political Science,6,1
+227368,English Literature,2,6
+227757,Computer Science,4,3
+227757,Mathematics,5,1
+227757,Psychology,2,1
+227845,Business,0,1
+227881,Education,2,4
+227881,History,6,0
+228246,Computer Science,4,7
+228246,Physics,5,3
+228431,Education,2,1
+228431,English Literature,2,6
+228431,Psychology,2,3
+228653,Health Technician,2,-1
+228723,Agriculture,1,1
+228723,Anthropology,6,2
+228723,Biology,7,1
+228723,Business,0,7
+228723,Computer Science,4,4
+228723,Economics,3,1
+228723,Engineering,1,4
+228723,English Literature,6,0
+228723,Fitness and Leisure,2,4
+228723,Mathematics,5,7
+228723,Philosophy,6,7
+228769,Biology,7,0
+228769,Business,0,0
+228769,Computer Science,4,0
+228769,Engineering,1,3
+228769,English Literature,6,5
+228769,History,6,0
+228769,Psychology,2,5
+228778,Biology,7,2
+228778,Business,0,7
+228778,Chemistry,1,4
+228778,Computer Science,4,3
+228778,Economics,3,5
+228778,Engineering,1,2
+228778,English Literature,6,2
+228778,Film and Photography,6,7
+228778,Fine Arts,1,4
+228778,History,6,2
+228778,Mathematics,5,2
+228778,Media / Communications,2,5
+228778,Music,6,3
+228778,Philosophy,6,2
+228778,Physics,5,5
+228778,Political Science,6,2
+228778,Psychology,2,3
+228778,Social Work,2,1
+228787,Accounting,0,0
+228787,Biology,7,0
+228787,Business,0,0
+228787,Chemistry,1,0
+228787,Computer Science,4,0
+228787,Earth Sciences,7,0
+228787,Economics,3,0
+228787,Engineering,4,3
+228787,Film and Photography,1,0
+228787,Fine Arts,1,0
+228787,Geography,2,0
+228787,History,6,0
+228787,Marketing,0,0
+228787,Mathematics,5,0
+228787,Medicine,2,0
+228787,Music,6,3
+228787,Physics,5,0
+228787,Political Science,6,0
+228787,Psychology,2,0
+228787,Sociology,6,3
+228796,Accounting,0,4
+228796,Business,0,4
+228796,Computer Science,4,6
+228796,Engineering,1,4
+228796,Mathematics,5,6
+228796,Spanish,2,4
+228802,Engineering,1,1
+229027,Business,0,4
+229027,Computer Science,4,7
+229027,English Literature,2,6
+229115,Agriculture,2,5
+229115,Business,0,3
+229115,Computer Science,4,6
+229115,History,6,1
+229115,Mathematics,5,7
+229115,Music,2,1
+229267,Computer Science,4,7
+230038,Computer Science,4,6
+230038,Education,2,0
+230038,History,6,1
+230038,Mathematics,1,6
+230038,Medicine,2,0
+230038,Political Science,2,4
+230038,Psychology,2,0
+230603,Media / Communications,2,4
+230728,Business,0,5
+230728,History,6,4
+230728,Psychology,2,4
+230764,Business,0,1
+230764,Computer Science,4,4
+230764,Education,2,2
+230764,Engineering,1,1
+230764,History,6,2
+230764,Mathematics,5,2
+230764,Media / Communications,2,1
+230764,Physics,5,7
+230764,Political Science,6,7
+230764,Psychology,2,2
+230782,English Literature,6,5
+230959,English Literature,6,2
+231174,Biology,7,2
+231174,Business,0,4
+231174,Computer Science,4,7
+231174,English Literature,6,2
+231174,Media / Communications,6,7
+231174,Psychology,2,7
+232186,Biology,7,6
+232186,Business,0,7
+232186,Computer Science,4,3
+232186,Economics,3,4
+232186,Education,2,4
+232186,Engineering,1,3
+232186,English Literature,6,4
+232186,Fine Arts,1,4
+232186,History,6,4
+232186,Mathematics,5,5
+232186,Political Science,6,5
+232186,Psychology,2,7
+232423,Biology,7,7
+232423,Computer Science,4,1
+232423,Political Science,6,4
+232557,Theology,2,2
+232982,Computer Science,4,3
+232982,Education,2,6
+232982,Physics,5,7
+233277,English Literature,6,1
+233374,English Literature,6,3
+233426,Computer Science,4,5
+233921,Biology,7,2
+233921,Business,0,3
+233921,Computer Science,4,1
+233921,English Literature,6,4
+233921,History,6,1
+233921,Mathematics,5,5
+233921,Political Science,6,7
+234030,English Literature,6,5
+234076,Business,0,2
+234076,Computer Science,4,3
+234076,Education,2,7
+234076,English Literature,6,1
+234076,History,6,2
+234827,Computer Science,4,6
+234827,History,6,1
+236230,Computer Science,4,3
+236328,English Literature,6,2
+236328,Mathematics,5,4
+236595,Business,0,7
+236939,Business,0,5
+236939,Computer Science,4,6
+236939,Education,2,3
+236939,Engineering,1,1
+236939,English Literature,6,4
+236939,Political Science,2,0
+236939,Psychology,2,4
+236948,Anthropology,6,3
+236948,Biology,7,5
+236948,Business,0,2
+236948,Chemistry,1,4
+236948,Computer Science,4,2
+236948,Earth Sciences,7,3
+236948,Economics,3,7
+236948,Education,2,3
+236948,Engineering,1,7
+236948,English Literature,6,3
+236948,Film and Photography,1,2
+236948,Fine Arts,5,7
+236948,Geography,6,3
+236948,History,6,7
+236948,Mathematics,5,5
+236948,Media / Communications,2,7
+236948,Medicine,2,2
+236948,Philosophy,6,3
+236948,Physics,5,7
+236948,Political Science,6,3
+236948,Psychology,6,7
+236948,Religion,6,3
+236948,Sociology,6,7
+236948,Women's Studies,6,1
+237011,Computer Science,4,5
+237057,Mathematics,5,2
+237525,Business,0,4
+238032,English Literature,6,2
+238032,Mathematics,1,6
+239105,Philosophy,6,1
+239105,Political Science,6,3
+240107,English Literature,2,1
+240268,Political Science,6,6
+240365,Biology,7,1
+240374,Sociology,6,7
+240444,Biology,7,5
+240444,Business,0,5
+240444,Chemistry,1,5
+240444,Computer Science,4,2
+240444,Economics,3,2
+240444,English Literature,6,7
+240444,History,6,2
+240444,Mathematics,5,2
+240444,Political Science,6,5
+240444,Sociology,2,1
+240453,Economics,3,3
+240453,English Literature,6,7
+240453,Mathematics,5,7
+240727,Political Science,6,3
+243744,Biology,7,2
+243744,Computer Science,4,2
+243744,Economics,3,2
+243744,English Literature,6,3
+243744,Fine Arts,1,2
+243744,Mathematics,5,5
+243744,Philosophy,6,7
+243744,Political Science,6,2

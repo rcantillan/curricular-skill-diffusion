@@ -1,0 +1,52 @@
+COBERTURA Y VOLATILIDAD DENTRO DEL MISMO PROGRAMA
+FE institution-field y año; SE agrupados por institución.
+Asociaciones diagnósticas: no efectos causales ni prueba de error de medición.
+
+              term      estimate           se          t             p
+            <char>         <num>        <num>      <num>         <num>
+ 1: log_n_previous -0.0354300565 0.0005474909 -64.713502  0.000000e+00
+ 2:  log_n_current -0.0300023206 0.0006412515 -46.787135 2.028539e-261
+ 3: log_n_previous -0.0418252528 0.0006980359 -59.918483  0.000000e+00
+ 4:  log_n_current -0.0355339950 0.0008044942 -44.169361 9.690114e-244
+ 5: log_n_previous -0.0294881942 0.0007150589 -41.238834 1.379085e-223
+ 6:  log_n_current -0.0292517516 0.0008568256 -34.139678 1.393562e-173
+ 7: log_n_previous -0.0087912706 0.0001816181 -48.405260 3.509992e-272
+ 8:  log_n_current -0.0083077917 0.0002472016 -33.607352 8.580560e-170
+ 9: log_n_previous -0.0064679738 0.0002657703 -24.336703 1.518930e-104
+10:  log_n_current -0.0071114754 0.0002765442 -25.715513 5.034983e-114
+11: log_n_previous -0.0349458506 0.0014784402 -23.636972  8.310859e-79
+12:  log_n_current -0.0275297810 0.0026059951 -10.564019  2.948190e-23
+13: log_n_previous -0.0488294761 0.0019367176 -25.212492  1.154986e-85
+14:  log_n_current -0.0218000437 0.0029569997  -7.372352  9.202530e-13
+15: log_n_previous -0.0134568028 0.0008526229 -15.782831  2.861398e-44
+16:  log_n_current -0.0093224363 0.0011708554  -7.962073  1.646061e-14
+17: log_n_previous -0.0051325784 0.0003449440 -14.879454  2.035833e-40
+18:  log_n_current -0.0026480582 0.0004956523  -5.342572  1.515884e-07
+19: log_n_previous -0.0009092208 0.0002215196  -4.104471  4.882819e-05
+20:  log_n_current -0.0009564510 0.0001869823  -5.115196  4.803408e-07
+              term      estimate           se          t             p
+            <char>         <num>        <num>      <num>         <num>
+                  outcome min_coverage observations
+                   <char>        <int>        <int>
+ 1:         adoption_rate            1        82489
+ 2:         adoption_rate            1        82489
+ 3:      abandonment_rate            1        82489
+ 4:      abandonment_rate            1        82489
+ 5:    mean_abs_delta_rca            1        82489
+ 6:    mean_abs_delta_rca            1        82489
+ 7:  mean_abs_delta_score            1        82489
+ 8:  mean_abs_delta_score            1        82489
+ 9: profile_cosine_change            1        82489
+10: profile_cosine_change            1        82489
+11:         adoption_rate            9        15830
+12:         adoption_rate            9        15830
+13:      abandonment_rate            9        15830
+14:      abandonment_rate            9        15830
+15:    mean_abs_delta_rca            9        15830
+16:    mean_abs_delta_rca            9        15830
+17:  mean_abs_delta_score            9        15830
+18:  mean_abs_delta_score            9        15830
+19: profile_cosine_change            9        15830
+20: profile_cosine_change            9        15830
+                  outcome min_coverage observations
+                   <char>        <int>        <int>

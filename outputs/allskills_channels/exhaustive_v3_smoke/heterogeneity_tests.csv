@@ -1,0 +1,13 @@
+outcome,scope,model,channel,categories,df,wald,p
+delta1,discipline,both,same_inst_std,35,34,102.62699297948046,8.223730145791064e-09
+delta1,discipline,both,same_field_std,35,34,61.35743425946905,0.0027541359267147553
+delta1,discipline,strict_internal,same_inst_std,35,34,103.11679050520492,6.933118312542072e-09
+delta1,onet,both,same_inst_std,5,4,6.7024900018535405,0.15247067604315723
+delta1,onet,both,same_field_std,5,4,4.014423330371758,0.4040573834600226
+delta1,onet,strict_internal,same_inst_std,5,4,6.170633737457362,0.18676249033021153
+delta2,discipline,both,same_inst_std,32,31,42.82111149969706,0.07685558821447727
+delta2,discipline,both,same_field_std,32,31,37.398429174044736,0.19877018734154422
+delta2,discipline,strict_internal,same_inst_std,32,31,44.05001020835876,0.060407851515161114
+delta2,onet,both,same_inst_std,5,4,8.99100958824389,0.061324591737185324
+delta2,onet,both,same_field_std,5,4,7.669291075549288,0.10447183940315044
+delta2,onet,strict_internal,same_inst_std,5,4,10.683164088860993,0.03036533026200269

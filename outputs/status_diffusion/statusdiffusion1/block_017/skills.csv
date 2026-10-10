@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+19,Read work orders to determine material or setup requirements.,0.2932810007466828,0.059313616289016054
+207,"Mark products, workpieces, or equipment with identifying information.",0.22870447425414786,0.04818498226905455
+238,Inspect aircraft or aircraft components.,0.20390762459704742,0.04590705260032985
+247,Inspect facilities or equipment to ensure specifications are met.,0.265621529062707,0.061376883504663304
+372,Evaluate performance of educational staff.,0.2947203917093562,0.07663348833386181
+473,Analyze design requirements for computer or electronics systems.,0.29565040657797004,0.06879488537271196
+552,Determine technical requirements of productions or projects.,0.32089885592169914,0.06371714209385326
+680,Design public or employee health programs.,0.25655996074917103,0.06132882840344192
+705,Develop emergency response plans or procedures.,0.2753186258556727,0.05919519587706029
+727,"Create musical compositions, arrangements or scores.",0.21785084559771056,0.05459932529060846
+775,Develop guidelines for system implementation.,0.3563955669450896,0.0674845874129018
+813,Prepare compounds or solutions to be used for repairs.,0.22969482617203002,0.04394516344262944
+870,Unload materials or equipment.,0.15895741875564026,0.03993092419336273
+897,Move large objects using heavy equipment.,0.11908844008278065,0.03866537315883907
+925,Arrange tables or dining areas.,0.22931977503069031,0.03922996234461506
+961,Collect samples of materials or products for testing.,0.27566562302421993,0.05792087455178794
+990,Operate sewing equipment.,0.18930336190660196,0.03924386235812101
+1016,Adjust settings or positions of medical equipment.,0.2064982086997341,0.0520167258736709
+1132,Connect cables or electrical lines.,0.1574318840779696,0.03793580458100133
+1191,Prepare film for distribution or use.,0.19076867814880527,0.05098857696485869
+1228,Operate packing or other material processing equipment.,0.20096508492086906,0.053542566798563465
+1246,"Operate cranes, hoists, or other moving or lifting equipment.",0.16157426035401454,0.050529477410697014
+1301,Maintain facilities.,0.24111807169276753,0.05658371954924787
+1504,Confer with coworkers to coordinate maintenance or cleaning activities.,0.21974435637060405,0.05480489094885581
+1535,Collaborate with others in marketing activities.,0.2744756871716987,0.07004031980536052
+1557,Discuss design or technical features of products or services with technical personnel.,0.29999640066224337,0.057307652596091274
+1599,Inform individuals or organizations of status or findings.,0.28203436861147974,0.05934041396008055
+1639,Respond to transportation emergencies.,0.2093116597053747,0.047099376073303924
+1785,Teach medical procedures or medical equipment use to patients.,0.26670234073601606,0.06452459571564245
+1838,Direct quality control activities.,0.25566051063304557,0.060723871505614195
+1886,Direct healthcare delivery programs.,0.18407036807050484,0.060698499311428546
+1909,Coordinate regulatory documentation activities.,0.24517739473954903,0.055335645453348264

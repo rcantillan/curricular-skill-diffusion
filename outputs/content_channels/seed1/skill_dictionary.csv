@@ -1,0 +1,65 @@
+skill_id,skill,baseline_mean,baseline_sd
+59,Collect information about clients.,0.29238047137508344,0.06090095632649476
+114,Monitor lubrication of equipment or workpieces.,0.1894887053072327,0.04875984029344571
+127,Monitor operational quality or safety.,0.2636666216567682,0.06533435346870237
+141,Inspect operations of green energy facilities.,0.227036531879231,0.04567726480834695
+189,Inspect condition of natural environments.,0.21311400977266173,0.05033859951936297
+196,Monitor organizational compliance with regulations.,0.22895468421051754,0.06367260125027681
+228,Test products for functionality or quality.,0.26157465992866596,0.056983109348766665
+280,Inspect material-moving equipment to detect problems.,0.19623315581604145,0.048196373488382405
+323,"Measure materials to mark reference points, cutting lines, or other indicators.",0.26411290686811567,0.044704242730047236
+335,Weigh parcels to determine shipping costs.,0.14635916741424732,0.04235024730847233
+371,Evaluate student work.,0.3722794484444267,0.07285131778271764
+401,Verify accuracy of records.,0.16774919895519275,0.04474315889017194
+411,Check quality of diagnostic images.,0.13346472737982734,0.04816476316102024
+421,Compile specialized bibliographies or lists of materials.,0.28629508307398766,0.041281607319907265
+594,Develop medical treatment plans.,0.2094692059331456,0.06163743337009648
+595,Develop exercise or conditioning programs.,0.1543118194117455,0.052038060807738165
+596,Develop patient therapy programs.,0.2876768384489053,0.07515700372583246
+672,Protect wildlife or natural areas.,0.18637504845703343,0.054921772847704935
+679,Plan programs to address community health issues.,0.24796225251144582,0.06308666249837862
+691,Prepare maps.,0.2647886680245511,0.04331171883791082
+715,Determine presentation subjects or content.,0.40569231343729173,0.0588872821076671
+794,Schedule agricultural or forestry work.,0.21019126266722007,0.04911062641945271
+805,Plan work procedures.,0.31652048227936314,0.05664159779294257
+814,Mix ingredients to create specific finishes.,0.14939555566854718,0.03747676352467172
+820,Mix substances to create chemical solutions.,0.18573783521084952,0.04568889622754998
+832,Clean facilities or work areas.,0.2488874824736229,0.05549992232424885
+904,Block physical access to restricted areas.,0.1604833165381552,0.039863355284302016
+947,Build agricultural structures.,0.2209174983550097,0.04428553658490818
+949,Install trim or paneling.,0.07930261353648296,0.03242611738760905
+1062,Make patient-assistive devices or device models.,0.2654230949238564,0.055910791878226125
+1122,Apply solutions to production equipment.,0.19876057796240998,0.05570024924584619
+1150,Stock serving stations or dining areas with food or supplies.,0.20773996060252173,0.04630946283685975
+1163,Remove workpieces from molds.,0.15336590943380926,0.03624024758341294
+1168,Align parts or workpieces to ensure proper assembly.,0.18807622824353012,0.03860529690141236
+1176,Package materials for transport.,0.2010216482687458,0.0397890265733439
+1237,Operate industrial equipment.,0.2072067600403123,0.05276791027953704
+1242,Operate energy distribution equipment.,0.2017877026999,0.04616885139190364
+1248,Operate precision equipment to control microscopic or nanoscopic processes.,0.23715455865295285,0.05370671401663365
+1296,Code data or other information.,0.19276454096665577,0.05118516742241632
+1379,Prepare technical reports for internal use.,0.3037177225985398,0.059142870501430043
+1395,Document operational procedures.,0.31866962433477103,0.0559142219149313
+1414,Maintain operational records or records systems.,0.25412200448142014,0.060915249670207
+1415,Record service or repair activities.,0.22090847800829497,0.052075224483301825
+1536,Collaborate with others to develop or implement marketing strategies.,0.28481810011197806,0.074513249720528
+1562,Signal others to coordinate work activities.,0.2590445362003988,0.05674987445835407
+1666,Assist practitioners to perform medical procedures.,0.2535266590190774,0.06282990280557746
+1698,"Promote products, activities, or organizations.",0.25112358627786996,0.07219087153819588
+1723,Collaborate with others to prepare or perform artistic productions.,0.2871400743208364,0.06522771449489367
+1730,Answer customer questions about goods or services.,0.23116353819326432,0.06611127868351777
+1751,Educate the public about fire safety or prevention.,0.2315993359581289,0.058857273270132925
+1754,Train personnel to enhance job skills.,0.3321085101053414,0.07647775043864928
+1776,Instruct patients in the use of assistive equipment.,0.2564398835232744,0.06175996476732935
+1796,Supervise service workers.,0.231377972425183,0.06492153291029146
+1799,Supervise information technology personnel.,0.27792813578268105,0.06651200640075651
+1834,Coordinate training activities.,0.28174022210418115,0.06683902772916948
+1884,Direct maintenance or repair activities.,0.19702997350763132,0.04772741722691704
+1890,Direct facility maintenance or repair activities.,0.23079638940361635,0.059603691620014866
+1919,Coordinate legal schedules or activities.,0.2230790315673522,0.050154562587478385
+1940,Advise others about land management or conservation.,0.21285575898872008,0.0496136561415331
+1951,Advise others on analytical techniques.,0.32056619329960223,0.05745487586553775
+1962,"Advise athletes, coaches, or trainers on exercise regimens, nutrition, or equipment use.",0.24556576832730556,0.05913461557699505
+2010,Take product orders from customers.,0.16451789191257368,0.05355560185659786
+2037,Maintain supply or equipment inventories.,0.22461023347594525,0.0622488377189709
+2038,"Maintain inventories of materials, equipment, or products.",0.24937346921565914,0.058263952374578154

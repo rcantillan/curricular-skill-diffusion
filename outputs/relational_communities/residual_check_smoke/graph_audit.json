@@ -1,0 +1,11 @@
+{
+  "connected_components": 20,
+  "nonisolated_components": 1,
+  "isolated_nodes": 19,
+  "effective_communities": 8,
+  "initial_nodes": 100,
+  "institutions": 71,
+  "fields": 26,
+  "initial_profiles": 6028,
+  "cohort_rule": "at least two observed initial years with >=9 syllabi"
+}

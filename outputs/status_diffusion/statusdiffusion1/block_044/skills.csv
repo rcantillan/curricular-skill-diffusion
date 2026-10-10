@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+53,Identify environmental concerns.,0.2560090265248837,0.05327000753324287
+100,Investigate work related complaints to determine corrective actions.,0.27603760026161295,0.056484936973936695
+219,Test patient hearing.,0.17633332517103567,0.05912432187309512
+231,Test chemical or physical characteristics of materials or products.,0.29158021627023906,0.057271856495844584
+234,Inspect motor vehicles.,0.19249373052936317,0.03791547780182338
+371,Evaluate student work.,0.3722794484444267,0.07285131778271764
+575,Implement transportation changes to reduce environmental impact.,0.20463913228185068,0.04710624160069325
+603,Develop computer or online applications.,0.231848681639532,0.06726355172796858
+696,Create graphical representations of structures or landscapes.,0.2535116631839755,0.048982983778894956
+800,Plan special events.,0.21653701706552766,0.046052555040868574
+812,Plan production or operational procedures or sequences.,0.3198199287441929,0.06073675732036517
+821,Operate firefighting equipment.,0.18909585030540782,0.05420955841675297
+861,Load materials into equipment for processing.,0.208838337114466,0.04717692382972448
+873,Prepare surfaces for finishing.,0.19877632212226276,0.03767020306215457
+928,Participate in athletic events.,0.19072502018115425,0.05906789309198908
+1037,Cut glass.,0.11205392325406459,0.030845668723179766
+1109,"Drill holes in parts, equipment, or materials.",0.1801069342924022,0.04436795893446086
+1118,Refinish wood or metal surfaces.,0.14900582224497355,0.03719671782248349
+1162,Apply parting agents or other solutions to molds.,0.09279377581733607,0.03416024986369651
+1423,Document organizational or operational procedures.,0.3324797084389516,0.06318587086968298
+1456,Prepare legal or investigatory documentation.,0.1733922622690776,0.0499309404329876
+1553,Discuss production content and progress with others.,0.30008319098274755,0.0619124054898844
+1571,Confer with others about financial matters.,0.22577090733360952,0.05336725618975786
+1608,Develop working relationships with others to facilitate program activities.,0.34981345489907156,0.07060242503897336
+1630,Administer blood or other fluids intravenously.,0.07901284338827355,0.04394593206715651
+1702,Arbitrate disputes between parties to resolve legal conflicts.,0.24154699217335734,0.051383221503397185
+1710,Negotiate prices or other sales terms.,0.14543004961590925,0.05813554265614466
+1744,Teach online courses.,0.31347002993530215,0.0659494549945241
+1804,Supervise workers providing client or patient services.,0.2379447982070327,0.0691398939392924
+1807,Supervise technical medical personnel.,0.2286515955291958,0.06383567359651056
+1869,Direct funeral or mortuary activities.,0.17831912318065707,0.04359449875515844
+2016,Issue warnings or citations.,0.30055735665062966,0.054527271885165804

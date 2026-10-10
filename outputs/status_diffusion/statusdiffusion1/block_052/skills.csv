@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+304,Inspect lumber or raw woodstock.,0.13841301461209402,0.03740571504378203
+425,Balance receipts.,0.18289332720603832,0.04593091744206784
+431,Verify patron or staff credentials.,0.19930719961994056,0.04821704837707079
+483,Analyze medical data to determine cause of death.,0.1873788101703717,0.0482899307211769
+485,Analyze quantitative data to determine effectiveness of treatments or therapies.,0.27746064896239714,0.06823819161344151
+579,Implement design or process improvements.,0.282496032462674,0.06364978964813778
+669,Develop educational policies.,0.3449930410816186,0.0730585010997279
+779,Develop new or advanced products or production methods.,0.2850578615476105,0.061132644764080826
+846,Clean food service areas.,0.18638302110136007,0.04916960483313301
+988,Sew materials.,0.16777187899435975,0.03445566002338126
+1002,Shape surfaces or edges of wood workpieces.,0.15210125930219007,0.037570193161902556
+1024,Train animals.,0.19235660875348395,0.04441610610725561
+1099,Fabricate devices or components.,0.23465930793049064,0.05509295284546352
+1125,Rewire electrical or electronic systems.,0.20818336440195753,0.04628992001882279
+1167,Position structural components.,0.17911343593032483,0.0371585835606178
+1197,Set up laboratory or field equipment.,0.28904403498457276,0.061329542037685626
+1278,Implement security measures for computer or information systems.,0.3026272213866957,0.06213668827268343
+1327,Repair electrical equipment.,0.14896297867194705,0.03746417459063177
+1399,Maintain client information or service records.,0.2449048133226615,0.06647458484243156
+1433,Maintain records of sales or other business transactions.,0.22671456742418755,0.06493425319526823
+1435,Maintain client records.,0.2035242301157932,0.05800834041216972
+1556,Collaborate with others to determine technical details of productions.,0.32322121867286036,0.06079662002422346
+1598,Provide customer service to clients or users.,0.24910636422013915,0.07112871384401835
+1672,Prepare patients physically for medical procedures.,0.19218108876758433,0.0570051438233348
+1693,Contact current or potential customers to promote products or services.,0.23781426700000025,0.06614536337565785
+1717,Resolve operational performance problems.,0.22336944462342395,0.05801866188581035
+1732,Resolve customer complaints or problems.,0.2762399254233573,0.06264370274998528
+1823,Direct surveying activities.,0.26536791023589834,0.0497772071542585
+1833,Coordinate cross-disciplinary research programs.,0.2875607531765093,0.04966254699525411
+1851,Direct natural resources extraction projects.,0.19834200214814213,0.046283299989447635
+1865,Direct environmental development activities.,0.23342526095968738,0.057385705148662966
+2019,Prepare outgoing mail.,0.19517741465378208,0.03786627354915629

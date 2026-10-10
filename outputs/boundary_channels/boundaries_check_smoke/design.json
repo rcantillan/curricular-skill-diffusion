@@ -1,0 +1,29 @@
+{
+  "tag": "boundaries_check_smoke",
+  "block_size": 4,
+  "seed": 20261010,
+  "neighbors": 10,
+  "min_syllabi": 9,
+  "smoke": true,
+  "keep_panels": true,
+  "baseline": [
+    2002,
+    2007
+  ],
+  "outcomes": [
+    2008,
+    2017
+  ],
+  "holdout": [
+    2014,
+    2017
+  ],
+  "rca": false,
+  "causal_claim": false,
+  "hashes": {
+    "/home/rober/Documents/Papers/curricular-skill-diffusion/src/14_boundary_channels/run_channels.py": "f3a7d4628861d8cb03954fccb3dfaed78729b95a2f1d2ff75b38226385dcf127",
+    "/home/rober/Documents/Papers/curricular-skill-diffusion/src/14_boundary_channels/fit_channels.R": "e595bc22a2125b18a03f9350580fb988ff5988e9c72ed9a456067b768412eda8",
+    "/home/rober/Documents/Papers/curricular-skill-diffusion/data/derived/pilot/master_metadata.csv": "17da89078bf52b583759fe9aa9bfb2c7840fbb714bdcedf06c8b1ad6fe437afc",
+    "/home/rober/Documents/Papers/curricular-skill-diffusion/data/derived/pilot/measurement_scores_manifest.json": "ce81561f8b7301a57b5e2c2d628f61535d055329bf5d36fb5ed3ee3b790b286d"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source_unit": "public institution-field-year mean",
+  "source_dwas": 2070,
+  "fixed_benchmark_years": [
+    2000,
+    2001
+  ],
+  "fixed_outcome_years": [
+    2002,
+    2017
+  ],
+  "benchmark_weighting": "sum of profile mean scores, matching legacy RCA; not syllabus weighted",
+  "coverage_applied_to": "both observed endpoints",
+  "persistence": "sensitivity conditional on observed t+1 with same coverage; 2017 unevaluable",
+  "missing_profiles": "excluded, never coded as zeros",
+  "negative_scores_clipped": 1353472,
+  "all_skill_universe": "all source DWAs; no selection on prestige or outcome",
+  "not_estimated": [
+    "diffusion",
+    "fiscal effects",
+    "reliability weights"
+  ]
+}

@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+54,Evaluate environmental impact of operational or development activities.,0.22474356299469117,0.058003475426017956
+58,"Collect information from people through observation, interviews, or surveys.",0.32593434558626433,0.06287337732591344
+70,Research genetic characteristics or expression.,0.2704479378102188,0.05337290085549893
+172,Patrol properties to maintain safety.,0.2107514708307896,0.049463937037780265
+245,Monitor cargo area conditions.,0.1537237857126747,0.03939198668258694
+257,Inspect timing devices.,0.160957377319509,0.03987570680111354
+415,Sort forestry or agricultural materials.,0.19561011277787033,0.04082494762829295
+479,Analyze costs and benefits of proposed designs or projects.,0.3455358368581623,0.06248750775268003
+636,Develop environmental sustainability plans or projects.,0.2513235149167217,0.056113016110098585
+658,Design control systems for mechanical or other equipment.,0.18091170060500936,0.06007801396135063
+668,"Develop educational goals, standards, policies, or procedures.",0.38976979712176457,0.0836748890227526
+706,"Develop operating strategies, plans, or procedures for green or sustainable operations.",0.2744035910275375,0.06595884261566913
+766,Determine pricing or monetary policies.,0.22808698734240113,0.060859037761481466
+793,Schedule equipment maintenance.,0.1834950792398805,0.051475017699472665
+894,"Transport animals, crops, or equipment.",0.19086101187591273,0.04337675184381948
+895,"Move materials, equipment, or supplies.",0.19536952086446685,0.045338803732951724
+993,Mount materials or workpieces onto production equipment.,0.22266526911695325,0.05332012687838493
+998,Shape clay or dough to create products.,0.18094941574651555,0.04157760143226457
+1034,Cut wood components for installation.,0.11772445422101863,0.03767555006133432
+1048,Skim impurities from molten metal.,0.10814205283987233,0.03501606562631717
+1108,Drill holes in construction materials.,0.15969431048593202,0.03970300838502271
+1121,Treat greenery or surfaces with protective substances.,0.13246881125215637,0.03893803665567735
+1216,Operate diagnostic or therapeutic medical instruments or equipment.,0.22418000812375724,0.05828329564517336
+1234,Operate photographic developing or print production equipment.,0.22646723574950223,0.05293741718712103
+1463,Document legal or regulatory information.,0.2421871066053421,0.05737461444108733
+1627,Administer non-intravenous medications.,0.1459090751498008,0.05656786298320346
+1651,Develop daily schedules for children or families.,0.2844358053284663,0.0606840245753905
+1794,Supervise engineering or other technical personnel.,0.22382758483045778,0.061720842294222276
+1906,Prepare employee work schedules.,0.2530398108578304,0.05709488816847263
+1974,Recommend legal actions.,0.155358928553102,0.05295945856733756
+1975,Advise others on legal or regulatory compliance matters.,0.2494943477143334,0.06400195394626193
+2024,Conduct eligibility or selection interviews.,0.30156022069857435,0.06261802612225516

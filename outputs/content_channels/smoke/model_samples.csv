@@ -1,0 +1,13 @@
+scope,outcome,min_syllabi,rows,institutions,programs,skills,first_year,last_year
+main,delta1,9,48636,353,2345,4,2008,2017
+network2015_post2013,delta1,9,1436,77,109,4,2014,2017
+network2022_retrospective,delta1,9,3676,114,289,4,2014,2017
+main,delta2,9,36360,299,1883,4,2008,2016
+network2015_post2013,delta2,9,912,62,87,4,2014,2016
+network2022_retrospective,delta2,9,2220,94,212,4,2014,2016
+main,delta1,3,94276,503,4350,4,2008,2017
+network2015_post2013,delta1,3,2752,127,208,4,2014,2017
+network2022_retrospective,delta1,3,6556,153,499,4,2014,2017
+main,delta2,3,69444,431,3372,4,2008,2016
+network2015_post2013,delta2,3,1728,105,160,4,2014,2016
+network2022_retrospective,delta2,3,4116,146,380,4,2014,2016

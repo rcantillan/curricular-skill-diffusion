@@ -36,10 +36,17 @@ message(sprintf("Filas totales RCA cargadas: %s", format(nrow(rca_full), big.mar
 message("[2/3] Ordenando y detectando transiciones por celda-skill...")
 setorderv(rca_full, c("unitid", "fos", "skill", "year"))
 
-rca_full[, has_skill_lag := shift(has_skill_rca), by = .(unitid, fos, skill)]
+rca_full[, `:=`(
+  has_skill_previous_observed = shift(has_skill_rca),
+  previous_observed_year = shift(year)
+), by = .(unitid, fos, skill)]
+rca_full[, year_gap := year - previous_observed_year]
+# An annual event requires observations in consecutive calendar years.
+# Preserve the previous available state for separate interval sensitivities.
+rca_full[, has_skill_lag := fifelse(year_gap == 1L,
+                                  has_skill_previous_observed, NA_integer_)]
 
-# Primer año observado de una celda-skill: no cuenta como evento (no sabemos
-# el estado previo), solo define el estado inicial del spell.
+# First observations and observations following a gap restart the annual spell.
 rca_full[, adopta_evento  := fifelse(!is.na(has_skill_lag) & has_skill_lag == 0L & has_skill_rca == 1L, 1L, 0L)]
 rca_full[, abandona_evento := fifelse(!is.na(has_skill_lag) & has_skill_lag == 1L & has_skill_rca == 0L, 1L, 0L)]
 rca_full[, es_primer_anio_observado := is.na(has_skill_lag)]

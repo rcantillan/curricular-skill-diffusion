@@ -1,0 +1,47 @@
+field,initial_nodes,usable_for_residual_graph
+Accounting,17,True
+Agriculture,6,True
+Anthropology,13,True
+Architecture,1,False
+Biology,72,True
+Business,128,True
+Chemistry,32,True
+Chinese,1,False
+Classics,4,True
+Computer Science,171,True
+Criminal Justice,4,True
+Dance,2,False
+Earth Sciences,7,True
+Economics,46,True
+Education,52,True
+Engineering,55,True
+English Literature,144,True
+Film and Photography,17,True
+Fine Arts,21,True
+Fitness and Leisure,13,True
+French,7,True
+Geography,9,True
+German,3,True
+Health Technician,2,False
+History,91,True
+Journalism,5,True
+Law,2,False
+Marketing,10,True
+Mathematics,120,True
+Media / Communications,29,True
+Medicine,10,True
+Music,19,True
+Nursing,7,True
+Nutrition,1,False
+Philosophy,28,True
+Physics,38,True
+Political Science,79,True
+Psychology,64,True
+Public Safety,1,False
+Religion,8,True
+Social Work,6,True
+Sociology,27,True
+Spanish,14,True
+Theatre Arts,6,True
+Theology,5,True
+Women's Studies,3,True

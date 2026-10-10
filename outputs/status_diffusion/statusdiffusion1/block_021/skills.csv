@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+12,Review blueprints or specifications to determine work requirements.,0.32714310729595253,0.06226628885196377
+42,Research hydrologic features or processes.,0.24226529837724056,0.04342908159991773
+88,Conduct research to gain information about products or processes.,0.35026237346051686,0.059241632569373835
+105,Interview people to obtain information about actions or status of individuals.,0.3084274649850696,0.0563826714720385
+145,Monitor financial information.,0.20470507487591266,0.057459163975277935
+241,Inspect work sites to identify potential environmental or safety hazards.,0.2457775318117123,0.055291161413688825
+296,Test computer system operations to ensure proper functioning.,0.2660106012553089,0.05761767826069225
+305,Inspect shipments to ensure correct order fulfillment.,0.1963487420993695,0.0461302197527098
+349,Calculate tax information.,0.18662109293530219,0.04499778842145952
+353,Calculate geographic positions from survey data.,0.14128605188536839,0.04071862854548019
+512,Analyze biological samples.,0.2592665421891171,0.060403829620466754
+646,Develop promotional materials.,0.24462593861844775,0.06676637003011966
+726,Design electronic or computer equipment or instrumentation.,0.2688600591522892,0.058611008497301775
+772,"Develop policies or procedures for archives, museums or libraries.",0.2651507967136693,0.05267343883755988
+811,Develop detailed project plans.,0.293673175553583,0.06483235128553347
+815,Mix ingredients.,0.15717368049419378,0.036959887255537005
+828,Clean work areas.,0.21110298290195742,0.05457680072338384
+1058,"Install energy-efficient heating, ventilation, or air conditioning (HVAC) equipment.",0.14835542970419663,0.04122394726244295
+1103,"Construct distinctive physical objects for artistic, functional, or commercial purposes.",0.300187197534837,0.05472484839505911
+1149,Store supplies or goods in kitchens or storage areas.,0.16777913544824166,0.0407784586418808
+1165,Align equipment or machinery.,0.19699794545305288,0.04354138206564496
+1192,"Set equipment guides, stops, spacers, or other fixtures.",0.16442730749963544,0.041313678791245395
+1319,Perform manual service or maintenance tasks.,0.19016136948175164,0.05424768947630475
+1357,Maintain medical equipment or instruments.,0.20629888161579266,0.05724723680283279
+1406,"Record information about parts, materials or repair procedures.",0.27184306662441887,0.051069025156601444
+1493,Confer with clients to discuss treatment plans or progress.,0.23149501200364986,0.0651425515378172
+1638,Respond to emergencies to provide assistance.,0.26809452388039223,0.060861235070670545
+1642,Fit patients for assistive devices.,0.14682307837967795,0.05004577838519469
+1684,Sell agricultural products.,0.17122014808410713,0.05111943667062234
+1751,Educate the public about fire safety or prevention.,0.2315993359581289,0.058857273270132925
+2002,Submit financial applications.,0.14116510459530457,0.0500514899436114
+2025,Hire personnel.,0.23908016342667598,0.0638963050863652

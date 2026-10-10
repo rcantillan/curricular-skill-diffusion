@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+195,Monitor operations to ensure compliance with safety or security policies or regulations.,0.2664997726939283,0.06528040870337662
+213,Identify strategic business investment opportunities.,0.20437624373706129,0.07158935604040041
+308,Evaluate characteristics of archival or historical objects.,0.25547664539648285,0.04245131311313006
+391,Assess product or process usefulness.,0.29170709483460483,0.06275206232176726
+411,Check quality of diagnostic images.,0.13346472737982734,0.04816476316102024
+467,Assess risks to business operations.,0.2661774299430986,0.06739654648563517
+513,Analyze chemical compounds or substances.,0.30960012210517573,0.05804754228247249
+538,Authorize payments to settle legal disputes.,0.1953205725607161,0.049161477328120186
+610,Design healthcare-related software applications.,0.23567464353317796,0.06345869420573533
+673,Design environmental control systems.,0.1928906550792296,0.057497818717981125
+676,Design systems to reduce harmful emissions.,0.17030191015399837,0.04819384689943676
+786,Arrange facility schedules.,0.24812487978019224,0.055197251736724594
+813,Prepare compounds or solutions to be used for repairs.,0.22969482617203002,0.04394516344262944
+904,Block physical access to restricted areas.,0.1604833165381552,0.039863355284302016
+912,Enforce rules or regulations.,0.23672433319044395,0.06446607982761564
+1034,Cut wood components for installation.,0.11772445422101863,0.03767555006133432
+1055,"Polish materials, workpieces, or finished products.",0.20893380245786405,0.04198497947258206
+1138,"Build models, patterns, or templates.",0.279400525301411,0.06165385284095323
+1147,Stock medical or patient care supplies.,0.16790067291473107,0.05541636107148686
+1176,Package materials for transport.,0.2010216482687458,0.0397890265733439
+1188,Install equipment attachments or components.,0.1901758908658756,0.05034227201248063
+1337,Repair furniture or upholstery.,0.1335738263813202,0.04140065944873277
+1345,"Repair worn, damaged, or defective mechanical parts.",0.17534927940643683,0.04320292356462438
+1457,Prepare reports related to compliance matters.,0.33145450240776475,0.061794420372814816
+1495,Explain medical procedures or test results to patients or family members.,0.26886881136944274,0.06348401554957693
+1540,Collaborate with other professionals to develop education or assistance programs.,0.3401833925507631,0.07310511406501306
+1560,Communicate project information to others.,0.29842040266406666,0.06169876185768085
+1917,Direct criminal investigations.,0.21113380539797613,0.04980588595423892
+1932,Advise patients on healthcare system processes.,0.25973489822793655,0.05765689320673648
+2003,Process medical billing information.,0.17962487734190422,0.0490076142325049
+2011,Process sales or other transactions.,0.19948252288984814,0.056703403279469225
+2027,Recruit personnel.,0.27988026274552086,0.05934761851355322

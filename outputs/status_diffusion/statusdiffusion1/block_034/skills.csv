@@ -1,0 +1,33 @@
+skill_id,skill,baseline_mean,baseline_sd
+39,Gather physical survey data.,0.2660565523785674,0.05100901999269599
+74,Classify organisms based on their characteristics or behavior.,0.21528018385517644,0.04325835541135909
+138,Inspect cargo to ensure it is properly loaded or secured.,0.15209893242750483,0.03598584366568371
+253,Inspect facilities for cleanliness.,0.2358555673224955,0.054390783310911794
+403,Verify customer credit information.,0.17948128204644964,0.045248442494386955
+814,Mix ingredients to create specific finishes.,0.14939555566854718,0.03747676352467172
+835,Clean facilities or sites.,0.21559190894210314,0.04794877474763698
+882,Operate garment treatment equipment.,0.18797813489125786,0.047336993893276925
+922,Move patients to or from treatment areas.,0.22684303961778302,0.06156559787020998
+967,Prepare hot or cold beverages.,0.1379622161541141,0.029549449150328307
+1009,Adjust equipment controls to regulate gas flow.,0.18568419441290543,0.041669091966241446
+1049,Ignite fuel to activate heating equipment.,0.14630102859621752,0.031232997661908252
+1084,Adjust position of molds during processing.,0.11983560204988447,0.036462173325486597
+1110,Groom wigs or hairpieces.,0.12169927232315833,0.03524189364057572
+1139,Assemble garments or textile products.,0.20625875319691353,0.044756280523152295
+1186,Apply decorative or textured finishes or coverings.,0.16506664789449235,0.04061975830591039
+1220,Operate surveillance equipment to detect suspicious or illegal activities.,0.2549372496000339,0.05070827888003199
+1258,Operate woodworking equipment.,0.1690445345423027,0.042798769074990875
+1354,Maintain locomotives or other rail equipment in good working condition.,0.22204696498158544,0.04684760160996067
+1457,Prepare reports related to compliance matters.,0.33145450240776475,0.061794420372814816
+1488,Educate clients on financial planning topics.,0.25602227498872,0.06338626620146122
+1512,Relay information between personnel.,0.28747228878400855,0.057136763059201935
+1539,"Discuss business strategies, practices, or policies with managers.",0.2834000837224626,0.07185731787600508
+1607,Develop business relationships.,0.2387689186348699,0.06862421140476137
+1656,Assist patients with daily activities.,0.24991516118248147,0.06610231438423253
+1719,Resolve issues affecting transportation operations.,0.24603064304711306,0.047576079446001625
+1843,Direct fundraising or financing activities.,0.194308699412575,0.057523370540334295
+1951,Advise others on analytical techniques.,0.32056619329960223,0.05745487586553775
+2000,Serve court ordered documents.,0.1314488709609154,0.04582631768608193
+2017,Issue certificates or licenses.,0.19728451030295266,0.05424803241451535
+2043,Distribute materials to employees or customers.,0.25567875764847403,0.0652751192066061
+2057,Order construction or extraction materials or equipment.,0.20436125223274806,0.04882022957772063

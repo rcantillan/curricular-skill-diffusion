@@ -1,0 +1,26 @@
+{
+  "periods": [
+    "2002\u20132004",
+    "2005\u20132007",
+    "2008\u20132010",
+    "2011\u20132013",
+    "2014\u20132016"
+  ],
+  "pooling": "syllabi_cnt-weighted public means",
+  "coverage": "total syllabi per period, required at both endpoints",
+  "min_observed_years": [
+    2,
+    3
+  ],
+  "min_total_syllabi": [
+    9,
+    20,
+    50
+  ],
+  "baseline": "2002--2004, >=9 syllabi, year-count requirement specific to specification",
+  "no_independence_assumption": "unknown course identities and overlap across years",
+  "no_models_estimated": [
+    "diffusion",
+    "resources"
+  ]
+}
