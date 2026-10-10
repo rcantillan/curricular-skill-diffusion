@@ -2,14 +2,18 @@
 
 ## Research questions
 
-### Primary: sustained curricular incorporation
+### Primary: status stratification and sustained curricular incorporation
 
-> **Do institutional and disciplinary boundaries shape the sustained incorporation
-> of curricular content previously present in other university programs?**
+> **How does the university status hierarchy structure the sustained incorporation
+> of curricular content across disciplines and universities?**
 
-**Pregunta principal:** ¿Las fronteras institucionales y disciplinarias condicionan
-la incorporación sostenida de contenido curricular previamente presente en otros
-programas universitarios?
+**Pregunta principal:** ¿Cómo estructura la jerarquía de estatus universitario la
+incorporación sostenida de contenido curricular entre disciplinas y universidades?
+
+We evaluate this question by asking whether content previously present in a
+candidate source anticipates later receiver changes, conditional on disciplinary
+distance and the source–receiver status difference. The hierarchy's role is a
+hypothesis to test, not an established determinant of curricular change.
 
 ### Secondary: occupational transformation
 
@@ -22,7 +26,8 @@ circulación?
 
 We study how curricula transform over time and whether earlier content in other
 programs helps explain that transformation. The relational unit is a
-**university × discipline program**. The two questions connect earlier content in
+**university × discipline program**. The primary framework combines institutional
+stratification with disciplinary boundaries. The two questions connect earlier content in
 candidate sources to sustained receiver incorporation and then to changes in the
 receiver's occupational profile. O*NET supplies the framework for interpreting
 those changes. Curricular transformation remains the central process.
@@ -44,9 +49,57 @@ Their relationship falls into one of three channels:
 
 We ask whether content already present in candidate sources anticipates later,
 sustained increases in the receiver, beyond its own curricular history and common
-trends. Institutional status is a possible modifier of these relations. Communities
+trends. Institutional status and disciplinary distance jointly define the proposed
+structure of these relations. Within-university channels assess integration across
+fields; between-university channels assess direction and barriers across status.
+Communities
 may become a later description of supported relations; current similarity groups
 are not communities of demonstrated diffusion.
+
+## Status, direction and disciplinary distance
+
+The candidate relation is **university A × discipline X → university B × discipline Y**.
+For between-university relations, assess the relative status of source and receiver
+together with their disciplinary distance. For within-university relations,
+institution-wide status does not create a between-university gap; field-specific
+positions may differ and require separate justification.
+
+| Proposed pattern | Hypothesis to evaluate |
+| --- | --- |
+| Downward | Earlier content in higher-status sources anticipates incorporation in lower-status receivers |
+| Horizontal | Incorporation is more strongly associated with sources near the receiver's status |
+| Upward | Earlier content in lower-status sources anticipates incorporation in higher-status receivers |
+| Stratified barriers | Relations within status segments are stronger than relations crossing them |
+
+Use a **continuous, signed status difference**, with higher values of the status
+measure indicating higher position and gap = receiver status − source status.
+A negative gap indicates a source above the receiver. Direction and distance
+must be interpreted jointly; rank differences are operational proxies, not a
+validated cardinal scale. Segmentation need not imply a downward cascade.
+
+The available 2015 hiring-network status measures are field-specific and cover
+Business, Computer Science and History. Cross-field comparisons require a justified
+common scale; within-field standardization alone does not establish comparability.
+Do not extend these rankings to every university field or substitute Carnegie
+categories for an unvalidated continuous status hierarchy. Status used to anticipate
+change must predate the outcome period; the retrospective 2022 network is not
+treated as a dated transmission mechanism.
+
+## Connection to interdisciplinarity
+
+The interdisciplinary component concerns **sustained incorporation of content
+previously characteristic of another discipline**. Earlier presence in a different
+field alone is insufficient: a general activity shared by many fields may not
+indicate disciplinary integration. Disciplinary distinctiveness and distance must
+be defined from prior content, without RCA or future-informed selection.
+
+The proposed contribution relative to Han et al. is to study the temporal and
+organizational formation of interdisciplinary curricula, including how university
+status facilitates or limits it. Our aggregated program profiles can indicate an
+expanded disciplinary repertoire; integration within individual courses requires
+course-level evidence. The connection to Clauset is the hypothesis that academic
+hierarchies structure the circulation of taught content as well as faculty networks.
+That curricular extension remains to be demonstrated.
 
 ## Measurement and scope
 
@@ -84,11 +137,12 @@ This is a **planned extension**, with no occupational-profile results yet.
 O*NET-based alignment describes occupational orientation; it does not establish
 employer demand, student learning, employment, wages or labor-market returns.
 
-## Next analysis: three steps
+## Next analysis: four steps
 
-1. **Validate sustained curricular change.** Describe continuity, coverage and the retention of increases within programs before interpreting circulation. Report the observable population and sensitivity to syllabus counts and temporal windows.
+1. **Validate sustained curricular change and disciplinary distinctiveness.** Describe continuity, coverage and the retention of increases within programs before interpreting circulation. Identify content characteristic of other disciplines using prior profiles. Report the observable population and sensitivity to syllabus counts and temporal windows.
 2. **Test prior-content exposure by channel.** Evaluate whether content previously present at higher levels in candidate sources anticipates sustained receiver increases, controlling its own trajectory. The latest pilot already includes prior stock and recent source increases; the next step refines the receiver outcome and support, rather than treating stock exposure as untested.
 3. **Compare channels with explicit sample accounting.** Estimate each channel on its available sample, then compare channels on pairwise common samples. Evaluate chronological prediction against own-history and no-change baselines, random candidate sources, and future-source diagnostics.
+4. **Test stratification of supported relations.** Evaluate source–receiver signed status gaps and distance jointly with disciplinary distance. Compare downward, horizontal, upward and segmented patterns on comparable samples. Begin with within-field rankings; expand across fields only after validating status comparability. Account for prior trends, resources and source coverage before attributing associations to status.
 
 These steps are the **planned next analysis**, not a completed pipeline. Evidence
 for circulation would require temporal and predictive specificity that survives
@@ -98,7 +152,7 @@ The available faculty-network files are not dated transmission events.
 
 After validating the content measure and channel comparisons, the occupational
 extension will map sustained changes to occupational profiles and compare breadth,
-specialization and convergence across the three channels. This downstream analysis
+specialization and convergence across channels and supported status patterns. This downstream analysis
 will interpret the curricular changes; it will not substitute for evidence of
 circulation or turn the primary question into a labor-market returns study.
 
