@@ -158,6 +158,25 @@ circulation or turn the primary question into a labor-market returns study.
 
 ## Completed evidence
 
+### First agenda audit: code ready, exhaustive results pending
+
+The first new analysis separates receiver selection from additional historical
+controls while preserving the original broad channel definitions, all 2,070
+activities and the original block partition. It includes a check against the old
+coefficients, a bridge to the smaller boundary-pilot sample, and descriptive
+retention checks. It also audits the algebraic overlap between internal mean
+exposure and institution/activity/year shocks. See [the reconciliation methods](src/16_signal_reconciliation/README.md).
+
+```bash
+python3 src/16_signal_reconciliation/run_reconciliation.py --tag reconcile1
+```
+
+This is the first diagnostic stage of the agenda. It does not yet implement
+disciplinary distinctiveness, new forecasts, status interactions or occupational
+profiles. Exhaustive results must be reviewed before updating scientific claims.
+
+### Latest completed boundary pilot
+
 The newest completed run is [`boundaries1`](outputs/boundary_channels/boundaries1/).
 It processes all 2,070 activities in 65 blocks, without skipped models. Candidate
 relations are fixed using 2002–2007 curricular similarity and evaluated against
@@ -196,6 +215,7 @@ continue to refer to the same files.
 | Status pilot | `src/13_status_diffusion/` | Temporal source increases by relative hiring status; three fields only |
 | Latest boundary pilot | `src/14_boundary_channels/` | Three channels, random candidates, temporal diagnostics and prediction |
 | Local cache preparation | `src/15_repository_data/` | Reconstruct the audited float64 cache |
+| First agenda audit | `src/16_signal_reconciliation/` | Reproduce old channels; separate historical controls from sample selection; audit retention and identification |
 | Analysis outputs | `outputs/` | Completed runs, summary tables, diagnostics and software-validation runs |
 | Earlier paper | `paper/manuscript/` | Historical resources/status manuscript; needs revision for the current question |
 | Historical pipeline | `src/01_cleaning/` through `src/07_figures/` | Preserved earlier RCA/resources analyses |

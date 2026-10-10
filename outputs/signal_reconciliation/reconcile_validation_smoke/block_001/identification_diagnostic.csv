@@ -1,0 +1,2 @@
+diagnostic,maximum_within_cell_spread,expected_absorption,interpretation
+internal_mean_identity,1.33226762955019e-15,TRUE,Equal-weight internal means cannot separate transmission from institution-activity-year shocks once own-lag denominator is controlled.
