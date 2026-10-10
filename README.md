@@ -1,6 +1,8 @@
 # Curricular Skill Diffusion
 
-## Research question
+## Research questions
+
+### Primary: sustained curricular incorporation
 
 > **Do institutional and disciplinary boundaries shape the sustained incorporation
 > of curricular content previously present in other university programs?**
@@ -9,10 +11,21 @@
 la incorporación sostenida de contenido curricular previamente presente en otros
 programas universitarios?
 
+### Secondary: occupational transformation
+
+> **How does the occupational profile of a curriculum change as it incorporates
+> this content, and how does that transformation vary across circulation channels?**
+
+**Pregunta ocupacional:** ¿Cómo cambia el perfil ocupacional del currículo a medida
+que incorpora ese contenido, y cómo varía esa transformación entre canales de
+circulación?
+
 We study how curricula transform over time and whether earlier content in other
 programs helps explain that transformation. The relational unit is a
-**university × discipline program**. Occupational relevance, measured through
-O*NET, provides a subsequent interpretation of which content changes.
+**university × discipline program**. The two questions connect earlier content in
+candidate sources to sustained receiver incorporation and then to changes in the
+receiver's occupational profile. O*NET supplies the framework for interpreting
+those changes. Curricular transformation remains the central process.
 
 The project is exploratory. Existing analyses have **not established diffusion
 or a transmission mechanism**. Similarity, temporal precedence and predictive
@@ -48,10 +61,28 @@ increase is not necessarily first adoption or an entirely new skill. Missing
 program profiles are excluded rather than interpreted as absent content.
 The current research direction uses continuous scores without RCA.
 
-O*NET will help interpret the occupational composition of curricular change.
-A verified mapping or separate scores for the proposed 161-category secondary
-layer are still needed. Current analyses do not estimate student employment,
-wages or labor-market returns.
+## Occupational interpretation through O*NET
+
+The secondary question focuses on **occupational breadth and specialization**:
+whether sustained incorporation broadens a curriculum's alignment with occupations,
+reinforces alignment with particular occupations, or produces convergence or
+differentiation between programs' occupational profiles.
+
+Two hypotheses guide this extension: cross-disciplinary incorporation may broaden
+occupational orientation; same-disciplinary incorporation may reinforce
+specialization. These are hypotheses to test, not established findings. Curricular
+similarity and occupational similarity must be measured separately.
+
+The 2,070 DWAs remain the primary content resolution. A verified mapping or
+separate scores for the proposed 161-category layer would provide a secondary
+summary of which capabilities change. Identifying specific occupational profiles
+also requires a verified activity/category-to-occupation link and an explicit,
+validated aggregation rule. Category labels alone are not an occupational outcome.
+Coverage and weighting choices must accompany any breadth or specialization measure.
+
+This is a **planned extension**, with no occupational-profile results yet.
+O*NET-based alignment describes occupational orientation; it does not establish
+employer demand, student learning, employment, wages or labor-market returns.
 
 ## Next analysis: three steps
 
@@ -64,6 +95,12 @@ for circulation would require temporal and predictive specificity that survives
 measurement checks. Identifying a mechanism would additionally require concrete
 traces such as dated hiring, collaboration or documented curricular revision.
 The available faculty-network files are not dated transmission events.
+
+After validating the content measure and channel comparisons, the occupational
+extension will map sustained changes to occupational profiles and compare breadth,
+specialization and convergence across the three channels. This downstream analysis
+will interpret the curricular changes; it will not substitute for evidence of
+circulation or turn the primary question into a labor-market returns study.
 
 ## Completed evidence
 
