@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1330" viewBox="0 0 1600 1330" role="img" aria-labelledby="title desc">
+<title id="title">Event-based design for curricular skill diffusion</title>
+<desc id="desc">Potential source programs have prior high activity scores. Each receiver-program, activity and year is one opportunity. First documented incorporation requires two low years followed by two high years with coverage and no earlier sustained presence. Nonincorporation is a zero outcome within the eligible risk set. Secondary intensity and occupational changes are planned analyses, not observed labor-market outcomes. Dashed connections denote prior exposure, not identified transmission.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,1 L8,5 L0,9" fill="none" stroke="#45c4b4" stroke-width="2"/></marker></defs>
+<rect width="1600" height="1330" fill="#14181d"/>
+<rect x="20" y="20" width="1560" height="1290" rx="20" fill="none" stroke="#35414e"/>
+<style>text {font-family:DejaVu Sans,Arial,sans-serif;fill:#e9eef3} .muted{fill:#b2becb} .section{fill:#45c4b4;font-weight:700;letter-spacing:1.5px} .future{fill:#efc577}</style>
+<text x="52" y="77" font-size="40" class="" text-anchor="start">Tracing curricular skill diffusion</text>
+<text x="52" y="115" font-size="23" class="muted" text-anchor="start">One opportunity = receiver program × activity × year  |  Program = institution × discipline</text>
+<text x="52" y="168" font-size="21" class="section" text-anchor="start">1  PRIOR CONTENT IN POTENTIAL SOURCE PROGRAMS</text>
+<rect x="52" y="190" width="480" height="125" rx="16" fill="#202731" stroke="#8495a8" stroke-width="2"/>
+<text x="292" y="228" font-size="27" class="" text-anchor="middle">Internal cross-field</text>
+<text x="292" y="265" font-size="20" class="muted" text-anchor="middle">Different discipline · same institution</text>
+<text x="292" y="295" font-size="20" class="muted" text-anchor="middle">Institutional selectivity gap = 0</text>
+<rect x="560" y="190" width="480" height="125" rx="16" fill="#202731" stroke="#8495a8" stroke-width="2"/>
+<text x="800" y="228" font-size="27" class="" text-anchor="middle">External same-field</text>
+<text x="800" y="265" font-size="20" class="muted" text-anchor="middle">Same discipline · different institution</text>
+<text x="800" y="295" font-size="20" class="muted" text-anchor="middle">Continuous signed selectivity gap</text>
+<rect x="1068" y="190" width="480" height="125" rx="16" fill="#202731" stroke="#8495a8" stroke-width="2"/>
+<text x="1308" y="228" font-size="27" class="" text-anchor="middle">External cross-field</text>
+<text x="1308" y="265" font-size="20" class="muted" text-anchor="middle">Different discipline · different institution</text>
+<text x="1308" y="295" font-size="20" class="muted" text-anchor="middle">Continuous signed selectivity gap</text>
+<text x="800" y="347" font-size="21" class="muted" text-anchor="middle">Same activity: high scores in t−2 and t−1; ≥9 syllabi in each year. Sources selected by prior presence.</text>
+<path d="M292,358 L292,380" fill="none" stroke="#45c4b4" stroke-width="3" stroke-dasharray="9 8"/>
+<path d="M800,358 L800,380" fill="none" stroke="#45c4b4" stroke-width="3" stroke-dasharray="9 8"/>
+<path d="M1308,358 L1308,380" fill="none" stroke="#45c4b4" stroke-width="3" stroke-dasharray="9 8"/>
+<path d="M292,380 L1308,380" fill="none" stroke="#45c4b4" stroke-width="3" stroke-dasharray="9 8"/>
+<path d="M800,380 L800,401" fill="none" stroke="#45c4b4" stroke-width="3" stroke-dasharray="9 8" marker-end="url(#arrow)"/>
+<rect x="52" y="413" width="1496" height="104" rx="16" fill="#172f30" stroke="#45c4b4" stroke-width="2"/>
+<text x="800" y="443" font-size="27" class="" text-anchor="middle">Prior exposure by channel + relative selectivity of external sources</text>
+<text x="800" y="474" font-size="21" class="muted" text-anchor="middle">Direction rates: each eligible opportunity distributes weight one across comparable external sources.</text>
+<text x="800" y="502" font-size="19" class="muted" text-anchor="middle">Continuous gap = receiver − source; both measured at the source’s first documented sustained presence.</text>
+<text x="52" y="551" font-size="21" class="section" text-anchor="start">2  PRIMARY DEPENDENT VARIABLE: FIRST DOCUMENTED SUSTAINED INCORPORATION</text>
+<text x="52" y="587" font-size="21" class="muted" text-anchor="start">Eligible risk set: low scores in t−2 and t−1; no earlier covered high-score pair; ≥9 syllabi in all four years.</text>
+<rect x="52" y="616" width="356" height="112" rx="16" fill="#302d23" stroke="#bbaa81" stroke-width="2"/>
+<text x="230" y="653" font-size="26" class="muted" text-anchor="middle">t−2</text>
+<text x="230" y="700" font-size="31" class="" text-anchor="middle">LOW</text>
+<rect x="432" y="616" width="356" height="112" rx="16" fill="#302d23" stroke="#bbaa81" stroke-width="2"/>
+<text x="610" y="653" font-size="26" class="muted" text-anchor="middle">t−1</text>
+<text x="610" y="700" font-size="31" class="" text-anchor="middle">LOW</text>
+<rect x="812" y="616" width="356" height="112" rx="16" fill="#173433" stroke="#45c4b4" stroke-width="2"/>
+<text x="990" y="653" font-size="26" class="muted" text-anchor="middle">t</text>
+<text x="990" y="700" font-size="31" class="" text-anchor="middle">HIGH</text>
+<rect x="1192" y="616" width="356" height="112" rx="16" fill="#173433" stroke="#45c4b4" stroke-width="2"/>
+<text x="1370" y="653" font-size="26" class="muted" text-anchor="middle">t+1</text>
+<text x="1370" y="700" font-size="31" class="" text-anchor="middle">HIGH</text>
+<path d="M412,672 L426,672" fill="none" stroke="#45c4b4" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M792,672 L806,672" fill="none" stroke="#45c4b4" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M1172,672 L1186,672" fill="none" stroke="#45c4b4" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="800" y="760" font-size="21" class="muted" text-anchor="middle">Event assigned to t; sustained presence confirmed in t+1. This window illustrates Y = 1.</text>
+<rect x="52" y="783" width="732" height="109" rx="16" fill="#173433" stroke="#45c4b4" stroke-width="2"/>
+<text x="78" y="823" font-size="27" class="" text-anchor="start">Y = 1  |  First documented incorporation</text>
+<text x="78" y="862" font-size="22" class="muted" text-anchor="start">Both t and t+1 have high scores.</text>
+<rect x="816" y="783" width="732" height="109" rx="16" fill="#202731" stroke="#8495a8" stroke-width="2"/>
+<text x="842" y="823" font-size="27" class="" text-anchor="start">Y = 0  |  Eligible nonincorporation</text>
+<text x="842" y="862" font-size="22" class="muted" text-anchor="start">The high-score pair in t and t+1 is not met.</text>
+<text x="52" y="927" font-size="20" class="muted" text-anchor="start">Outside the risk set: insufficient coverage, prior sustained presence, or failure of the prior low-score rule.</text>
+<text x="52" y="977" font-size="21" class="future" text-anchor="start">3  SECONDARY / PLANNED DEPENDENT VARIABLES</text>
+<rect x="52" y="1000" width="480" height="123" rx="16" fill="#292820" stroke="#b89a62" stroke-width="2"/>
+<text x="292" y="1037" font-size="26" class="future" text-anchor="middle">Subsequent intensity</text>
+<text x="292" y="1077" font-size="20" class="" text-anchor="middle">Change in curricular scores</text>
+<text x="292" y="1107" font-size="18" class="muted" text-anchor="middle">Following documented incorporation</text>
+<rect x="560" y="1000" width="480" height="123" rx="16" fill="#292820" stroke="#b89a62" stroke-width="2"/>
+<text x="800" y="1037" font-size="26" class="future" text-anchor="middle">Occupational orientation</text>
+<text x="800" y="1077" font-size="20" class="" text-anchor="middle">Change in breadth / specialization</text>
+<text x="800" y="1107" font-size="18" class="muted" text-anchor="middle">Requires a validated occupation crosswalk</text>
+<rect x="1068" y="1000" width="480" height="123" rx="16" fill="#292820" stroke="#b89a62" stroke-width="2"/>
+<text x="1308" y="1037" font-size="26" class="future" text-anchor="middle">Occupational convergence</text>
+<text x="1308" y="1077" font-size="20" class="" text-anchor="middle">Change in similarity to prior source profiles</text>
+<text x="1308" y="1107" font-size="18" class="muted" text-anchor="middle">Compare full and activity-excluded profiles</text>
+<text x="52" y="1159" font-size="21" class="muted" text-anchor="start">Occupational changes use program-year event bundles and eligible nonincorporation comparisons.</text>
+<text x="52" y="1196" font-size="20" class="muted" text-anchor="start">Dashed links = prior exposure, not identified transmission. Occupational affinity ≠ observed employment or earnings.</text>
+<text x="52" y="1237" font-size="20" class="muted" text-anchor="start">Low / high = activity-specific baseline P75 or P90 ±0.1 SD. Entry years: 2008–2016; follow-up through 2017.</text>
+<text x="52" y="1275" font-size="20" class="muted">Q and the gap are continuous. Stage 17: continuous directional terms. Stages 19–20: five gap intervals for rates.</text>
+</svg>

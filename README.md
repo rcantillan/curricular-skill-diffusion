@@ -10,6 +10,12 @@ The central question is:
 
 A program is an **institution × discipline** combination. The primary outcome is first documented sustained incorporation. Institutional position is measured through historical admissions selectivity; its relationship to academic status is a theoretical question, not an equivalence assumed by the measurement. Occupational transformation is a planned second contribution.
 
+## Event-based empirical design
+
+![Event-based design: prior source presence, first sustained incorporation, and planned secondary outcomes](docs/figures/empirical_event_design.png)
+
+The diagram distinguishes the estimated binary incorporation outcome from secondary score-intensity and planned occupational outcomes. The four-year sequence illustrates an incorporation event; eligible observations that fail to form the high-score pair remain nonincorporation opportunities. Occupational outcomes will aggregate simultaneous incorporations into program-year event bundles. Dashed connections represent prior exposure, not observed transfers. [Vector version](docs/figures/empirical_event_design.svg).
+
 ## Data and measurement
 
 The Course-Skill Atlas provides annual curricular scores for **2,070 O*NET Detailed Work Activities**, with observations spanning **2000–2017**. These activities operationalize occupational skill content; the scores are inferred representations of curricular content, not direct assessments of student competencies. The analytical observation is **program × activity × year**.
@@ -54,6 +60,8 @@ For a potential source *s* and receiver *r*:
 
 `gap_sr = Q_r(origin_sa) − Q_s(origin_sa)`
 
+**Selectivity Q and the signed source–receiver gap are continuous variables.** Stage 17 models directional exposure using separate continuous components, `max(−gap, 0)` for sources above receivers and `max(gap, 0)` for sources below them. Stages 19 and 20 group gaps into five intervals with cut points −1, −0.25, 0.25, and 1 institutional SD to compare direction-specific rates. These intervals are analytical groupings, not intrinsic status categories; stage 20 estimates interval contrasts rather than a fully continuous response curve.
+
 The origin is the first year of the source–activity's first documented sustained high-score pair. Both institutions are measured in that year and held fixed for that comparison. Negative gaps indicate sources above receivers; positive gaps indicate sources below them. Within an institution, the institutional gap is zero, so hierarchical direction is assessed only in the two external channels.
 
 The prepared institutional series covers **2002–2015**. Origins in 2000–2001 retain their curricular presence but have no measured direction; later years do not replace missing origin-year positions. Directional comparisons require complete institutional profiles for both endpoints at origin, a complete receiver profile at *t−1*, and comparable profiles for at least half of active sources in the relevant channel. The adjusted analysis imposes additional common-sample restrictions.
@@ -93,7 +101,7 @@ The earlier boundary analysis also finds associations with future-source changes
 
 ### Adjusted first-incorporation design
 
-Stage 20 compares the same receiver-opportunity population across direction intervals within each channel and activity block. Weighted linear models include fixed effects for **program × activity**, **discipline × activity × year**, and **institution × year**. Two specifications use identical samples:
+Stage 20 compares the same receiver-opportunity population across the five direction intervals within each channel and activity block. Weighted linear models use direction-interval indicators, with the central interval as the reference, and include fixed effects for **program × activity**, **discipline × activity × year**, and **institution × year**. Two specifications use identical samples:
 
 - `strict_history`: prior score and change, their squares, syllabus coverage through *t*, and source-pool sizes.
 - `institutional_adjusted`: adds internal and external cross-field exposure, source-profile availability and age, instructional and research resource differences, and institutional-type and control matches.
