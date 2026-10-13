@@ -1,0 +1,13 @@
+model,reason,quantile,block
+selectivity_base,Absorbed channels: matched_same;matched_other,0.75,0
+selectivity_direction,Absorbed channels: matched_same;matched_other,0.75,0
+selectivity_adjusted,Absorbed channels: matched_same;matched_other,0.75,0
+selectivity_base,Absorbed channels: matched_same;matched_other,0.75,1
+selectivity_direction,Absorbed channels: matched_same;matched_other,0.75,1
+selectivity_adjusted,Absorbed channels: matched_same;matched_other,0.75,1
+selectivity_base,Absorbed channels: matched_same;matched_other,0.9,0
+selectivity_direction,Absorbed channels: matched_same;matched_other,0.9,0
+selectivity_adjusted,Absorbed channels: matched_same;matched_other,0.9,0
+selectivity_base,Absorbed channels: matched_same;matched_other,0.9,1
+selectivity_direction,Absorbed channels: matched_same;matched_other,0.9,1
+selectivity_adjusted,Absorbed channels: matched_same;matched_other,0.9,1

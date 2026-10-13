@@ -1,0 +1,5 @@
+skill_id,skill,baseline_mean,baseline_sd,presence_cutoff_z
+1,Study details of musical compositions.,0.30068745015262,0.04647536710279497,0.9543693705372057
+20,Collect evidence for legal proceedings.,0.23343842373921767,0.05547092248781483,1.264946373952875
+58,"Collect information from people through observation, interviews, or surveys.",0.32593434558626433,0.06287337732591344,1.2914686289688033
+124,Monitor equipment fluid levels.,0.14930169070769736,0.04707832245708956,1.2094352840248301

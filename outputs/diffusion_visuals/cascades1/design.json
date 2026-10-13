@@ -1,0 +1,22 @@
+{
+  "parent": "incorporation_ipeds_origin1",
+  "activities": 2070,
+  "quantiles": [
+    0.75,
+    0.9
+  ],
+  "origin": "first documented sustained presence in emitter",
+  "code_sha256": "cd6c25f960fd8511190183bc98c38f7d7996d8f3240e1162f6215f57046b37eb",
+  "parent_design_sha256": "1c7c293076c188fe9365a431c72a2375c9fce12d62eed63744b969c1a9868162",
+  "examples": 6,
+  "bins": [
+    -1,
+    -0.25,
+    0.25,
+    1
+  ],
+  "first_entries_only": true,
+  "causal_transmissions": false,
+  "rate": "Each receiver outcome split equally among origin-comparable active sources within each external channel",
+  "standardization": "common field\u00d7year strata with \u226510 weighted opportunities in each of five bins; university-clustered uncertainty"
+}

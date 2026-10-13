@@ -1,0 +1,47 @@
+{
+  "baseline": [
+    2004,
+    2006
+  ],
+  "minimum_observed_years": 2,
+  "minimum_test_reporting_percent": 20,
+  "source": "https://nces.ed.gov/ipeds/datacenter/data/",
+  "scale_population": "HD2006 four-year institutions; independent of curriculum matching",
+  "hashes": {
+    "data/raw/ipeds_selectivity/HD2006.zip": "2fe089ae93b3df0085e31ee76471db2cedbc8d2d1d08a6497f460d5cec68cab6",
+    "data/raw/ipeds_selectivity/IC2004.zip": "3bbd8a41fae3e8963d954bf5c03835ab7a5d57aa7f6cb506476b7b19c00f0255",
+    "data/raw/ipeds_selectivity/IC2005.zip": "120b4def5c2225ac1de79eb0123b09014f916aefb885e9b6df0f4b4ab03c593a",
+    "data/raw/ipeds_selectivity/IC2006.zip": "4e3bf8fef75d84051d8b1c0427f1f41520d6190fb96f46c9fd909d75c8768625",
+    "data/raw/ipeds_finance/F0304_F1A.zip": "51f4c9387f03dda1f83e1c4b8b60b577719c947a179e219c6783570e2a72cb21",
+    "data/raw/ipeds_finance/F0304_F2.zip": "ca9bb3dac4878faea8e71ef4241eed73f713487a9e2046fd8c7dbe7bfbd019c3",
+    "data/raw/ipeds_finance/F0405_F1A.zip": "80dc563f5940d307c9d62e750ded1bff94faa15002833a26d46dae3ab2f43564",
+    "data/raw/ipeds_finance/F0405_F2.zip": "0691272c0d362e4a630baf935e62720a0cd845e3219a516efb610147bfed864c",
+    "data/raw/ipeds_finance/F0506_F1A.zip": "5faab5ffbf24ddc5dc14c8687625fc7d0a2932eec2164036d782cfcac2de1612",
+    "data/raw/ipeds_finance/F0506_F2.zip": "6b9da8429d0bbb5e8b8218bf3fa0bc6733a62d834dced33d67bbac1cca0c9437"
+  },
+  "scales": {
+    "selectivity": {
+      "n": 1417,
+      "mean": 1072.602254220028,
+      "sd": 120.84766992143113
+    },
+    "sat_selectivity": {
+      "n": 1043,
+      "mean": 1083.4244167465642,
+      "sd": 131.64489779172112
+    },
+    "act_selectivity": {
+      "n": 951,
+      "mean": 22.50087627059236,
+      "sd": 2.966128221948945
+    },
+    "rejection_selectivity": {
+      "n": 1859,
+      "mean": 0.315859164306337,
+      "sd": 0.18172219312051982
+    }
+  },
+  "proxy": "selectivity, not direct prestige",
+  "resources": "log1p nominal total spending averaged 2004-2006; not per-student; no F3 research/public-service conflation",
+  "bridge": "OLS institutional ACT midpoint to SAT reading+math IQR midpoint; prefer dominant test; ecological calibration"
+}

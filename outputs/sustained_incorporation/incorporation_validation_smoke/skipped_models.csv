@@ -1,0 +1,5 @@
+model,reason,quantile,block
+status_same_field,"Insufficient repeated receivers, institutions or entries",0.75,0
+status_same_field,"Insufficient repeated receivers, institutions or entries",0.75,1
+status_same_field,"Insufficient repeated receivers, institutions or entries",0.9,0
+status_same_field,"Insufficient repeated receivers, institutions or entries",0.9,1

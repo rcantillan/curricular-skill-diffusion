@@ -1,0 +1,7 @@
+model,rows,entries,programs,institutions,unfiltered_rows,unfiltered_entries
+channels,99915,868,1293,185,123118,1721
+strict_channels,99915,868,1293,185,123118,1721
+foreign_content,99915,868,1293,185,123118,1721
+selectivity_base,85236,697,1176,165,123118,1721
+selectivity_direction,85236,697,1176,165,123118,1721
+selectivity_adjusted,85236,697,1176,165,123118,1721

@@ -1,0 +1,13 @@
+model,reason,quantile,block
+channels,Absorbed channels: same_field,0.75,0
+foreign_content,Absorbed channels: same_field,0.75,0
+status_same_field,"Insufficient repeated receivers, institutions or entries",0.75,0
+channels,Absorbed channels: same_field,0.75,1
+foreign_content,Absorbed channels: same_field,0.75,1
+status_same_field,"Insufficient repeated receivers, institutions or entries",0.75,1
+channels,Absorbed channels: same_field,0.9,0
+foreign_content,Absorbed channels: same_field,0.9,0
+status_same_field,"Insufficient repeated receivers, institutions or entries",0.9,0
+channels,Absorbed channels: same_field,0.9,1
+foreign_content,Absorbed channels: same_field,0.9,1
+status_same_field,"Insufficient repeated receivers, institutions or entries",0.9,1

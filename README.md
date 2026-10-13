@@ -158,7 +158,7 @@ circulation or turn the primary question into a labor-market returns study.
 
 ## Completed evidence
 
-### First agenda audit: code ready, exhaustive results pending
+### First agenda audit: exhaustive reconciliation completed
 
 The first new analysis separates receiver selection from additional historical
 controls while preserving the original broad channel definitions, all 2,070
@@ -173,7 +173,42 @@ python3 src/16_signal_reconciliation/run_reconciliation.py --tag reconcile1
 
 This is the first diagnostic stage of the agenda. It does not yet implement
 disciplinary distinctiveness, new forecasts, status interactions or occupational
-profiles. Exhaustive results must be reviewed before updating scientific claims.
+profiles. The completed `reconcile1` run reproduces the old coefficients across
+all 65 blocks (maximum absolute difference below 1.3e-14), without skipped models.
+The pooled internal association is 0.0554 (95% CI 0.0317–0.0791; 353 institutions).
+With three consecutive covered profiles and all new controls it is 0.0644
+(0.0377–0.0911; 301 institutions). On the 52 boundary-pilot receiver institutions,
+retaining the broad exposure and all new controls gives 0.1742 (0.0933–0.2551).
+Same-field external exposure has no clear association in these specifications.
+Receiver selection and these controls do not eliminate the broad internal signal;
+the narrower boundary exposure tests a different relationship. The algebraic
+audit still prevents interpreting institutional co-change as identified transmission.
+Around 70% of evaluable increases above 0.1 baseline SD remain above that
+increment the following year; this is descriptive durability, not validated adoption.
+
+### Sustained incorporation: next executable relational pilot
+
+```bash
+python3 src/18_institutional_selectivity/prepare_annual_profile.py
+python3 src/17_sustained_incorporation/run_incorporation.py --tag incorporation_ipeds_origin1 --origin-rule first_sustained
+```
+
+This pilot counts each receiver×activity×year outcome once, includes non-entries,
+and measures exposure to sources with prior sustained presence in three channels.
+It covers all 2,070 activities, entry years 2008–2016 with follow-up through 2017,
+two exploratory baseline presence thresholds, foreign-field characteristic content
+and origin-dated institutional selectivity from public historical IPEDS data.
+Selectivity, resources and Carnegie categories remain separate. Both sender and
+receiver positions use the same origin year; no later-year replacement is allowed.
+`first_sustained` anchors to the first documented high-year pair in the sender;
+`lag` instead anchors to the observed prior-year source state. Specify the rule
+explicitly and use a different tag. Historical origins in 2000–2001 have no
+selectivity in the prepared 2002–2015 series and are reported as missing.
+See [institutional measurement and matching](src/18_institutional_selectivity/README.md).
+It does not attribute individual
+transmissions or construct diffusion communities. The strict model absorbs
+same-field exposure; the three-channel comparison uses weaker field controls.
+See [definitions, selection and limitations](src/17_sustained_incorporation/README.md).
 
 ### Latest completed boundary pilot
 
@@ -216,6 +251,10 @@ continue to refer to the same files.
 | Latest boundary pilot | `src/14_boundary_channels/` | Three channels, random candidates, temporal diagnostics and prediction |
 | Local cache preparation | `src/15_repository_data/` | Reconstruct the audited float64 cache |
 | First agenda audit | `src/16_signal_reconciliation/` | Reproduce old channels; separate historical controls from sample selection; audit retention and identification |
+| Sustained incorporation | `src/17_sustained_incorporation/` | Unique receiver events; prior source presence, channel contrasts, characteristic foreign-field content and limited status exposures |
+| Institutional selectivity | `src/18_institutional_selectivity/` | Public annual IPEDS profiles; origin-dated selectivity, separate resources and historical Carnegie categories |
+| Appearance visualization | `src/19_diffusion_visuals/` | First sustained entries; origin-frozen focal sequences and opportunity-weighted direction rates; no identified transmissions |
+| Adjusted direction rates | `src/20_adjusted_direction/` | Model-standardized first-entry rates over a common receiver population; strict fixed effects, history and institutional controls; full results pending |
 | Analysis outputs | `outputs/` | Completed runs, summary tables, diagnostics and software-validation runs |
 | Earlier paper | `paper/manuscript/` | Historical resources/status manuscript; needs revision for the current question |
 | Historical pipeline | `src/01_cleaning/` through `src/07_figures/` | Preserved earlier RCA/resources analyses |

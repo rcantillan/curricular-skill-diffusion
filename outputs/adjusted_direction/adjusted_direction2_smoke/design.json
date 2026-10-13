@@ -1,0 +1,26 @@
+{
+  "parent": "incorporation_ipeds_origin1",
+  "smoke": true,
+  "activities": 64,
+  "quantiles": [
+    0.75,
+    0.9
+  ],
+  "first_entries_only": true,
+  "source_origin": "first_sustained",
+  "bins": [
+    -1,
+    -0.25,
+    0.25,
+    1
+  ],
+  "common_support": "field\u00d7year: >=10 weighted opportunities in every bin",
+  "causal": false,
+  "hashes": {
+    "src/20_adjusted_direction/run_adjusted_direction.py": "846b186a10625863c052807127d35ef4b839280f57afb5c8f8d6ba0cc7df1489",
+    "src/20_adjusted_direction/fit_adjusted_rates.R": "885602f40d0bf5370faad9fb00ef355daaf891aebe0aac5eec6d6db11eb222aa",
+    "src/19_diffusion_visuals/build_visuals.py": "cd6c25f960fd8511190183bc98c38f7d7996d8f3240e1162f6215f57046b37eb",
+    "outputs/sustained_incorporation/incorporation_ipeds_origin1/design.json": "1c7c293076c188fe9365a431c72a2375c9fce12d62eed63744b969c1a9868162",
+    "outputs/sustained_incorporation/incorporation_ipeds_origin1/complete.json": "949730affb9808c117a90607fe62d66e13071cbe21aa211cf8109963778d3653"
+  }
+}

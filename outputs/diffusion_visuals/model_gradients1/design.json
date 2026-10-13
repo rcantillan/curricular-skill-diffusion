@@ -1,0 +1,20 @@
+{
+  "parent": "incorporation_ipeds_origin1",
+  "selectivity_not_prestige": true,
+  "exposure": 0.1,
+  "illustrative_gap_range": [
+    -1.0,
+    1.0
+  ],
+  "interpretation": "Exposure-model contrast against all comparable holders at gap zero; no dyadic hazard or causal flow",
+  "formula": "100*exposure*(beta_above*max(-gap,0)+beta_below*max(gap,0))",
+  "families_not_estimated": true,
+  "exact_activity_matches": 2067,
+  "hashes": {
+    "src/19_diffusion_visuals/plot_model_gradients.py": "c121f32b1bdb9939d00644e98f9505b98a98fe3418be2566f9ac3630187cc796",
+    "outputs/sustained_incorporation/incorporation_ipeds_origin1/incorporation_summary.csv": "178a4a2ad78616ff20eb63570c9e4054eca0a69aef88e795cccfafbe65c318fe",
+    "outputs/sustained_incorporation/incorporation_ipeds_origin1/design.json": "1c7c293076c188fe9365a431c72a2375c9fce12d62eed63744b969c1a9868162",
+    "data/raw/onet_reference/dwa_reference.txt": "e38a5b529a06d6803dd80d119f2bff4e1ce9507724ffd648d1f7b20983ab9d18",
+    "data/raw/onet_reference/content_model_reference.txt": "a543959cbd6e472d6acc328734ee417a4b181eadb97a2c71ad0349104f6a69f9"
+  }
+}

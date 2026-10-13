@@ -1,0 +1,5 @@
+skill_id,skill,baseline_mean,baseline_sd,presence_cutoff_z
+84,Collect information about community health needs.,0.29496563885534177,0.06629322609183064,0.6317617366613464
+223,Test patient nervous system functioning.,0.17384709338022536,0.054759036519984566,0.5066608341373801
+254,Inspect condition or functioning of facilities or equipment.,0.2612555481680496,0.056555471145732304,0.7069227967163233
+279,Inspect equipment to locate or identify electrical problems.,0.20784306729761093,0.04197377185366711,0.650733636653213

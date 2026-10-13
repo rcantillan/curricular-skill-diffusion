@@ -1,0 +1,4 @@
+model,reason
+selectivity_base,Absorbed channels: matched_same;matched_other
+selectivity_direction,Absorbed channels: matched_same;matched_other
+selectivity_adjusted,Absorbed channels: matched_same;matched_other
